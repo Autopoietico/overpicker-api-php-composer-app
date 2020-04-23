@@ -1,0 +1,33 @@
+[
+  {
+    "name":"Hybrid",
+    "internal_type":[
+      "Assault",
+      "Escort",
+      "Escort"
+    ]
+  },
+  {
+    "name":"Control",
+    "internal_type":[
+      "Control",
+      "Control",
+      "Control"
+    ]
+  },
+  {
+    "name":"Escort",
+    "internal_type":[
+      "Escort",
+      "Escort",
+      "Escort"
+    ]
+  },
+  {
+    "name":"Assault",
+    "internal_type":[
+      "Assault",
+      "Assault"
+    ]
+  }
+]
