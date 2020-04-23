@@ -1,0 +1,9 @@
+RewriteEngine ON
+
+RewriteCond %{HTTP_HOST} api.overpicker\.win [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://api.overpicker.win/$1 [R,L]
+
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
