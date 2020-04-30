@@ -1,0 +1,4 @@
+# The Vendor Folder needs to be created using the composer.phar file with the composer.json and composer.lock config
+vendor/
+#Is important to rewrite all the composer dependecies to avoid errors
+composer.lock

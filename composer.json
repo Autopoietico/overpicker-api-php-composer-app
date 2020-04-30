@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "laminas/laminas-diactoros": "^2.2",
+        "aura/router": "^3.1"
+    }
+}
