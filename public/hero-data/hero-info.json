@@ -2,7 +2,7 @@
   {
     "name":"Ana",
     "general_rol":"Support",
-    "secondory_rol":"MainSupport",
+    "secondary_rol":"MainSupport",
     "shields":0,
     "health":200,
     "armor":0,
@@ -19,7 +19,7 @@
   {
     "name":"Ashe",
     "general_rol":"Damage",
-    "secondory_rol":"HitscanDamage",
+    "secondary_rol":"HitscanDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -36,7 +36,7 @@
   {
     "name":"Baptiste",
     "general_rol":"Support",
-    "secondory_rol":"FlexSupport",
+    "secondary_rol":"FlexSupport",
     "shields":0,
     "health":200,
     "armor":0,
@@ -52,7 +52,7 @@
   {
     "name":"Bastion",
     "general_rol":"Damage",
-    "secondory_rol":"HitscanDamage",
+    "secondary_rol":"HitscanDamage",
     "shields":0,
     "health":200,
     "armor":100,
@@ -66,7 +66,7 @@
   {
     "name":"Brigitte",
     "general_rol":"Support",
-    "secondory_rol":"OffSupport",
+    "secondary_rol":"OffSupport",
     "shields":500,
     "health":200,
     "armor":50,
@@ -81,7 +81,7 @@
   {
     "name":"D.Va",
     "general_rol":"Tank",
-    "secondory_rol":"OffTank",
+    "secondary_rol":"OffTank",
     "shields":0,
     "health":400,
     "armor":200,
@@ -97,7 +97,7 @@
   {
     "name":"Doomfist",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":250,
     "armor":0,
@@ -114,7 +114,7 @@
   {
     "name":"Echo",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -128,7 +128,7 @@
   {
     "name":"Genji",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -143,7 +143,7 @@
   {
     "name":"Hanzo",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -157,7 +157,7 @@
   {
     "name":"Junkrat",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -171,7 +171,7 @@
   {
     "name":"Lucio",
     "general_rol":"Support",
-    "secondory_rol":"OffSupport",
+    "secondary_rol":"OffSupport",
     "shields":0,
     "health":200,
     "armor":0,
@@ -187,7 +187,7 @@
   {
     "name":"Mccree",
     "general_rol":"Damage",
-    "secondory_rol":"HitscanDamage",
+    "secondary_rol":"HitscanDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -203,7 +203,7 @@
   {
     "name":"Mei",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":0,
     "health":250,
     "armor":0,
@@ -221,7 +221,7 @@
   {
     "name":"Mercy",
     "general_rol":"Support",
-    "secondory_rol":"FlexSupport",
+    "secondary_rol":"FlexSupport",
     "shields":0,
     "health":200,
     "armor":0,
@@ -238,7 +238,7 @@
   {
     "name":"Moira",
     "general_rol":"Support",
-    "secondory_rol":"MainSupport",
+    "secondary_rol":"MainSupport",
     "shields":0,
     "health":200,
     "armor":0,
@@ -252,7 +252,7 @@
   {
     "name":"Orisa",
     "general_rol":"Tank",
-    "secondory_rol":"MainTank",
+    "secondary_rol":"MainTank",
     "shields":900,
     "health":200,
     "armor":200,
@@ -266,7 +266,7 @@
   {
     "name":"Pharah",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -280,7 +280,7 @@
   {
     "name":"Reaper",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":250,
     "armor":0,
@@ -295,7 +295,7 @@
   {
     "name":"Reinhardt",
     "general_rol":"Tank",
-    "secondory_rol":"MainTank",
+    "secondary_rol":"MainTank",
     "shields":2000,
     "health":300,
     "armor":200,
@@ -312,7 +312,7 @@
   {
     "name":"Roadhog",
     "general_rol":"Tank",
-    "secondory_rol":"OffTank",
+    "secondary_rol":"OffTank",
     "shields":0,
     "health":600,
     "armor":0,
@@ -328,7 +328,7 @@
   {
     "name":"Sigma",
     "general_rol":"Tank",
-    "secondory_rol":"FlexTank",
+    "secondary_rol":"FlexTank",
     "shields":1600,
     "health":300,
     "armor":0,
@@ -346,7 +346,7 @@
   {
     "name":"Soldier: 76",
     "general_rol":"Damage",
-    "secondory_rol":"HitscanDamage",
+    "secondary_rol":"HitscanDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -363,7 +363,7 @@
   {
     "name":"Sombra",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -379,7 +379,7 @@
   {
     "name":"Symmetra",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":100,
     "health":100,
     "armor":0,
@@ -396,7 +396,7 @@
   {
     "name":"Torbjörn",
     "general_rol":"Damage",
-    "secondory_rol":"ProjectileDamage",
+    "secondary_rol":"ProjectileDamage",
     "shields":0,
     "health":200,
     "armor":50,
@@ -413,7 +413,7 @@
   {
     "name":"Tracer",
     "general_rol":"Damage",
-    "secondory_rol":"FlankDamage",
+    "secondary_rol":"FlankDamage",
     "shields":0,
     "health":150,
     "armor":0,
@@ -430,7 +430,7 @@
   {
     "name":"Widowmaker",
     "general_rol":"Damage",
-    "secondory_rol":"HitscanDamage",
+    "secondary_rol":"HitscanDamage",
     "shields":0,
     "health":200,
     "armor":0,
@@ -446,7 +446,7 @@
   {
     "name":"Winston",
     "general_rol":"Tank",
-    "secondory_rol":"MainTank",
+    "secondary_rol":"MainTank",
     "shields":600,
     "health":400,
     "armor":100,
@@ -464,7 +464,7 @@
   {
     "name":"Wrecking Ball",
     "general_rol":"Tank",
-    "secondory_rol":"FlexTank",
+    "secondary_rol":"FlexTank",
     "shields":0,
     "health":500,
     "armor":100,
@@ -482,7 +482,7 @@
   {
     "name":"Zarya",
     "general_rol":"Tank",
-    "secondory_rol":"OffTank",
+    "secondary_rol":"OffTank",
     "shields":600,
     "health":200,
     "armor":0,
@@ -498,7 +498,7 @@
   {
     "name":"Zenyatta",
     "general_rol":"Support",
-    "secondory_rol":"OffSupport",
+    "secondary_rol":"OffSupport",
     "shields":150,
     "health":50,
     "armor":0,

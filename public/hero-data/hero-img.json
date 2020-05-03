@@ -1,34 +1,130 @@
-{
-    "Ana":"images/heroes/support/ana-white.png",
-    "Ashe":"images/heroes/damage/ashe-white.png",
-    "Baptiste":"images/heroes/support/baptiste-white.png",
-    "Bastion":"images/heroes/damage/bastion-white.png",
-    "Brigitte":"images/heroes/support/brigitte-white.png",
-    "D.Va":"images/heroes/tank/dva-white.png",
-    "Doomfist":"images/heroes/damage/doomfist-white.png",
-    "Echo":"images/heroes/damage/echo-white.png",
-    "Genji":"images/heroes/damage/genji-white.png",
-    "Hanzo":"images/heroes/damage/hanzo-white.png",
-    "Junkrat":"images/heroes/damage/junkrat-white.png",
-    "Lucio":"images/heroes/support/lucio-white.png",
-    "Mccree":"images/heroes/damage/mccree-white.png",
-    "Mei":"images/heroes/damage/mei-white.png",
-    "Mercy":"images/heroes/support/mercy-white.png",
-    "Moira":"images/heroes/support/moira-white.png",
-    "Orisa":"images/heroes/tank/orisa-white.png",
-    "Pharah":"images/heroes/damage/pharah-white.png",
-    "Reaper":"images/heroes/damage/reaper-white.png",
-    "Reinhardt":"images/heroes/tank/reinhardt-white.png",
-    "Roadhog":"images/heroes/tank/roadhog-white.png",
-    "Sigma":"images/heroes/tank/sigma-white.png",
-    "Soldier: 76":"images/heroes/damage/soldier-76-white.png",
-    "Sombra":"images/heroes/damage/sombra-white.png",
-    "Symmetra":"images/heroes/damage/symmetra-white.png",
-    "Torbjörn":"images/heroes/damage/torbjorn-white.png",
-    "Tracer":"images/heroes/damage/tracer-white.png",
-    "Widowmaker":"images/heroes/damage/widowmaker-white.png",
-    "Winston":"images/heroes/tank/winston-white.png",
-    "Wrecking Ball":"images/heroes/tank/wrecking-ball-white.png",
-    "Zarya":"images/heroes/tank/zarya-white.png",
-    "Zenyatta":"images/heroes/support/zenyatta-white.png"
+[
+  {
+    "name": "Ana",
+    "white-img": "images/heroes/support/ana-white.png"
+  },
+  {
+    "name": "Ashe",
+    "white-img": "images/heroes/support/ashe-white.png"
+  },
+  {
+    "name": "Baptiste",
+    "white-img": "images/heroes/support/baptiste-white.png"
+  },
+  {
+    "name": "Bastion",
+    "white-img": "images/heroes/support/bastion-white.png"
+  },
+  {
+    "name": "Brigitte",
+    "white-img": "images/heroes/support/brigitte-white.png"
+  },
+  {
+    "name": "D.Va",
+    "white-img": "images/heroes/support/dva-white.png"
+  },
+  {
+    "name": "Doomfist",
+    "white-img": "images/heroes/support/doomfist-white.png"
+  },
+  {
+    "name": "Echo",
+    "white-img": "images/heroes/support/echo-white.png"
+  },
+  {
+    "name": "Genji",
+    "white-img": "images/heroes/support/genji-white.png"
+  },
+  {
+    "name": "Hanzo",
+    "white-img": "images/heroes/support/hanzo-white.png"
+  },
+  {
+    "name": "Junkrat",
+    "white-img": "images/heroes/support/junkrat-white.png"
+  },
+  {
+    "name": "Lucio",
+    "white-img": "images/heroes/support/lucio-white.png"
+  },
+  {
+    "name": "Mccree",
+    "white-img": "images/heroes/support/mccree-white.png"
+  },
+  {
+    "name": "Mei",
+    "white-img": "images/heroes/support/mei-white.png"
+  },
+  {
+    "name": "Mercy",
+    "white-img": "images/heroes/support/mercy-white.png"
+  },
+  {
+    "name": "Moira",
+    "white-img": "images/heroes/support/moira-white.png"
+  },
+  {
+    "name": "Orisa",
+    "white-img": "images/heroes/support/orisa-white.png"
+  },
+  {
+    "name": "Phara",
+    "white-img": "images/heroes/support/pharah-white.png"
+  },
+  {
+    "name": "Reaper",
+    "white-img": "images/heroes/support/reaper-white.png"
+  },
+  {
+    "name": "Reinhardt",
+    "white-img": "images/heroes/support/reinhardt-white.png"
+  },
+  {
+    "name": "Roadhog",
+    "white-img": "images/heroes/support/roadhog-white.png"
+  },
+  {
+    "name": "Sigma",
+    "white-img": "images/heroes/support/sigma-white.png"
+  },
+  {
+    "name": "Soldier: 76",
+    "white-img": "images/heroes/support/soldier-76-white.png"
+  },
+  {
+    "name": "Sombra",
+    "white-img": "images/heroes/support/sombra-white.png"
+  },
+  {
+    "name": "Symmetra",
+    "white-img": "images/heroes/support/symmetra-white.png"
+  },
+  {
+    "name": "Torbjörn",
+    "white-img": "images/heroes/support/torbjorn-white.png"
+  },
+  {
+    "name": "Tracer",
+    "white-img": "images/heroes/support/tracer-white.png"
+  },
+  {
+    "name": "Widowmaker",
+    "white-img": "images/heroes/support/widowmaker-white.png"
+  },
+  {
+    "name": "Winston",
+    "white-img": "images/heroes/support/winston-white.png"
+  },
+  {
+    "name": "Wrecking Ball",
+    "white-img": "images/heroes/support/wrecking-ball-white.png"
+  },
+  {
+    "name": "Zarya",
+    "white-img": "images/heroes/support/zarya-white.png"
+  },
+  {
+    "name": "Zenyatta",
+    "white-img": "images/heroes/support/zenyatta-white.png"
   }
+]
