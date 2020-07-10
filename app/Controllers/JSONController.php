@@ -38,7 +38,7 @@ class JSONController{
 
     public function heroTiersAction(){
 
-        return '../public/hero-data/hero-synergies.json';
+        return '../public/hero-data/hero-tiers.json';
     }
 
     public function mapTypeAction(){
