@@ -1,5 +1,7 @@
-{
-    "All Ranks":{
+[
+  {
+    "name":"All Ranks",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -32,8 +34,11 @@
       "Wrecking Ball":65,
       "Zarya":85,
       "Zenyatta":65
-    },
-    "Bronze":{
+    }
+  },
+  {
+    "name":"Bronze",
+    "hero-tiers":{
       "Ana":85,
       "Ashe":85,
       "Baptiste":55,
@@ -66,8 +71,11 @@
       "Wrecking Ball":55,
       "Zarya":85,
       "Zenyatta":55
-    },
-    "Silver":{
+    }
+  },
+  {
+    "name":"Silver",
+    "hero-tiers":{
       "Ana":85,
       "Ashe":85,
       "Baptiste":55,
@@ -100,8 +108,11 @@
       "Wrecking Ball":55,
       "Zarya":85,
       "Zenyatta":65
-    },
-    "Gold":{
+    }
+  },
+  {
+    "name":"Gold",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -134,8 +145,11 @@
       "Wrecking Ball":65,
       "Zarya":85,
       "Zenyatta":65
-    },
-    "Platinum":{
+    }
+  },
+  {
+    "name":"Platinum",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -168,8 +182,11 @@
       "Wrecking Ball":65,
       "Zarya":85,
       "Zenyatta":65
-    },
-    "Diamond":{
+    }
+  },
+  {
+    "name":"Diamond",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -202,8 +219,11 @@
       "Wrecking Ball":65,
       "Zarya":95,
       "Zenyatta":65
-    },
-    "Master":{
+    }
+  },
+  {
+    "name":"Master",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -236,8 +256,11 @@
       "Wrecking Ball":65,
       "Zarya":95,
       "Zenyatta":65
-    },
-    "Grand Master":{
+    }
+  },
+  {
+    "name":"Grand Master",
+    "hero-tiers":{
       "Ana":95,
       "Ashe":95,
       "Baptiste":55,
@@ -270,8 +293,11 @@
       "Wrecking Ball":75,
       "Zarya":95,
       "Zenyatta":65
-    },
-    "Overwatch League":{
+    }
+  },
+  {
+    "name":"Overwatch League",
+    "hero-tiers":{
       "Ana":65,
       "Ashe":65,
       "Baptiste":85,
@@ -304,8 +330,11 @@
       "Wrecking Ball":65,
       "Zarya":65,
       "Zenyatta":75
-    },
-    "MetaBomb":{
+    }
+  },
+  {
+    "name":"MetaBomb",
+    "hero-tiers":{
       "Ana":85,
       "Ashe":65,
       "Baptiste":95,
@@ -340,3 +369,4 @@
       "Zenyatta":75
     }
   }
+]
