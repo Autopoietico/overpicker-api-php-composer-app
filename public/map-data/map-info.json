@@ -1,47 +1,12 @@
 [
   {
-    "name": "Hanamura",
-    "type": "Assault",
+    "name": "Blizzard World",
+    "type": "Hybrid",
     "onPool": true,
     "points": [
       "A",
-      "B"
-    ]
-  },
-  {
-    "name": "Horizon Lunar Colony",
-    "type": "Assault",
-    "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
-  },
-  {
-    "name": "Paris",
-    "type": "Assault",
-    "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
-  },
-  {
-    "name": "Temple of Anubis",
-    "type": "Assault",
-    "onPool": true,
-    "points": [
-      "A",
-      "B"
-    ]
-  },
-  {
-    "name": "Volskaya Industries",
-    "type": "Assault",
-    "onPool": true,
-    "points": [
-      "A",
-      "B"
+      "B",
+      "C"
     ]
   },
   {
@@ -55,6 +20,64 @@
     ]
   },
   {
+    "name": "Dorado",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Eichenwalde",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Hanamura",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "name": "Havana",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Hollywood",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Horizon Lunar Colony",
+    "type": "Assault",
+    "onPool": false,
+    "points": [
+      "A",
+      "B"
+    ]
+  },
+  {
     "name": "Ilios",
     "type": "Control",
     "onPool": true,
@@ -62,6 +85,26 @@
       "Lighthouse",
       "Well",
       "Ruins"
+    ]
+  },
+  {
+    "name": "Junkertown",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "King's Row",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
     ]
   },
   {
@@ -85,6 +128,16 @@
     ]
   },
   {
+    "name": "Numbani",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
     "name": "Oasis",
     "type": "Control",
     "onPool": true,
@@ -95,33 +148,12 @@
     ]
   },
   {
-    "name": "Dorado",
-    "type": "Escort",
-    "onPool": true,
+    "name": "Paris",
+    "type": "Assault",
+    "onPool": false,
     "points": [
       "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Havana",
-    "type": "Escort",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Junkertown",
-    "type": "Escort",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
+      "B"
     ]
   },
   {
@@ -145,58 +177,26 @@
     ]
   },
   {
+    "name": "Temple of Anubis",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "name": "Volskaya Industries",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
+      "A",
+      "B"
+    ]
+  },
+  {
     "name": "Watchpoint: Gibraltar",
     "type": "Escort",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Blizzard World",
-    "type": "Hybrid",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Eichenwalde",
-    "type": "Hybrid",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Hollywood",
-    "type": "Hybrid",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "King's Row",
-    "type": "Hybrid",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "name": "Numbani",
-    "type": "Hybrid",
     "onPool": true,
     "points": [
       "A",
