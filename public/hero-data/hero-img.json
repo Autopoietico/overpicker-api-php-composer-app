@@ -20,6 +20,10 @@
     "white-img": "images/heroes/support/brigitte-white.png"
   },
   {
+    "name": "Cassidy",
+    "white-img": "images/heroes/damage/cassidy-white.png"
+  },
+  {
     "name": "D.Va",
     "white-img": "images/heroes/tank/dva-white.png"
   },
@@ -46,11 +50,7 @@
   {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.png"
-  },
-  {
-    "name": "Cassidy",
-    "white-img": "images/heroes/damage/cassidy-white.png"
-  },
+  }, 
   {
     "name": "Mei",
     "white-img": "images/heroes/damage/mei-white.png"

@@ -124,6 +124,31 @@
     },
     "Control":0
   },
+  "Cassidy":{
+    "Attack":{
+      "Assault":{
+        "A":0,
+        "B":0
+      },
+      "Escort":{
+        "A":0,
+        "B":0,
+        "C":0
+      }
+    },
+    "Defense":{
+      "Assault":{
+        "A":10,
+        "B":10
+      },
+      "Escort":{
+        "A":0,
+        "B":0,
+        "C":0
+      }
+    },
+    "Control":0
+  },
   "D.Va":{
     "Attack":{
       "Assault":{
@@ -298,32 +323,7 @@
       }
     },
     "Control":10
-  },
-  "Cassidy":{
-    "Attack":{
-      "Assault":{
-        "A":0,
-        "B":0
-      },
-      "Escort":{
-        "A":0,
-        "B":0,
-        "C":0
-      }
-    },
-    "Defense":{
-      "Assault":{
-        "A":10,
-        "B":10
-      },
-      "Escort":{
-        "A":0,
-        "B":0,
-        "C":0
-      }
-    },
-    "Control":0
-  },
+  },  
   "Mei":{
     "Attack":{
       "Assault":{

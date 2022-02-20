@@ -79,6 +79,22 @@
     ]
   },
   {
+    "name":"Cassidy",
+    "general_rol":"Damage",
+    "secondary_rol":"HitscanDamage",
+    "shields":0,
+    "health":200,
+    "armor":0,
+    "on_rotation":true,
+    "nicks":[
+      "Cassidy",
+      "Mcree",
+      "Mccre",
+      "Cowboy",
+      "Jesse"
+    ]
+  },
+  {
     "name":"D.Va",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
@@ -183,23 +199,7 @@
       "DJ",
       "Brasil"
     ]
-  },
-  {
-    "name":"Cassidy",
-    "general_rol":"Damage",
-    "secondary_rol":"HitscanDamage",
-    "shields":0,
-    "health":200,
-    "armor":0,
-    "on_rotation":true,
-    "nicks":[
-      "Cassidy",
-      "Mcree",
-      "Mccre",
-      "Cowboy",
-      "Jesse"
-    ]
-  },
+  },  
   {
     "name":"Mei",
     "general_rol":"Damage",
