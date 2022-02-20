@@ -1,199 +1,204 @@
 [
   {
-    "name":"Hanamura",
-    "type":"Assault",
-    "onPool":true,
-    "points":[
+    "name": "Hanamura",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
       "A",
       "B"
     ]
   },
   {
-    "name":"Horizon Lunar Colony",
-    "type":"Assault",
-    "onPool":false,
-    "points":[
+    "name": "Horizon Lunar Colony",
+    "type": "Assault",
+    "onPool": false,
+    "points": [
       "A",
       "B"
     ]
   },
   {
-    "name":"Paris",
-    "type":"Assault",
-    "onPool":false,
-    "points":[
+    "name": "Paris",
+    "type": "Assault",
+    "onPool": false,
+    "points": [
       "A",
       "B"
     ]
   },
   {
-    "name":"Temple of Anubis",
-    "type":"Assault",
-    "onPool":true,
-    "points":[
+    "name": "Temple of Anubis",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
       "A",
       "B"
     ]
   },
   {
-    "name":"Volskaya Industries",
-    "type":"Assault",
-    "onPool":true,
-    "points":[
+    "name": "Volskaya Industries",
+    "type": "Assault",
+    "onPool": true,
+    "points": [
       "A",
       "B"
     ]
   },
   {
-    "name":"Busan",
-    "type":"Control",
-    "onPool":true,
-    "points":[
+    "name": "Busan",
+    "type": "Control",
+    "onPool": true,
+    "points": [
       "Downtown",
       "Sanctuary",
       "MEKA Base"
     ]
   },
   {
-    "name":"Ilios",
-    "type":"Control",
-    "onPool":true,
-    "points":[
+    "name": "Ilios",
+    "type": "Control",
+    "onPool": true,
+    "points": [
       "Lighthouse",
       "Well",
       "Ruins"
     ]
   },
   {
-    "name":"Lijiang Tower",
-    "type":"Control",
-    "onPool":true,
-    "points":[
+    "name": "Lijiang Tower",
+    "type": "Control",
+    "onPool": true,
+    "points": [
       "Night Market",
       "Garden",
       "Control Center"
     ]
   },
   {
-    "name":"Nepal",
-    "type":"Control",
-    "onPool":true,
-    "points":[
+    "name": "Nepal",
+    "type": "Control",
+    "onPool": true,
+    "points": [
       "Village",
       "Sanctum",
       "Shrine"
     ]
   },
   {
-    "name":"Oasis",
-    "type":"Control",
-    "onPool":true,
-    "points":[
+    "name": "Oasis",
+    "type": "Control",
+    "onPool": true,
+    "points": [
       "City Center",
       "Gardens",
       "University"
     ]
   },
   {
-    "name":"Dorado",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Dorado",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Havana",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Havana",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Junkertown",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Junkertown",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Rialto",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Rialto",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Route 66",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Route 66",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Watchpoint: Gibraltar",
-    "type":"Escort",
-    "onPool":true,
-    "points":[
+    "name": "Watchpoint: Gibraltar",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Blizzard World",
-    "type":"Hybrid",
-    "onPool":true,
-    "points":[
+    "name": "Blizzard World",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Eichenwalde",
-    "type":"Hybrid",
-    "onPool":true,
-    "points":[
+    "name": "Eichenwalde",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"Hollywood",
-    "type":"Hybrid",
-    "onPool":true,
-    "points":[
+    "name": "Hollywood",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"
     ]
   },
   {
-    "name":"King's Row",
-    "type":"Hybrid",
-    "onPool":true
+    "name": "King's Row",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
   },
   {
-    "name":"Numbani",
-    "type":"Hybrid",
-    "onPool":true,
-    "points":[
+    "name": "Numbani",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
       "A",
       "B",
       "C"

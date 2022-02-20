@@ -5,7 +5,7 @@
   },
   {
     "name": "Ashe",
-    "white-img": "images/heroes/support/ashe-white.png"
+    "white-img": "images/heroes/damage/ashe-white.png"
   },
   {
     "name": "Baptiste",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Bastion",
-    "white-img": "images/heroes/support/bastion-white.png"
+    "white-img": "images/heroes/damage/bastion-white.png"
   },
   {
     "name": "Brigitte",
@@ -21,39 +21,39 @@
   },
   {
     "name": "D.Va",
-    "white-img": "images/heroes/support/dva-white.png"
+    "white-img": "images/heroes/tank/dva-white.png"
   },
   {
     "name": "Doomfist",
-    "white-img": "images/heroes/support/doomfist-white.png"
+    "white-img": "images/heroes/damage/doomfist-white.png"
   },
   {
     "name": "Echo",
-    "white-img": "images/heroes/support/echo-white.png"
+    "white-img": "images/heroes/damage/echo-white.png"
   },
   {
     "name": "Genji",
-    "white-img": "images/heroes/support/genji-white.png"
+    "white-img": "images/heroes/damage/genji-white.png"
   },
   {
     "name": "Hanzo",
-    "white-img": "images/heroes/support/hanzo-white.png"
+    "white-img": "images/heroes/damage/hanzo-white.png"
   },
   {
     "name": "Junkrat",
-    "white-img": "images/heroes/support/junkrat-white.png"
+    "white-img": "images/heroes/damage/junkrat-white.png"
   },
   {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.png"
   },
   {
-    "name": "Mccree",
-    "white-img": "images/heroes/support/mccree-white.png"
+    "name": "Cassidy",
+    "white-img": "images/heroes/damage/cassidy-white.png"
   },
   {
     "name": "Mei",
-    "white-img": "images/heroes/support/mei-white.png"
+    "white-img": "images/heroes/damage/mei-white.png"
   },
   {
     "name": "Mercy",
@@ -65,63 +65,63 @@
   },
   {
     "name": "Orisa",
-    "white-img": "images/heroes/support/orisa-white.png"
+    "white-img": "images/heroes/tank/orisa-white.png"
   },
   {
-    "name": "Phara",
-    "white-img": "images/heroes/support/pharah-white.png"
+    "name": "Pharah",
+    "white-img": "images/heroes/damage/pharah-white.png"
   },
   {
     "name": "Reaper",
-    "white-img": "images/heroes/support/reaper-white.png"
+    "white-img": "images/heroes/damage/reaper-white.png"
   },
   {
     "name": "Reinhardt",
-    "white-img": "images/heroes/support/reinhardt-white.png"
+    "white-img": "images/heroes/tank/reinhardt-white.png"
   },
   {
     "name": "Roadhog",
-    "white-img": "images/heroes/support/roadhog-white.png"
+    "white-img": "images/heroes/tank/roadhog-white.png"
   },
   {
     "name": "Sigma",
-    "white-img": "images/heroes/support/sigma-white.png"
+    "white-img": "images/heroes/tank/sigma-white.png"
   },
   {
     "name": "Soldier: 76",
-    "white-img": "images/heroes/support/soldier-76-white.png"
+    "white-img": "images/heroes/damage/soldier-76-white.png"
   },
   {
     "name": "Sombra",
-    "white-img": "images/heroes/support/sombra-white.png"
+    "white-img": "images/heroes/damage/sombra-white.png"
   },
   {
     "name": "Symmetra",
-    "white-img": "images/heroes/support/symmetra-white.png"
+    "white-img": "images/heroes/damage/symmetra-white.png"
   },
   {
     "name": "Torbjörn",
-    "white-img": "images/heroes/support/torbjorn-white.png"
+    "white-img": "images/heroes/damage/torbjorn-white.png"
   },
   {
     "name": "Tracer",
-    "white-img": "images/heroes/support/tracer-white.png"
+    "white-img": "images/heroes/damage/tracer-white.png"
   },
   {
     "name": "Widowmaker",
-    "white-img": "images/heroes/support/widowmaker-white.png"
+    "white-img": "images/heroes/damage/widowmaker-white.png"
   },
   {
     "name": "Winston",
-    "white-img": "images/heroes/support/winston-white.png"
+    "white-img": "images/heroes/tank/winston-white.png"
   },
   {
     "name": "Wrecking Ball",
-    "white-img": "images/heroes/support/wrecking-ball-white.png"
+    "white-img": "images/heroes/tank/wrecking-ball-white.png"
   },
   {
     "name": "Zarya",
-    "white-img": "images/heroes/support/zarya-white.png"
+    "white-img": "images/heroes/tank/zarya-white.png"
   },
   {
     "name": "Zenyatta",

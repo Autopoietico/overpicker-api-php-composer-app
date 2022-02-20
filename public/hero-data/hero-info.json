@@ -185,7 +185,7 @@
     ]
   },
   {
-    "name":"Mccree",
+    "name":"Cassidy",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -193,7 +193,7 @@
     "armor":0,
     "on_rotation":true,
     "nicks":[
-      "Mccree",
+      "Cassidy",
       "Mcree",
       "Mccre",
       "Cowboy",
