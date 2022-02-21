@@ -6,6 +6,11 @@ use App\Models\Section;
 
 class JSONController{
 
+    public function versionAction(){
+
+        return '../public/version.json';
+    }
+
     public function heroADCAction(){
 
         return '../public/hero-data/hero-adc.json';

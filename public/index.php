@@ -20,6 +20,11 @@
         'controller' => 'App\Controllers\IndexController',
         'action' => 'IndexAction'
     ]);
+    $map->get('version','/version',[
+
+        'controller' => 'App\Controllers\JSONController',
+        'action' => 'versionAction'
+    ]);
     $map->get('hero-adc','/hero-adc',[
 
         'controller' => 'App\Controllers\JSONController',
