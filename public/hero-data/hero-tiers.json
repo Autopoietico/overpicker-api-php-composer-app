@@ -1,6 +1,7 @@
 [
    {
-      "All Ranks":{
+      "name":"All Ranks",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":35,
          "Baptiste":5,
@@ -33,8 +34,11 @@
          "Wrecking Ball":15,
          "Zarya":25,
          "Zenyatta":25
-      },
-      "Bronze":{
+      }
+   },
+   {
+      "name":"Bronze",
+      "hero-tiers":{
          "Ana":35,
          "Ashe":35,
          "Baptiste":5,
@@ -67,8 +71,11 @@
          "Wrecking Ball":5,
          "Zarya":35,
          "Zenyatta":25
-      },
-      "Silver":{
+      }
+   },
+   {
+      "name":"Silver",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":25,
          "Baptiste":5,
@@ -101,8 +108,11 @@
          "Wrecking Ball":15,
          "Zarya":35,
          "Zenyatta":5
-      },
-      "Gold":{
+      }
+   },
+   {
+      "name":"Gold",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":25,
          "Baptiste":5,
@@ -135,8 +145,11 @@
          "Wrecking Ball":15,
          "Zarya":25,
          "Zenyatta":15
-      },
-      "Platinum":{
+      }
+   },
+   {
+      "name":"Platinum",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":35,
          "Baptiste":5,
@@ -169,8 +182,11 @@
          "Wrecking Ball":5,
          "Zarya":35,
          "Zenyatta":25
-      },
-      "Diamond":{
+      }
+   },
+   {
+      "name":"Diamond",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":45,
          "Baptiste":15,
@@ -203,8 +219,11 @@
          "Wrecking Ball":25,
          "Zarya":35,
          "Zenyatta":25
-      },
-      "Master":{
+      }
+   },
+   {
+      "name":"Master",
+      "hero-tiers":{
          "Ana":45,
          "Ashe":25,
          "Baptiste":15,
@@ -237,8 +256,11 @@
          "Wrecking Ball":15,
          "Zarya":25,
          "Zenyatta":25
-      },
-      "Grand Master":{
+      }
+   },
+   {
+      "name":"Grand Master",
+      "hero-tiers":{
          "Ana":35,
          "Ashe":45,
          "Baptiste":45,
@@ -271,8 +293,11 @@
          "Wrecking Ball":25,
          "Zarya":5,
          "Zenyatta":25
-      },
-      "Top 500":{
+      }
+   },
+   {
+      "name":"Top 500",
+      "hero-tiers":{
          "Ana":25,
          "Ashe":45,
          "Baptiste":35,
@@ -305,8 +330,11 @@
          "Wrecking Ball":35,
          "Zarya":15,
          "Zenyatta":45
-      },
-      "Overwatch League":{
+      }
+   },
+   {
+      "name":"Overwatch League",
+      "hero-tiers":{
          "Ana":5,
          "Ashe":25,
          "Baptiste":45,
@@ -339,40 +367,6 @@
          "Wrecking Ball":45,
          "Zarya":5,
          "Zenyatta":35
-      },
-      "MetaBomb":{
-         "Ana":25,
-         "Ashe":5,
-         "Baptiste":45,
-         "Bastion":5,
-         "Brigitte":5,
-         "D.Va":35,
-         "Doomfist":45,
-         "Echo":25,
-         "Genji":15,
-         "Hanzo":5,
-         "Junkrat":15,
-         "Lucio":25,
-         "Cassidy":25,
-         "Mei":5,
-         "Mercy":5,
-         "Moira":35,
-         "Orisa":45,
-         "Pharah":25,
-         "Reaper":45,
-         "Reinhardt":35,
-         "Roadhog":25,
-         "Sigma":45,
-         "Soldier: 76":5,
-         "Sombra":25,
-         "Symmetra":5,
-         "Torbjörn":15,
-         "Tracer":15,
-         "Widowmaker":15,
-         "Winston":35,
-         "Wrecking Ball":25,
-         "Zarya":35,
-         "Zenyatta":15
       }
    }
 ]
