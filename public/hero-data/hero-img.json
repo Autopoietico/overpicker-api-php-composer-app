@@ -7,7 +7,7 @@
   {
     "name": "Ashe",
     "white-img": "images/heroes/damage/ashe-white.png",
-    "echo-img": "images/heroes/support/ashe-echo.png"
+    "echo-img": "images/heroes/damage/ashe-echo.png"
   },
   {
     "name": "Baptiste",
@@ -17,7 +17,7 @@
   {
     "name": "Bastion",
     "white-img": "images/heroes/damage/bastion-white.png",
-    "echo-img": "images/heroes/support/bastion-echo.png"
+    "echo-img": "images/heroes/damage/bastion-echo.png"
   },
   {
     "name": "Brigitte",
@@ -27,37 +27,37 @@
   {
     "name": "Cassidy",
     "white-img": "images/heroes/damage/cassidy-white.png",
-    "echo-img": "images/heroes/support/cassidy-echo.png"
+    "echo-img": "images/heroes/damage/cassidy-echo.png"
   },
   {
     "name": "D.Va",
     "white-img": "images/heroes/tank/dva-white.png",
-    "echo-img": "images/heroes/support/dva-echo.png"
+    "echo-img": "images/heroes/tank/dva-echo.png"
   },
   {
     "name": "Doomfist",
     "white-img": "images/heroes/damage/doomfist-white.png",
-    "echo-img": "images/heroes/support/doomfist-echo.png"
+    "echo-img": "images/heroes/damage/doomfist-echo.png"
   },
   {
     "name": "Echo",
     "white-img": "images/heroes/damage/echo-white.png",
-    "echo-img": "images/heroes/support/echo-echo.png"
+    "echo-img": "images/heroes/damage/echo-echo.png"
   },
   {
     "name": "Genji",
     "white-img": "images/heroes/damage/genji-white.png",
-    "echo-img": "images/heroes/support/genji-echo.png"
+    "echo-img": "images/heroes/damage/genji-echo.png"
   },
   {
     "name": "Hanzo",
     "white-img": "images/heroes/damage/hanzo-white.png",
-    "echo-img": "images/heroes/support/hanzo-echo.png"
+    "echo-img": "images/heroes/damage/hanzo-echo.png"
   },
   {
     "name": "Junkrat",
     "white-img": "images/heroes/damage/junkrat-white.png",
-    "echo-img": "images/heroes/support/junkrat-echo.png"
+    "echo-img": "images/heroes/damage/junkrat-echo.png"
   },
   {
     "name": "Lucio",
@@ -67,7 +67,7 @@
   {
     "name": "Mei",
     "white-img": "images/heroes/damage/mei-white.png",
-    "echo-img": "images/heroes/support/mei-echo.png"
+    "echo-img": "images/heroes/damage/mei-echo.png"
   },
   {
     "name": "Mercy",
@@ -82,77 +82,77 @@
   {
     "name": "Orisa",
     "white-img": "images/heroes/tank/orisa-white.png",
-    "echo-img": "images/heroes/support/orisa-echo.png"
+    "echo-img": "images/heroes/tank/orisa-echo.png"
   },
   {
     "name": "Pharah",
     "white-img": "images/heroes/damage/pharah-white.png",
-    "echo-img": "images/heroes/support/pharah-echo.png"
+    "echo-img": "images/heroes/damage/pharah-echo.png"
   },
   {
     "name": "Reaper",
     "white-img": "images/heroes/damage/reaper-white.png",
-    "echo-img": "images/heroes/support/reaper-echo.png"
+    "echo-img": "images/heroes/damage/reaper-echo.png"
   },
   {
     "name": "Reinhardt",
     "white-img": "images/heroes/tank/reinhardt-white.png",
-    "echo-img": "images/heroes/support/reinhardt-echo.png"
+    "echo-img": "images/heroes/tank/reinhardt-echo.png"
   },
   {
     "name": "Roadhog",
     "white-img": "images/heroes/tank/roadhog-white.png",
-    "echo-img": "images/heroes/support/roadhog-echo.png"
+    "echo-img": "images/heroes/tank/roadhog-echo.png"
   },
   {
     "name": "Sigma",
     "white-img": "images/heroes/tank/sigma-white.png",
-    "echo-img": "images/heroes/support/sigma-echo.png"
+    "echo-img": "images/heroes/tank/sigma-echo.png"
   },
   {
     "name": "Soldier: 76",
     "white-img": "images/heroes/damage/soldier-76-white.png",
-    "echo-img": "images/heroes/support/soldier-76-echo.png"
+    "echo-img": "images/heroes/damage/soldier-76-echo.png"
   },
   {
     "name": "Sombra",
     "white-img": "images/heroes/damage/sombra-white.png",
-    "echo-img": "images/heroes/support/sombra-echo.png"
+    "echo-img": "images/heroes/damage/sombra-echo.png"
   },
   {
     "name": "Symmetra",
     "white-img": "images/heroes/damage/symmetra-white.png",
-    "echo-img": "images/heroes/support/symmetra-echo.png"
+    "echo-img": "images/heroes/damage/symmetra-echo.png"
   },
   {
     "name": "Torbjörn",
     "white-img": "images/heroes/damage/torbjorn-white.png",
-    "echo-img": "images/heroes/support/torbjorn-echo.png"
+    "echo-img": "images/heroes/damage/torbjorn-echo.png"
   },
   {
     "name": "Tracer",
     "white-img": "images/heroes/damage/tracer-white.png",
-    "echo-img": "images/heroes/support/tracer-echo.png"
+    "echo-img": "images/heroes/damage/tracer-echo.png"
   },
   {
     "name": "Widowmaker",
     "white-img": "images/heroes/damage/widowmaker-white.png",
-    "echo-img": "images/heroes/support/widowmaker-echo.png"
+    "echo-img": "images/heroes/damage/widowmaker-echo.png"
   },
   {
     "name": "Winston",
     "white-img": "images/heroes/tank/winston-white.png",
-    "echo-img": "images/heroes/support/winston-echo.png"
+    "echo-img": "images/heroes/tank/winston-echo.png"
   },
   {
     "name": "Wrecking Ball",
     "white-img": "images/heroes/tank/wrecking-ball-white.png",
-    "echo-img": "images/heroes/support/wrecking-ball-echo.png"
+    "echo-img": "images/heroes/tank/wrecking-ball-echo.png"
   },
   {
     "name": "Zarya",
     "white-img": "images/heroes/tank/zarya-white.png",
-    "echo-img": "images/heroes/support/zarya-echo.png"
+    "echo-img": "images/heroes/tank/zarya-echo.png"
   },
   {
     "name": "Zenyatta",
