@@ -55,6 +55,11 @@
     "echo-img": "images/heroes/damage/hanzo-echo.png"
   },
   {
+    "name": "Junker Queen",
+    "white-img": "images/heroes/damage/junker-queen-white.png",
+    "echo-img": "images/heroes/damage/junker-queen-echo.png"
+  },
+  {
     "name": "Junkrat",
     "white-img": "images/heroes/damage/junkrat-white.png",
     "echo-img": "images/heroes/damage/junkrat-echo.png"
@@ -108,6 +113,11 @@
     "name": "Sigma",
     "white-img": "images/heroes/tank/sigma-white.png",
     "echo-img": "images/heroes/tank/sigma-echo.png"
+  },
+  {
+    "name": "Sojourn",
+    "white-img": "images/heroes/damage/sojourn-white.png",
+    "echo-img": "images/heroes/damage/sojourn-echo.png"
   },
   {
     "name": "Soldier: 76",

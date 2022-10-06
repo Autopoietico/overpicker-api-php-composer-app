@@ -67,7 +67,7 @@
     "name":"Brigitte",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
-    "shields":500,
+    "shields":250,
     "health":200,
     "armor":50,
     "on_rotation":true,
@@ -99,8 +99,8 @@
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
-    "health":400,
-    "armor":200,
+    "health":350,
+    "armor":350,
     "on_rotation":true,
     "nicks":[
       "D.Va",
@@ -112,10 +112,10 @@
   },
   {
     "name":"Doomfist",
-    "general_rol":"Damage",
-    "secondary_rol":"FlankDamage",
+    "general_rol":"Tank",
+    "secondary_rol":"MainTank",
     "shields":0,
-    "health":250,
+    "health":450,
     "armor":0,
     "on_rotation":true,
     "nicks":[
@@ -134,7 +134,7 @@
     "shields":0,
     "health":200,
     "armor":0,
-    "on_rotation":false,
+    "on_rotation":true,
     "nicks":[
       "Echo",
       "Moth",
@@ -168,6 +168,24 @@
       "Hanzo",
       "Archer",
       "Sasuke"
+    ]
+  },
+  {
+    "name":"Junker Queen",
+    "general_rol":"Tank",
+    "secondary_rol":"OffTank",
+    "shields":0,
+    "health":425,
+    "armor":0,
+    "on_rotation":true,
+    "nicks":[
+      "Queen",
+      "Junker",
+      "Wastelander",
+      "Junk",
+      "Odessa",
+      "Dez",
+      "Stone"
     ]
   },
   {
@@ -341,6 +359,23 @@
       "Melody",
       "Fly",
       "Rock"
+    ]
+  },
+  {
+    "name":"Sojourn",
+    "general_rol":"Damage",
+    "secondary_rol":"HitscanDamage",
+    "shields":0,
+    "health":200,
+    "armor":0,
+    "on_rotation":true,
+    "nicks":[
+      "Sojourn",
+      "Sojorn",
+      "Legs",
+      "Tights",
+      "Vivian",
+      "Chase"
     ]
   },
   {

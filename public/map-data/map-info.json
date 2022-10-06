@@ -188,6 +188,16 @@
     ]
   },
   {
+    "name": "Esperança",
+    "type": "Push",
+    "onPool": true,
+    "points": [
+      "Ally",
+      "Mid",
+      "Enemy"
+    ]
+  },
+  {
     "name": "Paris",
     "type": "Assault",
     "onPool": false,
