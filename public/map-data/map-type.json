@@ -1,10 +1,9 @@
 [
   {
-    "name": "Hybrid",
+    "name": "Assault",
     "internal_type": [
       "Assault",
-      "Escort",
-      "Escort"
+      "Assault"
     ]
   },
   {
@@ -24,10 +23,19 @@
     ]
   },
   {
-    "name": "Assault",
+    "name": "Hybrid",
     "internal_type": [
       "Assault",
-      "Assault"
+      "Escort",
+      "Escort"
+    ]
+  },
+  {
+    "name": "Push",
+    "internal_type": [
+      "Push",
+      "Push",
+      "Push"
     ]
   }
 ]

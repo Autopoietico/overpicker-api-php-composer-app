@@ -20,6 +20,26 @@
     ]
   },
   {
+    "name": "Circuit Royal",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Colosseo",
+    "type": "Push",
+    "onPool": true,
+    "points": [
+      "Ally",
+      "Mid",
+      "Enemy"
+    ]
+  },
+  {
     "name": "Dorado",
     "type": "Escort",
     "onPool": true,
@@ -42,7 +62,7 @@
   {
     "name": "Hanamura",
     "type": "Assault",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B"
@@ -118,6 +138,16 @@
     ]
   },
   {
+    "name": "Midtown",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
     "name": "Nepal",
     "type": "Control",
     "onPool": true,
@@ -125,6 +155,16 @@
       "Village",
       "Sanctum",
       "Shrine"
+    ]
+  },
+  {
+    "name": "New Queen Street",
+    "type": "Push",
+    "onPool": true,
+    "points": [
+      "Ally",
+      "Mid",
+      "Enemy"
     ]
   },
   {
@@ -179,7 +219,7 @@
   {
     "name": "Temple of Anubis",
     "type": "Assault",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B"
@@ -188,7 +228,7 @@
   {
     "name": "Volskaya Industries",
     "type": "Assault",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B"
