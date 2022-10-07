@@ -36,8 +36,8 @@
   },
   {
     "name": "Doomfist",
-    "white-img": "images/heroes/damage/doomfist-white.png",
-    "echo-img": "images/heroes/damage/doomfist-echo.png"
+    "white-img": "images/heroes/tank/doomfist-white.png",
+    "echo-img": "images/heroes/tank/doomfist-echo.png"
   },
   {
     "name": "Echo",
@@ -56,8 +56,8 @@
   },
   {
     "name": "Junker Queen",
-    "white-img": "images/heroes/damage/junker-queen-white.png",
-    "echo-img": "images/heroes/damage/junker-queen-echo.png"
+    "white-img": "images/heroes/tank/junker-queen-white.png",
+    "echo-img": "images/heroes/tank/junker-queen-echo.png"
   },
   {
     "name": "Junkrat",
