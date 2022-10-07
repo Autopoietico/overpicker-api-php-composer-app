@@ -689,6 +689,36 @@
       },
       "Control":0
    },
+   "Sojourn":{
+      "Attack":{
+         "Assault":{
+            "A":10,
+            "B":10
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":10,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Push":{
+         "Ally":10,
+         "Mid":10,
+         "Enemy":10
+      },
+      "Control":10
+   },
    "Soldier: 76":{
       "Attack":{
          "Assault":{
@@ -752,8 +782,8 @@
    "Symmetra":{
       "Attack":{
          "Assault":{
-            "A":10,
-            "B":10
+            "A":0,
+            "B":0
          },
          "Escort":{
             "A":0,
@@ -763,7 +793,7 @@
       },
       "Defense":{
          "Assault":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Escort":{
@@ -773,11 +803,11 @@
          }
       },
       "Push":{
-         "Ally":10,
-         "Mid":10,
-         "Enemy":10
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
       },
-      "Control":10
+      "Control":0
    },
    "Torbjörn":{
       "Attack":{
@@ -793,7 +823,7 @@
       },
       "Defense":{
          "Assault":{
-            "A":0,
+            "A":10,
             "B":0
          },
          "Escort":{
@@ -813,22 +843,22 @@
       "Attack":{
          "Assault":{
             "A":0,
-            "B":0
+            "B":10
          },
          "Escort":{
-            "A":0,
-            "B":0,
-            "C":0
+            "A":10,
+            "B":10,
+            "C":10
          }
       },
       "Defense":{
          "Assault":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Escort":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":0
          }
       },
@@ -843,22 +873,22 @@
       "Attack":{
          "Assault":{
             "A":0,
-            "B":10
-         },
-         "Escort":{
-            "A":10,
-            "B":10,
-            "C":10
-         }
-      },
-      "Defense":{
-         "Assault":{
-            "A":0,
             "B":0
          },
          "Escort":{
             "A":10,
             "B":10,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":10
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
             "C":0
          }
       },
@@ -872,36 +902,6 @@
    "Winston":{
       "Attack":{
          "Assault":{
-            "A":0,
-            "B":0
-         },
-         "Escort":{
-            "A":10,
-            "B":10,
-            "C":0
-         }
-      },
-      "Defense":{
-         "Assault":{
-            "A":0,
-            "B":10
-         },
-         "Escort":{
-            "A":0,
-            "B":0,
-            "C":0
-         }
-      },
-      "Push":{
-         "Ally":0,
-         "Mid":0,
-         "Enemy":0
-      },
-      "Control":0
-   },
-   "Wrecking Ball":{
-      "Attack":{
-         "Assault":{
             "A":10,
             "B":0
          },
@@ -920,6 +920,36 @@
             "A":0,
             "B":0,
             "C":10
+         }
+      },
+      "Push":{
+         "Ally":10,
+         "Mid":10,
+         "Enemy":10
+      },
+      "Control":10
+   },
+   "Wrecking Ball":{
+      "Attack":{
+         "Assault":{
+            "A":10,
+            "B":10
+         },
+         "Escort":{
+            "A":10,
+            "B":10,
+            "C":10
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
          }
       },
       "Push":{
@@ -932,6 +962,17 @@
    "Zarya":{
       "Attack":{
          "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":10,
+            "B":10,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
             "A":10,
             "B":10
          },
@@ -939,6 +980,25 @@
             "A":10,
             "B":10,
             "C":10
+         }
+      },
+      "Push":{
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Control":0
+   },
+   "Zenyatta":{
+      "Attack":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
          }
       },
       "Defense":{
@@ -950,36 +1010,6 @@
             "A":0,
             "B":0,
             "C":0
-         }
-      },
-      "Push":{
-         "Ally":10,
-         "Mid":10,
-         "Enemy":10
-      },
-      "Control":10
-   },
-   "Zenyatta":{
-      "Attack":{
-         "Assault":{
-            "A":0,
-            "B":0
-         },
-         "Escort":{
-            "A":10,
-            "B":10,
-            "C":0
-         }
-      },
-      "Defense":{
-         "Assault":{
-            "A":10,
-            "B":10
-         },
-         "Escort":{
-            "A":10,
-            "B":10,
-            "C":10
          }
       },
       "Push":{

@@ -186,19 +186,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -416,19 +416,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -646,19 +646,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -876,19 +876,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -1106,19 +1106,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":0,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -1336,19 +1336,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -1566,19 +1566,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -1796,19 +1796,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -2026,19 +2026,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -2256,19 +2256,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -2486,19 +2486,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -2716,19 +2716,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -2946,19 +2946,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -3176,19 +3176,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -3406,19 +3406,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -3636,19 +3636,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -3866,19 +3866,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -4096,19 +4096,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -4326,19 +4326,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -4556,19 +4556,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -4786,19 +4786,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -5016,19 +5016,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -5246,19 +5246,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -5476,19 +5476,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -5706,19 +5706,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -5936,19 +5936,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -6166,19 +6166,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -6396,19 +6396,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -6626,19 +6626,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -6856,19 +6856,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":0,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -7086,19 +7086,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -7316,19 +7316,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":10
+            "Enemy":10
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":10
+            "Enemy":10
          }
       },
       "Control":{
@@ -7546,19 +7546,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
@@ -7776,19 +7776,19 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "Esperança":{
-            "Ally Spawn":0,
+            "Ally":0,
             "Mid":0,
-            "Enemy Spawn":0
+            "Enemy":0
          },
          "New Queen Street":{
-            "Ally Spawn":10,
+            "Ally":10,
             "Mid":10,
-            "Enemy Spawn":0
+            "Enemy":0
          }
       },
       "Control":{
