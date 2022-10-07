@@ -60,6 +60,16 @@
     ]
   },
   {
+    "name": "Esperança",
+    "type": "Push",
+    "onPool": true,
+    "points": [
+      "Ally",
+      "Mid",
+      "Enemy"
+    ]
+  },
+  {
     "name": "Hanamura",
     "type": "Assault",
     "onPool": false,
@@ -185,16 +195,6 @@
       "City Center",
       "Gardens",
       "University"
-    ]
-  },
-  {
-    "name": "Esperança",
-    "type": "Push",
-    "onPool": true,
-    "points": [
-      "Ally",
-      "Mid",
-      "Enemy"
     ]
   },
   {
