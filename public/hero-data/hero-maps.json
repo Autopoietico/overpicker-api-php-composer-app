@@ -3912,7 +3912,7 @@
    "Orisa":{
       "Attack":{
          "Hanamura":{
-            "A":0,
+            "A":10,
             "B":0
          },
          "Horizon Lunar Colony":{
@@ -3920,16 +3920,16 @@
             "B":0
          },
          "Paris":{
-            "A":-10,
-            "B":0
+            "A":0,
+            "B":10
          },
          "Temple of Anubis":{
             "A":0,
-            "B":0
+            "B":10
          },
          "Volskaya Industries":{
             "A":0,
-            "B":0
+            "B":10
          },
          "Circuit Royal":{
             "A":10,
@@ -3939,52 +3939,52 @@
          "Dorado":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Junkertown":{
             "A":10,
-            "B":10,
-            "C":10
+            "B":0,
+            "C":0
          },
          "Rialto":{
             "A":10,
             "B":0,
-            "C":0
+            "C":10
          },
          "Route 66":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Watchpoint: Gibraltar":{
-            "A":-10,
+            "A":0,
             "B":-10,
             "C":0
          },
          "Havana":{
             "A":10,
-            "B":0,
-            "C":10
-         },
-         "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":0
-         },
-         "Eichenwalde":{
-            "A":0,
             "B":10,
             "C":0
          },
-         "Hollywood":{
-            "A":0,
-            "B":0,
-            "C":0
-         },
-         "King's Row":{
-            "A":0,
+         "Blizzard World":{
+            "A":10,
             "B":0,
             "C":10
+         },
+         "Eichenwalde":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Hollywood":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "King's Row":{
+            "A":10,
+            "B":10,
+            "C":0
          },
          "Midtown":{
             "A":10,
@@ -3994,7 +3994,7 @@
          "Numbani":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Paraíso":{
             "A":0,
@@ -4004,19 +4004,19 @@
       },
       "Defense":{
          "Hanamura":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Horizon Lunar Colony":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Paris":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Temple of Anubis":{
-            "A":10,
+            "A":0,
             "B":10
          },
          "Volskaya Industries":{
@@ -4024,9 +4024,9 @@
             "B":10
          },
          "Circuit Royal":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":10,
+            "B":10,
+            "C":0
          },
          "Dorado":{
             "A":10,
@@ -4034,9 +4034,9 @@
             "C":0
          },
          "Junkertown":{
-            "A":10,
-            "B":10,
-            "C":10
+            "A":0,
+            "B":0,
+            "C":0
          },
          "Rialto":{
             "A":10,
@@ -4044,7 +4044,7 @@
             "C":10
          },
          "Route 66":{
-            "A":10,
+            "A":0,
             "B":0,
             "C":10
          },
@@ -4055,13 +4055,13 @@
          },
          "Havana":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Blizzard World":{
             "A":10,
             "B":0,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":10,
@@ -4075,11 +4075,11 @@
          },
          "King's Row":{
             "A":10,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Midtown":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":10
          },
@@ -4096,14 +4096,14 @@
       },
       "Push":{
          "Colosseo":{
-            "Ally":0,
+            "Ally":10,
             "Mid":10,
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
+            "Ally":10,
             "Mid":0,
-            "Enemy":0
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":0,
@@ -4113,29 +4113,29 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":10,
+            "Lighthouse":0,
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
-            "Garden":10,
-            "Control Center":0
+            "Garden":0,
+            "Control Center":10
          },
          "Nepal":{
             "Village":10,
-            "Sanctum":10,
+            "Sanctum":0,
             "Shrine":10
          },
          "Oasis":{
-            "City Center":-10,
+            "City Center":0,
             "Gardens":0,
             "University":10
          },
          "Busan":{
-            "Sanctuary":0,
+            "Sanctuary":10,
             "Downtown":0,
-            "MEKA Base":0
+            "MEKA Base":10
          }
       }
    },

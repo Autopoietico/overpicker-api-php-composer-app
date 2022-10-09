@@ -512,7 +512,7 @@
    "Orisa":{
       "Attack":{
          "Assault":{
-            "A":0,
+            "A":10,
             "B":0
          },
          "Escort":{
@@ -523,8 +523,8 @@
       },
       "Defense":{
          "Assault":{
-            "A":10,
-            "B":10
+            "A":0,
+            "B":0
          },
          "Escort":{
             "A":0,
@@ -533,7 +533,7 @@
          }
       },
       "Push":{
-         "Ally":0,
+         "Ally":10,
          "Mid":0,
          "Enemy":0
       },
