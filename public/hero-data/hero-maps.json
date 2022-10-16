@@ -191,8 +191,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -421,8 +421,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -651,8 +651,8 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -881,8 +881,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -1112,8 +1112,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -1341,8 +1341,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -1572,8 +1572,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -1801,8 +1801,8 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -2032,7 +2032,7 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -2261,9 +2261,9 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":0,
@@ -2491,9 +2491,9 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -2721,8 +2721,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -2951,8 +2951,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -3181,9 +3181,9 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -3411,9 +3411,9 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -3641,8 +3641,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -4332,7 +4332,7 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -4791,8 +4791,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -5251,9 +5251,9 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -5481,8 +5481,8 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -5712,8 +5712,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":0,
@@ -5941,8 +5941,8 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -6172,8 +6172,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":0,
@@ -6402,8 +6402,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -6631,9 +6631,9 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
+            "Ally":10,
             "Mid":0,
-            "Enemy":0
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -6861,8 +6861,8 @@
             "Enemy":10
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -7092,8 +7092,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -7322,8 +7322,8 @@
          },
          "Esperança":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":10,
+            "Enemy":10
          },
          "New Queen Street":{
             "Ally":10,
@@ -7551,8 +7551,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
@@ -7781,8 +7781,8 @@
             "Enemy":0
          },
          "Esperança":{
-            "Ally":0,
-            "Mid":0,
+            "Ally":10,
+            "Mid":10,
             "Enemy":0
          },
          "New Queen Street":{
