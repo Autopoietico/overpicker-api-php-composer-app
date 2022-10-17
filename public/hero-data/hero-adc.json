@@ -92,7 +92,7 @@
    "Bastion":{
       "Attack":{
          "Assault":{
-            "A":-10,
+            "A":0,
             "B":0
          },
          "Escort":{
@@ -103,7 +103,7 @@
       },
       "Defense":{
          "Assault":{
-            "A":10,
+            "A":0,
             "B":0
          },
          "Escort":{
@@ -384,6 +384,36 @@
       },
       "Push":{
          "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Control":0
+   },
+   "Kiriko":{
+      "Attack":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":10
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":10
+         }
+      },
+      "Push":{
+         "Ally":10,
          "Mid":0,
          "Enemy":0
       },
@@ -1004,16 +1034,16 @@
       "Defense":{
          "Assault":{
             "A":0,
-            "B":0
+            "B":10
          },
          "Escort":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          }
       },
       "Push":{
-         "Ally":0,
+         "Ally":10,
          "Mid":0,
          "Enemy":0
       },

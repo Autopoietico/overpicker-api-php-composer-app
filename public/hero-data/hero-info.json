@@ -203,6 +203,23 @@
     ]
   },
   {
+    "name":"Kiriko",
+    "general_rol":"Support",
+    "secondary_rol":"OffSupport",
+    "shields":0,
+    "health":200,
+    "armor":0,
+    "on_rotation":true,
+    "nicks":[
+      "Kiriko",
+      "Kamori",
+      "Protector",
+      "Kunoichi",
+      "Fox",
+      "Kitsune"
+    ]
+  },
+  {
     "name":"Lucio",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
