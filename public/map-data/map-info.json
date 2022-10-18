@@ -207,6 +207,16 @@
     ]
   },
   {
+    "name": "Paraíso",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
     "name": "Rialto",
     "type": "Escort",
     "onPool": true,
