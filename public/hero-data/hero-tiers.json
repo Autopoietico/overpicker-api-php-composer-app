@@ -38,5 +38,45 @@
          "Zarya":45,
          "Zenyatta":15
       }
+   },
+   {
+      "name":"Top 500",
+      "hero-tiers":{
+         "Ana":35,
+         "Ashe":15,
+         "Baptiste":15,
+         "Bastion":5,
+         "Brigitte":25,
+         "Cassidy":15,
+         "D.Va":25,
+         "Doomfist":25,
+         "Echo":25,
+         "Genji":45,
+         "Hanzo":25,
+         "Junker Queen":35,
+         "Junkrat":35,
+         "Kiriko":5,
+         "Lucio":35,
+         "Mei":35,
+         "Mercy":25,
+         "Moira":25,
+         "Orisa":15,
+         "Pharah":15,
+         "Reaper":5,
+         "Reinhardt":35,
+         "Roadhog":15,
+         "Sigma":5,
+         "Sojourn":45,
+         "Soldier: 76":5,
+         "Sombra":35,
+         "Symmetra":35,
+         "Torbjörn":5,
+         "Tracer":45,
+         "Widowmaker":15,
+         "Winston":45,
+         "Wrecking Ball":5,
+         "Zarya":45,
+         "Zenyatta":35
+      }
    }
 ]
