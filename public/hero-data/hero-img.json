@@ -42,7 +42,7 @@
   {
     "name": "Echo",
     "white-img": "images/heroes/damage/echo-white.png",
-    "echo-img": "images/heroes/damage/echo-echo.png"
+    "echo-img": "images/heroes/damage/echo-white.png"
   },
   {
     "name": "Genji",
