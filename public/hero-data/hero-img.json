@@ -2,176 +2,247 @@
   {
     "name": "Ana",
     "white-img": "images/heroes/support/ana-white.png",
-    "echo-img": "images/heroes/support/ana-echo.png"
+    "echo-img": "images/heroes/support/ana-echo.png",
+    "profile-img": "images/heroes/support/ana-profile.png",
+    "prof-echo-img": "images/heroes/support/ana-profile-echo.png"
+
   },
   {
     "name": "Ashe",
     "white-img": "images/heroes/damage/ashe-white.png",
-    "echo-img": "images/heroes/damage/ashe-echo.png"
+    "echo-img": "images/heroes/damage/ashe-echo.png",
+    "profile-img": "images/heroes/support/ashe-profile.png",
+    "prof-echo-img": "images/heroes/support/ashe-profile-echo.png"
   },
   {
     "name": "Baptiste",
     "white-img": "images/heroes/support/baptiste-white.png",
-    "echo-img": "images/heroes/support/baptiste-echo.png"
+    "echo-img": "images/heroes/support/baptiste-echo.png",
+    "profile-img": "images/heroes/support/baptiste-profile.png",
+    "prof-echo-img": "images/heroes/support/baptiste-profile-echo.png"
   },
   {
     "name": "Bastion",
     "white-img": "images/heroes/damage/bastion-white.png",
-    "echo-img": "images/heroes/damage/bastion-echo.png"
+    "echo-img": "images/heroes/damage/bastion-echo.png",
+    "profile-img": "images/heroes/support/bastion-profile.png",
+    "prof-echo-img": "images/heroes/support/bastion-profile-echo.png"
   },
   {
     "name": "Brigitte",
     "white-img": "images/heroes/support/brigitte-white.png",
-    "echo-img": "images/heroes/support/brigitte-echo.png"
+    "echo-img": "images/heroes/support/brigitte-echo.png",
+    "profile-img": "images/heroes/support/brigitte-profile.png",
+    "prof-echo-img": "images/heroes/support/brigitte-profile-echo.png"
   },
   {
     "name": "Cassidy",
     "white-img": "images/heroes/damage/cassidy-white.png",
-    "echo-img": "images/heroes/damage/cassidy-echo.png"
+    "echo-img": "images/heroes/damage/cassidy-echo.png",
+    "profile-img": "images/heroes/support/cassidy-profile.png",
+    "prof-echo-img": "images/heroes/support/cassidy-profile-echo.png"
   },
   {
     "name": "D.Va",
     "white-img": "images/heroes/tank/dva-white.png",
-    "echo-img": "images/heroes/tank/dva-echo.png"
+    "echo-img": "images/heroes/tank/dva-echo.png",
+    "profile-img": "images/heroes/support/dva-profile.png",
+    "prof-echo-img": "images/heroes/support/dva-profile-echo.png"
   },
   {
     "name": "Doomfist",
     "white-img": "images/heroes/tank/doomfist-white.png",
-    "echo-img": "images/heroes/tank/doomfist-echo.png"
+    "echo-img": "images/heroes/tank/doomfist-echo.png",
+    "profile-img": "images/heroes/support/doomfist-profile.png",
+    "prof-echo-img": "images/heroes/support/doomfist-profile-echo.png"
   },
   {
     "name": "Echo",
     "white-img": "images/heroes/damage/echo-white.png",
-    "echo-img": "images/heroes/damage/echo-white.png"
+    "echo-img": "images/heroes/damage/echo-white.png",
+    "profile-img": "images/heroes/support/echo-profile.png",
+    "prof-echo-img": "images/heroes/support/echo-profile-echo.png"
   },
   {
     "name": "Genji",
     "white-img": "images/heroes/damage/genji-white.png",
-    "echo-img": "images/heroes/damage/genji-echo.png"
+    "echo-img": "images/heroes/damage/genji-echo.png",
+    "profile-img": "images/heroes/support/genji-profile.png",
+    "prof-echo-img": "images/heroes/support/genji-profile-echo.png"
   },
   {
     "name": "Hanzo",
     "white-img": "images/heroes/damage/hanzo-white.png",
-    "echo-img": "images/heroes/damage/hanzo-echo.png"
+    "echo-img": "images/heroes/damage/hanzo-echo.png",
+    "profile-img": "images/heroes/support/hanzo-profile.png",
+    "prof-echo-img": "images/heroes/support/hanzo-profile-echo.png"
   },
   {
     "name": "Junker Queen",
     "white-img": "images/heroes/tank/junker-queen-white.png",
-    "echo-img": "images/heroes/tank/junker-queen-echo.png"
+    "echo-img": "images/heroes/tank/junker-queen-echo.png",
+    "profile-img": "images/heroes/support/junker-queen-profile.png",
+    "prof-echo-img": "images/heroes/support/junker-queen-profile-echo.png"
   },
   {
     "name": "Junkrat",
     "white-img": "images/heroes/damage/junkrat-white.png",
-    "echo-img": "images/heroes/damage/junkrat-echo.png"
+    "echo-img": "images/heroes/damage/junkrat-echo.png",
+    "profile-img": "images/heroes/support/junkrat-profile.png",
+    "prof-echo-img": "images/heroes/support/junkrat-profile-echo.png"
   },
   {
     "name": "Kiriko",
     "white-img": "images/heroes/support/kiriko-white.png",
-    "echo-img": "images/heroes/support/kiriko-echo.png"
+    "echo-img": "images/heroes/support/kiriko-echo.png",
+    "profile-img": "images/heroes/support/kiriko-profile.png",
+    "prof-echo-img": "images/heroes/support/kiriko-profile-echo.png"
   },
   {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.png",
-    "echo-img": "images/heroes/support/lucio-echo.png"
+    "echo-img": "images/heroes/support/lucio-echo.png",
+    "profile-img": "images/heroes/support/lucio-profile.png",
+    "prof-echo-img": "images/heroes/support/lucio-profile-echo.png"
   }, 
   {
     "name": "Mei",
     "white-img": "images/heroes/damage/mei-white.png",
-    "echo-img": "images/heroes/damage/mei-echo.png"
+    "echo-img": "images/heroes/damage/mei-echo.png",
+    "profile-img": "images/heroes/support/mei-profile.png",
+    "prof-echo-img": "images/heroes/support/mei-profile-echo.png"
   },
   {
     "name": "Mercy",
     "white-img": "images/heroes/support/mercy-white.png",
-    "echo-img": "images/heroes/support/mercy-echo.png"
+    "echo-img": "images/heroes/support/mercy-echo.png",
+    "profile-img": "images/heroes/support/mercy-profile.png",
+    "prof-echo-img": "images/heroes/support/mercy-profile-echo.png"
   },
   {
     "name": "Moira",
     "white-img": "images/heroes/support/moira-white.png",
-    "echo-img": "images/heroes/support/moira-echo.png"
+    "echo-img": "images/heroes/support/moira-echo.png",
+    "profile-img": "images/heroes/support/moira-profile.png",
+    "prof-echo-img": "images/heroes/support/moira-profile-echo.png"
   },
   {
     "name": "Orisa",
     "white-img": "images/heroes/tank/orisa-white.png",
-    "echo-img": "images/heroes/tank/orisa-echo.png"
+    "echo-img": "images/heroes/tank/orisa-echo.png",
+    "profile-img": "images/heroes/support/orisa-profile.png",
+    "prof-echo-img": "images/heroes/support/orisa-profile-echo.png"
   },
   {
     "name": "Pharah",
     "white-img": "images/heroes/damage/pharah-white.png",
-    "echo-img": "images/heroes/damage/pharah-echo.png"
+    "echo-img": "images/heroes/damage/pharah-echo.png",
+    "profile-img": "images/heroes/support/pharah-profile.png",
+    "prof-echo-img": "images/heroes/support/pharah-profile-echo.png"
   },
   {
     "name": "Reaper",
     "white-img": "images/heroes/damage/reaper-white.png",
-    "echo-img": "images/heroes/damage/reaper-echo.png"
+    "echo-img": "images/heroes/damage/reaper-echo.png",
+    "profile-img": "images/heroes/support/reaper-profile.png",
+    "prof-echo-img": "images/heroes/support/reaper-profile-echo.png"
   },
   {
     "name": "Reinhardt",
     "white-img": "images/heroes/tank/reinhardt-white.png",
-    "echo-img": "images/heroes/tank/reinhardt-echo.png"
+    "echo-img": "images/heroes/tank/reinhardt-echo.png",
+    "profile-img": "images/heroes/support/reinhardt-profile.png",
+    "prof-echo-img": "images/heroes/support/reinhardt-profile-echo.png"
   },
   {
     "name": "Roadhog",
     "white-img": "images/heroes/tank/roadhog-white.png",
-    "echo-img": "images/heroes/tank/roadhog-echo.png"
+    "echo-img": "images/heroes/tank/roadhog-echo.png",
+    "profile-img": "images/heroes/support/roadhog-profile.png",
+    "prof-echo-img": "images/heroes/support/roadhog-profile-echo.png"
   },
   {
     "name": "Sigma",
     "white-img": "images/heroes/tank/sigma-white.png",
-    "echo-img": "images/heroes/tank/sigma-echo.png"
+    "echo-img": "images/heroes/tank/sigma-echo.png",
+    "profile-img": "images/heroes/support/sigma-profile.png",
+    "prof-echo-img": "images/heroes/support/sigma-profile-echo.png"
   },
   {
     "name": "Sojourn",
     "white-img": "images/heroes/damage/sojourn-white.png",
-    "echo-img": "images/heroes/damage/sojourn-echo.png"
+    "echo-img": "images/heroes/damage/sojourn-echo.png",
+    "profile-img": "images/heroes/support/sojourn-profile.png",
+    "prof-echo-img": "images/heroes/support/sojourn-profile-echo.png"
   },
   {
     "name": "Soldier: 76",
     "white-img": "images/heroes/damage/soldier-76-white.png",
-    "echo-img": "images/heroes/damage/soldier-76-echo.png"
+    "echo-img": "images/heroes/damage/soldier-76-echo.png",
+    "profile-img": "images/heroes/support/soldier-76-profile.png",
+    "prof-echo-img": "images/heroes/support/soldier-76-profile-echo.png"
   },
   {
     "name": "Sombra",
     "white-img": "images/heroes/damage/sombra-white.png",
-    "echo-img": "images/heroes/damage/sombra-echo.png"
+    "echo-img": "images/heroes/damage/sombra-echo.png",
+    "profile-img": "images/heroes/support/sombra-profile.png",
+    "prof-echo-img": "images/heroes/support/sombra-profile-echo.png"
   },
   {
     "name": "Symmetra",
     "white-img": "images/heroes/damage/symmetra-white.png",
-    "echo-img": "images/heroes/damage/symmetra-echo.png"
+    "echo-img": "images/heroes/damage/symmetra-echo.png",
+    "profile-img": "images/heroes/support/symmetra-profile.png",
+    "prof-echo-img": "images/heroes/support/symmetra-profile-echo.png"
   },
   {
     "name": "Torbjörn",
     "white-img": "images/heroes/damage/torbjorn-white.png",
-    "echo-img": "images/heroes/damage/torbjorn-echo.png"
+    "echo-img": "images/heroes/damage/torbjorn-echo.png",
+    "profile-img": "images/heroes/support/torbjorn-profile.png",
+    "prof-echo-img": "images/heroes/support/torbjorn-profile-echo.png"
   },
   {
     "name": "Tracer",
     "white-img": "images/heroes/damage/tracer-white.png",
-    "echo-img": "images/heroes/damage/tracer-echo.png"
+    "echo-img": "images/heroes/damage/tracer-echo.png",
+    "profile-img": "images/heroes/support/tracer-profile.png",
+    "prof-echo-img": "images/heroes/support/tracer-profile-echo.png"
   },
   {
     "name": "Widowmaker",
     "white-img": "images/heroes/damage/widowmaker-white.png",
-    "echo-img": "images/heroes/damage/widowmaker-echo.png"
+    "echo-img": "images/heroes/damage/widowmaker-echo.png",
+    "profile-img": "images/heroes/support/widowmaker-profile.png",
+    "prof-echo-img": "images/heroes/support/widowmaker-profile-echo.png"
   },
   {
     "name": "Winston",
     "white-img": "images/heroes/tank/winston-white.png",
-    "echo-img": "images/heroes/tank/winston-echo.png"
+    "echo-img": "images/heroes/tank/winston-echo.png",
+    "profile-img": "images/heroes/support/winston-profile.png",
+    "prof-echo-img": "images/heroes/support/winston-profile-echo.png"
   },
   {
     "name": "Wrecking Ball",
     "white-img": "images/heroes/tank/wrecking-ball-white.png",
-    "echo-img": "images/heroes/tank/wrecking-ball-echo.png"
+    "echo-img": "images/heroes/tank/wrecking-ball-echo.png",
+    "profile-img": "images/heroes/support/wrecking-ball-profile.png",
+    "prof-echo-img": "images/heroes/support/wrecking-ball-profile-echo.png"
   },
   {
     "name": "Zarya",
     "white-img": "images/heroes/tank/zarya-white.png",
-    "echo-img": "images/heroes/tank/zarya-echo.png"
+    "echo-img": "images/heroes/tank/zarya-echo.png",
+    "profile-img": "images/heroes/support/zarya-profile.png",
+    "prof-echo-img": "images/heroes/support/zarya-profile-echo.png"
   },
   {
     "name": "Zenyatta",
     "white-img": "images/heroes/support/zenyatta-white.png",
-    "echo-img": "images/heroes/support/zenyatta-echo.png"
+    "echo-img": "images/heroes/support/zenyatta-echo.png",
+    "profile-img": "images/heroes/support/zenyatta-profile.png",
+    "prof-echo-img": "images/heroes/support/zenyatta-profile-echo.png"
   }
 ]
