@@ -37,7 +37,7 @@
   },
   {
     "name":"Baptiste",
-    "description": "Flexible support with good damage and healing capabilities, his immortality field can give a few extra seconds of life to your teammates on the battlefield, and his ultimate, the amplification matrix can be used both against your enemies and as a way to save your allies.",
+    "description": "Flex support with good damage and healing capabilities, his immortality field can give a few extra seconds of life to your teammates on the battlefield, and his ultimate, Amplification Matrix can be used both against your enemies and as a way to save your allies.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -85,7 +85,7 @@
   },
   {
     "name":"Cassidy",
-    "description": "",
+    "description": "Mid histscan versatile useful to keep pressure against aggressive tanks or other dps, especially good against flankers, the grenade can be useful to force cooldowns and his ultimate allows him to control open areas of the map.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -102,7 +102,7 @@
   },
   {
     "name":"D.Va",
-    "description": "",
+    "description": "A misunderstood tank very good for assassinating enemy backlines, but also for defending its own, it is especially good on maps with different highgrounds, its defense matrix can deny important ultimates (like Zarya's graviton) and its ultimate is especially useful against teams with few shields.",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -119,7 +119,7 @@
   },
   {
     "name":"Doomfist",
-    "description": "",
+    "description": "A tank with great flight control, he can appear from any rooftop and torment enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -137,7 +137,7 @@
   },
   {
     "name":"Echo",
-    "description": "",
+    "description": "Flying hero with great damage potential, his bombs can be very effective against heroes that tend to stay in one position and his beam is very effective at finishing low health targets, his ultimate requires extensive knowledge of all Overwatch heroes to be used properly.",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
