@@ -1,6 +1,7 @@
 [
   {
     "name":"Ana",
+    "description": "High skill hitscan support, her grenade can change the course of battle and her ultimate allows other heroes like Genji and Reinhardt to shine on the battlefield.",
     "general_rol":"Support",
     "secondary_rol":"MainSupport",
     "shields":0,
@@ -18,6 +19,7 @@
   },
   {
     "name":"Ashe",
+    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together like rush, his ultimate BOB is very good to contest points and angles.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -35,6 +37,7 @@
   },
   {
     "name":"Baptiste",
+    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together like rush, his ultimate BOB is very good to contest points and angles.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -51,6 +54,7 @@
   },
   {
     "name":"Bastion",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -65,6 +69,7 @@
   },
   {
     "name":"Brigitte",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":250,
@@ -80,6 +85,7 @@
   },
   {
     "name":"Cassidy",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -96,6 +102,7 @@
   },
   {
     "name":"D.Va",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -112,6 +119,7 @@
   },
   {
     "name":"Doomfist",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -129,6 +137,7 @@
   },
   {
     "name":"Echo",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -143,6 +152,7 @@
   },
   {
     "name":"Genji",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -158,6 +168,7 @@
   },
   {
     "name":"Hanzo",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -172,6 +183,7 @@
   },
   {
     "name":"Junker Queen",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -190,6 +202,7 @@
   },
   {
     "name":"Junkrat",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -204,6 +217,7 @@
   },
   {
     "name":"Kiriko",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":0,
@@ -221,6 +235,7 @@
   },
   {
     "name":"Lucio",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":0,
@@ -237,6 +252,7 @@
   },  
   {
     "name":"Mei",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -255,6 +271,7 @@
   },
   {
     "name":"Mercy",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -272,6 +289,7 @@
   },
   {
     "name":"Moira",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"MainSupport",
     "shields":0,
@@ -286,6 +304,7 @@
   },
   {
     "name":"Orisa",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -300,6 +319,7 @@
   },
   {
     "name":"Pharah",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -314,6 +334,7 @@
   },
   {
     "name":"Reaper",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -329,6 +350,7 @@
   },
   {
     "name":"Reinhardt",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":1200,
@@ -346,6 +368,7 @@
   },
   {
     "name":"Roadhog",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -362,6 +385,7 @@
   },
   {
     "name":"Sigma",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"FlexTank",
     "shields":900,
@@ -380,6 +404,7 @@
   },
   {
     "name":"Sojourn",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -397,6 +422,7 @@
   },
   {
     "name":"Soldier: 76",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -414,6 +440,7 @@
   },
   {
     "name":"Sombra",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -430,6 +457,7 @@
   },
   {
     "name":"Symmetra",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":125,
@@ -447,6 +475,7 @@
   },
   {
     "name":"Torbjörn",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -464,6 +493,7 @@
   },
   {
     "name":"Tracer",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -481,6 +511,7 @@
   },
   {
     "name":"Widowmaker",
+    "description": "",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -497,6 +528,7 @@
   },
   {
     "name":"Winston",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":700,
@@ -515,6 +547,7 @@
   },
   {
     "name":"Wrecking Ball",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"FlexTank",
     "shields":0,
@@ -533,6 +566,7 @@
   },
   {
     "name":"Zarya",
+    "description": "",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":625,
@@ -549,6 +583,7 @@
   },
   {
     "name":"Zenyatta",
+    "description": "",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":150,
