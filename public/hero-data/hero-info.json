@@ -37,7 +37,7 @@
   },
   {
     "name":"Baptiste",
-    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together like rush, his ultimate BOB is very good to contest points and angles.",
+    "description": "Flexible support with good damage and healing capabilities, his immortality field can give a few extra seconds of life to your teammates on the battlefield, and his ultimate, the amplification matrix can be used both against your enemies and as a way to save your allies.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -54,7 +54,7 @@
   },
   {
     "name":"Bastion",
-    "description": "",
+    "description": "Despite his multiple configurations, Bastion is not a flexible hero, his damage is notably increased in his assault form, but in other situations he is often vulnerable, his grenade offers an interesting form of mobility, and his ultimate needs good planning to be used well, in the right hands he can be a devastating hero against the enemy team.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -69,7 +69,7 @@
   },
   {
     "name":"Brigitte",
-    "description": "",
+    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable.",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":250,
