@@ -37,7 +37,7 @@
   },
   {
     "name":"Baptiste",
-    "description": "Flex support with good damage and healing capabilities, his immortality field can give a few extra seconds of life to your teammates on the battlefield, and his ultimate, Amplification Matrix can be used both against your enemies and as a way to save your allies.",
+    "description": "Flex support with good damage and healing capabilities, his immortality field can give a few extra seconds of life to your teammates on the battle, and his ultimate, Amplification Matrix can be used both against your enemies and as a way to save your allies.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -85,7 +85,7 @@
   },
   {
     "name":"Cassidy",
-    "description": "Versatil mid range hitscan, useful to keep pressure against aggressive tanks or other dps, especially good against flankers, the grenade can be useful to force cooldowns and his ultimate allows him to control open areas of the map.",
+    "description": "Close-mid range hitscan, useful to keep pressure against aggressive tanks or other dps, especially good against flankers, the grenade can be useful to force cooldowns and his ultimate allows him to control open areas of the map.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
