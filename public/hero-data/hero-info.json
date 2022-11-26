@@ -19,7 +19,7 @@
   },
   {
     "name":"Ashe",
-    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together like rush, his ultimate BOB is very good to contest points and angles.",
+    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together, his ultimate BOB is very good to contest points and angles.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -69,7 +69,7 @@
   },
   {
     "name":"Brigitte",
-    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable.",
+    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable, and her ultimate make it and his ultimate is the reward of those who have patiently waited to finally fight at the front of the battlefield.",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":250,
@@ -85,7 +85,7 @@
   },
   {
     "name":"Cassidy",
-    "description": "Mid histscan versatile useful to keep pressure against aggressive tanks or other dps, especially good against flankers, the grenade can be useful to force cooldowns and his ultimate allows him to control open areas of the map.",
+    "description": "Versatil mid range hitscan, useful to keep pressure against aggressive tanks or other dps, especially good against flankers, the grenade can be useful to force cooldowns and his ultimate allows him to control open areas of the map.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -102,7 +102,7 @@
   },
   {
     "name":"D.Va",
-    "description": "A misunderstood tank very good for assassinating enemy backlines, but also for defending its own, it is especially good on maps with different highgrounds, its defense matrix can deny important ultimates (like Zarya's graviton) and its ultimate is especially useful against teams with few shields.",
+    "description": "A misunderstood tank that's very good for assassinating enemy backlines, but also for defending its own, it is especially good on maps with different highgrounds, its defense matrix can deny important ultimates (like Zarya's graviton) and its ultimate is especially useful against teams with few shields.",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -119,7 +119,7 @@
   },
   {
     "name":"Doomfist",
-    "description": "A tank with great flight control, he can appear from any rooftop and torment enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
+    "description": "A tank with great flight control that help them to appear from any rooftop and torment enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -137,7 +137,7 @@
   },
   {
     "name":"Echo",
-    "description": "Flying hero with great damage potential, his bombs can be very effective against heroes that tend to stay in one position and his beam is very effective at finishing low health targets, his ultimate requires extensive knowledge of all Overwatch heroes to be used properly.",
+    "description": "Flying hero with great damage potential, his sticky bombs can be very effective against heroes that tend to stay in one position and his beam is very effective at finishing low health targets, his ultimate requires extensive knowledge of all Overwatch heroes to be used properly.",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -152,7 +152,7 @@
   },
   {
     "name":"Genji",
-    "description": "",
+    "description": "Hero with great mobility, effective in maps with flanking lanes and various heights, his ultimate is especially strong and devastating, his mid game depending on how much damage his shurikens do can sometimes be just an excuse to farm his ultimate or also useful to assassinate backlines.",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
@@ -168,7 +168,7 @@
   },
   {
     "name":"Hanzo",
-    "description": "",
+    "description": "Sniper with great mobility, very good at pressuring tanks with his Storm Arrows, and also to defend points against flankers with Sonic Arrow, his ultimate is very good in combo with other ultimates, especially with Zarya's Graviton.",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -183,7 +183,7 @@
   },
   {
     "name":"Junker Queen",
-    "description": "",
+    "description": "Berseker tank that heals the more damage he does, his knife and axe allow him to make devastating melee attacks that bleed and lure his victims, his ultimate not only does the same but also prevents his enemies from being healed.",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -202,7 +202,7 @@
   },
   {
     "name":"Junkrat",
-    "description": "",
+    "description": "High damage and zone denial define this hero, he can end up being vulnerable against heroes with high mobility, but this hero also has the ability to cause chaos in the enemy lines, his ultimate is weak against hitscans, but if used correctly he can change the course of battle quickly.",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -217,7 +217,7 @@
   },
   {
     "name":"Kiriko",
-    "description": "",
+    "description": "A support designed to do damage, her teleport makes her elusive and Suzu Protection can prevent other supports like Ana from disrupting your team, Kitsune Rush accelerates your team's cooldowns and damage in ways the enemy team can't handle.",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":0,
