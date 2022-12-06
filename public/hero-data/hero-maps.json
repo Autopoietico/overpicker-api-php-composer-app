@@ -1968,8 +1968,8 @@
          },
          "Shambali Monastery":{
             "A":10,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Watchpoint: Gibraltar":{
             "A":10,
@@ -4608,8 +4608,8 @@
          },
          "Shambali Monastery":{
             "A":10,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Watchpoint: Gibraltar":{
             "A":0,
