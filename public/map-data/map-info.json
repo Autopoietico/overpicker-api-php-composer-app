@@ -2,7 +2,7 @@
   {
     "name": "Blizzard World",
     "type": "Hybrid",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -91,7 +91,7 @@
   {
     "name": "Hollywood",
     "type": "Hybrid",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B",
@@ -219,7 +219,7 @@
   {
     "name": "Rialto",
     "type": "Escort",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -228,6 +228,16 @@
   },
   {
     "name": "Route 66",
+    "type": "Escort",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "name": "Shambali Monastery",
     "type": "Escort",
     "onPool": true,
     "points": [
@@ -257,7 +267,7 @@
   {
     "name": "Watchpoint: Gibraltar",
     "type": "Escort",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B",
