@@ -252,7 +252,7 @@
   },  
   {
     "name":"Mei",
-    "description": "",
+    "description": "Hybrid DPS that works as a second tank, his wall allows him to trap enemies, especially the enemy tank that has to cross a choke, his ultimate is weak, but combined with other skills or ultimates could be deadly. ",
     "general_rol":"Damage",
     "secondary_rol":"ProjectileDamage",
     "shields":0,
@@ -271,7 +271,7 @@
   },
   {
     "name":"Mercy",
-    "description": "",
+    "description": "A flying support that is useful to enable teammates especially DPS, its mobility makes it extremely difficult to kill and also very good at contesting points and wasting enemies time.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -289,7 +289,7 @@
   },
   {
     "name":"Moira",
-    "description": "",
+    "description": "Great amount of healing combined with the ability to easily avoid death with her Fade ability, her ability to reach the enemy backline easily can make her a very dangerous support.",
     "general_rol":"Support",
     "secondary_rol":"MainSupport",
     "shields":0,
@@ -304,7 +304,7 @@
   },
   {
     "name":"Orisa",
-    "description": "",
+    "description": "A large amount of life added to having cooldowns that make it virtually invulnerable to enemy damage and a very good tank when you need to contest the objective, unfortunately an uninteresting ultimate and easy to evade and the ability of the enemy to avoid it with heroes with great agility makes your team vulnerable to dive compositions if you play with her.",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -330,6 +330,22 @@
       "Pharah",
       "Amari",
       "Fly"
+    ]
+  },
+  {
+    "name":"Ramattra",
+    "description": "",
+    "general_rol":"Tank",
+    "secondary_rol":"MainTank",
+    "shields":1000,
+    "health":450,
+    "armor":150,
+    "on_rotation":true,
+    "nicks":[
+      "Ramattra",
+      "Ramatra",
+      "Rammatra",
+      "Rammattra"
     ]
   },
   {
