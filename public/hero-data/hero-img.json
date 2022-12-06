@@ -142,10 +142,10 @@
   },
   {
     "name": "Ramattra",
-    "white-img": "images/heroes/damage/ramattra-white.png",
-    "echo-img": "images/heroes/damage/ramattra-echo.png",
-    "profile-img": "images/heroes/damage/ramattra-profile.png",
-    "prof-echo-img": "images/heroes/damage/ramattra-profile-echo.png"
+    "white-img": "images/heroes/tank/ramattra-white.png",
+    "echo-img": "images/heroes/tank/ramattra-echo.png",
+    "profile-img": "images/heroes/tank/ramattra-profile.png",
+    "prof-echo-img": "images/heroes/tank/ramattra-profile-echo.png"
   },
   {
     "name": "Reaper",
