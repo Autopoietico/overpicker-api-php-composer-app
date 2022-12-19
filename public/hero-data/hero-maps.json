@@ -8133,9 +8133,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":10,
             "Lighthouse":0,
-            "Well":-10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
