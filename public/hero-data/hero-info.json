@@ -69,7 +69,7 @@
   },
   {
     "name":"Brigitte",
-    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable, and her ultimate make it and his ultimate is the reward of those who have patiently waited to finally fight at the front of the battlefield.",
+    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable, and her ultimate is the reward of those who have patiently waited to finally fight at the front of the battlefield.",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":250,
@@ -235,7 +235,7 @@
   },
   {
     "name":"Lucio",
-    "description": "Dynamic Main Support, his ability to increase the speed at which his teammates move, allows many fast compositions such as Dive and Rush, his Soundwave is useful on maps with holes to fall into, and his healing song can make him useful in healing many heroes while dealing damage.",
+    "description": "Dynamic Main Support, his ability to increase the speed at which his teammates move, allows many fast compositions such as Dive and Rush, his Soundwave is useful on maps with holes to fall into, and his healing song can make him useful at healing many heroes while dealing damage.",
     "general_rol":"Support",
     "secondary_rol":"OffSupport",
     "shields":0,
@@ -271,7 +271,7 @@
   },
   {
     "name":"Mercy",
-    "description": "A flying support that is useful to enable teammates especially DPS, its mobility makes it extremely difficult to kill and also very good at contesting points and wasting enemies time.",
+    "description": "A flying support that is useful to enable teammates especially DPS, its mobility makes it extremely difficult to kill and also very good at contesting points and wasting enemy's time.",
     "general_rol":"Support",
     "secondary_rol":"FlexSupport",
     "shields":0,
@@ -304,7 +304,7 @@
   },
   {
     "name":"Orisa",
-    "description": "A large amount of life added to having cooldowns that make it virtually invulnerable to enemy damage and a very good tank when you need to contest the objective, unfortunately an uninteresting ultimate and easy to evade and the ability of the enemy to avoid it with heroes with great agility makes your team vulnerable to dive compositions if you play with her.",
+    "description": "A large amount of life added to low time cooldowns that make it virtually invulnerable to enemy damage and also make her a very good tank when you need to contest the objective, unfortunately an uninteresting ultimate that is easy to evade, and the ability of the enemy to avoid her with heroes with great mobility makes your team vulnerable to dive compositions if you play with her.",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
