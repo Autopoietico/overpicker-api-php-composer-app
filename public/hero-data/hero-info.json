@@ -119,7 +119,7 @@
   },
   {
     "name":"Doomfist",
-    "description": "A tank with great flight control that help them to appear from any rooftop and torment enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
+    "description": "A tank with great flight control that help them to appear from any rooftop to torment the enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
     "general_rol":"Tank",
     "secondary_rol":"MainTank",
     "shields":0,
@@ -384,7 +384,7 @@
   },
   {
     "name":"Roadhog",
-    "description": "",
+    "description": "Tank with great amount of life and survivability, his hook allows him to reposition heroes to disadvantageous positions, he lacks mobility but in the right hands he can be a deadly tank.",
     "general_rol":"Tank",
     "secondary_rol":"OffTank",
     "shields":0,
@@ -420,7 +420,7 @@
   },
   {
     "name":"Sojourn",
-    "description": "",
+    "description": "Great mobility combined with the possibility of getting easy kills thanks to the rail gun, the Power Slide allows Soujourn to quickly position himself to assassinate his targets and the Disruptor Shot is a good tool to deny zones.",
     "general_rol":"Damage",
     "secondary_rol":"HitscanDamage",
     "shields":0,
@@ -509,7 +509,7 @@
   },
   {
     "name":"Tracer",
-    "description": "",
+    "description": "Speed and high damage, Tracer can be unkillable thanks to his blinks and the ability to go back in time, this makes heroes lacking mobility very vulnerable to his Pulse Pistols, the Pulse Bomb sticks to enemies condemning them to an explosive death.",
     "general_rol":"Damage",
     "secondary_rol":"FlankDamage",
     "shields":0,
