@@ -64,7 +64,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -105,7 +105,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -146,7 +146,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -187,7 +187,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -228,7 +228,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":45,
@@ -242,7 +242,7 @@
          "Winston":15,
          "Wrecking Ball":15,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -269,7 +269,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -283,7 +283,7 @@
          "Winston":15,
          "Wrecking Ball":15,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -310,7 +310,7 @@
          "Orisa":35,
          "Pharah":25,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -346,12 +346,12 @@
          "Kiriko":45,
          "Lucio":35,
          "Mei":15,
-         "Mercy":45,
+         "Mercy":35,
          "Moira":15,
          "Orisa":35,
          "Pharah":35,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":25,
          "Roadhog":35,
          "Sigma":35,
@@ -365,7 +365,7 @@
          "Winston":25,
          "Wrecking Ball":5,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -387,12 +387,12 @@
          "Kiriko":45,
          "Lucio":35,
          "Mei":5,
-         "Mercy":35,
+         "Mercy":25,
          "Moira":15,
-         "Orisa":45,
+         "Orisa":35,
          "Pharah":15,
          "Ramattra":25,
-         "Reaper":45,
+         "Reaper":35,
          "Reinhardt":5,
          "Roadhog":45,
          "Sigma":35,
@@ -406,7 +406,7 @@
          "Winston":25,
          "Wrecking Ball":5,
          "Zarya":15,
-         "Zenyatta":15
+         "Zenyatta":5
       }
    }
 ]
