@@ -218,7 +218,7 @@
   },
   {
     "name": "Pharah",
-    "description": "",
+    "description": "Made to be constantly in the air, Pharah can be a flying terror in her own right, although she can be countered by hitscans, played smartly as a flanker she can become the perfect counter to your counters, her ultimate is in most cases a quick way to get back to spawn.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 0,
@@ -229,7 +229,7 @@
   },
   {
     "name": "Ramattra",
-    "description": "",
+    "description": "Referred to as the \"Tempo\" tank, Ramattra can shapeshift and change the way he plays from a tank with good ranged poke damage to a closer ranged tank that kills enemies with his fists, his ultimate is very good in overtime when the enemy team can't leave the objective.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 1000,
@@ -240,7 +240,7 @@
   },
   {
     "name": "Reaper",
-    "description": "",
+    "description": "Reaper is a very powerfull hero with special moves like his ultimate that can kill enemy heroes in an area, his teleport that give him advantageous positions, and his wraith form which allows him to escape from disadvantageous situations, he comes equipped with two revolvers that can useful to execute kills, specially from flanking positions.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
@@ -251,7 +251,7 @@
   },
   {
     "name": "Reinhardt",
-    "description": "",
+    "description": "The model tank of Overwatch, Reinhardt is very dangerous at close range and with his shield he can not only defend his team but also close distances, deny some cooldowns, or even give his team a little more time to protect themselves so that he can deliver the final blow. His ultimate is vulnerable to enemy shields, but if used intelligently it can change the course of the battle.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 1200,
@@ -295,7 +295,7 @@
   },
   {
     "name": "Soldier: 76",
-    "description": "",
+    "description": "A very basic hero that is easy to learn, he has good damage potential, especially against flying heroes, his running ability allows him to reposition himself to advantageous positions quickly and his ultimate is literally an aimbot that shoots on its own.",
     "general_rol": "Damage",
     "secondary_rol": "HitscanDamage",
     "shields": 0,
@@ -306,7 +306,7 @@
   },
   {
     "name": "Sombra",
-    "description": "",
+    "description": "Sombra is the ultimate spy hero, especially for her ability to traverse the battlefield undetected by the enemy, her hack instantly disables enemy abilities and leaves them vulnerable to her damage, her Translocator allows her to escape from disadvantageous positions and her EMP leaves enemies vulnerable to damage from her and her teammates.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
@@ -317,7 +317,7 @@
   },
   {
     "name": "Symmetra",
-    "description": "",
+    "description": "Very lethal at close distances, Symmetra uses light to do damage with her weapong and her turrets, but also she can build a teleport that allows it to acquire advantageous positions for her team, the damage it does with its weapon increases the longer it lasts in her target.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 125,
@@ -328,7 +328,7 @@
   },
   {
     "name": "Torbjörn",
-    "description": "",
+    "description": "The quintessential engineer hero, he can place a tower that is very good at stopping flankers, his main shot can be good for poke damage at distance, and his ultimate can deny an area of the map completely.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 0,
@@ -350,7 +350,7 @@
   },
   {
     "name": "Widowmaker",
-    "description": "",
+    "description": "The ultimate sniper, Widowmaker can be lethal on maps with long sightlines, but it is very weak against heroes that attack up close, like dive heroes, her poison mine is useful to detect flankers early.",
     "general_rol": "Damage",
     "secondary_rol": "HitscanDamage",
     "shields": 0,
@@ -361,7 +361,7 @@
   },
   {
     "name": "Winston",
-    "description": "",
+    "description": "This gorilla is very good on maps with a lot of heights, his Tesla Cannon can do a lot of damage to various targets in one area and his jump combined with the secondary shot of his cannon can take out squishy targets easily, his ultimate can be used as a second life, especially when Winston is deep in the enemy backline.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 700,
@@ -380,7 +380,7 @@
   },
   {
     "name": "Wrecking Ball",
-    "description": "",
+    "description": "The most mobile hero in the game, this tank is the nightmare of snipers, especially because in his ball form he doesn't have a critical point that can be shot, his piledriver and grappling claw can put enemies in vulnerable positions that can be exploited by his team, his ultimate denies an area of the map, but can be easily countered by other enemy abilities.",
     "general_rol": "Tank",
     "secondary_rol": "FlexTank",
     "shields": 0,
@@ -399,7 +399,7 @@
   },
   {
     "name": "Zarya",
-    "description": "",
+    "description": "Zarya raises a heavy weapon with which she carries her entire team, her shields allow her to accumulate energy which she uses to deal more damage, her ultimate stack enemies at a close distance where they are vulnerable to her high-energy beams.",
     "general_rol": "Tank",
     "secondary_rol": "OffTank",
     "shields": 625,
@@ -410,7 +410,7 @@
   },
   {
     "name": "Zenyatta",
-    "description": "",
+    "description": "A glass cannon in every sense of the word, his damage can be more useful than his healing, especially the potential damage of his discord orb, the only form of defense he has is an incredible kick that can leave enemies within striking distance.",
     "general_rol": "Support",
     "secondary_rol": "OffSupport",
     "shields": 150,
