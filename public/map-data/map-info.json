@@ -12,7 +12,7 @@
   {
     "name": "Busan",
     "type": "Control",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "Downtown",
       "Sanctuary",
@@ -52,7 +52,7 @@
   {
     "name": "Eichenwalde",
     "type": "Hybrid",
-    "onPool": true,
+    "onPool": false,
     "points": [
       "A",
       "B",
@@ -81,7 +81,7 @@
   {
     "name": "Havana",
     "type": "Escort",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -180,7 +180,7 @@
   {
     "name": "Numbani",
     "type": "Hybrid",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
