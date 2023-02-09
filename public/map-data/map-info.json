@@ -1,5 +1,15 @@
 [
   {
+    "name": "Antarctic Peninsula",
+    "type": "Control",
+    "onPool": true,
+    "points": [
+      "Labs",
+      "Icebreaker",
+      "Sublevel"
+    ]
+  },
+  {
     "name": "Blizzard World",
     "type": "Hybrid",
     "onPool": true,
