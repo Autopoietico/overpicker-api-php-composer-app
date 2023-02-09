@@ -12,7 +12,7 @@
   },
   {
     "name": "Ashe",
-    "description": "Histcan dps with good terrain control, his dynamite is effective against compositions that tend to go together, his ultimate BOB is very good to contest points and angles.",
+    "description": "Hitscan DPS with good terrain control, her dynamite is effective against compositions that tend to group together, her ultimate BOB is very good for contesting points and checking angles.",
     "general_rol": "Damage",
     "secondary_rol": "HitscanDamage",
     "shields": 0,
@@ -45,7 +45,7 @@
   },
   {
     "name": "Brigitte",
-    "description": "Although her abilities give the impression that Brigitte should be played on the front lines, this hero is best played defensively in advantageous positions, her ranged healing, shield and bash can make the enemy's backline unkillable, and her ultimate is the reward of those who have patiently waited to finally fight at the front of the battlefield.",
+    "description": "Although her abilities suggest Brigitte should be played on the front lines, she's better played in a defensive, advantageous position. Her range healing, shield, and bash make the enemy backline unkillable, and her ultimate is the reward for those who've patiently waited to engage in battle at the front line.",
     "general_rol": "Support",
     "secondary_rol": "OffSupport",
     "shields": 250,
@@ -78,7 +78,7 @@
   },
   {
     "name": "Doomfist",
-    "description": "A tank with great flight control that help them to appear from any rooftop to torment the enemy lines, his fist is especially useful in maps with holes to fall into and his ultimate is practically an extra cooldown when fighting.",
+    "description": "A tank with great flight control helps him appear from any rooftop to torment the enemy lines. His fist is especially useful on maps with holes to fall into, and his ultimate is practically an extra cooldown when fighting.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 0,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Echo",
-    "description": "Flying hero with great damage potential, his sticky bombs can be very effective against heroes that tend to stay in one position and his beam is very effective at finishing low health targets, his ultimate requires extensive knowledge of all Overwatch heroes to be used properly.",
+    "description": "Flying hero with high damage potential, his sticky bombs are effective against heroes that tend to stay in one position, and his beam is effective at finishing low health targets. His ultimate requires extensive knowledge of all Overwatch heroes to be used effectively.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
@@ -100,7 +100,7 @@
   },
   {
     "name": "Genji",
-    "description": "Hero with great mobility, effective in maps with flanking lanes and various heights, his ultimate is especially strong and devastating, his mid game depending on how much damage his shurikens do can sometimes be just an excuse to farm his ultimate or also useful to assassinate backlines.",
+    "description": "Hero with great mobility, effective on maps with flanking lanes and multiple heights. His ultimate is particularly strong and devastating. Depending on the damage dealt by his shurikens, his mid-game performance can either serve as a means to build up his ultimate or to assassinate the enemy backline.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
@@ -111,7 +111,7 @@
   },
   {
     "name": "Hanzo",
-    "description": "Sniper with great mobility, very good at pressuring tanks with his Storm Arrows, and also to defend points against flankers with Sonic Arrow, his ultimate is very good in combo with other ultimates, especially with Zarya's Graviton.",
+    "description": "Sniper with great mobility, very effective at pressuring tanks with his Storm Arrows and defending points against flankers with Sonic Arrow. His ultimate is very strong in combination with other ultimates, especially when used in conjunction with Zarya's Graviton.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 0,
@@ -122,26 +122,19 @@
   },
   {
     "name": "Junker Queen",
-    "description": "Feast or famine tank that heals the more damage he does, his knife and axe allow him to make devastating melee attacks that bleed and lure his victims, his ultimate not only does the same but also prevents his enemies from being healed.",
+    "description": "Feast or famine tank that heals the more damage she does, her knife and axe allow her to make devastating melee attacks that cause bleeding and lure her victims, her ultimate not only does the same but also prevents her enemies from being healed.",
     "general_rol": "Tank",
     "secondary_rol": "OffTank",
     "shields": 0,
     "health": 425,
     "armor": 0,
     "on_rotation": true,
-    "nicks": [
-      "Queen",
-      "Junker",
-      "Wastelander",
-      "Junk",
-      "Odessa",
-      "Dez",
-      "Stone"
+    "nicks": ["Queen", "Junker", "Wastelander", "Junk", "Odessa", "Dez", "Stone"
     ]
   },
   {
     "name": "Junkrat",
-    "description": "High damage and zone denial define this hero, he can end up being vulnerable against heroes with high mobility, but this hero also has the ability to cause chaos in the enemy lines, his ultimate is weak against hitscans, but if used correctly he can change the course of battle quickly.",
+    "description": "High damage and area denial are defining traits of this hero, though he may be vulnerable to heroes with high mobility. However, he also has the ability to wreak havoc in enemy lines. His ultimate may be weak against hitscan heroes, but if used correctly, it can quickly change the course of battle.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 0,
@@ -152,7 +145,7 @@
   },
   {
     "name": "Kiriko",
-    "description": "A support designed to do damage, her teleport makes her elusive and Suzu Protection can prevent other supports like Ana from disrupting your team, Kitsune Rush accelerates your team's cooldowns and damage in ways the enemy team can't handle.",
+    "description": "A support designed to deal damage, her teleport makes her elusive, and the Suzu Protection can prevent other supports like Ana from disrupting your team. The Kitsune Rush accelerates your team's cooldowns and damage in ways the enemy team can't handle.",
     "general_rol": "Support",
     "secondary_rol": "OffSupport",
     "shields": 0,
@@ -163,7 +156,7 @@
   },
   {
     "name": "Lucio",
-    "description": "Dynamic Main Support, his ability to increase the speed at which his teammates move, allows many fast compositions such as Dive and Rush, his Soundwave is useful on maps with holes to fall into, and his healing song can make him useful at healing many heroes while dealing damage.",
+    "description": "Dynamic main support, his ability to increase the speed of his teammates' movement enables many fast compositions such as Dive and Rush. His Soundwave is useful on maps with holes to fall into, and his Healing Song can make him effective in healing multiple heroes while dealing damage.",
     "general_rol": "Support",
     "secondary_rol": "OffSupport",
     "shields": 0,
@@ -174,7 +167,7 @@
   },
   {
     "name": "Mei",
-    "description": "Hybrid DPS that works as a second tank, his wall allows him to trap enemies, especially the enemy tank that has to cross a choke, his ultimate is weak, but combined with other skills or ultimates could be deadly. ",
+    "description": "Hybrid DPS that can serve as a secondary tank. Her wall allows her to trap enemies, especially enemy tanks crossing a choke. Her ultimate is weak, but when combined with other skills or ultimates, it could be deadly.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 0,
@@ -185,7 +178,7 @@
   },
   {
     "name": "Mercy",
-    "description": "A flying support that is useful to enable teammates especially DPS, its mobility makes it extremely difficult to kill and also very good at contesting points and wasting enemy's time.",
+    "description": "A flying support who enables her teammates, especially damage heroes, with her healing and damage boost. As a moth, her mobility makes her difficult to kill, making her effective in contesting points and wasting the enemy's time.",
     "general_rol": "Support",
     "secondary_rol": "FlexSupport",
     "shields": 0,
@@ -207,7 +200,7 @@
   },
   {
     "name": "Orisa",
-    "description": "A large amount of life added to low time cooldowns that make it virtually invulnerable to enemy damage and also make her a very good tank when you need to contest the objective, unfortunately an uninteresting ultimate that is easy to evade, and the ability of the enemy to avoid her with heroes with great mobility makes your team vulnerable to dive compositions if you play with her.",
+    "description": "A tank with a large amount of health and low cooldown times that make her virtually invulnerable to enemy damage and also a strong option for contesting objectives. Unfortunately, her ultimate is unimpressive and easy to evade, and enemy heroes with high mobility can make your team vulnerable to dive compositions if she is played.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 0,
@@ -251,7 +244,7 @@
   },
   {
     "name": "Reinhardt",
-    "description": "The model tank of Overwatch, Reinhardt is very dangerous at close range and with his shield he can not only defend his team but also close distances, deny some cooldowns, or even give his team a little more time to protect themselves so that he can deliver the final blow. His ultimate is vulnerable to enemy shields, but if used intelligently it can change the course of the battle.",
+    "description": "The epitome of a tank in Overwatch, Reinhardt is formidable at close range and can defend his team with his shield, closing distances, interrupting enemy cooldowns, and buying his team more time for protection. His ultimate is vulnerable to enemy shields, but if used smartly, it can alter the outcome of the battle.",
     "general_rol": "Tank",
     "secondary_rol": "MainTank",
     "shields": 1200,
@@ -262,7 +255,7 @@
   },
   {
     "name": "Roadhog",
-    "description": "Tank with great amount of life and survivability, his hook allows him to reposition heroes to disadvantageous positions, he lacks mobility but in the right hands he can be a deadly tank.",
+    "description": "Tank with a high amount of health and survivability, his hook allows him to reposition heroes to disadvantageous positions. He lacks mobility, but in the right hands, he can be a deadly tank.",
     "general_rol": "Tank",
     "secondary_rol": "OffTank",
     "shields": 0,
@@ -284,7 +277,7 @@
   },
   {
     "name": "Sojourn",
-    "description": "Great mobility combined with the possibility of getting easy kills thanks to the rail gun, the Power Slide allows Soujourn to quickly position himself to assassinate his targets and the Disruptor Shot is a good tool to deny zones.",
+    "description": "Great mobility combined with the possibility of easy kills thanks to the rail gun. The Power Slide allows Sojourn to quickly position himself to assassinate his targets, and the Disruptor Shot is a good tool for denying zones.",
     "general_rol": "Damage",
     "secondary_rol": "HitscanDamage",
     "shields": 0,
@@ -317,7 +310,7 @@
   },
   {
     "name": "Symmetra",
-    "description": "Very lethal at close distances, Symmetra uses light to do damage with her weapong and her turrets, but also she can build a teleport that allows it to acquire advantageous positions for her team, the damage it does with its weapon increases the longer it lasts in her target.",
+    "description": "Very lethal at close distances, Symmetra uses light to do damage with her weapon and her turrets, but also she can build a teleport that allows her team to acquire advantageous positions. The damage her weapon does increases the longer it stays on target.",
     "general_rol": "Damage",
     "secondary_rol": "ProjectileDamage",
     "shields": 125,
@@ -339,7 +332,7 @@
   },
   {
     "name": "Tracer",
-    "description": "Speed and high damage, Tracer can be unkillable thanks to his blinks and the ability to go back in time, this makes heroes lacking mobility very vulnerable to his Pulse Pistols, the Pulse Bomb sticks to enemies condemning them to an explosive death.",
+    "description": "Speed and high damage combine in Tracer, who can be almost unkillable thanks to his blinks and the ability to go back in time. This makes heroes lacking mobility very vulnerable to his Pulse Pistols, and the Pulse Bomb sticks to enemies, condemning them to an explosive death.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
@@ -350,7 +343,7 @@
   },
   {
     "name": "Widowmaker",
-    "description": "The ultimate sniper, Widowmaker can be lethal on maps with long sightlines, but it is very weak against heroes that attack up close, like dive heroes, her poison mine is useful to detect flankers early.",
+    "description": "The ultimate sniper, Widowmaker is lethal on maps with long sightlines but is very weak against heroes that attack up close, like dive heroes. Her poison mine is useful for detecting flankers early.",
     "general_rol": "Damage",
     "secondary_rol": "HitscanDamage",
     "shields": 0,
@@ -380,7 +373,7 @@
   },
   {
     "name": "Wrecking Ball",
-    "description": "The most mobile hero in the game, this tank is the nightmare of snipers, especially because in his ball form he doesn't have a critical point that can be shot, his piledriver and grappling claw can put enemies in vulnerable positions that can be exploited by his team, his ultimate denies an area of the map, but can be easily countered by other enemy abilities.",
+    "description": "The most mobile hero in the game, this tank is the nightmare of snipers, mostly because in his ball form, he doesn't have a critical point that can be shot. His piledriver and grappling claw can put enemies in vulnerable positions that can be exploited by his team. His ultimate denies an area of the map, but it can be easily countered by other enemy abilities.",
     "general_rol": "Tank",
     "secondary_rol": "FlexTank",
     "shields": 0,
