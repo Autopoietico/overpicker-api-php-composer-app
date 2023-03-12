@@ -570,7 +570,7 @@
       "Zenyatta":20
    },
    "Mei":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":10,
       "Baptiste":20,
       "Bastion":10,
@@ -760,7 +760,7 @@
       "Zenyatta":30
    },
    "Ramattra":{
-      "Ana":10,
+      "Ana":0,
       "Ashe":10,
       "Baptiste":20,
       "Bastion":0,

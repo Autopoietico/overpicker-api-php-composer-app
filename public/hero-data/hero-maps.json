@@ -37,7 +37,7 @@
             "C":10
          },
          "Rialto":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":10
          },
@@ -47,7 +47,7 @@
             "C":10
          },
          "Shambali Monastery":{
-            "A":10,
+            "A":0,
             "B":0,
             "C":10
          },
@@ -68,7 +68,7 @@
          },
          "Eichenwalde":{
             "A":0,
-            "B":10,
+            "B":0,
             "C":10
          },
          "Hollywood":{
@@ -107,8 +107,8 @@
             "B":10
          },
          "Paris":{
-            "A":10,
-            "B":0
+            "A":0,
+            "B":10
          },
          "Temple of Anubis":{
             "A":10,
@@ -146,7 +146,7 @@
          "Shambali Monastery":{
             "A":10,
             "B":10,
-            "C":0
+            "C":10
          },
          "Watchpoint: Gibraltar":{
             "A":10,
@@ -213,9 +213,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":10,
             "Lighthouse":10,
-            "Well":10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":0,

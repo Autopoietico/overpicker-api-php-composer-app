@@ -3,7 +3,7 @@
       "Ana":0,
       "Ashe":0,
       "Baptiste":20,
-      "Bastion":10,
+      "Bastion":20,
       "Brigitte":20,
       "Cassidy":10,
       "D.Va":20,
@@ -11,21 +11,21 @@
       "Echo":20,
       "Genji":30,
       "Hanzo":0,
-      "Junker Queen":10,
+      "Junker Queen":20,
       "Junkrat":0,
       "Kiriko":0,
-      "Lucio":10,
-      "Mei":10,
+      "Lucio":20,
+      "Mei":20,
       "Mercy":20,
       "Moira":0,
-      "Orisa":10,
+      "Orisa":20,
       "Pharah":20,
       "Ramattra":20,
       "Reaper":20,
       "Reinhardt":20,
       "Roadhog":20,
       "Sigma":10,
-      "Soldier: 76":10,
+      "Soldier: 76":20,
       "Sojourn":10,
       "Sombra":20,
       "Symmetra":20,
@@ -34,7 +34,7 @@
       "Widowmaker":0,
       "Winston":20,
       "Wrecking Ball":20,
-      "Zarya":10,
+      "Zarya":20,
       "Zenyatta":0
    },
    "Ashe":{
@@ -114,7 +114,7 @@
       "Zenyatta":20
    },
    "Bastion":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":0,
       "Baptiste":20,
       "Bastion":0,
@@ -266,7 +266,7 @@
       "Zenyatta":20
    },
    "Doomfist":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":10,
       "Baptiste":0,
       "Bastion":0,
@@ -418,7 +418,7 @@
       "Zenyatta":10
    },
    "Junker Queen":{
-      "Ana":0,
+      "Ana":20,
       "Ashe":10,
       "Baptiste":10,
       "Bastion":10,
@@ -532,7 +532,7 @@
       "Zenyatta":20
    },
    "Lucio":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":0,
       "Baptiste":20,
       "Bastion":0,
@@ -570,7 +570,7 @@
       "Zenyatta":0
    },
    "Mei":{
-      "Ana":0,
+      "Ana":20,
       "Ashe":0,
       "Baptiste":10,
       "Bastion":10,
@@ -684,7 +684,7 @@
       "Zenyatta":0
    },
    "Orisa":{
-      "Ana":0,
+      "Ana":20,
       "Ashe":0,
       "Baptiste":0,
       "Bastion":0,
@@ -1026,7 +1026,7 @@
       "Zenyatta":20
    },
    "Sombra":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":10,
       "Baptiste":0,
       "Bastion":10,
@@ -1292,7 +1292,7 @@
       "Zenyatta":10
    },
    "Zarya":{
-      "Ana":10,
+      "Ana":20,
       "Ashe":10,
       "Baptiste":10,
       "Bastion":20,
