@@ -159,7 +159,7 @@
          "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":45,
-         "Zarya":5,
+         "Zarya":15,
          "Zenyatta":35
       }
    },
@@ -182,7 +182,7 @@
          "Kiriko":45,
          "Lucio":25,
          "Mei":25,
-         "Mercy":35,
+         "Mercy":25,
          "Moira":15,
          "Orisa":15,
          "Pharah":15,
@@ -200,7 +200,7 @@
          "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":45,
-         "Zarya":5,
+         "Zarya":15,
          "Zenyatta":35
       }
    },
@@ -241,7 +241,7 @@
          "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":35,
-         "Zarya":5,
+         "Zarya":15,
          "Zenyatta":25
       }
    },
@@ -305,7 +305,7 @@
          "Kiriko":45,
          "Lucio":25,
          "Mei":25,
-         "Mercy":35,
+         "Mercy":25,
          "Moira":25,
          "Orisa":25,
          "Pharah":15,
@@ -323,7 +323,7 @@
          "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":35,
-         "Zarya":15,
+         "Zarya":25,
          "Zenyatta":25
       }
    },
@@ -364,7 +364,7 @@
          "Widowmaker":25,
          "Winston":25,
          "Wrecking Ball":35,
-         "Zarya":15,
+         "Zarya":25,
          "Zenyatta":25
       }
    },
@@ -387,7 +387,7 @@
          "Kiriko":45,
          "Lucio":25,
          "Mei":25,
-         "Mercy":35,
+         "Mercy":25,
          "Moira":15,
          "Orisa":15,
          "Pharah":15,
@@ -405,7 +405,7 @@
          "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":45,
-         "Zarya":5,
+         "Zarya":15,
          "Zenyatta":25
       }
    },
@@ -428,7 +428,7 @@
          "Kiriko":45,
          "Lucio":25,
          "Mei":15,
-         "Mercy":25,
+         "Mercy":15,
          "Moira":5,
          "Orisa":5,
          "Pharah":5,
@@ -446,7 +446,7 @@
          "Widowmaker":45,
          "Winston":35,
          "Wrecking Ball":45,
-         "Zarya":5,
+         "Zarya":15,
          "Zenyatta":35
       }
    },
@@ -457,38 +457,38 @@
          "Ashe":45,
          "Baptiste":15,
          "Bastion":15,
-         "Brigitte":25,
+         "Brigitte":15,
          "Cassidy":45,
-         "D.Va":25,
+         "D.Va":35,
          "Doomfist":25,
          "Echo":25,
          "Genji":5,
          "Hanzo":25,
          "Junker Queen":15,
-         "Junkrat":25,
+         "Junkrat":15,
          "Kiriko":45,
          "Lucio":25,
-         "Mei":15,
+         "Mei":25,
          "Mercy":25,
          "Moira":5,
          "Orisa":5,
          "Pharah":15,
-         "Ramattra":45,
-         "Reaper":15,
+         "Ramattra":35,
+         "Reaper":5,
          "Reinhardt":35,
          "Roadhog":15,
          "Sigma":35,
          "Sojourn":35,
-         "Soldier: 76":35,
+         "Soldier: 76":25,
          "Sombra":15,
-         "Symmetra":15,
-         "Torbjörn":25,
+         "Symmetra":25,
+         "Torbjörn":35,
          "Tracer":45,
          "Widowmaker":45,
-         "Winston":15,
+         "Winston":25,
          "Wrecking Ball":35,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":35
       }
    }
 ]
