@@ -419,6 +419,36 @@
       },
       "Control":0
    },
+   "Lifeweaver":{
+      "Attack":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Push":{
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Control":10
+   },
    "Lucio":{
       "Attack":{
          "Assault":{

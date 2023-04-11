@@ -155,6 +155,17 @@
     "nicks": ["Kiriko", "Kamori", "Protector", "Kunoichi", "Fox", "Kitsune"]
   },
   {
+    "name": "Lifeweaver",
+    "description": "",
+    "general_rol": "Support",
+    "secondary_rol": "OffSupport",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["lifeweaver","life","weaver","tree","flower"]
+  },
+  {
     "name": "Lucio",
     "description": "Dynamic main support, his ability to increase the speed of his teammates' movement enables many fast compositions such as Dive and Rush. His Soundwave is useful on maps with holes to fall into, and his Healing Song can make him effective in healing multiple heroes while dealing damage.",
     "general_rol": "Support",

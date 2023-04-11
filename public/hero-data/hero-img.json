@@ -99,6 +99,13 @@
     "prof-echo-img": "images/heroes/support/kiriko-profile-echo.png"
   },
   {
+    "name": "Lifeweaver",
+    "white-img": "images/heroes/support/lifeweaver-white.png",
+    "echo-img": "images/heroes/support/lifeweaver-echo.png",
+    "profile-img": "images/heroes/support/lifeweaver-profile.png",
+    "prof-echo-img": "images/heroes/support/lifeweaver-profile-echo.png"
+  }, 
+  {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.png",
     "echo-img": "images/heroes/support/lucio-echo.png",
