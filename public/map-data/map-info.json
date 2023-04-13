@@ -22,7 +22,7 @@
   {
     "name": "Busan",
     "type": "Control",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "Downtown",
       "Sanctuary",
@@ -62,7 +62,7 @@
   {
     "name": "Eichenwalde",
     "type": "Hybrid",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -101,7 +101,7 @@
   {
     "name": "Hollywood",
     "type": "Hybrid",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -277,7 +277,7 @@
   {
     "name": "Watchpoint: Gibraltar",
     "type": "Escort",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
