@@ -11,12 +11,12 @@
       "Echo":20,
       "Genji":30,
       "Hanzo":0,
-      "Junker Queen":20,
+      "Junker Queen":10,
       "Junkrat":0,
-      "Kiriko":0,
+      "Kiriko":10,
       "Lifeweaver":20,
-      "Lucio":20,
-      "Mei":20,
+      "Lucio":10,
+      "Mei":10,
       "Mercy":20,
       "Moira":0,
       "Orisa":20,
@@ -24,18 +24,18 @@
       "Ramattra":20,
       "Reaper":20,
       "Reinhardt":20,
-      "Roadhog":20,
+      "Roadhog":10,
       "Sigma":10,
       "Soldier: 76":20,
       "Sojourn":10,
-      "Sombra":20,
-      "Symmetra":20,
+      "Sombra":10,
+      "Symmetra":10,
       "Torbjörn":0,
-      "Tracer":20,
+      "Tracer":10,
       "Widowmaker":0,
       "Winston":20,
-      "Wrecking Ball":20,
-      "Zarya":20,
+      "Wrecking Ball":10,
+      "Zarya":10,
       "Zenyatta":0
    },
    "Ashe":{
@@ -429,7 +429,7 @@
       "Zenyatta":10
    },
    "Junker Queen":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":10,
       "Bastion":10,
@@ -507,7 +507,7 @@
       "Zenyatta":10
    },
    "Kiriko":{
-      "Ana":0,
+      "Ana":10,
       "Ashe":0,
       "Baptiste":10,
       "Bastion":20,
@@ -585,7 +585,7 @@
       "Zenyatta":0
    },
    "Lucio":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":0,
       "Baptiste":20,
       "Bastion":0,
@@ -624,7 +624,7 @@
       "Zenyatta":0
    },
    "Mei":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":10,
       "Bastion":20,
@@ -936,7 +936,7 @@
       "Zenyatta":20
    },
    "Roadhog":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":0,
       "Baptiste":20,
       "Bastion":10,
@@ -1092,7 +1092,7 @@
       "Zenyatta":20
    },
    "Sombra":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":0,
       "Bastion":10,
@@ -1170,7 +1170,7 @@
       "Zenyatta":20
    },
    "Torbjörn":{
-      "Ana":10,
+      "Ana":0,
       "Ashe":0,
       "Baptiste":20,
       "Bastion":10,
@@ -1209,7 +1209,7 @@
       "Zenyatta":10
    },
    "Tracer":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":0,
       "Bastion":0,
@@ -1326,7 +1326,7 @@
       "Zenyatta":20
    },
    "Wrecking Ball":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":0,
       "Bastion":0,
@@ -1365,7 +1365,7 @@
       "Zenyatta":10
    },
    "Zarya":{
-      "Ana":20,
+      "Ana":10,
       "Ashe":10,
       "Baptiste":10,
       "Bastion":20,
