@@ -2694,6 +2694,251 @@
          }
       }
    },
+   "Illari":{
+      "Attack":{
+         "Hanamura":{
+            "A":10,
+            "B":0
+         },
+         "Horizon Lunar Colony":{
+            "A":0,
+            "B":0
+         },
+         "Paris":{
+            "A":0,
+            "B":0
+         },
+         "Temple of Anubis":{
+            "A":10,
+            "B":10
+         },
+         "Volskaya Industries":{
+            "A":10,
+            "B":10
+         },
+         "Circuit Royal":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "Dorado":{
+            "A":0,
+            "B":10,
+            "C":0
+         },
+         "Junkertown":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "Rialto":{
+            "A":10,
+            "B":0,
+            "C":0
+         },
+         "Route 66":{
+            "A":10,
+            "B":0,
+            "C":0
+         },
+         "Shambali Monastery":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "Watchpoint: Gibraltar":{
+            "A":0,
+            "B":0,
+            "C":0
+         },
+         "Havana":{
+            "A":0,
+            "B":0,
+            "C":0
+         },
+         "Blizzard World":{
+            "A":0,
+            "B":0,
+            "C":0
+         },
+         "Eichenwalde":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Hollywood":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "King's Row":{
+            "A":0,
+            "B":10,
+            "C":0
+         },
+         "Midtown":{
+            "A":10,
+            "B":0,
+            "C":0
+         },
+         "Numbani":{
+            "A":0,
+            "B":0,
+            "C":0
+         },
+         "Paraíso":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Hanamura":{
+            "A":10,
+            "B":0
+         },
+         "Horizon Lunar Colony":{
+            "A":10,
+            "B":0
+         },
+         "Paris":{
+            "A":10,
+            "B":10
+         },
+         "Temple of Anubis":{
+            "A":10,
+            "B":10
+         },
+         "Volskaya Industries":{
+            "A":10,
+            "B":10
+         },
+         "Circuit Royal":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Dorado":{
+            "A":10,
+            "B":0,
+            "C":0
+         },
+         "Junkertown":{
+            "A":0,
+            "B":10,
+            "C":0
+         },
+         "Rialto":{
+            "A":10,
+            "B":10,
+            "C":10
+         },
+         "Route 66":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Shambali Monastery":{
+            "A":10,
+            "B":10,
+            "C":0
+         },
+         "Watchpoint: Gibraltar":{
+            "A":0,
+            "B":0,
+            "C":0
+         },
+         "Havana":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "Blizzard World":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "Eichenwalde":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Hollywood":{
+            "A":0,
+            "B":0,
+            "C":10
+         },
+         "King's Row":{
+            "A":10,
+            "B":10,
+            "C":10
+         },
+         "Midtown":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Numbani":{
+            "A":10,
+            "B":0,
+            "C":10
+         },
+         "Paraíso":{
+            "A":10,
+            "B":10,
+            "C":0
+         }
+      },
+      "Push":{
+         "Colosseo":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Esperança":{
+            "Ally":10,
+            "Mid":0,
+            "Enemy":0
+         },
+         "New Queen Street":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":0
+         }
+      },
+      "Control":{
+         "Ilios":{
+            "Ruins":10,
+            "Lighthouse":10,
+            "Well":0
+         },
+         "Lijiang Tower":{
+            "Night Market":10,
+            "Garden":10,
+            "Control Center":10
+         },
+         "Nepal":{
+            "Village":10,
+            "Sanctum":10,
+            "Shrine":0
+         },
+         "Oasis":{
+            "City Center":0,
+            "Gardens":0,
+            "University":10
+         },
+         "Antarctic Peninsula":{
+            "Labs":10,
+            "Icebreaker":10,
+            "Sublevel":0
+         },
+         "Busan":{
+            "Sanctuary":10,
+            "Downtown":0,
+            "MEKA Base":0
+         }
+      }
+   },
    "Junker Queen":{
       "Attack":{
          "Hanamura":{

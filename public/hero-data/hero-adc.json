@@ -329,6 +329,36 @@
       },
       "Control":0
    },
+   "Illari":{
+      "Attack":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":10,
+            "B":10,
+            "C":10
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":10,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Push":{
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Control":0
+   },
    "Junker Queen":{
       "Attack":{
          "Assault":{
@@ -433,7 +463,7 @@
       },
       "Defense":{
          "Assault":{
-            "A":0,
+            "A":10,
             "B":0
          },
          "Escort":{

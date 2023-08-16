@@ -121,6 +121,17 @@
     "nicks": ["Hanzo", "Archer", "Sasuke"]
   },
   {
+    "name": "Illari",
+    "description": "",
+    "general_rol": "Support",
+    "secondary_rol": "OffSupport",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["illari","sun","sunlight","peru","inti"]
+  },
+  {
     "name": "Junker Queen",
     "description": "Feast or famine tank that heals the more damage she does, her knife and axe allow her to make devastating melee attacks that cause bleeding and lure her victims, her ultimate not only does the same but also prevents her enemies from being healed.",
     "general_rol": "Tank",

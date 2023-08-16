@@ -78,6 +78,13 @@
     "prof-echo-img": "images/heroes/damage/hanzo-profile-echo.png"
   },
   {
+    "name": "Illari",
+    "white-img": "images/heroes/support/illari-white.png",
+    "echo-img": "images/heroes/support/illari-echo.png",
+    "profile-img": "images/heroes/support/illari-profile.png",
+    "prof-echo-img": "images/heroes/support/illari-profile-echo.png"
+  },
+  {
     "name": "Junker Queen",
     "white-img": "images/heroes/tank/junker-queen-white.png",
     "echo-img": "images/heroes/tank/junker-queen-echo.png",
