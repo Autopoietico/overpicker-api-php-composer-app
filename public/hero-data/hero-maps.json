@@ -220,11 +220,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
+            "Market":10,
             "Gardens":0,
             "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -481,11 +481,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -742,11 +742,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -1003,9 +1003,9 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
             "Ruins":0
          }
@@ -1264,10 +1264,10 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
+            "Market":10,
             "Gardens":0,
-            "Palace":0,
-            "Temple":0,
+            "Palace":10,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -1525,11 +1525,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -1786,10 +1786,10 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
+            "Market":10,
             "Gardens":0,
             "Palace":0,
-            "Temple":0,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -2050,7 +2050,7 @@
             "Market":0,
             "Gardens":0,
             "Palace":0,
-            "Temple":0,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -2309,10 +2309,10 @@
          },
          "Suravasa":{
             "Market":0,
-            "Gardens":0,
+            "Gardens":10,
             "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -2572,7 +2572,7 @@
             "Market":0,
             "Gardens":0,
             "Palace":0,
-            "Temple":0,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -2830,11 +2830,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -3091,11 +3091,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -3352,11 +3352,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -4135,11 +4135,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -4399,7 +4399,7 @@
             "Market":0,
             "Gardens":0,
             "Palace":0,
-            "Temple":0,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -4657,9 +4657,9 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
             "Ruins":0
          }
@@ -4919,10 +4919,10 @@
          },
          "Suravasa":{
             "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -5180,7 +5180,7 @@
          },
          "Suravasa":{
             "Market":0,
-            "Gardens":0,
+            "Gardens":10,
             "Palace":0,
             "Temple":0,
             "Ruins":0
@@ -5440,11 +5440,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -5702,10 +5702,10 @@
          },
          "Suravasa":{
             "Market":0,
-            "Gardens":0,
+            "Gardens":10,
             "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -5962,11 +5962,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -6225,8 +6225,8 @@
          "Suravasa":{
             "Market":0,
             "Gardens":0,
-            "Palace":0,
-            "Temple":0,
+            "Palace":10,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -6485,10 +6485,10 @@
          },
          "Suravasa":{
             "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -6745,10 +6745,10 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
+            "Market":10,
+            "Gardens":10,
             "Palace":0,
-            "Temple":0,
+            "Temple":10,
             "Ruins":0
          }
       },
@@ -7006,9 +7006,9 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
             "Ruins":0
          }
@@ -7267,11 +7267,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -7532,7 +7532,7 @@
             "Gardens":0,
             "Palace":0,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -7789,11 +7789,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -8050,7 +8050,7 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
+            "Market":10,
             "Gardens":0,
             "Palace":0,
             "Temple":0,
@@ -8311,11 +8311,11 @@
             "Bomb Flats":10
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
@@ -8833,11 +8833,11 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
+            "Market":10,
             "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -9357,9 +9357,9 @@
          "Suravasa":{
             "Market":0,
             "Gardens":0,
-            "Palace":0,
-            "Temple":0,
-            "Ruins":0
+            "Palace":10,
+            "Temple":10,
+            "Ruins":10
          }
       },
       "Control":{
@@ -9877,10 +9877,10 @@
             "Bomb Flats":0
          },
          "Suravasa":{
-            "Market":0,
-            "Gardens":0,
-            "Palace":0,
-            "Temple":0,
+            "Market":10,
+            "Gardens":10,
+            "Palace":10,
+            "Temple":10,
             "Ruins":0
          }
       },
