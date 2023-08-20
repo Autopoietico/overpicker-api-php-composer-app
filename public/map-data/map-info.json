@@ -178,6 +178,18 @@
     ]
   },
   {
+    "name": "New Junk City",
+    "type": "Flashpoint",
+    "onPool": true,
+    "points": [
+      "Arena",
+      "Ducts",
+      "Refinery",
+      "Junkyard",
+      "Bomb Flats"
+    ]
+  },
+  {
     "name": "New Queen Street",
     "type": "Push",
     "onPool": true,
@@ -254,6 +266,18 @@
       "A",
       "B",
       "C"
+    ]
+  },
+  {
+    "name": "Suravasa",
+    "type": "Flashpoint",
+    "onPool": true,
+    "points": [
+      "Market",
+      "Gardens",
+      "Palace",
+      "Temple",
+      "Ruins"
     ]
   },
   {

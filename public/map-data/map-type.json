@@ -23,6 +23,16 @@
     ]
   },
   {
+    "name": "Flashpoint",
+    "internal_type": [
+      "Flashpoint",
+      "Flashpoint",
+      "Flashpoint",
+      "Flashpoint",
+      "Flashpoint"
+    ]
+  },
+  {
     "name": "Hybrid",
     "internal_type": [
       "Assault",
