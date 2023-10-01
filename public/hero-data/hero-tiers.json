@@ -17,7 +17,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":5,
+         "Lifeweaver":15,
          "Lucio":5,
          "Mei":15,
          "Mercy":25,
@@ -39,7 +39,7 @@
          "Winston":35,
          "Wrecking Ball":25,
          "Zarya":45,
-         "Zenyatta":15
+         "Zenyatta":5
       }
    },
    {
@@ -60,14 +60,14 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":15,
          "Mei":15,
          "Mercy":25,
          "Moira":15,
          "Orisa":35,
          "Pharah":5,
-         "Ramattra":5,
+         "Ramattra":15,
          "Reaper":15,
          "Reinhardt":25,
          "Roadhog":5,
@@ -103,7 +103,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":15,
          "Mei":15,
          "Mercy":25,
@@ -118,14 +118,14 @@
          "Sojourn":25,
          "Soldier: 76":45,
          "Sombra":5,
-         "Symmetra":25,
+         "Symmetra":35,
          "Torbjörn":35,
          "Tracer":35,
          "Widowmaker":25,
          "Winston":25,
          "Wrecking Ball":15,
          "Zarya":45,
-         "Zenyatta":15
+         "Zenyatta":5
       }
    },
    {
@@ -146,7 +146,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":15,
          "Mei":15,
          "Mercy":35,
@@ -157,7 +157,7 @@
          "Reaper":15,
          "Reinhardt":25,
          "Roadhog":5,
-         "Sigma":35,
+         "Sigma":25,
          "Sojourn":25,
          "Soldier: 76":45,
          "Sombra":5,
@@ -189,8 +189,8 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
-         "Lucio":5,
+         "Lifeweaver":25,
+         "Lucio":15,
          "Mei":15,
          "Mercy":35,
          "Moira":15,
@@ -221,7 +221,7 @@
          "Ashe":25,
          "Baptiste":25,
          "Bastion":45,
-         "Brigitte":25,
+         "Brigitte":15,
          "Cassidy":15,
          "D.Va":35,
          "Doomfist":25,
@@ -232,7 +232,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":5,
          "Mei":15,
          "Mercy":35,
@@ -250,7 +250,7 @@
          "Symmetra":35,
          "Torbjörn":35,
          "Tracer":25,
-         "Widowmaker":25,
+         "Widowmaker":15,
          "Winston":15,
          "Wrecking Ball":15,
          "Zarya":45,
@@ -275,7 +275,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":5,
          "Mei":15,
          "Mercy":35,
@@ -318,7 +318,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":5,
+         "Lifeweaver":15,
          "Lucio":5,
          "Mei":15,
          "Mercy":25,
@@ -340,7 +340,7 @@
          "Winston":15,
          "Wrecking Ball":15,
          "Zarya":35,
-         "Zenyatta":15
+         "Zenyatta":5
       }
    },
    {
@@ -361,7 +361,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":15,
          "Mei":15,
          "Mercy":35,
@@ -404,7 +404,7 @@
          "Junker Queen":25,
          "Junkrat":25,
          "Kiriko":25,
-         "Lifeweaver":15,
+         "Lifeweaver":25,
          "Lucio":5,
          "Mei":15,
          "Mercy":25,
@@ -426,7 +426,7 @@
          "Winston":25,
          "Wrecking Ball":15,
          "Zarya":45,
-         "Zenyatta":15
+         "Zenyatta":5
       }
    }
 ]
