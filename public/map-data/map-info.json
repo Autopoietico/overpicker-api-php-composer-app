@@ -259,6 +259,16 @@
     ]
   },
   {
+    "name": "Samoa",
+    "type": "Control",
+    "onPool": true,
+    "points": [
+      "Downtown",
+      "Volcano",
+      "Beach"
+    ]
+  },
+  {
     "name": "Shambali Monastery",
     "type": "Escort",
     "onPool": true,
