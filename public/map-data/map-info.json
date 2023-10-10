@@ -263,9 +263,10 @@
     "type": "Control",
     "onPool": true,
     "points": [
+      "Beach",
       "Downtown",
-      "Volcano",
-      "Beach"
+      "Volcano"
+      
     ]
   },
   {
