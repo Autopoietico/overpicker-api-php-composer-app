@@ -526,6 +526,37 @@
       "Flashpoint":10,
       "Control":10
    },
+   "Mauga":{
+      "Attack":{
+         "Assault":{
+            "A":10,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":10
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":10
+         }
+      },
+      "Push":{
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Flashpoint":0,
+      "Control":0
+   },
    "Mei":{
       "Attack":{
          "Assault":{

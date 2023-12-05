@@ -30,7 +30,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco"]
+    "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco","Mauga"]
   },
   {
     "name": "Bastion",
@@ -185,7 +185,18 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Lucio", "Frog", "Frogger", "DJ", "Brasil"]
+    "nicks": ["Lucio", "Frog", "Frogger", "DJ", "Brasil","Mafia"]
+  },
+  {
+    "name": "Mauga",
+    "description": "Berserker Tank",
+    "general_rol": "Tank",
+    "secondary_rol": "OffTank",
+    "shields": 0,
+    "health": 500,
+    "armor": 150,
+    "on_rotation": true,
+    "nicks": ["Mauga", "Maui", "Baptiste","Samoa","Chaingun","Cha-Cha","Gunny","Berseker"]
   },
   {
     "name": "Mei",

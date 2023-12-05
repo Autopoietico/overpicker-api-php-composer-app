@@ -120,6 +120,13 @@
     "prof-echo-img": "images/heroes/support/lucio-profile-echo.png"
   }, 
   {
+    "name": "Mauga",
+    "white-img": "images/heroes/damage/mauga-white.png",
+    "echo-img": "images/heroes/damage/mauga-echo.png",
+    "profile-img": "images/heroes/damage/mauga-profile.png",
+    "prof-echo-img": "images/heroes/damage/mauga-profile-echo.png"
+  },
+  {
     "name": "Mei",
     "white-img": "images/heroes/damage/mei-white.png",
     "echo-img": "images/heroes/damage/mei-echo.png",
