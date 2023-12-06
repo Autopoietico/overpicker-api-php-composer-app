@@ -121,10 +121,10 @@
   }, 
   {
     "name": "Mauga",
-    "white-img": "images/heroes/damage/mauga-white.png",
-    "echo-img": "images/heroes/damage/mauga-echo.png",
-    "profile-img": "images/heroes/damage/mauga-profile.png",
-    "prof-echo-img": "images/heroes/damage/mauga-profile-echo.png"
+    "white-img": "images/heroes/tank/mauga-white.png",
+    "echo-img": "images/heroes/tank/mauga-echo.png",
+    "profile-img": "images/heroes/tank/mauga-profile.png",
+    "prof-echo-img": "images/heroes/tank/mauga-profile-echo.png"
   },
   {
     "name": "Mei",
