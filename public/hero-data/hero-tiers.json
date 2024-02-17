@@ -429,13 +429,13 @@
          "Sojourn":45,
          "Soldier: 76":35,
          "Sombra":15,
-         "Symmetra":25,
+         "Symmetra":15,
          "Torbjörn":25,
          "Tracer":45,
          "Widowmaker":25,
          "Winston":25,
          "Wrecking Ball":35,
-         "Zarya":15,
+         "Zarya":25,
          "Zenyatta":45
       }
    }
