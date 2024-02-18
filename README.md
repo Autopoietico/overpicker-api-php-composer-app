@@ -18,8 +18,6 @@ To run the site locally:
 composer install
 ```
 
-You can preview the production build with `php artisan serve` and `npm run dev`.
-
 ## About Me
 Full Stack developer focused in web-apps around PHP, you can contact me at: autopoietico@outlook.com
 
