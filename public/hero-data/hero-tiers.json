@@ -83,7 +83,7 @@
          "Widowmaker":25,
          "Winston":15,
          "Wrecking Ball":25,
-         "Zarya":25,
+         "Zarya":15,
          "Zenyatta":35
       }
    },
@@ -426,7 +426,7 @@
          "Reinhardt":5,
          "Roadhog":5,
          "Sigma":35,
-         "Sojourn":35,
+         "Sojourn":45,
          "Soldier: 76":25,
          "Sombra":25,
          "Symmetra":5,
@@ -436,7 +436,7 @@
          "Winston":25,
          "Wrecking Ball":25,
          "Zarya":15,
-         "Zenyatta":45
+         "Zenyatta":35
       }
    }
 ]
