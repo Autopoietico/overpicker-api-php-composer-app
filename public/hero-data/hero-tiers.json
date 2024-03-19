@@ -4,9 +4,9 @@
       "hero-tiers":{
          "Ana":25,
          "Ashe":25,
-         "Baptiste":25,
+         "Baptiste":35,
          "Bastion":5,
-         "Brigitte":25,
+         "Brigitte":15,
          "Cassidy":25,
          "D.Va":35,
          "Doomfist":45,
@@ -36,7 +36,7 @@
          "Symmetra":15,
          "Torbjörn":15,
          "Tracer":45,
-         "Widowmaker":25,
+         "Widowmaker":35,
          "Winston":25,
          "Wrecking Ball":25,
          "Zarya":25,
@@ -57,7 +57,7 @@
          "Echo":35,
          "Genji":35,
          "Hanzo":15,
-         "Illari":15,
+         "Illari":25,
          "Junker Queen":35,
          "Junkrat":5,
          "Kiriko":35,
@@ -82,7 +82,7 @@
          "Tracer":45,
          "Widowmaker":25,
          "Winston":25,
-         "Wrecking Ball":15,
+         "Wrecking Ball":25,
          "Zarya":25,
          "Zenyatta":25
       }
