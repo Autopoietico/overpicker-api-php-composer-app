@@ -235,8 +235,8 @@
          },
          "Lijiang Tower":{
             "Night Market":0,
-            "Garden":10,
-            "Control Center":0
+            "Garden":0,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -500,8 +500,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":10,
+            "Night Market":10,
+            "Garden":20,
             "Control Center":0
          },
          "Nepal":{
@@ -1032,9 +1032,9 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
+            "Night Market":10,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -1298,9 +1298,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
-            "Control Center":10
+            "Night Market":0,
+            "Garden":10,
+            "Control Center":0
          },
          "Nepal":{
             "Village":10,
@@ -1564,9 +1564,9 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":10,
-            "Control Center":10
+            "Night Market":10,
+            "Garden":0,
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -2096,8 +2096,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":10,
+            "Night Market":20,
+            "Garden":20,
             "Control Center":0
          },
          "Nepal":{
@@ -2362,8 +2362,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":10,
+            "Night Market":20,
+            "Garden":20,
             "Control Center":0
          },
          "Nepal":{
@@ -2628,9 +2628,9 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":0,
-            "Control Center":0
+            "Night Market":10,
+            "Garden":10,
+            "Control Center":10
          },
          "Nepal":{
             "Village":10,
@@ -2894,9 +2894,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":10,
-            "Control Center":0
+            "Night Market":10,
+            "Garden":20,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -3160,7 +3160,7 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":0,
             "Garden":10,
             "Control Center":10
          },
@@ -3427,7 +3427,7 @@
          },
          "Lijiang Tower":{
             "Night Market":10,
-            "Garden":10,
+            "Garden":0,
             "Control Center":10
          },
          "Nepal":{
@@ -3694,7 +3694,7 @@
          "Lijiang Tower":{
             "Night Market":0,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":0,
@@ -3959,8 +3959,8 @@
          },
          "Lijiang Tower":{
             "Night Market":0,
-            "Garden":0,
-            "Control Center":0
+            "Garden":20,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -4224,8 +4224,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
+            "Night Market":0,
+            "Garden":10,
             "Control Center":0
          },
          "Nepal":{
@@ -4490,9 +4490,9 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":10,
-            "Control Center":0
+            "Night Market":20,
+            "Garden":20,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -4757,7 +4757,7 @@
          },
          "Lijiang Tower":{
             "Night Market":10,
-            "Garden":10,
+            "Garden":0,
             "Control Center":10
          },
          "Nepal":{
@@ -5022,9 +5022,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":20,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -5288,7 +5288,7 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":0,
             "Garden":10,
             "Control Center":0
          },
@@ -5554,9 +5554,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":0,
             "Garden":10,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -5821,8 +5821,8 @@
          },
          "Lijiang Tower":{
             "Night Market":10,
-            "Garden":0,
-            "Control Center":10
+            "Garden":10,
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -6086,8 +6086,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":10,
+            "Night Market":20,
+            "Garden":0,
             "Control Center":0
          },
          "Nepal":{
@@ -6352,9 +6352,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":20,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -6618,8 +6618,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
+            "Night Market":20,
+            "Garden":10,
             "Control Center":10
          },
          "Nepal":{
@@ -6884,9 +6884,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
+            "Night Market":20,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -7151,8 +7151,8 @@
          },
          "Lijiang Tower":{
             "Night Market":0,
-            "Garden":10,
-            "Control Center":0
+            "Garden":20,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -7416,9 +7416,9 @@
             "Well":-10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":0,
-            "Control Center":0
+            "Night Market":10,
+            "Garden":10,
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -7683,7 +7683,7 @@
          },
          "Lijiang Tower":{
             "Night Market":0,
-            "Garden":0,
+            "Garden":10,
             "Control Center":10
          },
          "Nepal":{
@@ -7949,7 +7949,7 @@
          },
          "Lijiang Tower":{
             "Night Market":10,
-            "Garden":10,
+            "Garden":0,
             "Control Center":10
          },
          "Nepal":{
@@ -8214,8 +8214,8 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
+            "Night Market":0,
+            "Garden":20,
             "Control Center":10
          },
          "Nepal":{
@@ -8480,8 +8480,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
+            "Night Market":20,
+            "Garden":10,
             "Control Center":10
          },
          "Nepal":{
@@ -8748,7 +8748,7 @@
          "Lijiang Tower":{
             "Night Market":0,
             "Garden":0,
-            "Control Center":0
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -9012,9 +9012,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":0,
+            "Night Market":10,
             "Garden":10,
-            "Control Center":0
+            "Control Center":10
          },
          "Nepal":{
             "Village":0,
@@ -9278,8 +9278,8 @@
             "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":10,
+            "Night Market":10,
+            "Garden":20,
             "Control Center":0
          },
          "Nepal":{
@@ -9546,7 +9546,7 @@
          "Lijiang Tower":{
             "Night Market":0,
             "Garden":10,
-            "Control Center":10
+            "Control Center":0
          },
          "Nepal":{
             "Village":0,
@@ -9810,9 +9810,9 @@
             "Well":0
          },
          "Lijiang Tower":{
-            "Night Market":10,
-            "Garden":0,
-            "Control Center":10
+            "Night Market":20,
+            "Garden":20,
+            "Control Center":0
          },
          "Nepal":{
             "Village":0,
@@ -10078,7 +10078,7 @@
          "Lijiang Tower":{
             "Night Market":10,
             "Garden":0,
-            "Control Center":10
+            "Control Center":20
          },
          "Nepal":{
             "Village":10,
@@ -10343,8 +10343,8 @@
          },
          "Lijiang Tower":{
             "Night Market":0,
-            "Garden":10,
-            "Control Center":0
+            "Garden":0,
+            "Control Center":10
          },
          "Nepal":{
             "Village":10,
