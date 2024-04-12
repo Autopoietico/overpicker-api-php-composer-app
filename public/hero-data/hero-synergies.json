@@ -38,7 +38,7 @@
       "Winston":20,
       "Wrecking Ball":10,
       "Zarya":10,
-      "Zenyatta":0
+      "Zenyatta":10
    },
    "Ashe":{
       "Ana":0,
@@ -161,7 +161,7 @@
       "Winston":0,
       "Wrecking Ball":0,
       "Zarya":20,
-      "Zenyatta":20
+      "Zenyatta":0
    },
    "Brigitte":{
       "Ana":20,
@@ -243,7 +243,7 @@
       "Winston":0,
       "Wrecking Ball":0,
       "Zarya":10,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "D.Va":{
       "Ana":20,
@@ -366,7 +366,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Genji":{
       "Ana":20,
@@ -530,7 +530,7 @@
       "Winston":10,
       "Wrecking Ball":10,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":0
    },
    "Junkrat":{
       "Ana":0,
@@ -612,7 +612,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":0,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Lifeweaver":{
       "Ana":20,
@@ -653,7 +653,7 @@
       "Winston":0,
       "Wrecking Ball":0,
       "Zarya":10,
-      "Zenyatta":0
+      "Zenyatta":10
    },
    "Lucio":{
       "Ana":10,
@@ -735,7 +735,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":20,
-      "Zenyatta":0
+      "Zenyatta":10
    },
    "Mei":{
       "Ana":10,
@@ -817,7 +817,7 @@
       "Winston":20,
       "Wrecking Ball":10,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":0
    },
    "Moira":{
       "Ana":0,
@@ -899,7 +899,7 @@
       "Winston":10,
       "Wrecking Ball":10,
       "Zarya":20,
-      "Zenyatta":0
+      "Zenyatta":10
    },
    "Pharah":{
       "Ana":10,
@@ -981,7 +981,7 @@
       "Winston":10,
       "Wrecking Ball":10,
       "Zarya":20,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Reaper":{
       "Ana":20,
@@ -1022,7 +1022,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Reinhardt":{
       "Ana":20,
@@ -1063,7 +1063,7 @@
       "Winston":0,
       "Wrecking Ball":10,
       "Zarya":30,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Roadhog":{
       "Ana":10,
@@ -1104,7 +1104,7 @@
       "Winston":0,
       "Wrecking Ball":10,
       "Zarya":20,
-      "Zenyatta":20
+      "Zenyatta":0
    },
    "Sigma":{
       "Ana":10,
@@ -1145,7 +1145,7 @@
       "Winston":10,
       "Wrecking Ball":20,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Soldier: 76":{
       "Ana":20,
@@ -1186,7 +1186,7 @@
       "Winston":10,
       "Wrecking Ball":10,
       "Zarya":0,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Sojourn":{
       "Ana":10,
@@ -1227,7 +1227,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":10,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Sombra":{
       "Ana":10,
@@ -1268,7 +1268,7 @@
       "Winston":20,
       "Wrecking Ball":20,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Symmetra":{
       "Ana":20,
@@ -1309,7 +1309,7 @@
       "Winston":0,
       "Wrecking Ball":0,
       "Zarya":20,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Torbjörn":{
       "Ana":0,
@@ -1432,7 +1432,7 @@
       "Winston":10,
       "Wrecking Ball":10,
       "Zarya":0,
-      "Zenyatta":10
+      "Zenyatta":0
    },
    "Winston":{
       "Ana":20,
@@ -1514,7 +1514,7 @@
       "Winston":20,
       "Wrecking Ball":0,
       "Zarya":20,
-      "Zenyatta":10
+      "Zenyatta":20
    },
    "Zarya":{
       "Ana":10,
@@ -1555,47 +1555,47 @@
       "Winston":30,
       "Wrecking Ball":20,
       "Zarya":0,
-      "Zenyatta":20
+      "Zenyatta":10
    },
    "Zenyatta":{
-      "Ana":0,
-      "Ashe":0,
+      "Ana":10,
+      "Ashe":10,
       "Baptiste":20,
       "Bastion":10,
-      "Brigitte":20,
-      "Cassidy":10,
+      "Brigitte":10,
+      "Cassidy":0,
       "D.Va":20,
       "Doomfist":20,
       "Echo":20,
       "Genji":20,
-      "Hanzo":10,
+      "Hanzo":0,
       "Illari":20,
       "Junker Queen":10,
-      "Junkrat":20,
-      "Kiriko":10,
-      "Lifeweaver":0,
+      "Junkrat":0,
+      "Kiriko":20,
+      "Lifeweaver":10,
       "Lucio":0,
       "Mauga":10,
-      "Mei":10,
-      "Mercy":10,
+      "Mei":0,
+      "Mercy":0,
       "Moira":10,
-      "Orisa":0,
-      "Pharah":20,
-      "Ramattra":20,
+      "Orisa":10,
+      "Pharah":10,
+      "Ramattra":0,
       "Reaper":20,
-      "Reinhardt":20,
-      "Roadhog":20,
+      "Reinhardt":0,
+      "Roadhog":10,
       "Sigma":10,
-      "Soldier: 76":20,
+      "Soldier: 76":10,
       "Sojourn":10,
-      "Sombra":20,
+      "Sombra":0,
       "Symmetra":20,
-      "Torbjörn":20,
+      "Torbjörn":0,
       "Tracer":20,
-      "Widowmaker":20,
+      "Widowmaker":0,
       "Winston":20,
-      "Wrecking Ball":10,
-      "Zarya":20,
+      "Wrecking Ball":20,
+      "Zarya":10,
       "Zenyatta":0
    }
 }
