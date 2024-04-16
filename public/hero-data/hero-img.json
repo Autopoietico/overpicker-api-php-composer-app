@@ -239,6 +239,13 @@
     "prof-echo-img": "images/heroes/damage/tracer-profile-echo.png"
   },
   {
+    "name": "Venture",
+    "white-img": "images/heroes/damage/venture-white.png",
+    "echo-img": "images/heroes/damage/venture-echo.png",
+    "profile-img": "images/heroes/damage/venture-profile.png",
+    "prof-echo-img": "images/heroes/damage/venture-profile-echo.png"
+  },
+  {
     "name": "Widowmaker",
     "white-img": "images/heroes/damage/widowmaker-white.png",
     "echo-img": "images/heroes/damage/widowmaker-echo.png",

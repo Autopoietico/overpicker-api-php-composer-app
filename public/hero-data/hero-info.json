@@ -375,6 +375,17 @@
     "nicks": ["Tracer", "Pilot", "Lena", "Light", "Time", "Recall"]
   },
   {
+    "name": "Venture",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "FlankDamage",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Venture", "Venchure", "Adventure", "I Can Dig That", "Rock Eater", "Rock Guy", "Archeologist", "Excavator"]
+  },
+  {
     "name": "Widowmaker",
     "description": "The ultimate sniper, Widowmaker is lethal on maps with long sightlines but is very weak against heroes that attack up close, like dive heroes. Her poison mine is useful for detecting flankers early.",
     "general_rol": "Damage",
