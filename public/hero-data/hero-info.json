@@ -383,7 +383,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Venture", "Venchure", "Adventure", "I Can Dig That", "Rock Eater", "Rock Guy", "Archeologist", "Excavator"]
+    "nicks": ["Venture", "Venchure", "Adventure", "I Can Dig That", "Rock Eater", "Rock Guy", "Archeologist", "Excavator", "Miner"]
   },
   {
     "name": "Widowmaker",
