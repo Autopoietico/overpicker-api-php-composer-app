@@ -440,9 +440,9 @@
             "C":10
          },
          "King's Row":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":0,
+            "C":20
          },
          "Midtown":{
             "A":10,
@@ -876,8 +876,8 @@
          },
          "King's Row":{
             "A":0,
-            "B":10,
-            "C":10
+            "B":0,
+            "C":0
          },
          "Midtown":{
             "A":10,
@@ -1409,7 +1409,7 @@
          "King's Row":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Midtown":{
             "A":0,
@@ -1505,7 +1505,7 @@
          },
          "King's Row":{
             "A":10,
-            "B":10,
+            "B":20,
             "C":0
          },
          "Midtown":{
@@ -2207,7 +2207,7 @@
          "King's Row":{
             "A":10,
             "B":20,
-            "C":0
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -2304,7 +2304,7 @@
          "King's Row":{
             "A":0,
             "B":10,
-            "C":0
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -2472,8 +2472,8 @@
          },
          "King's Row":{
             "A":10,
-            "B":10,
-            "C":0
+            "B":20,
+            "C":20
          },
          "Midtown":{
             "A":10,
@@ -2569,8 +2569,8 @@
          },
          "King's Row":{
             "A":0,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -2738,8 +2738,8 @@
          },
          "King's Row":{
             "A":10,
-            "B":10,
-            "C":10
+            "B":20,
+            "C":20
          },
          "Midtown":{
             "A":10,
@@ -2835,8 +2835,8 @@
          },
          "King's Row":{
             "A":10,
-            "B":10,
-            "C":0
+            "B":20,
+            "C":20
          },
          "Midtown":{
             "A":0,
@@ -3536,7 +3536,7 @@
          },
          "King's Row":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":0
          },
          "Midtown":{
@@ -3634,7 +3634,7 @@
          "King's Row":{
             "A":10,
             "B":10,
-            "C":0
+            "C":10
          },
          "Midtown":{
             "A":0,
@@ -4865,9 +4865,9 @@
             "C":20
          },
          "King's Row":{
-            "A":0,
+            "A":10,
             "B":20,
-            "C":10
+            "C":0
          },
          "Midtown":{
             "A":10,
@@ -4962,8 +4962,8 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":0
          },
          "Midtown":{
@@ -5931,7 +5931,7 @@
          "King's Row":{
             "A":10,
             "B":20,
-            "C":0
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -6461,8 +6461,8 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":10
          },
          "Midtown":{
@@ -7525,9 +7525,9 @@
             "C":10
          },
          "King's Row":{
-            "A":0,
+            "A":10,
             "B":0,
-            "C":10
+            "C":0
          },
          "Midtown":{
             "A":10,
@@ -7791,8 +7791,8 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":0
          },
          "Midtown":{
@@ -7889,8 +7889,8 @@
          },
          "King's Row":{
             "A":0,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -8154,9 +8154,9 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -8323,7 +8323,7 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
+            "A":20,
             "B":10,
             "C":10
          },
@@ -8421,8 +8421,8 @@
          },
          "King's Row":{
             "A":10,
-            "B":0,
-            "C":0
+            "B":20,
+            "C":10
          },
          "Midtown":{
             "A":0,
@@ -8591,7 +8591,7 @@
          "King's Row":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Midtown":{
             "A":0,
@@ -8686,9 +8686,9 @@
             "C":20
          },
          "King's Row":{
-            "A":10,
-            "B":0,
-            "C":0
+            "A":20,
+            "B":10,
+            "C":10
          },
          "Midtown":{
             "A":10,
@@ -8855,8 +8855,8 @@
             "C":10
          },
          "King's Row":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":0
          },
          "Midtown":{
@@ -9046,24 +9046,24 @@
    "Venture":{
       "Attack":{
          "Hanamura":{
-            "A":0,
+            "A":20,
             "B":0
          },
          "Horizon Lunar Colony":{
-            "A":0,
+            "A":20,
             "B":0
          },
          "Paris":{
-            "A":0,
-            "B":0
+            "A":20,
+            "B":10
          },
          "Temple of Anubis":{
-            "A":0,
-            "B":0
+            "A":20,
+            "B":10
          },
          "Volskaya Industries":{
-            "A":0,
-            "B":0
+            "A":20,
+            "B":10
          },
          "Circuit Royal":{
             "A":0,
@@ -9081,54 +9081,54 @@
             "C":0
          },
          "Rialto":{
-            "A":0,
-            "B":0,
-            "C":0
+            "A":10,
+            "B":20,
+            "C":10
          },
          "Route 66":{
-            "A":0,
+            "A":10,
             "B":0,
-            "C":0
+            "C":10
          },
          "Shambali Monastery":{
-            "A":0,
+            "A":20,
             "B":0,
             "C":0
          },
          "Watchpoint: Gibraltar":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Havana":{
-            "A":0,
-            "B":0,
-            "C":0
+            "A":20,
+            "B":10,
+            "C":20
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
+            "A":20,
+            "B":10,
             "C":0
          },
          "Eichenwalde":{
-            "A":0,
+            "A":20,
             "B":0,
             "C":0
          },
          "Hollywood":{
-            "A":0,
+            "A":20,
             "B":0,
             "C":0
          },
          "King's Row":{
-            "A":0,
-            "B":0,
+            "A":20,
+            "B":20,
             "C":0
          },
          "Midtown":{
-            "A":0,
+            "A":20,
             "B":0,
-            "C":0
+            "C":10
          },
          "Numbani":{
             "A":0,
@@ -9173,7 +9173,7 @@
             "C":0
          },
          "Junkertown":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
@@ -9183,12 +9183,12 @@
             "C":0
          },
          "Route 66":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
          "Shambali Monastery":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
@@ -9198,12 +9198,12 @@
             "C":0
          },
          "Havana":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
@@ -9219,13 +9219,13 @@
          },
          "King's Row":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":0
          },
          "Midtown":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Numbani":{
             "A":0,
@@ -9234,14 +9234,14 @@
          },
          "Paraíso":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":0
          }
       },
       "Push":{
          "Colosseo":{
             "Ally":0,
-            "Mid":0,
+            "Mid":20,
             "Enemy":0
          },
          "Esperança":{
@@ -9251,59 +9251,59 @@
          },
          "New Queen Street":{
             "Ally":0,
-            "Mid":0,
+            "Mid":20,
             "Enemy":0
          }
       },
       "Flashpoint":{
          "New Junk City":{
-            "Arena":0,
+            "Arena":10,
             "Ducts":0,
             "Refinery":0,
-            "Junkyard":0,
-            "Bomb Flats":0
+            "Junkyard":20,
+            "Bomb Flats":20
          },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
-            "Palace":0,
+            "Palace":10,
             "Temple":0,
-            "Ruins":0
+            "Ruins":10
          }
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":0,
-            "Well":0
+            "Ruins":20,
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
-            "Night Market":0,
-            "Garden":0,
-            "Control Center":0
+            "Night Market":10,
+            "Garden":10,
+            "Control Center":20
          },
          "Nepal":{
             "Village":0,
-            "Sanctum":0,
+            "Sanctum":10,
             "Shrine":0
          },
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":0
+            "University":10
          },
          "Antarctic Peninsula":{
-            "Labs":0,
-            "Icebreaker":0,
+            "Labs":10,
+            "Icebreaker":20,
             "Sublevel":0
          },
          "Samoa":{
-            "Downtown":0,
-            "Volcano":0,
+            "Downtown":10,
+            "Volcano":20,
             "Beach":0
          },
          "Busan":{
-            "Sanctuary":0,
+            "Sanctuary":10,
             "Downtown":0,
             "MEKA Base":0
          }
@@ -9389,7 +9389,7 @@
          "King's Row":{
             "A":10,
             "B":10,
-            "C":0
+            "C":10
          },
          "Midtown":{
             "A":0,
@@ -9486,7 +9486,7 @@
          "King's Row":{
             "A":10,
             "B":10,
-            "C":0
+            "C":20
          },
          "Midtown":{
             "A":10,
