@@ -376,7 +376,7 @@
   },
   {
     "name": "Venture",
-    "description": "",
+    "description": "Known as the miner hero, Venture digs their way through the battlefield using their drill, pushing enemies into the void or inflicting a lot of damage in a second. But be careful, wasting your cooldowns is easy so you can end up in the wrong place at the wrong time without noticing; their ultimate inflicts heavy damage, but it can be easy to avoid.",
     "general_rol": "Damage",
     "secondary_rol": "FlankDamage",
     "shields": 0,
