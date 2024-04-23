@@ -57,7 +57,7 @@
          "Doomfist":35,
          "Echo":35,
          "Genji":25,
-         "Hanzo":15,
+         "Hanzo":25,
          "Illari":25,
          "Junker Queen":15,
          "Junkrat":15,
@@ -71,9 +71,9 @@
          "Orisa":45,
          "Pharah":25,
          "Ramattra":15,
-         "Reaper":25,
+         "Reaper":15,
          "Reinhardt":15,
-         "Roadhog":15,
+         "Roadhog":25,
          "Sigma":35,
          "Sojourn":45,
          "Soldier: 76":25,
@@ -86,7 +86,7 @@
          "Winston":35,
          "Wrecking Ball":5,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -376,7 +376,7 @@
          "Illari":25,
          "Junker Queen":15,
          "Junkrat":15,
-         "Kiriko":45,
+         "Kiriko":35,
          "Lifeweaver":5,
          "Lucio":35,
          "Mauga":25,
@@ -388,20 +388,20 @@
          "Ramattra":15,
          "Reaper":25,
          "Reinhardt":25,
-         "Roadhog":15,
+         "Roadhog":25,
          "Sigma":35,
          "Sojourn":35,
          "Soldier: 76":35,
          "Sombra":35,
          "Symmetra":15,
-         "Torbjörn":15,
+         "Torbjörn":25,
          "Tracer":45,
          "Venture":25,
          "Widowmaker":25,
          "Winston":35,
          "Wrecking Ball":5,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -409,7 +409,7 @@
       "hero-tiers":{
          "Ana":25,
          "Ashe":25,
-         "Baptiste":35,
+         "Baptiste":25,
          "Bastion":5,
          "Brigitte":25,
          "Cassidy":35,
@@ -417,27 +417,27 @@
          "Doomfist":25,
          "Echo":35,
          "Genji":25,
-         "Hanzo":5,
+         "Hanzo":15,
          "Illari":25,
          "Junker Queen":25,
-         "Junkrat":15,
+         "Junkrat":5,
          "Kiriko":45,
          "Lifeweaver":15,
          "Lucio":45,
          "Mauga":25,
          "Mei":15,
          "Mercy":5,
-         "Moira":25,
+         "Moira":35,
          "Orisa":45,
          "Pharah":25,
-         "Ramattra":25,
+         "Ramattra":15,
          "Reaper":15,
          "Reinhardt":5,
          "Roadhog":15,
          "Sigma":35,
          "Sojourn":45,
          "Soldier: 76":25,
-         "Sombra":35,
+         "Sombra":25,
          "Symmetra":15,
          "Torbjörn":25,
          "Tracer":45,
@@ -446,7 +446,7 @@
          "Winston":35,
          "Wrecking Ball":25,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    }
 ]
