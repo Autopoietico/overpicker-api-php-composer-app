@@ -60,12 +60,12 @@
          "Hanzo":25,
          "Illari":25,
          "Junker Queen":15,
-         "Junkrat":15,
+         "Junkrat":5,
          "Kiriko":45,
          "Lifeweaver":5,
          "Lucio":45,
          "Mauga":25,
-         "Mei":5,
+         "Mei":15,
          "Mercy":5,
          "Moira":35,
          "Orisa":45,
@@ -388,7 +388,7 @@
          "Ramattra":15,
          "Reaper":15,
          "Reinhardt":25,
-         "Roadhog":15,
+         "Roadhog":25,
          "Sigma":35,
          "Sojourn":35,
          "Soldier: 76":35,
@@ -401,7 +401,7 @@
          "Winston":35,
          "Wrecking Ball":5,
          "Zarya":25,
-         "Zenyatta":15
+         "Zenyatta":25
       }
    },
    {
@@ -422,7 +422,7 @@
          "Junker Queen":25,
          "Junkrat":5,
          "Kiriko":45,
-         "Lifeweaver":15,
+         "Lifeweaver":5,
          "Lucio":45,
          "Mauga":25,
          "Mei":15,
@@ -442,11 +442,11 @@
          "Torbjörn":25,
          "Tracer":45,
          "Venture":35,
-         "Widowmaker":25,
+         "Widowmaker":35,
          "Winston":35,
          "Wrecking Ball":25,
          "Zarya":15,
-         "Zenyatta":15
+         "Zenyatta":25
       }
    }
 ]
