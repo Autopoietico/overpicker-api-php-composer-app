@@ -320,7 +320,7 @@
          "Watchpoint: Gibraltar":{
             "A":10,
             "B":10,
-            "C":10
+            "C":20
          },
          "Havana":{
             "A":10,
@@ -415,7 +415,7 @@
             "C":0
          },
          "Watchpoint: Gibraltar":{
-            "A":10,
+            "A":20,
             "B":20,
             "C":20
          },
@@ -1384,7 +1384,7 @@
          "Watchpoint: Gibraltar":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Havana":{
             "A":0,
@@ -1479,7 +1479,7 @@
             "C":0
          },
          "Watchpoint: Gibraltar":{
-            "A":10,
+            "A":0,
             "B":10,
             "C":10
          },
@@ -2277,7 +2277,7 @@
             "C":0
          },
          "Watchpoint: Gibraltar":{
-            "A":0,
+            "A":20,
             "B":10,
             "C":0
          },
@@ -2448,7 +2448,7 @@
          "Watchpoint: Gibraltar":{
             "A":20,
             "B":20,
-            "C":10
+            "C":20
          },
          "Havana":{
             "A":0,
@@ -2714,7 +2714,7 @@
          "Watchpoint: Gibraltar":{
             "A":20,
             "B":20,
-            "C":10
+            "C":20
          },
          "Havana":{
             "A":10,
@@ -2809,7 +2809,7 @@
             "C":10
          },
          "Watchpoint: Gibraltar":{
-            "A":10,
+            "A":20,
             "B":20,
             "C":20
          },
@@ -3512,7 +3512,7 @@
          "Watchpoint: Gibraltar":{
             "A":10,
             "B":0,
-            "C":0
+            "C":10
          },
          "Havana":{
             "A":0,
@@ -4841,8 +4841,8 @@
          },
          "Watchpoint: Gibraltar":{
             "A":0,
-            "B":10,
-            "C":0
+            "B":0,
+            "C":10
          },
          "Havana":{
             "A":0,
@@ -5904,9 +5904,9 @@
             "C":10
          },
          "Watchpoint: Gibraltar":{
-            "A":0,
+            "A":20,
             "B":10,
-            "C":0
+            "C":10
          },
          "Havana":{
             "A":0,
@@ -6438,7 +6438,7 @@
          "Watchpoint: Gibraltar":{
             "A":10,
             "B":20,
-            "C":10
+            "C":0
          },
          "Havana":{
             "A":0,
@@ -7768,7 +7768,7 @@
          "Watchpoint: Gibraltar":{
             "A":10,
             "B":20,
-            "C":10
+            "C":0
          },
          "Havana":{
             "A":10,
@@ -7863,7 +7863,7 @@
             "C":10
          },
          "Watchpoint: Gibraltar":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
@@ -8566,7 +8566,7 @@
          "Watchpoint: Gibraltar":{
             "A":0,
             "B":0,
-            "C":0
+            "C":20
          },
          "Havana":{
             "A":0,
@@ -8927,7 +8927,7 @@
             "C":10
          },
          "Watchpoint: Gibraltar":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":0
          },
@@ -9098,7 +9098,7 @@
          "Watchpoint: Gibraltar":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Havana":{
             "A":20,
@@ -9195,7 +9195,7 @@
          "Watchpoint: Gibraltar":{
             "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Havana":{
             "A":10,
@@ -9364,7 +9364,7 @@
          "Watchpoint: Gibraltar":{
             "A":20,
             "B":20,
-            "C":10
+            "C":20
          },
          "Havana":{
             "A":10,
@@ -9459,7 +9459,7 @@
             "C":0
          },
          "Watchpoint: Gibraltar":{
-            "A":10,
+            "A":20,
             "B":20,
             "C":20
          },
