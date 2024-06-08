@@ -230,7 +230,7 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":10,
+            "Lighthouse":0,
             "Well":0
          },
          "Lijiang Tower":{
@@ -496,7 +496,7 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":10,
+            "Lighthouse":20,
             "Well":10
          },
          "Lijiang Tower":{
@@ -763,7 +763,7 @@
          "Ilios":{
             "Ruins":10,
             "Lighthouse":10,
-            "Well":10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -1029,7 +1029,7 @@
          "Ilios":{
             "Ruins":0,
             "Lighthouse":0,
-            "Well":10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -1293,9 +1293,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
+            "Ruins":20,
             "Lighthouse":10,
-            "Well":0
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -1559,7 +1559,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":10,
             "Lighthouse":10,
             "Well":10
          },
@@ -2091,8 +2091,8 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
+            "Ruins":10,
+            "Lighthouse":20,
             "Well":10
          },
          "Lijiang Tower":{
@@ -2357,9 +2357,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":10,
+            "Lighthouse":20,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -2623,9 +2623,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":10,
+            "Lighthouse":20,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -2890,8 +2890,8 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":0,
-            "Well":0
+            "Lighthouse":20,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -3157,7 +3157,7 @@
          "Ilios":{
             "Ruins":10,
             "Lighthouse":10,
-            "Well":0
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -3422,7 +3422,7 @@
       "Control":{
          "Ilios":{
             "Ruins":0,
-            "Lighthouse":10,
+            "Lighthouse":0,
             "Well":10
          },
          "Lijiang Tower":{
@@ -3688,8 +3688,8 @@
       "Control":{
          "Ilios":{
             "Ruins":0,
-            "Lighthouse":0,
-            "Well":0
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -3953,7 +3953,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":20,
             "Lighthouse":10,
             "Well":10
          },
@@ -4219,9 +4219,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":0,
+            "Lighthouse":20,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -4485,9 +4485,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":20,
+            "Lighthouse":20,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -4752,8 +4752,8 @@
       "Control":{
          "Ilios":{
             "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Lighthouse":0,
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -5017,9 +5017,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":10,
             "Lighthouse":10,
-            "Well":0
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -5284,8 +5284,8 @@
       "Control":{
          "Ilios":{
             "Ruins":0,
-            "Lighthouse":0,
-            "Well":0
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -5549,8 +5549,8 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
+            "Ruins":10,
+            "Lighthouse":0,
             "Well":0
          },
          "Lijiang Tower":{
@@ -5816,8 +5816,8 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":0,
-            "Well":0
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -6081,9 +6081,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":10
+            "Ruins":10,
+            "Lighthouse":20,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -6347,8 +6347,8 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
-            "Lighthouse":10,
+            "Ruins":20,
+            "Lighthouse":0,
             "Well":0
          },
          "Lijiang Tower":{
@@ -6613,9 +6613,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":20,
             "Lighthouse":10,
-            "Well":10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -6879,7 +6879,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
+            "Ruins":20,
             "Lighthouse":10,
             "Well":0
          },
@@ -7146,8 +7146,8 @@
       "Control":{
          "Ilios":{
             "Ruins":0,
-            "Lighthouse":0,
-            "Well":10
+            "Lighthouse":10,
+            "Well":20
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -7411,9 +7411,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
+            "Ruins":20,
             "Lighthouse":0,
-            "Well":-10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -7677,8 +7677,8 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
+            "Ruins":10,
+            "Lighthouse":0,
             "Well":0
          },
          "Lijiang Tower":{
@@ -7943,9 +7943,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
-            "Lighthouse":0,
-            "Well":0
+            "Ruins":20,
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -8209,9 +8209,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":0,
-            "Lighthouse":10,
-            "Well":0
+            "Ruins":10,
+            "Lighthouse":20,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":0,
@@ -8475,7 +8475,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
+            "Ruins":0,
             "Lighthouse":0,
             "Well":10
          },
@@ -9007,9 +9007,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
-            "Lighthouse":0,
-            "Well":0
+            "Ruins":20,
+            "Lighthouse":10,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -9273,7 +9273,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":20,
+            "Ruins":10,
             "Lighthouse":10,
             "Well":10
          },
@@ -9539,9 +9539,9 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
+            "Ruins":20,
             "Lighthouse":10,
-            "Well":10
+            "Well":0
          },
          "Lijiang Tower":{
             "Night Market":10,
@@ -9805,7 +9805,7 @@
       },
       "Control":{
          "Ilios":{
-            "Ruins":10,
+            "Ruins":20,
             "Lighthouse":10,
             "Well":10
          },
@@ -10072,8 +10072,8 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":0,
-            "Well":0
+            "Lighthouse":20,
+            "Well":10
          },
          "Lijiang Tower":{
             "Night Market":20,
@@ -10604,7 +10604,7 @@
       "Control":{
          "Ilios":{
             "Ruins":10,
-            "Lighthouse":10,
+            "Lighthouse":0,
             "Well":0
          },
          "Lijiang Tower":{
