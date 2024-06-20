@@ -209,6 +209,11 @@
             "Ally":10,
             "Mid":0,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -472,6 +477,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0
@@ -741,6 +751,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -1005,6 +1020,11 @@
          },
          "New Queen Street":{
             "Ally":0,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
             "Mid":10,
             "Enemy":0
          }
@@ -1273,6 +1293,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -1536,6 +1561,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0
@@ -1805,6 +1835,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -2071,6 +2106,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -2335,6 +2375,11 @@
          },
          "New Queen Street":{
             "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
             "Mid":10,
             "Enemy":0
          }
@@ -2603,6 +2648,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -2866,6 +2916,11 @@
             "Enemy":10
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":10
@@ -3135,6 +3190,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -3401,6 +3461,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -3664,6 +3729,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0
@@ -3933,6 +4003,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -4199,6 +4274,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -4462,6 +4542,11 @@
             "Enemy":10
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":10
@@ -4731,6 +4816,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -4997,6 +5087,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -5261,6 +5356,11 @@
          },
          "New Queen Street":{
             "Ally":0,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
             "Mid":10,
             "Enemy":0
          }
@@ -5529,6 +5629,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -5795,6 +5900,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":0,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -6061,6 +6171,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -6324,6 +6439,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0
@@ -6593,6 +6713,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -6856,6 +6981,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0
@@ -7125,6 +7255,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -7391,6 +7526,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -7657,6 +7797,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -7920,6 +8065,11 @@
             "Enemy":10
          },
          "New Queen Street":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":10
+         },
+         "Runasapi":{
             "Ally":0,
             "Mid":10,
             "Enemy":10
@@ -8189,6 +8339,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -8455,6 +8610,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -8719,6 +8879,11 @@
          },
          "New Queen Street":{
             "Ally":10,
+            "Mid":10,
+            "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
             "Mid":10,
             "Enemy":10
          }
@@ -8987,6 +9152,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":0,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -9252,6 +9422,11 @@
          "New Queen Street":{
             "Ally":0,
             "Mid":20,
+            "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":0,
             "Enemy":0
          }
       },
@@ -9519,6 +9694,11 @@
             "Ally":10,
             "Mid":0,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -9783,6 +9963,11 @@
          },
          "New Queen Street":{
             "Ally":10,
+            "Mid":10,
+            "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
             "Mid":10,
             "Enemy":10
          }
@@ -10051,6 +10236,11 @@
             "Ally":10,
             "Mid":10,
             "Enemy":10
+         },
+         "Runasapi":{
+            "Ally":0,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -10317,6 +10507,11 @@
             "Ally":0,
             "Mid":10,
             "Enemy":0
+         },
+         "Runasapi":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -10580,6 +10775,11 @@
             "Enemy":0
          },
          "New Queen Street":{
+            "Ally":10,
+            "Mid":10,
+            "Enemy":0
+         },
+         "Runasapi":{
             "Ally":10,
             "Mid":10,
             "Enemy":0

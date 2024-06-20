@@ -259,6 +259,16 @@
     ]
   },
   {
+    "name": "Runasapi",
+    "type": "Push",
+    "onPool": true,
+    "points": [
+      "Ally",
+      "Mid",
+      "Enemy"
+    ]
+  },
+  {
     "name": "Samoa",
     "type": "Control",
     "onPool": true,
