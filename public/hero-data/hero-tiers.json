@@ -51,7 +51,7 @@
          "Ashe":25,
          "Baptiste":35,
          "Bastion":5,
-         "Brigitte":25,
+         "Brigitte":35,
          "Cassidy":45,
          "D.Va":25,
          "Doomfist":45,
@@ -67,7 +67,7 @@
          "Mauga":35,
          "Mei":15,
          "Mercy":15,
-         "Moira":35,
+         "Moira":25,
          "Orisa":5,
          "Pharah":35,
          "Ramattra":25,
@@ -366,7 +366,7 @@
          "Ashe":25,
          "Baptiste":25,
          "Bastion":5,
-         "Brigitte":15,
+         "Brigitte":25,
          "Cassidy":45,
          "D.Va":45,
          "Doomfist":25,
@@ -374,7 +374,7 @@
          "Genji":25,
          "Hanzo":5,
          "Illari":25,
-         "Junker Queen":15,
+         "Junker Queen":25,
          "Junkrat":15,
          "Kiriko":45,
          "Lifeweaver":5,
@@ -401,7 +401,7 @@
          "Winston":25,
          "Wrecking Ball":25,
          "Zarya":15,
-         "Zenyatta":15
+         "Zenyatta":25
       }
    },
    {
