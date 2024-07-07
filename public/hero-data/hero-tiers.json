@@ -86,7 +86,7 @@
          "Winston":25,
          "Wrecking Ball":35,
          "Zarya":15,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -399,7 +399,7 @@
          "Venture":25,
          "Widowmaker":25,
          "Winston":25,
-         "Wrecking Ball":25,
+         "Wrecking Ball":35,
          "Zarya":15,
          "Zenyatta":15
       }
@@ -414,7 +414,7 @@
          "Brigitte":25,
          "Cassidy":45,
          "D.Va":35,
-         "Doomfist":25,
+         "Doomfist":15,
          "Echo":35,
          "Genji":25,
          "Hanzo":15,
@@ -423,11 +423,11 @@
          "Junkrat":5,
          "Kiriko":35,
          "Lifeweaver":5,
-         "Lucio":45,
+         "Lucio":35,
          "Mauga":35,
          "Mei":25,
          "Mercy":5,
-         "Moira":25,
+         "Moira":15,
          "Orisa":5,
          "Pharah":35,
          "Ramattra":25,
