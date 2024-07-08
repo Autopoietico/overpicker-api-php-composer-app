@@ -4,280 +4,439 @@
     "white-img": "images/heroes/support/ana-white.webp",
     "white-echo-img": "images/heroes/support/ana-echo.webp",
     "profile-img": "images/heroes/support/ana-profile.webp",
-    "profile-echo-img": "images/heroes/support/ana-profile-echo.webp"
-
+    "profile-echo-img": "images/heroes/support/ana-profile-echo.webp",
+    "art-img": "images/heroes/support/ana-art.webp",
+    "art-echo-img": "images/heroes/support/ana-art-echo.webp",
+    "side-img": "images/heroes/support/ana-side.webp",
+    "side-echo-img": "images/heroes/support/ana-side-echo.webp"
   },
   {
     "name": "Ashe",
     "white-img": "images/heroes/damage/ashe-white.webp",
     "white-echo-img": "images/heroes/damage/ashe-echo.webp",
     "profile-img": "images/heroes/damage/ashe-profile.webp",
-    "profile-echo-img": "images/heroes/damage/ashe-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/ashe-profile-echo.webp",
+    "art-img": "images/heroes/support/ashe-art.webp",
+    "art-echo-img": "images/heroes/support/ashe-art-echo.webp",
+    "side-img": "images/heroes/support/ashe-side.webp",
+    "side-echo-img": "images/heroes/support/ashe-side-echo.webp"
   },
   {
     "name": "Baptiste",
     "white-img": "images/heroes/support/baptiste-white.webp",
     "white-echo-img": "images/heroes/support/baptiste-echo.webp",
     "profile-img": "images/heroes/support/baptiste-profile.webp",
-    "profile-echo-img": "images/heroes/support/baptiste-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/baptiste-profile-echo.webp",
+    "art-img": "images/heroes/support/baptiste-art.webp",
+    "art-echo-img": "images/heroes/support/baptiste-art-echo.webp",
+    "side-img": "images/heroes/support/baptiste-side.webp",
+    "side-echo-img": "images/heroes/support/baptiste-side-echo.webp"
   },
   {
     "name": "Bastion",
     "white-img": "images/heroes/damage/bastion-white.webp",
     "white-echo-img": "images/heroes/damage/bastion-echo.webp",
     "profile-img": "images/heroes/damage/bastion-profile.webp",
-    "profile-echo-img": "images/heroes/damage/bastion-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/bastion-profile-echo.webp",
+    "art-img": "images/heroes/support/bastion-art.webp",
+    "art-echo-img": "images/heroes/support/bastion-art-echo.webp",
+    "side-img": "images/heroes/support/bastion-side.webp",
+    "side-echo-img": "images/heroes/support/bastion-side-echo.webp"
   },
   {
     "name": "Brigitte",
     "white-img": "images/heroes/support/brigitte-white.webp",
     "white-echo-img": "images/heroes/support/brigitte-echo.webp",
     "profile-img": "images/heroes/support/brigitte-profile.webp",
-    "profile-echo-img": "images/heroes/support/brigitte-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/brigitte-profile-echo.webp",
+    "art-img": "images/heroes/support/brigitte-art.webp",
+    "art-echo-img": "images/heroes/support/brigitte-art-echo.webp",
+    "side-img": "images/heroes/support/brigitte-side.webp",
+    "side-echo-img": "images/heroes/support/brigitte-side-echo.webp"
   },
   {
     "name": "Cassidy",
     "white-img": "images/heroes/damage/cassidy-white.webp",
     "white-echo-img": "images/heroes/damage/cassidy-echo.webp",
     "profile-img": "images/heroes/damage/cassidy-profile.webp",
-    "profile-echo-img": "images/heroes/damage/cassidy-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/cassidy-profile-echo.webp",
+    "art-img": "images/heroes/support/cassidy-art.webp",
+    "art-echo-img": "images/heroes/support/cassidy-art-echo.webp",
+    "side-img": "images/heroes/support/cassidy-side.webp",
+    "side-echo-img": "images/heroes/support/cassidy-side-echo.webp"
   },
   {
     "name": "D.Va",
     "white-img": "images/heroes/tank/dva-white.webp",
     "white-echo-img": "images/heroes/tank/dva-echo.webp",
     "profile-img": "images/heroes/tank/dva-profile.webp",
-    "profile-echo-img": "images/heroes/tank/dva-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/dva-profile-echo.webp",
+    "art-img": "images/heroes/support/dva-art.webp",
+    "art-echo-img": "images/heroes/support/dva-art-echo.webp",
+    "side-img": "images/heroes/support/dva-side.webp",
+    "side-echo-img": "images/heroes/support/dva-side-echo.webp"
   },
   {
     "name": "Doomfist",
     "white-img": "images/heroes/tank/doomfist-white.webp",
     "white-echo-img": "images/heroes/tank/doomfist-echo.webp",
     "profile-img": "images/heroes/tank/doomfist-profile.webp",
-    "profile-echo-img": "images/heroes/tank/doomfist-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/doomfist-profile-echo.webp",
+    "art-img": "images/heroes/support/doomfist-art.webp",
+    "art-echo-img": "images/heroes/support/doomfist-art-echo.webp",
+    "side-img": "images/heroes/support/doomfist-side.webp",
+    "side-echo-img": "images/heroes/support/doomfist-side-echo.webp"
   },
   {
     "name": "Echo",
     "white-img": "images/heroes/damage/echo-white.webp",
     "white-echo-img": "images/heroes/damage/echo-white.webp",
     "profile-img": "images/heroes/damage/echo-profile.webp",
-    "profile-echo-img": "images/heroes/damage/echo-profile.webp"
+    "profile-echo-img": "images/heroes/damage/echo-profile.webp",
+    "art-img": "images/heroes/support/echo-art.webp",
+    "art-echo-img": "images/heroes/support/echo-art.webp",
+    "side-img": "images/heroes/support/echo-side.webp",
+    "side-echo-img": "images/heroes/support/echo-side.webp"
   },
   {
     "name": "Genji",
     "white-img": "images/heroes/damage/genji-white.webp",
     "white-echo-img": "images/heroes/damage/genji-echo.webp",
     "profile-img": "images/heroes/damage/genji-profile.webp",
-    "profile-echo-img": "images/heroes/damage/genji-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/genji-profile-echo.webp",
+    "art-img": "images/heroes/support/genji-art.webp",
+    "art-echo-img": "images/heroes/support/genji-art-echo.webp",
+    "side-img": "images/heroes/support/genji-side.webp",
+    "side-echo-img": "images/heroes/support/genji-side-echo.webp"
   },
   {
     "name": "Hanzo",
     "white-img": "images/heroes/damage/hanzo-white.webp",
     "white-echo-img": "images/heroes/damage/hanzo-echo.webp",
     "profile-img": "images/heroes/damage/hanzo-profile.webp",
-    "profile-echo-img": "images/heroes/damage/hanzo-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/hanzo-profile-echo.webp",
+    "art-img": "images/heroes/support/hanzo-art.webp",
+    "art-echo-img": "images/heroes/support/hanzo-art-echo.webp",
+    "side-img": "images/heroes/support/hanzo-side.webp",
+    "side-echo-img": "images/heroes/support/hanzo-side-echo.webp"
   },
   {
     "name": "Illari",
     "white-img": "images/heroes/support/illari-white.webp",
     "white-echo-img": "images/heroes/support/illari-echo.webp",
     "profile-img": "images/heroes/support/illari-profile.webp",
-    "profile-echo-img": "images/heroes/support/illari-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/illari-profile-echo.webp",
+    "art-img": "images/heroes/support/illari-art.webp",
+    "art-echo-img": "images/heroes/support/illari-art-echo.webp",
+    "side-img": "images/heroes/support/illari-side.webp",
+    "side-echo-img": "images/heroes/support/illari-side-echo.webp"
   },
   {
     "name": "Junker Queen",
     "white-img": "images/heroes/tank/junker-queen-white.webp",
     "white-echo-img": "images/heroes/tank/junker-queen-echo.webp",
     "profile-img": "images/heroes/tank/junker-queen-profile.webp",
-    "profile-echo-img": "images/heroes/tank/junker-queen-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/junker-queen-profile-echo.webp",
+    "art-img": "images/heroes/support/junker-queen-art.webp",
+    "art-echo-img": "images/heroes/support/junker-queen-art-echo.webp",
+    "side-img": "images/heroes/support/junker-queen-side.webp",
+    "side-echo-img": "images/heroes/support/junker-queen-side-echo.webp"
   },
   {
     "name": "Junkrat",
     "white-img": "images/heroes/damage/junkrat-white.webp",
     "white-echo-img": "images/heroes/damage/junkrat-echo.webp",
     "profile-img": "images/heroes/damage/junkrat-profile.webp",
-    "profile-echo-img": "images/heroes/damage/junkrat-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/junkrat-profile-echo.webp",
+    "art-img": "images/heroes/support/junkrat-art.webp",
+    "art-echo-img": "images/heroes/support/junkrat-art-echo.webp",
+    "side-img": "images/heroes/support/junkrat-side.webp",
+    "side-echo-img": "images/heroes/support/junkrat-side-echo.webp"
   },
   {
     "name": "Kiriko",
     "white-img": "images/heroes/support/kiriko-white.webp",
     "white-echo-img": "images/heroes/support/kiriko-echo.webp",
     "profile-img": "images/heroes/support/kiriko-profile.webp",
-    "profile-echo-img": "images/heroes/support/kiriko-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/kiriko-profile-echo.webp",
+    "art-img": "images/heroes/support/kiriko-art.webp",
+    "art-echo-img": "images/heroes/support/kiriko-art-echo.webp",
+    "side-img": "images/heroes/support/kiriko-side.webp",
+    "side-echo-img": "images/heroes/support/kiriko-side-echo.webp"
   },
   {
     "name": "Lifeweaver",
     "white-img": "images/heroes/support/lifeweaver-white.webp",
     "white-echo-img": "images/heroes/support/lifeweaver-echo.webp",
     "profile-img": "images/heroes/support/lifeweaver-profile.webp",
-    "profile-echo-img": "images/heroes/support/lifeweaver-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/lifeweaver-profile-echo.webp",
+    "art-img": "images/heroes/support/lifeweaver-art.webp",
+    "art-echo-img": "images/heroes/support/lifeweaver-art-echo.webp",
+    "side-img": "images/heroes/support/lifeweaver-side.webp",
+    "side-echo-img": "images/heroes/support/lifeweaver-side-echo.webp"
   }, 
   {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.webp",
     "white-echo-img": "images/heroes/support/lucio-echo.webp",
     "profile-img": "images/heroes/support/lucio-profile.webp",
-    "profile-echo-img": "images/heroes/support/lucio-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/lucio-profile-echo.webp",
+    "art-img": "images/heroes/support/lucio-art.webp",
+    "art-echo-img": "images/heroes/support/lucio-art-echo.webp",
+    "side-img": "images/heroes/support/lucio-side.webp",
+    "side-echo-img": "images/heroes/support/lucio-side-echo.webp"
   }, 
   {
     "name": "Mauga",
     "white-img": "images/heroes/tank/mauga-white.webp",
     "white-echo-img": "images/heroes/tank/mauga-echo.webp",
     "profile-img": "images/heroes/tank/mauga-profile.webp",
-    "profile-echo-img": "images/heroes/tank/mauga-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/mauga-profile-echo.webp",
+    "art-img": "images/heroes/support/mauga-art.webp",
+    "art-echo-img": "images/heroes/support/mauga-art-echo.webp",
+    "side-img": "images/heroes/support/mauga-side.webp",
+    "side-echo-img": "images/heroes/support/mauga-side-echo.webp"
   },
   {
     "name": "Mei",
     "white-img": "images/heroes/damage/mei-white.webp",
     "white-echo-img": "images/heroes/damage/mei-echo.webp",
     "profile-img": "images/heroes/damage/mei-profile.webp",
-    "profile-echo-img": "images/heroes/damage/mei-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/mei-profile-echo.webp",
+    "art-img": "images/heroes/support/mei-art.webp",
+    "art-echo-img": "images/heroes/support/mei-art-echo.webp",
+    "side-img": "images/heroes/support/mei-side.webp",
+    "side-echo-img": "images/heroes/support/mei-side-echo.webp"
   },
   {
     "name": "Mercy",
     "white-img": "images/heroes/support/mercy-white.webp",
     "white-echo-img": "images/heroes/support/mercy-echo.webp",
     "profile-img": "images/heroes/support/mercy-profile.webp",
-    "profile-echo-img": "images/heroes/support/mercy-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/mercy-profile-echo.webp",
+    "art-img": "images/heroes/support/mercy-art.webp",
+    "art-echo-img": "images/heroes/support/mercy-art-echo.webp",
+    "side-img": "images/heroes/support/mercy-side.webp",
+    "side-echo-img": "images/heroes/support/mercy-side-echo.webp"
   },
   {
     "name": "Moira",
     "white-img": "images/heroes/support/moira-white.webp",
     "white-echo-img": "images/heroes/support/moira-echo.webp",
     "profile-img": "images/heroes/support/moira-profile.webp",
-    "profile-echo-img": "images/heroes/support/moira-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/moira-profile-echo.webp",
+    "art-img": "images/heroes/support/moira-art.webp",
+    "art-echo-img": "images/heroes/support/moira-art-echo.webp",
+    "side-img": "images/heroes/support/moira-side.webp",
+    "side-echo-img": "images/heroes/support/moira-side-echo.webp"
   },
   {
     "name": "Orisa",
     "white-img": "images/heroes/tank/orisa-white.webp",
     "white-echo-img": "images/heroes/tank/orisa-echo.webp",
     "profile-img": "images/heroes/tank/orisa-profile.webp",
-    "profile-echo-img": "images/heroes/tank/orisa-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/orisa-profile-echo.webp",
+    "art-img": "images/heroes/support/orisa-art.webp",
+    "art-echo-img": "images/heroes/support/orisa-art-echo.webp",
+    "side-img": "images/heroes/support/orisa-side.webp",
+    "side-echo-img": "images/heroes/support/orisa-side-echo.webp"
   },
   {
     "name": "Pharah",
     "white-img": "images/heroes/damage/pharah-white.webp",
     "white-echo-img": "images/heroes/damage/pharah-echo.webp",
     "profile-img": "images/heroes/damage/pharah-profile.webp",
-    "profile-echo-img": "images/heroes/damage/pharah-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/pharah-profile-echo.webp",
+    "art-img": "images/heroes/support/pharah-art.webp",
+    "art-echo-img": "images/heroes/support/pharah-art-echo.webp",
+    "side-img": "images/heroes/support/pharah-side.webp",
+    "side-echo-img": "images/heroes/support/pharah-side-echo.webp"
   },
   {
     "name": "Ramattra",
     "white-img": "images/heroes/tank/ramattra-white.webp",
     "white-echo-img": "images/heroes/tank/ramattra-echo.webp",
     "profile-img": "images/heroes/tank/ramattra-profile.webp",
-    "profile-echo-img": "images/heroes/tank/ramattra-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/ramattra-profile-echo.webp",
+    "art-img": "images/heroes/support/ramattra-art.webp",
+    "art-echo-img": "images/heroes/support/ramattra-art-echo.webp",
+    "side-img": "images/heroes/support/ramattra-side.webp",
+    "side-echo-img": "images/heroes/support/ramattra-side-echo.webp"
   },
   {
     "name": "Reaper",
     "white-img": "images/heroes/damage/reaper-white.webp",
     "white-echo-img": "images/heroes/damage/reaper-echo.webp",
     "profile-img": "images/heroes/damage/reaper-profile.webp",
-    "profile-echo-img": "images/heroes/damage/reaper-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/reaper-profile-echo.webp",
+    "art-img": "images/heroes/support/reaper-art.webp",
+    "art-echo-img": "images/heroes/support/reaper-art-echo.webp",
+    "side-img": "images/heroes/support/reaper-side.webp",
+    "side-echo-img": "images/heroes/support/reaper-side-echo.webp"
   },
   {
     "name": "Reinhardt",
     "white-img": "images/heroes/tank/reinhardt-white.webp",
     "white-echo-img": "images/heroes/tank/reinhardt-echo.webp",
     "profile-img": "images/heroes/tank/reinhardt-profile.webp",
-    "profile-echo-img": "images/heroes/tank/reinhardt-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/reinhardt-profile-echo.webp",
+    "art-img": "images/heroes/support/reinhardt-art.webp",
+    "art-echo-img": "images/heroes/support/reinhardt-art-echo.webp",
+    "side-img": "images/heroes/support/reinhardt-side.webp",
+    "side-echo-img": "images/heroes/support/reinhardt-side-echo.webp"
   },
   {
     "name": "Roadhog",
     "white-img": "images/heroes/tank/roadhog-white.webp",
     "white-echo-img": "images/heroes/tank/roadhog-echo.webp",
     "profile-img": "images/heroes/tank/roadhog-profile.webp",
-    "profile-echo-img": "images/heroes/tank/roadhog-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/roadhog-profile-echo.webp",
+    "art-img": "images/heroes/support/roadhog-art.webp",
+    "art-echo-img": "images/heroes/support/roadhog-art-echo.webp",
+    "side-img": "images/heroes/support/roadhog-side.webp",
+    "side-echo-img": "images/heroes/support/roadhog-side-echo.webp"
   },
   {
     "name": "Sigma",
     "white-img": "images/heroes/tank/sigma-white.webp",
     "white-echo-img": "images/heroes/tank/sigma-echo.webp",
     "profile-img": "images/heroes/tank/sigma-profile.webp",
-    "profile-echo-img": "images/heroes/tank/sigma-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/sigma-profile-echo.webp",
+    "art-img": "images/heroes/support/sigma-art.webp",
+    "art-echo-img": "images/heroes/support/sigma-art-echo.webp",
+    "side-img": "images/heroes/support/sigma-side.webp",
+    "side-echo-img": "images/heroes/support/sigma-side-echo.webp"
   },
   {
     "name": "Sojourn",
     "white-img": "images/heroes/damage/sojourn-white.webp",
     "white-echo-img": "images/heroes/damage/sojourn-echo.webp",
     "profile-img": "images/heroes/damage/sojourn-profile.webp",
-    "profile-echo-img": "images/heroes/damage/sojourn-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/sojourn-profile-echo.webp",
+    "art-img": "images/heroes/support/sojourn-art.webp",
+    "art-echo-img": "images/heroes/support/sojourn-art-echo.webp",
+    "side-img": "images/heroes/support/sojourn-side.webp",
+    "side-echo-img": "images/heroes/support/sojourn-side-echo.webp"
   },
   {
     "name": "Soldier: 76",
     "white-img": "images/heroes/damage/soldier-76-white.webp",
     "white-echo-img": "images/heroes/damage/soldier-76-echo.webp",
     "profile-img": "images/heroes/damage/soldier-76-profile.webp",
-    "profile-echo-img": "images/heroes/damage/soldier-76-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/soldier-76-profile-echo.webp",
+    "art-img": "images/heroes/support/soldier-76-art.webp",
+    "art-echo-img": "images/heroes/support/soldier-76-art-echo.webp",
+    "side-img": "images/heroes/support/soldier-76-side.webp",
+    "side-echo-img": "images/heroes/support/soldier-76-side-echo.webp"
   },
   {
     "name": "Sombra",
     "white-img": "images/heroes/damage/sombra-white.webp",
     "white-echo-img": "images/heroes/damage/sombra-echo.webp",
     "profile-img": "images/heroes/damage/sombra-profile.webp",
-    "profile-echo-img": "images/heroes/damage/sombra-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/sombra-profile-echo.webp",
+    "art-img": "images/heroes/support/sombra-art.webp",
+    "art-echo-img": "images/heroes/support/sombra-art-echo.webp",
+    "side-img": "images/heroes/support/sombra-side.webp",
+    "side-echo-img": "images/heroes/support/sombra-side-echo.webp"
   },
   {
     "name": "Symmetra",
     "white-img": "images/heroes/damage/symmetra-white.webp",
     "white-echo-img": "images/heroes/damage/symmetra-echo.webp",
     "profile-img": "images/heroes/damage/symmetra-profile.webp",
-    "profile-echo-img": "images/heroes/damage/symmetra-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/symmetra-profile-echo.webp",
+    "art-img": "images/heroes/support/symmetra-art.webp",
+    "art-echo-img": "images/heroes/support/symmetra-art-echo.webp",
+    "side-img": "images/heroes/support/symmetra-side.webp",
+    "side-echo-img": "images/heroes/support/symmetra-side-echo.webp"
   },
   {
     "name": "Torbjörn",
     "white-img": "images/heroes/damage/torbjorn-white.webp",
     "white-echo-img": "images/heroes/damage/torbjorn-echo.webp",
     "profile-img": "images/heroes/damage/torbjorn-profile.webp",
-    "profile-echo-img": "images/heroes/damage/torbjorn-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/torbjorn-profile-echo.webp",
+    "art-img": "images/heroes/support/torbjorn-art.webp",
+    "art-echo-img": "images/heroes/support/torbjorn-art-echo.webp",
+    "side-img": "images/heroes/support/torbjorn-side.webp",
+    "side-echo-img": "images/heroes/support/torbjorn-side-echo.webp"
   },
   {
     "name": "Tracer",
     "white-img": "images/heroes/damage/tracer-white.webp",
     "white-echo-img": "images/heroes/damage/tracer-echo.webp",
     "profile-img": "images/heroes/damage/tracer-profile.webp",
-    "profile-echo-img": "images/heroes/damage/tracer-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/tracer-profile-echo.webp",
+    "art-img": "images/heroes/support/tracer-art.webp",
+    "art-echo-img": "images/heroes/support/tracer-art-echo.webp",
+    "side-img": "images/heroes/support/tracer-side.webp",
+    "side-echo-img": "images/heroes/support/tracer-side-echo.webp"
   },
   {
     "name": "Venture",
     "white-img": "images/heroes/damage/venture-white.webp",
     "white-echo-img": "images/heroes/damage/venture-echo.webp",
     "profile-img": "images/heroes/damage/venture-profile.webp",
-    "profile-echo-img": "images/heroes/damage/venture-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/venture-profile-echo.webp",
+    "art-img": "images/heroes/support/venture-art.webp",
+    "art-echo-img": "images/heroes/support/venture-art-echo.webp",
+    "side-img": "images/heroes/support/venture-side.webp",
+    "side-echo-img": "images/heroes/support/venture-side-echo.webp"
   },
   {
     "name": "Widowmaker",
     "white-img": "images/heroes/damage/widowmaker-white.webp",
     "white-echo-img": "images/heroes/damage/widowmaker-echo.webp",
     "profile-img": "images/heroes/damage/widowmaker-profile.webp",
-    "profile-echo-img": "images/heroes/damage/widowmaker-profile-echo.webp"
+    "profile-echo-img": "images/heroes/damage/widowmaker-profile-echo.webp",
+    "art-img": "images/heroes/support/widowmaker-art.webp",
+    "art-echo-img": "images/heroes/support/widowmaker-art-echo.webp",
+    "side-img": "images/heroes/support/widowmaker-side.webp",
+    "side-echo-img": "images/heroes/support/widowmaker-side-echo.webp"
   },
   {
     "name": "Winston",
     "white-img": "images/heroes/tank/winston-white.webp",
     "white-echo-img": "images/heroes/tank/winston-echo.webp",
     "profile-img": "images/heroes/tank/winston-profile.webp",
-    "profile-echo-img": "images/heroes/tank/winston-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/winston-profile-echo.webp",
+    "art-img": "images/heroes/support/winston-art.webp",
+    "art-echo-img": "images/heroes/support/winston-art-echo.webp",
+    "side-img": "images/heroes/support/winston-side.webp",
+    "side-echo-img": "images/heroes/support/winston-side-echo.webp"
   },
   {
     "name": "Wrecking Ball",
     "white-img": "images/heroes/tank/wrecking-ball-white.webp",
     "white-echo-img": "images/heroes/tank/wrecking-ball-echo.webp",
     "profile-img": "images/heroes/tank/wrecking-ball-profile.webp",
-    "profile-echo-img": "images/heroes/tank/wrecking-ball-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/wrecking-ball-profile-echo.webp",
+    "art-img": "images/heroes/support/wrecking-ball-art.webp",
+    "art-echo-img": "images/heroes/support/wrecking-ball-art-echo.webp",
+    "side-img": "images/heroes/support/wrecking-ball-side.webp",
+    "side-echo-img": "images/heroes/support/wrecking-ball-side-echo.webp"
   },
   {
     "name": "Zarya",
     "white-img": "images/heroes/tank/zarya-white.webp",
     "white-echo-img": "images/heroes/tank/zarya-echo.webp",
     "profile-img": "images/heroes/tank/zarya-profile.webp",
-    "profile-echo-img": "images/heroes/tank/zarya-profile-echo.webp"
+    "profile-echo-img": "images/heroes/tank/zarya-profile-echo.webp",
+    "art-img": "images/heroes/support/zarya-art.webp",
+    "art-echo-img": "images/heroes/support/zarya-art-echo.webp",
+    "side-img": "images/heroes/support/zarya-side.webp",
+    "side-echo-img": "images/heroes/support/zarya-side-echo.webp"
   },
   {
     "name": "Zenyatta",
     "white-img": "images/heroes/support/zenyatta-white.webp",
     "white-echo-img": "images/heroes/support/zenyatta-echo.webp",
     "profile-img": "images/heroes/support/zenyatta-profile.webp",
-    "profile-echo-img": "images/heroes/support/zenyatta-profile-echo.webp"
+    "profile-echo-img": "images/heroes/support/zenyatta-profile-echo.webp",
+    "art-img": "images/heroes/support/zenyatta-art.webp",
+    "art-echo-img": "images/heroes/support/zenyatta-art-echo.webp",
+    "side-img": "images/heroes/support/zenyatta-side.webp",
+    "side-echo-img": "images/heroes/support/zenyatta-side-echo.webp"
   }
 ]
