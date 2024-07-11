@@ -517,7 +517,7 @@
          "Nepal":{
             "Village":0,
             "Sanctum":10,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":10,
@@ -786,9 +786,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":10,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":10,
@@ -1059,7 +1059,7 @@
          "Nepal":{
             "Village":10,
             "Sanctum":0,
-            "Shrine":10
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -1328,9 +1328,9 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":0,
-            "Shrine":10
+            "Village":0,
+            "Sanctum":20,
+            "Shrine":0
          },
          "Oasis":{
             "City Center":0,
@@ -1601,7 +1601,7 @@
          "Nepal":{
             "Village":10,
             "Sanctum":10,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":10,
@@ -1871,7 +1871,7 @@
          },
          "Nepal":{
             "Village":10,
-            "Sanctum":10,
+            "Sanctum":0,
             "Shrine":0
          },
          "Oasis":{
@@ -2142,7 +2142,7 @@
          },
          "Nepal":{
             "Village":10,
-            "Sanctum":10,
+            "Sanctum":20,
             "Shrine":0
          },
          "Oasis":{
@@ -2412,9 +2412,9 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":10
+            "Village":20,
+            "Sanctum":20,
+            "Shrine":20
          },
          "Oasis":{
             "City Center":10,
@@ -2683,8 +2683,8 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":0,
+            "Village":20,
+            "Sanctum":10,
             "Shrine":10
          },
          "Oasis":{
@@ -2954,9 +2954,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
+            "Village":10,
             "Sanctum":10,
-            "Shrine":0
+            "Shrine":20
          },
          "Oasis":{
             "City Center":10,
@@ -3225,9 +3225,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":0,
+            "Sanctum":0,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -3496,9 +3496,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":20,
+            "Sanctum":0,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -3767,9 +3767,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":0,
+            "Village":10,
             "Sanctum":0,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -4038,8 +4038,8 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":0,
+            "Village":20,
+            "Sanctum":20,
             "Shrine":0
          },
          "Oasis":{
@@ -4310,8 +4310,8 @@
          },
          "Nepal":{
             "Village":10,
-            "Sanctum":0,
-            "Shrine":0
+            "Sanctum":10,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":10,
@@ -4580,8 +4580,8 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":10,
+            "Village":10,
+            "Sanctum":20,
             "Shrine":10
          },
          "Oasis":{
@@ -4851,9 +4851,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":20,
+            "Sanctum":0,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -5122,9 +5122,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":0,
-            "Shrine":10
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -5393,9 +5393,9 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":0,
-            "Shrine":10
+            "Village":10,
+            "Sanctum":10,
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -5664,9 +5664,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":0,
-            "Shrine":10
+            "Shrine":20
          },
          "Oasis":{
             "City Center":-10,
@@ -5935,9 +5935,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":10
+            "Village":20,
+            "Sanctum":0,
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -6206,9 +6206,9 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":10,
-            "Shrine":10
+            "Village":20,
+            "Sanctum":20,
+            "Shrine":20
          },
          "Oasis":{
             "City Center":10,
@@ -6477,9 +6477,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":0,
-            "Shrine":10
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -6749,7 +6749,7 @@
          },
          "Nepal":{
             "Village":10,
-            "Sanctum":0,
+            "Sanctum":10,
             "Shrine":10
          },
          "Oasis":{
@@ -7019,9 +7019,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":0,
-            "Shrine":10
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -7290,9 +7290,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":10,
+            "Sanctum":20,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -7563,7 +7563,7 @@
          "Nepal":{
             "Village":0,
             "Sanctum":0,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -7832,9 +7832,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":0,
-            "Shrine":10
+            "Village":0,
+            "Sanctum":20,
+            "Shrine":0
          },
          "Oasis":{
             "City Center":10,
@@ -8103,7 +8103,7 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
+            "Village":10,
             "Sanctum":10,
             "Shrine":10
          },
@@ -8374,8 +8374,8 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
-            "Sanctum":0,
+            "Village":0,
+            "Sanctum":20,
             "Shrine":10
          },
          "Oasis":{
@@ -8645,9 +8645,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":20,
+            "Sanctum":0,
+            "Shrine":20
          },
          "Oasis":{
             "City Center":0,
@@ -8917,7 +8917,7 @@
          },
          "Nepal":{
             "Village":0,
-            "Sanctum":0,
+            "Sanctum":10,
             "Shrine":0
          },
          "Oasis":{
@@ -9187,9 +9187,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":0,
+            "Village":10,
             "Sanctum":10,
-            "Shrine":0
+            "Shrine":10
          },
          "Oasis":{
             "City Center":10,
@@ -9458,9 +9458,9 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":10,
-            "Shrine":0
+            "Village":10,
+            "Sanctum":0,
+            "Shrine":10
          },
          "Oasis":{
             "City Center":0,
@@ -9729,7 +9729,7 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":10,
+            "Village":0,
             "Sanctum":10,
             "Shrine":0
          },
@@ -10000,8 +10000,8 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":0,
-            "Sanctum":10,
+            "Village":10,
+            "Sanctum":0,
             "Shrine":0
          },
          "Oasis":{
@@ -10271,7 +10271,7 @@
             "Control Center":0
          },
          "Nepal":{
-            "Village":0,
+            "Village":10,
             "Sanctum":0,
             "Shrine":10
          },
@@ -10542,7 +10542,7 @@
             "Control Center":20
          },
          "Nepal":{
-            "Village":10,
+            "Village":20,
             "Sanctum":0,
             "Shrine":10
          },
@@ -10813,9 +10813,9 @@
             "Control Center":10
          },
          "Nepal":{
-            "Village":10,
+            "Village":0,
             "Sanctum":10,
-            "Shrine":10
+            "Shrine":0
          },
          "Oasis":{
             "City Center":10,
