@@ -211,7 +211,7 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
             "Enemy":0
          }
@@ -482,8 +482,8 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
+            "Ally":20,
+            "Mid":0,
             "Enemy":0
          }
       },
@@ -753,9 +753,9 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
-            "Enemy":0
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -1025,8 +1025,8 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -1296,7 +1296,7 @@
          },
          "Runasapi":{
             "Ally":0,
-            "Mid":10,
+            "Mid":0,
             "Enemy":0
          }
       },
@@ -1567,8 +1567,8 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Mid":20,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -1838,7 +1838,7 @@
          },
          "Runasapi":{
             "Ally":0,
-            "Mid":10,
+            "Mid":0,
             "Enemy":10
          }
       },
@@ -2108,8 +2108,8 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
+            "Ally":0,
+            "Mid":0,
             "Enemy":0
          }
       },
@@ -2379,9 +2379,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":0,
+            "Ally":10,
             "Mid":10,
-            "Enemy":0
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -2650,8 +2650,8 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
+            "Ally":0,
+            "Mid":0,
             "Enemy":10
          }
       },
@@ -2921,9 +2921,9 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
-            "Enemy":10
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -3192,7 +3192,7 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":0,
             "Enemy":0
          }
@@ -3464,8 +3464,8 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Mid":20,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -3734,9 +3734,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
-            "Enemy":0
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -4005,8 +4005,8 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":0,
-            "Mid":10,
+            "Ally":10,
+            "Mid":0,
             "Enemy":10
          }
       },
@@ -4276,9 +4276,9 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":0,
+            "Ally":10,
             "Mid":10,
-            "Enemy":0
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -4547,9 +4547,9 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
-            "Enemy":10
+            "Ally":0,
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -4819,8 +4819,8 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -5089,8 +5089,8 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
+            "Ally":20,
+            "Mid":20,
             "Enemy":10
          }
       },
@@ -5360,9 +5360,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":0,
             "Mid":10,
-            "Enemy":0
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -5632,8 +5632,8 @@
          },
          "Runasapi":{
             "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -5902,9 +5902,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":0,
-            "Enemy":10
+            "Ally":20,
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -6173,9 +6173,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":0,
+            "Ally":10,
             "Mid":10,
-            "Enemy":0
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -6444,9 +6444,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Ally":20,
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -6716,7 +6716,7 @@
          },
          "Runasapi":{
             "Ally":0,
-            "Mid":0,
+            "Mid":20,
             "Enemy":0
          }
       },
@@ -6986,9 +6986,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Ally":20,
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -7257,9 +7257,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":10,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -7528,7 +7528,7 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
             "Enemy":10
          }
@@ -7799,7 +7799,7 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
             "Enemy":0
          }
@@ -8341,7 +8341,7 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
+            "Ally":20,
             "Mid":10,
             "Enemy":0
          }
@@ -8612,9 +8612,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":0,
-            "Mid":10,
-            "Enemy":10
+            "Ally":20,
+            "Mid":20,
+            "Enemy":20
          }
       },
       "Flashpoint":{
@@ -8883,9 +8883,9 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":0,
-            "Mid":10,
-            "Enemy":10
+            "Ally":10,
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -9154,8 +9154,8 @@
             "Enemy":10
          },
          "Runasapi":{
-            "Ally":10,
-            "Mid":0,
+            "Ally":0,
+            "Mid":10,
             "Enemy":10
          }
       },
@@ -9425,9 +9425,9 @@
             "Enemy":0
          },
          "Runasapi":{
-            "Ally":0,
-            "Mid":0,
-            "Enemy":0
+            "Ally":10,
+            "Mid":20,
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -9697,7 +9697,7 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
+            "Mid":0,
             "Enemy":0
          }
       },
@@ -9968,8 +9968,8 @@
          },
          "Runasapi":{
             "Ally":0,
-            "Mid":10,
-            "Enemy":10
+            "Mid":0,
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -10240,7 +10240,7 @@
          "Runasapi":{
             "Ally":0,
             "Mid":10,
-            "Enemy":10
+            "Enemy":0
          }
       },
       "Flashpoint":{
@@ -10511,7 +10511,7 @@
          "Runasapi":{
             "Ally":10,
             "Mid":10,
-            "Enemy":0
+            "Enemy":10
          }
       },
       "Flashpoint":{
@@ -10781,8 +10781,8 @@
          },
          "Runasapi":{
             "Ally":10,
-            "Mid":10,
-            "Enemy":0
+            "Mid":0,
+            "Enemy":20
          }
       },
       "Flashpoint":{
