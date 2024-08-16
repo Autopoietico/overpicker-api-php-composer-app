@@ -89,6 +89,18 @@
     ]
   },
   {
+    "name": "Hanaoka",
+    "type": "Clash",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
     "name": "Havana",
     "type": "Escort",
     "onPool": true,

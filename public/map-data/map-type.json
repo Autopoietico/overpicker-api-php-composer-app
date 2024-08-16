@@ -7,6 +7,14 @@
     ]
   },
   {
+    "name": "Clash",
+    "internal_type": [
+      "Clash",
+      "Clash",
+      "Clash"
+    ]
+  },
+  {
     "name": "Control",
     "internal_type": [
       "Control",
