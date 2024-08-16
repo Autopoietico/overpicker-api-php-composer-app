@@ -323,6 +323,18 @@
     ]
   },
   {
+    "name": "Throne of Anubis",
+    "type": "Clash",
+    "onPool": true,
+    "points": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ]
+  },
+  {
     "name": "Volskaya Industries",
     "type": "Assault",
     "onPool": false,
