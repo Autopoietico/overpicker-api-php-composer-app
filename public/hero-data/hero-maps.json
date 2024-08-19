@@ -232,6 +232,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -501,6 +533,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":20,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":20,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -774,6 +838,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":20,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":20,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -1043,6 +1139,38 @@
             "Palace":10,
             "Temple":0,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -1316,6 +1444,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":20,
@@ -1585,6 +1745,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":20,
+            "D":0,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":0,
+            "C":20,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -1858,6 +2050,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -2127,6 +2351,38 @@
             "Palace":0,
             "Temple":10,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":20,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":20,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -2400,6 +2656,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -2669,6 +2957,38 @@
             "Palace":0,
             "Temple":10,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -2942,6 +3262,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -3211,6 +3563,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":0,
+            "C":0,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":0,
+            "D":0,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -3484,6 +3868,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":0,
@@ -3753,6 +4169,38 @@
             "Palace":0,
             "Temple":0,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -4026,6 +4474,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":20,
@@ -4295,6 +4775,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":20,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":20,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -4568,6 +5080,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":20,
@@ -4837,6 +5381,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -5110,6 +5686,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -5379,6 +5987,38 @@
             "Palace":10,
             "Temple":0,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -5652,6 +6292,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -5921,6 +6593,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -6194,6 +6898,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -6463,6 +7199,38 @@
             "Palace":10,
             "Temple":0,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -6736,6 +7504,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":20,
@@ -7005,6 +7805,38 @@
             "Palace":10,
             "Temple":0,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -7278,6 +8110,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":0,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":0,
@@ -7547,6 +8411,38 @@
             "Palace":10,
             "Temple":0,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":0,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -7820,6 +8716,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -8089,6 +9017,38 @@
             "Palace":0,
             "Temple":0,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":0,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":0,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -8362,6 +9322,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -8631,6 +9623,38 @@
             "Palace":0,
             "Temple":0,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":20,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":10,
+            "C":20,
+            "D":10,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -8904,6 +9928,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":0,
+            "C":20,
+            "D":0,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":0,
@@ -9173,6 +10229,38 @@
             "Palace":0,
             "Temple":0,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":0,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":0,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -9446,6 +10534,38 @@
             "Ruins":10
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":10,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":10,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":10,
@@ -9715,6 +10835,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":0,
+            "D":0,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -9988,6 +11140,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":20,
+            "D":20,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":20,
+            "C":20,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":20,
@@ -10257,6 +11441,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":10
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":0
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
@@ -10530,6 +11746,38 @@
             "Ruins":0
          }
       },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":20,
+            "C":10,
+            "D":10,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":20,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":{
          "Ilios":{
             "Ruins":0,
@@ -10799,6 +12047,38 @@
             "Palace":10,
             "Temple":10,
             "Ruins":0
+         }
+      },
+      "A-Team":{
+         "Hanaoka":{
+            "A":20,
+            "B":0,
+            "C":0,
+            "D":20,
+            "E":10
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Hanaoka":{
+            "A":10,
+            "B":20,
+            "C":0,
+            "D":0,
+            "E":20
+         },
+         "Throne of Anubis":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
          }
       },
       "Control":{
