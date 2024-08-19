@@ -28,6 +28,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Ashe":{
@@ -59,6 +77,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Baptiste":{
@@ -90,6 +126,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Bastion":{
@@ -121,6 +175,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Brigitte":{
@@ -152,6 +224,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Cassidy":{
@@ -183,6 +273,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "D.Va":{
@@ -214,6 +322,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":10
    },
    "Doomfist":{
@@ -245,6 +371,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Echo":{
@@ -276,6 +420,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Genji":{
@@ -307,6 +469,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Hanzo":{
@@ -338,6 +518,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Illari":{
@@ -369,6 +567,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Junker Queen":{
@@ -400,6 +616,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Junkrat":{
@@ -431,6 +665,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Kiriko":{
@@ -462,6 +714,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Lifeweaver":{
@@ -493,6 +763,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":10
    },
    "Lucio":{
@@ -524,6 +812,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":10
    },
    "Mauga":{
@@ -555,6 +861,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Mei":{
@@ -586,6 +910,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Mercy":{
@@ -617,6 +959,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Moira":{
@@ -648,6 +1008,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Orisa":{
@@ -679,6 +1057,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Pharah":{
@@ -710,6 +1106,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Ramattra":{
@@ -741,6 +1155,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":10
    },
    "Reaper":{
@@ -772,6 +1204,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Reinhardt":{
@@ -803,6 +1253,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":10,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":10
    },
    "Roadhog":{
@@ -834,6 +1302,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Sigma":{
@@ -865,6 +1351,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Sojourn":{
@@ -896,6 +1400,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":10
    },
    "Soldier: 76":{
@@ -927,6 +1449,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Sombra":{
@@ -958,6 +1498,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":10
    },
    "Symmetra":{
@@ -989,6 +1547,24 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Torbjörn":{
@@ -1020,6 +1596,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Tracer":{
@@ -1051,12 +1645,30 @@
          "Enemy":0
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Venture":{
       "Attack":{
          "Assault":{
-            "A":0,
+            "A":10,
             "B":0
          },
          "Escort":{
@@ -1082,6 +1694,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":0
    },
    "Widowmaker":{
@@ -1113,6 +1743,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Winston":{
@@ -1144,6 +1792,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":10
    },
    "Wrecking Ball":{
@@ -1175,6 +1841,24 @@
          "Enemy":10
       },
       "Flashpoint":10,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":10,
+            "D":10,
+            "E":10
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":10,
+            "D":0,
+            "E":0
+         }
+      },
       "Control":10
    },
    "Zarya":{
@@ -1206,6 +1890,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":10,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":10,
+            "E":10
+         }
+      },
       "Control":0
    },
    "Zenyatta":{
@@ -1237,6 +1939,24 @@
          "Enemy":0
       },
       "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":10,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":10
+         }
+      },
       "Control":0
    }
 }
