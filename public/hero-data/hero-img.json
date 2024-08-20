@@ -154,6 +154,17 @@
     "side-echo-img": "images/heroes/damage/junkrat-side-echo.webp"
   },
   {
+    "name": "Juno",
+    "white-img": "images/heroes/support/juno-white.webp",
+    "white-echo-img": "images/heroes/support/juno-echo.webp",
+    "profile-img": "images/heroes/support/juno-profile.webp",
+    "profile-echo-img": "images/heroes/support/juno-profile-echo.webp",
+    "art-img": "images/heroes/support/juno-art.webp",
+    "art-echo-img": "images/heroes/support/juno-art-echo.webp",
+    "side-img": "images/heroes/support/juno-side.webp",
+    "side-echo-img": "images/heroes/support/juno-side-echo.webp"
+  },
+  {
     "name": "Kiriko",
     "white-img": "images/heroes/support/kiriko-white.webp",
     "white-echo-img": "images/heroes/support/kiriko-echo.webp",

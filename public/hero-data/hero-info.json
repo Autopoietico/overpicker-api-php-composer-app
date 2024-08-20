@@ -155,6 +155,17 @@
     "nicks": ["Junkrat", "Junk", "Rat"]
   },
   {
+    "name": "Juno",
+    "description": "A Martian.",
+    "general_rol": "Support",
+    "secondary_rol": "MainSupport",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Juno", "Astronaut", "Space", "Martian", "Mars"]
+  },
+  {
     "name": "Kiriko",
     "description": "A support designed to deal damage, her teleport makes her elusive, and the Suzu Protection can prevent other supports like Ana from disrupting your team. The Kitsune Rush accelerates your team's cooldowns and damage in ways the enemy team can't handle.",
     "general_rol": "Support",
