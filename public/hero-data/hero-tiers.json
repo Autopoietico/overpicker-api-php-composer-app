@@ -392,17 +392,17 @@
          "Mei":15,
          "Mercy":15,
          "Moira":25,
-         "Orisa":15,
+         "Orisa":5,
          "Pharah":25,
          "Ramattra":25,
          "Reaper":25,
          "Reinhardt":35,
          "Roadhog":5,
          "Sigma":25,
-         "Sojourn":15,
+         "Sojourn":5,
          "Soldier: 76":25,
          "Sombra":25,
-         "Symmetra":5,
+         "Symmetra":15,
          "Torbjörn":25,
          "Tracer":45,
          "Venture":35,
@@ -440,7 +440,7 @@
          "Moira":15,
          "Orisa":15,
          "Pharah":25,
-         "Ramattra":35,
+         "Ramattra":25,
          "Reaper":25,
          "Reinhardt":25,
          "Roadhog":5,
@@ -452,11 +452,11 @@
          "Torbjörn":25,
          "Tracer":45,
          "Venture":35,
-         "Widowmaker":35,
+         "Widowmaker":25,
          "Winston":45,
          "Wrecking Ball":25,
          "Zarya":25,
-         "Zenyatta":5
+         "Zenyatta":15
       }
    }
 ]
