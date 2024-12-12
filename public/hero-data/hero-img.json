@@ -121,6 +121,17 @@
     "side-echo-img": "images/heroes/damage/hanzo-side-echo.webp"
   },
   {
+    "name": "Hazard",
+    "white-img": "images/heroes/tank/hazard-white.webp",
+    "white-echo-img": "images/heroes/tank/hazard-echo.webp",
+    "profile-img": "images/heroes/tank/hazard-profile.webp",
+    "profile-echo-img": "images/heroes/tank/hazard-profile-echo.webp",
+    "art-img": "images/heroes/tank/hazard-art.webp",
+    "art-echo-img": "images/heroes/tank/hazard-art-echo.webp",
+    "side-img": "images/heroes/tank/hazard-side.webp",
+    "side-echo-img": "images/heroes/tank/hazard-side-echo.webp"
+  },
+  {
     "name": "Illari",
     "white-img": "images/heroes/support/illari-white.webp",
     "white-echo-img": "images/heroes/support/illari-echo.webp",
