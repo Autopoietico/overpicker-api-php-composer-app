@@ -91,7 +91,7 @@
   {
     "name": "Hanaoka",
     "type": "Clash",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
@@ -325,7 +325,7 @@
   {
     "name": "Throne of Anubis",
     "type": "Clash",
-    "onPool": false,
+    "onPool": true,
     "points": [
       "A",
       "B",
