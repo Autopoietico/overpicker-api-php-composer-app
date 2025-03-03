@@ -51,7 +51,7 @@
       "hero-tiers":{
          "Ana":45,
          "Ashe":45,
-         "Baptiste":25,
+         "Baptiste":15,
          "Bastion":15,
          "Brigitte":25,
          "Cassidy":25,
@@ -90,7 +90,7 @@
          "Winston":25,
          "Wrecking Ball":45,
          "Zarya":45,
-         "Zenyatta":25
+         "Zenyatta":15
       }
    },
    {
@@ -380,21 +380,21 @@
       "hero-tiers":{
          "Ana":45,
          "Ashe":45,
-         "Baptiste":15,
+         "Baptiste":25,
          "Bastion":5,
          "Brigitte":35,
          "Cassidy":25,
-         "D.Va":15,
+         "D.Va":25,
          "Doomfist":25,
          "Echo":25,
          "Genji":25,
          "Hanzo":5,
          "Hazard":25,
          "Illari":15,
-         "Junker Queen":25,
+         "Junker Queen":35,
          "Junkrat":25,
          "Juno":35,
-         "Kiriko":35,
+         "Kiriko":25,
          "Lifeweaver":5,
          "Lucio":35,
          "Mauga":5,
