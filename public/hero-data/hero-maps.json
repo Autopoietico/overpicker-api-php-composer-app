@@ -584,8 +584,8 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":0,
+            "City Center":20,
+            "Gardens":20,
             "University":0
          },
          "Antarctic Peninsula":{
@@ -887,9 +887,9 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":10,
-            "University":0
+            "City Center":20,
+            "Gardens":20,
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":0,
@@ -1192,7 +1192,7 @@
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -1493,9 +1493,9 @@
             "Shrine":0
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":10,
             "Gardens":10,
-            "University":10
+            "University":0
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -1798,7 +1798,7 @@
          "Oasis":{
             "City Center":10,
             "Gardens":10,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -2100,7 +2100,7 @@
          },
          "Oasis":{
             "City Center":10,
-            "Gardens":10,
+            "Gardens":20,
             "University":0
          },
          "Antarctic Peninsula":{
@@ -2705,8 +2705,8 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":10,
+            "City Center":20,
+            "Gardens":20,
             "University":10
          },
          "Antarctic Peninsula":{
@@ -3008,9 +3008,9 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":0,
-            "University":0
+            "City Center":20,
+            "Gardens":20,
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":0,
@@ -3311,9 +3311,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":0,
-            "University":0
+            "City Center":20,
+            "Gardens":20,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -3615,7 +3615,7 @@
          },
          "Oasis":{
             "City Center":20,
-            "Gardens":20,
+            "Gardens":10,
             "University":10
          },
          "Antarctic Peninsula":{
@@ -3918,8 +3918,8 @@
          },
          "Oasis":{
             "City Center":0,
-            "Gardens":0,
-            "University":10
+            "Gardens":10,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -4525,7 +4525,7 @@
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":0,
@@ -4827,8 +4827,8 @@
          },
          "Oasis":{
             "City Center":10,
-            "Gardens":10,
-            "University":20
+            "Gardens":20,
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -5129,9 +5129,9 @@
             "Shrine":0
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":0,
-            "University":0
+            "City Center":20,
+            "Gardens":20,
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -5432,8 +5432,8 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":10,
+            "City Center":20,
+            "Gardens":20,
             "University":0
          },
          "Antarctic Peninsula":{
@@ -5735,7 +5735,7 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":10,
             "Gardens":10,
             "University":10
          },
@@ -6038,8 +6038,8 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
+            "City Center":10,
+            "Gardens":10,
             "University":10
          },
          "Antarctic Peninsula":{
@@ -6341,9 +6341,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":10,
-            "University":10
+            "City Center":10,
+            "Gardens":0,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -6644,9 +6644,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":10,
             "Gardens":10,
-            "University":0
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -6947,9 +6947,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":-10,
+            "City Center":0,
             "Gardens":0,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -7250,9 +7250,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
-            "University":10
+            "City Center":10,
+            "Gardens":10,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -7553,8 +7553,8 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":10,
+            "City Center":20,
+            "Gardens":20,
             "University":10
          },
          "Antarctic Peninsula":{
@@ -7857,8 +7857,8 @@
          },
          "Oasis":{
             "City Center":0,
-            "Gardens":0,
-            "University":10
+            "Gardens":10,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -8159,7 +8159,7 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":10,
             "Gardens":10,
             "University":10
          },
@@ -8464,7 +8464,7 @@
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -9068,7 +9068,7 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":10,
             "Gardens":0,
             "University":10
          },
@@ -9373,7 +9373,7 @@
          "Oasis":{
             "City Center":10,
             "Gardens":10,
-            "University":10
+            "University":0
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -9674,7 +9674,7 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
+            "City Center":20,
             "Gardens":10,
             "University":10
          },
@@ -9977,9 +9977,9 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
-            "University":10
+            "City Center":10,
+            "Gardens":10,
+            "University":0
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -10280,9 +10280,9 @@
             "Shrine":20
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
-            "University":10
+            "City Center":10,
+            "Gardens":10,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -10585,7 +10585,7 @@
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":0
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -10887,8 +10887,8 @@
          },
          "Oasis":{
             "City Center":10,
-            "Gardens":0,
-            "University":0
+            "Gardens":10,
+            "University":10
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -11189,8 +11189,8 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
+            "City Center":10,
+            "Gardens":10,
             "University":10
          },
          "Antarctic Peninsula":{
@@ -11494,7 +11494,7 @@
          "Oasis":{
             "City Center":10,
             "Gardens":10,
-            "University":10
+            "University":0
          },
          "Antarctic Peninsula":{
             "Labs":0,
@@ -11795,8 +11795,8 @@
             "Shrine":0
          },
          "Oasis":{
-            "City Center":10,
-            "Gardens":10,
+            "City Center":20,
+            "Gardens":20,
             "University":0
          },
          "Antarctic Peninsula":{
@@ -12098,9 +12098,9 @@
             "Shrine":10
          },
          "Oasis":{
-            "City Center":0,
-            "Gardens":0,
-            "University":10
+            "City Center":10,
+            "Gardens":20,
+            "University":0
          },
          "Antarctic Peninsula":{
             "Labs":0,
@@ -12403,7 +12403,7 @@
          "Oasis":{
             "City Center":0,
             "Gardens":0,
-            "University":10
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
@@ -12705,8 +12705,8 @@
          },
          "Oasis":{
             "City Center":10,
-            "Gardens":10,
-            "University":0
+            "Gardens":0,
+            "University":20
          },
          "Antarctic Peninsula":{
             "Labs":10,
