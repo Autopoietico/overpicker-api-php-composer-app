@@ -99,6 +99,17 @@
     "side-echo-img": "images/heroes/damage/echo-side.webp"
   },
   {
+    "name": "Freja",
+    "white-img": "images/heroes/damage/freja-white.webp",
+    "white-echo-img": "images/heroes/damage/freja-echo.webp",
+    "profile-img": "images/heroes/damage/freja-profile.webp",
+    "profile-echo-img": "images/heroes/damage/freja-profile-echo.webp",
+    "art-img": "images/heroes/damage/freja-art.webp",
+    "art-echo-img": "images/heroes/damage/freja-art-echo.webp",
+    "side-img": "images/heroes/damage/freja-side.webp",
+    "side-echo-img": "images/heroes/damage/freja-side-echo.webp"
+  },
+  {
     "name": "Genji",
     "white-img": "images/heroes/damage/genji-white.webp",
     "white-echo-img": "images/heroes/damage/genji-echo.webp",

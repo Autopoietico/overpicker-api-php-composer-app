@@ -99,6 +99,17 @@
     "nicks": ["Echo", "Moth", "Copy"]
   },
   {
+    "name": "Freja",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "FlankDamage",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Freja", "Hunter", "Redhead"]
+  },
+  {
     "name": "Genji",
     "description": "Hero with great mobility, effective on maps with flanking lanes and multiple heights. His ultimate is particularly strong and devastating. Depending on the damage dealt by his shurikens, his mid-game performance can either serve as a means to build up his ultimate or to assassinate the enemy backline.",
     "general_rol": "Damage",

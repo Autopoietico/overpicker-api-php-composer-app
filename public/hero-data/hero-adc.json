@@ -440,6 +440,55 @@
       },
       "Control":0
    },
+   "Freja":{
+      "Attack":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Defense":{
+         "Assault":{
+            "A":0,
+            "B":0
+         },
+         "Escort":{
+            "A":0,
+            "B":0,
+            "C":0
+         }
+      },
+      "Push":{
+         "Ally":0,
+         "Mid":0,
+         "Enemy":0
+      },
+      "Flashpoint":0,
+      "A-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "E-Team":{
+         "Clash":{
+            "A":0,
+            "B":0,
+            "C":0,
+            "D":0,
+            "E":0
+         }
+      },
+      "Control":0
+   },
    "Genji":{
       "Attack":{
          "Assault":{
