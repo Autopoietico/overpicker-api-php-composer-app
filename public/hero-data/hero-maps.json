@@ -63,7 +63,7 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -367,7 +367,7 @@
          "Blizzard World":{
             "A":0,
             "B":10,
-            "C":10
+            "C":20
          },
          "Eichenwalde":{
             "A":0,
@@ -462,9 +462,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -668,9 +668,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":10,
-            "C":0
+            "A":10,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -765,9 +765,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":10
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -1068,7 +1068,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
             "C":10
          },
@@ -1276,7 +1276,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -1371,7 +1371,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":10,
             "C":0
          },
@@ -1578,7 +1578,7 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":10,
+            "B":0,
             "C":10
          },
          "Eichenwalde":{
@@ -1880,9 +1880,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":10
          },
          "Eichenwalde":{
             "A":20,
@@ -1977,8 +1977,8 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":10
          },
          "Eichenwalde":{
@@ -2486,9 +2486,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":10,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":20,
@@ -2585,7 +2585,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":20,
@@ -2887,8 +2887,8 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":20,
-            "C":10
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -3092,9 +3092,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
-            "B":0,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":10
          },
          "Eichenwalde":{
             "A":20,
@@ -3190,7 +3190,7 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":0,
+            "B":10,
             "C":0
          },
          "Eichenwalde":{
@@ -3395,9 +3395,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":10,
-            "C":10
+            "A":10,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -3492,9 +3492,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -3698,9 +3698,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -3796,8 +3796,8 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":10,
-            "C":0
+            "B":20,
+            "C":10
          },
          "Eichenwalde":{
             "A":10,
@@ -4002,8 +4002,8 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":0,
-            "C":0
+            "B":10,
+            "C":10
          },
          "Eichenwalde":{
             "A":10,
@@ -4098,8 +4098,8 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -4306,7 +4306,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -4401,9 +4401,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":0,
@@ -4704,7 +4704,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":0,
             "C":10
          },
@@ -4910,9 +4910,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":10
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -5007,9 +5007,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":10,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -5213,9 +5213,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
-            "B":0,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -5310,9 +5310,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":0,
@@ -5516,9 +5516,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":10,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":0,
@@ -5613,9 +5613,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":20,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -6124,7 +6124,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -6219,9 +6219,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":0,
@@ -6425,8 +6425,8 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -6522,9 +6522,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":10,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -6728,7 +6728,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":20,
             "B":10,
             "C":10
          },
@@ -6826,7 +6826,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -7031,9 +7031,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":10,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -7130,7 +7130,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":10,
@@ -7335,7 +7335,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -7432,7 +7432,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -7637,8 +7637,8 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":0
          },
          "Eichenwalde":{
@@ -7736,7 +7736,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":20,
@@ -7941,8 +7941,8 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
-            "C":10
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -8037,9 +8037,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":0,
-            "C":10
+            "A":20,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -8243,9 +8243,9 @@
             "C":-10
          },
          "Blizzard World":{
-            "A":0,
+            "A":20,
             "B":0,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":20,
@@ -8340,8 +8340,8 @@
             "C":-10
          },
          "Blizzard World":{
-            "A":10,
-            "B":0,
+            "A":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -8547,7 +8547,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -8644,8 +8644,8 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":10,
-            "C":10
+            "B":0,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -8946,7 +8946,7 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
             "C":10
          },
@@ -9152,9 +9152,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":10,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -9249,9 +9249,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":20,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":20,
@@ -9455,9 +9455,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
+            "A":20,
             "B":10,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":0,
@@ -9758,8 +9758,8 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":10
          },
          "Eichenwalde":{
@@ -9855,9 +9855,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
-            "C":0
+            "C":10
          },
          "Eichenwalde":{
             "A":0,
@@ -10062,7 +10062,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":0,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -10158,9 +10158,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":0
+            "A":10,
+            "B":10,
+            "C":10
          },
          "Eichenwalde":{
             "A":10,
@@ -10364,8 +10364,8 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
+            "A":10,
+            "B":10,
             "C":10
          },
          "Eichenwalde":{
@@ -10461,9 +10461,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":10
+            "A":10,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -10764,9 +10764,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
-            "B":0,
-            "C":0
+            "A":20,
+            "B":10,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -10970,9 +10970,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
+            "A":20,
             "B":10,
-            "C":10
+            "C":0
          },
          "Eichenwalde":{
             "A":20,
@@ -11067,8 +11067,8 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
+            "A":0,
+            "B":0,
             "C":0
          },
          "Eichenwalde":{
@@ -11273,7 +11273,7 @@
             "C":20
          },
          "Blizzard World":{
-            "A":20,
+            "A":10,
             "B":10,
             "C":0
          },
@@ -11370,7 +11370,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
+            "A":0,
             "B":0,
             "C":0
          },
@@ -11576,9 +11576,9 @@
             "C":10
          },
          "Blizzard World":{
-            "A":0,
-            "B":10,
-            "C":10
+            "A":10,
+            "B":20,
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -11673,8 +11673,8 @@
             "C":10
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
+            "A":20,
+            "B":20,
             "C":10
          },
          "Eichenwalde":{
@@ -11879,9 +11879,9 @@
             "C":0
          },
          "Blizzard World":{
-            "A":10,
-            "B":10,
-            "C":0
+            "A":20,
+            "B":20,
+            "C":10
          },
          "Eichenwalde":{
             "A":20,
@@ -11977,8 +11977,8 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":10,
-            "C":10
+            "B":20,
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -12182,7 +12182,7 @@
             "C":0
          },
          "Blizzard World":{
-            "A":0,
+            "A":20,
             "B":10,
             "C":10
          },
@@ -12280,8 +12280,8 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":0,
-            "C":10
+            "B":10,
+            "C":0
          },
          "Eichenwalde":{
             "A":0,
@@ -12584,7 +12584,7 @@
          "Blizzard World":{
             "A":0,
             "B":0,
-            "C":10
+            "C":20
          },
          "Eichenwalde":{
             "A":10,
@@ -12789,8 +12789,8 @@
          },
          "Blizzard World":{
             "A":0,
-            "B":10,
-            "C":10
+            "B":0,
+            "C":20
          },
          "Eichenwalde":{
             "A":0,
@@ -12886,7 +12886,7 @@
          },
          "Blizzard World":{
             "A":10,
-            "B":10,
+            "B":0,
             "C":10
          },
          "Eichenwalde":{
