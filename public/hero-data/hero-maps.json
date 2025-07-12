@@ -224,6 +224,13 @@
             "Junkyard":10,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":0,
@@ -526,6 +533,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":10,
@@ -830,6 +844,13 @@
             "Junkyard":10,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -1132,6 +1153,13 @@
             "Refinery":10,
             "Junkyard":0,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":10,
@@ -1436,6 +1464,13 @@
             "Junkyard":10,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":0,
@@ -1738,6 +1773,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":10,
@@ -2042,6 +2084,13 @@
             "Junkyard":0,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":0,
@@ -2344,6 +2393,13 @@
             "Refinery":0,
             "Junkyard":0,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":0,
@@ -2648,6 +2704,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":0,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":10,
@@ -2950,6 +3013,13 @@
             "Refinery":10,
             "Junkyard":20,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":20,
@@ -3254,6 +3324,13 @@
             "Junkyard":0,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -3556,6 +3633,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":10,
@@ -3860,6 +3944,13 @@
             "Junkyard":10,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":20,
             "Gardens":0,
@@ -4162,6 +4253,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":10,
@@ -4466,6 +4564,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -4768,6 +4873,13 @@
             "Refinery":0,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":0,
@@ -5072,6 +5184,13 @@
             "Junkyard":0,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -5374,6 +5493,13 @@
             "Refinery":0,
             "Junkyard":0,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":0,
@@ -5678,6 +5804,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -5980,6 +6113,13 @@
             "Refinery":10,
             "Junkyard":0,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":0,
@@ -6284,6 +6424,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -6586,6 +6733,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":10,
@@ -6890,6 +7044,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":0,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":10,
@@ -7192,6 +7353,13 @@
             "Refinery":10,
             "Junkyard":0,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":0,
@@ -7496,6 +7664,13 @@
             "Junkyard":10,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -7798,6 +7973,13 @@
             "Refinery":0,
             "Junkyard":0,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":0,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":0,
@@ -8102,6 +8284,13 @@
             "Junkyard":10,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -8404,6 +8593,13 @@
             "Refinery":10,
             "Junkyard":0,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":0,
@@ -8708,6 +8904,13 @@
             "Junkyard":10,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":10,
@@ -9010,6 +9213,13 @@
             "Refinery":0,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":10,
@@ -9314,6 +9524,13 @@
             "Junkyard":10,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":10,
@@ -9616,6 +9833,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":10,
@@ -9920,6 +10144,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -10222,6 +10453,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":10,
@@ -10526,6 +10764,13 @@
             "Junkyard":10,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":0,
@@ -10828,6 +11073,13 @@
             "Refinery":10,
             "Junkyard":10,
             "Bomb Flats":10
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":20,
+            "Garden":20
          },
          "Suravasa":{
             "Market":10,
@@ -11132,6 +11384,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -11434,6 +11693,13 @@
             "Refinery":0,
             "Junkyard":20,
             "Bomb Flats":20
+         },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":20,
+            "Resort":20,
+            "Town Center":10,
+            "Garden":10
          },
          "Suravasa":{
             "Market":0,
@@ -11738,6 +12004,13 @@
             "Junkyard":10,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":10,
             "Gardens":0,
@@ -12040,6 +12313,13 @@
             "Refinery":0,
             "Junkyard":0,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":20,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":0,
@@ -12344,6 +12624,13 @@
             "Junkyard":0,
             "Bomb Flats":0
          },
+         "Aatlis":{
+            "Station":10,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -12647,6 +12934,13 @@
             "Junkyard":0,
             "Bomb Flats":10
          },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":10,
+            "Resort":10,
+            "Town Center":20,
+            "Garden":20
+         },
          "Suravasa":{
             "Market":0,
             "Gardens":0,
@@ -12949,6 +13243,13 @@
             "Refinery":0,
             "Junkyard":10,
             "Bomb Flats":0
+         },
+         "Aatlis":{
+            "Station":0,
+            "Bazaar":0,
+            "Resort":0,
+            "Town Center":0,
+            "Garden":0
          },
          "Suravasa":{
             "Market":10,

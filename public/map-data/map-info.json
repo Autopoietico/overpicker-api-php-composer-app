@@ -1,5 +1,17 @@
 [
   {
+    "name": "Aatlis",
+    "type": "Flashpoint",
+    "onPool": true,
+    "points": [
+      "Station",
+      "Bazaar",
+      "Resort",
+      "Town Center",
+      "Garden"
+    ]
+  },
+  {
     "name": "Antarctic Peninsula",
     "type": "Control",
     "onPool": true,
