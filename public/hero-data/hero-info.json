@@ -30,7 +30,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco","Mauga"]
+    "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco", "Mauga"]
   },
   {
     "name": "Bastion",
@@ -140,7 +140,17 @@
     "health": 425,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Hazard", "Phreak", "Phreaks", "Punk", "Frank", "Findlay", "Docherty", "Haz", "Scottish", "Rocker"
+    "nicks": [
+      "Hazard",
+      "Phreak",
+      "Phreaks",
+      "Punk",
+      "Frank",
+      "Findlay",
+      "Docherty",
+      "Haz",
+      "Scottish",
+      "Rocker"
     ]
   },
   {
@@ -152,7 +162,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["illari","sun","sunlight","peru","inti"]
+    "nicks": ["illari", "sun", "sunlight", "peru", "inti"]
   },
   {
     "name": "Junker Queen",
@@ -163,7 +173,14 @@
     "health": 425,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Queen", "Junker", "Wastelander", "Junk", "Odessa", "Dez", "Stone"
+    "nicks": [
+      "Queen",
+      "Junker",
+      "Wastelander",
+      "Junk",
+      "Odessa",
+      "Dez",
+      "Stone"
     ]
   },
   {
@@ -208,7 +225,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["lifeweaver","life","weaver","tree","flower"]
+    "nicks": ["lifeweaver", "life", "weaver", "tree", "flower"]
   },
   {
     "name": "Lucio",
@@ -219,7 +236,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Lucio", "Frog", "Frogger", "DJ", "Brasil","Mafia"]
+    "nicks": ["Lucio", "Frog", "Frogger", "DJ", "Brasil", "Mafia"]
   },
   {
     "name": "Mauga",
@@ -230,7 +247,16 @@
     "health": 500,
     "armor": 150,
     "on_rotation": true,
-    "nicks": ["Mauga", "Maui", "Baptiste","Samoa","Chaingun","Cha-Cha","Gunny","Berseker"]
+    "nicks": [
+      "Mauga",
+      "Maui",
+      "Baptiste",
+      "Samoa",
+      "Chaingun",
+      "Cha-Cha",
+      "Gunny",
+      "Berseker"
+    ]
   },
   {
     "name": "Mei",
@@ -417,7 +443,17 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Venture", "Venchure", "Adventure", "I Can Dig That", "Rock Eater", "Rock Guy", "Archeologist", "Excavator", "Miner"]
+    "nicks": [
+      "Venture",
+      "Venchure",
+      "Adventure",
+      "I Can Dig That",
+      "Rock Eater",
+      "Rock Guy",
+      "Archeologist",
+      "Excavator",
+      "Miner"
+    ]
   },
   {
     "name": "Widowmaker",
@@ -467,6 +503,17 @@
       "Rat",
       "Moon"
     ]
+  },
+  {
+    "name": "Wuyang",
+    "description": "",
+    "general_rol": "Support",
+    "secondary_rol": "OffSupport",
+    "shields": 150,
+    "health": 50,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Wuyang", "Water", "skater", "stick", "wave"]
   },
   {
     "name": "Zarya",

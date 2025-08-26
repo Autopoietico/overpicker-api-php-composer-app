@@ -207,7 +207,7 @@
     "art-echo-img": "images/heroes/support/lifeweaver-art-echo.webp",
     "side-img": "images/heroes/support/lifeweaver-side.webp",
     "side-echo-img": "images/heroes/support/lifeweaver-side-echo.webp"
-  }, 
+  },
   {
     "name": "Lucio",
     "white-img": "images/heroes/support/lucio-white.webp",
@@ -218,7 +218,7 @@
     "art-echo-img": "images/heroes/support/lucio-art-echo.webp",
     "side-img": "images/heroes/support/lucio-side.webp",
     "side-echo-img": "images/heroes/support/lucio-side-echo.webp"
-  }, 
+  },
   {
     "name": "Mauga",
     "white-img": "images/heroes/tank/mauga-white.webp",
@@ -449,6 +449,17 @@
     "art-echo-img": "images/heroes/tank/wrecking-ball-art-echo.webp",
     "side-img": "images/heroes/tank/wrecking-ball-side.webp",
     "side-echo-img": "images/heroes/tank/wrecking-ball-side-echo.webp"
+  },
+  {
+    "name": "Wuyaang",
+    "white-img": "images/heroes/support/wuyang-white.webp",
+    "white-echo-img": "images/heroes/support/wuyang-echo.webp",
+    "profile-img": "images/heroes/support/wuyang-profile.webp",
+    "profile-echo-img": "images/heroes/support/wuyang-profile-echo.webp",
+    "art-img": "images/heroes/support/wuyang-art.webp",
+    "art-echo-img": "images/heroes/support/wuyang-art-echo.webp",
+    "side-img": "images/heroes/support/wuyang-side.webp",
+    "side-echo-img": "images/heroes/support/wuyang-side-echo.webp"
   },
   {
     "name": "Zarya",
