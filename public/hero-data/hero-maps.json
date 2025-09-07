@@ -307,6 +307,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Ashe": {
@@ -617,6 +620,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Baptiste": {
@@ -927,6 +933,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 10
     }
   },
   "Bastion": {
@@ -1237,6 +1246,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Brigitte": {
@@ -1547,6 +1559,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Cassidy": {
@@ -1857,6 +1872,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "D.Va": {
@@ -2167,6 +2185,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Doomfist": {
@@ -2477,6 +2498,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 10
     }
   },
   "Echo": {
@@ -2787,6 +2811,9 @@
         "Downtown": 10,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Freja": {
@@ -3097,6 +3124,9 @@
         "Downtown": 10,
         "MEKA Base": 20
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Genji": {
@@ -3407,6 +3437,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Hanzo": {
@@ -3717,6 +3750,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Hazard": {
@@ -4027,6 +4063,9 @@
         "Downtown": 20,
         "MEKA Base": 20
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Illari": {
@@ -4337,6 +4376,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Junker Queen": {
@@ -4647,6 +4689,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Junkrat": {
@@ -4957,6 +5002,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 10
     }
   },
   "Juno": {
@@ -5267,6 +5315,9 @@
         "Downtown": 10,
         "MEKA Base": 20
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Kiriko": {
@@ -5577,6 +5628,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Lifeweaver": {
@@ -5887,6 +5941,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Lucio": {
@@ -6197,6 +6254,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Mauga": {
@@ -6507,6 +6567,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Mei": {
@@ -6817,6 +6880,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Mercy": {
@@ -7127,6 +7193,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Moira": {
@@ -7437,6 +7506,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Orisa": {
@@ -7747,6 +7819,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Pharah": {
@@ -8057,6 +8132,9 @@
         "Downtown": 10,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Ramattra": {
@@ -8367,6 +8445,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Reaper": {
@@ -8677,6 +8758,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Reinhardt": {
@@ -8987,6 +9071,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Roadhog": {
@@ -9297,6 +9384,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Sigma": {
@@ -9607,6 +9697,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 10
     }
   },
   "Soldier: 76": {
@@ -9917,6 +10010,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Sombra": {
@@ -10227,6 +10323,9 @@
         "Downtown": 10,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Sojourn": {
@@ -10537,6 +10636,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Symmetra": {
@@ -10847,6 +10949,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Torbjörn": {
@@ -11157,6 +11262,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Tracer": {
@@ -11467,6 +11575,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Venture": {
@@ -11777,6 +11888,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": -10
     }
   },
   "Widowmaker": {
@@ -12087,6 +12201,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Winston": {
@@ -12397,6 +12514,9 @@
         "Downtown": 10,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": -20
     }
   },
   "Wrecking Ball": {
@@ -12707,6 +12827,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Wuyang": {
@@ -13017,6 +13140,9 @@
         "Downtown": 0,
         "MEKA Base": 0
       }
+    },
+    "Maps": {
+      "Kings Row": 0
     }
   },
   "Zarya": {
@@ -13327,6 +13453,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   },
   "Zenyatta": {
@@ -13637,6 +13766,9 @@
         "Downtown": 0,
         "MEKA Base": 10
       }
+    },
+    "Maps": {
+      "Kings Row": 20
     }
   }
 }
