@@ -55,7 +55,7 @@
       "Ashe": 25,
       "Baptiste": 35,
       "Bastion": 25,
-      "Brigitte": 25,
+      "Brigitte": 35,
       "Cassidy": 35,
       "D.Va": 35,
       "Doomfist": 25,
@@ -70,7 +70,7 @@
       "Juno": 25,
       "Kiriko": 45,
       "Lifeweaver": 5,
-      "Lucio": 35,
+      "Lucio": 25,
       "Mauga": 15,
       "Mei": 15,
       "Mercy": 15,
@@ -92,8 +92,8 @@
       "Widowmaker": 15,
       "Winston": 25,
       "Wrecking Ball": 35,
-      "Wuyang": 35,
-      "Zarya": 25,
+      "Wuyang": 45,
+      "Zarya": 35,
       "Zenyatta": 5
     }
   },
@@ -141,7 +141,7 @@
       "Widowmaker": 25,
       "Winston": 25,
       "Wrecking Ball": 15,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 35,
       "Zenyatta": 5
     }
@@ -190,7 +190,7 @@
       "Widowmaker": 15,
       "Winston": 25,
       "Wrecking Ball": 15,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
@@ -239,7 +239,7 @@
       "Widowmaker": 5,
       "Winston": 35,
       "Wrecking Ball": 25,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
@@ -288,7 +288,7 @@
       "Widowmaker": 5,
       "Winston": 25,
       "Wrecking Ball": 15,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
@@ -337,7 +337,7 @@
       "Widowmaker": 5,
       "Winston": 15,
       "Wrecking Ball": 25,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
@@ -386,7 +386,7 @@
       "Widowmaker": 5,
       "Winston": 15,
       "Wrecking Ball": 15,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
@@ -435,7 +435,7 @@
       "Widowmaker": 5,
       "Winston": 25,
       "Wrecking Ball": 25,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 25
     }
@@ -443,8 +443,8 @@
   {
     "name": "Community Ranking",
     "hero-tiers": {
-      "Ana": 25,
-      "Ashe": 15,
+      "Ana": 35,
+      "Ashe": 25,
       "Baptiste": 25,
       "Bastion": 15,
       "Brigitte": 25,
@@ -484,7 +484,7 @@
       "Widowmaker": 15,
       "Winston": 25,
       "Wrecking Ball": 35,
-      "Wuyang": 35,
+      "Wuyang": 45,
       "Zarya": 25,
       "Zenyatta": 15
     }
