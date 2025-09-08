@@ -309,7 +309,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Ashe": {
@@ -622,7 +622,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Baptiste": {
@@ -935,7 +935,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 10
+      "King's Row": 10
     }
   },
   "Bastion": {
@@ -1248,7 +1248,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Brigitte": {
@@ -1561,7 +1561,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Cassidy": {
@@ -1874,7 +1874,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "D.Va": {
@@ -2187,7 +2187,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Doomfist": {
@@ -2500,7 +2500,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 10
+      "King's Row": 10
     }
   },
   "Echo": {
@@ -2813,7 +2813,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Freja": {
@@ -3126,7 +3126,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Genji": {
@@ -3439,7 +3439,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Hanzo": {
@@ -3752,7 +3752,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Hazard": {
@@ -4065,7 +4065,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Illari": {
@@ -4378,7 +4378,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Junker Queen": {
@@ -4691,7 +4691,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Junkrat": {
@@ -5004,7 +5004,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 10
+      "King's Row": 10
     }
   },
   "Juno": {
@@ -5317,7 +5317,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Kiriko": {
@@ -5630,7 +5630,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Lifeweaver": {
@@ -5943,7 +5943,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Lucio": {
@@ -6256,7 +6256,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Mauga": {
@@ -6569,7 +6569,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Mei": {
@@ -6882,7 +6882,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Mercy": {
@@ -7195,7 +7195,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Moira": {
@@ -7508,7 +7508,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Orisa": {
@@ -7821,7 +7821,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Pharah": {
@@ -8134,7 +8134,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Ramattra": {
@@ -8447,7 +8447,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Reaper": {
@@ -8760,7 +8760,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Reinhardt": {
@@ -9073,7 +9073,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Roadhog": {
@@ -9386,7 +9386,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Sigma": {
@@ -9699,7 +9699,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 10
+      "King's Row": 10
     }
   },
   "Soldier: 76": {
@@ -10012,7 +10012,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Sombra": {
@@ -10325,7 +10325,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Sojourn": {
@@ -10638,7 +10638,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Symmetra": {
@@ -10951,7 +10951,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Torbjörn": {
@@ -11264,7 +11264,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Tracer": {
@@ -11577,7 +11577,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Venture": {
@@ -11890,7 +11890,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -10
+      "King's Row": -10
     }
   },
   "Widowmaker": {
@@ -12203,7 +12203,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Winston": {
@@ -12516,7 +12516,7 @@
       }
     },
     "Maps": {
-      "Kings Row": -20
+      "King's Row": -20
     }
   },
   "Wrecking Ball": {
@@ -12829,7 +12829,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Wuyang": {
@@ -13142,7 +13142,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 0
+      "King's Row": 0
     }
   },
   "Zarya": {
@@ -13455,7 +13455,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   },
   "Zenyatta": {
@@ -13768,7 +13768,7 @@
       }
     },
     "Maps": {
-      "Kings Row": 20
+      "King's Row": 20
     }
   }
 }
