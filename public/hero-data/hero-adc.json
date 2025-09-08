@@ -27,7 +27,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -46,7 +45,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Ashe": {
     "Attack": {
@@ -76,7 +83,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -95,7 +101,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Baptiste": {
     "Attack": {
@@ -125,7 +139,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -144,7 +157,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Bastion": {
     "Attack": {
@@ -174,7 +195,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -193,7 +213,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Brigitte": {
     "Attack": {
@@ -223,7 +251,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -242,7 +269,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Cassidy": {
     "Attack": {
@@ -272,7 +307,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -291,7 +325,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "D.Va": {
     "Attack": {
@@ -321,7 +363,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -340,7 +381,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Doomfist": {
     "Attack": {
@@ -370,7 +419,6 @@
       "Mid": 0,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -389,7 +437,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Echo": {
     "Attack": {
@@ -419,7 +475,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -438,7 +493,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Freja": {
     "Attack": {
@@ -468,7 +531,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -487,7 +549,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Genji": {
     "Attack": {
@@ -517,7 +587,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -536,7 +605,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Hanzo": {
     "Attack": {
@@ -566,7 +643,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -585,7 +661,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Hazard": {
     "Attack": {
@@ -615,7 +699,6 @@
       "Mid": 10,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -634,7 +717,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Illari": {
     "Attack": {
@@ -664,7 +755,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -683,7 +773,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Junker Queen": {
     "Attack": {
@@ -713,7 +811,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -732,7 +829,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Junkrat": {
     "Attack": {
@@ -762,7 +867,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -781,7 +885,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Juno": {
     "Attack": {
@@ -811,7 +923,6 @@
       "Mid": 10,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -830,7 +941,15 @@
         "E": 0
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Kiriko": {
     "Attack": {
@@ -860,7 +979,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -879,7 +997,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Lifeweaver": {
     "Attack": {
@@ -909,7 +1035,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -928,7 +1053,15 @@
         "E": 0
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Lucio": {
     "Attack": {
@@ -958,7 +1091,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -977,7 +1109,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Mauga": {
     "Attack": {
@@ -1007,7 +1147,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1026,7 +1165,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Mei": {
     "Attack": {
@@ -1056,7 +1203,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1075,7 +1221,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Mercy": {
     "Attack": {
@@ -1105,7 +1259,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1124,7 +1277,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Moira": {
     "Attack": {
@@ -1154,7 +1315,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1173,7 +1333,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Orisa": {
     "Attack": {
@@ -1203,7 +1371,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1222,7 +1389,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Pharah": {
     "Attack": {
@@ -1252,7 +1427,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1271,7 +1445,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Ramattra": {
     "Attack": {
@@ -1301,7 +1483,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1320,7 +1501,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Reaper": {
     "Attack": {
@@ -1350,7 +1539,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1369,7 +1557,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Reinhardt": {
     "Attack": {
@@ -1399,7 +1595,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1418,7 +1613,15 @@
         "E": 0
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Roadhog": {
     "Attack": {
@@ -1448,7 +1651,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1467,7 +1669,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Sigma": {
     "Attack": {
@@ -1497,7 +1707,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1516,7 +1725,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Sojourn": {
     "Attack": {
@@ -1546,7 +1763,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1565,7 +1781,15 @@
         "E": 0
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Soldier: 76": {
     "Attack": {
@@ -1595,7 +1819,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1614,7 +1837,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Sombra": {
     "Attack": {
@@ -1644,7 +1875,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1663,7 +1893,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Symmetra": {
     "Attack": {
@@ -1693,7 +1931,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1712,7 +1949,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Torbjörn": {
     "Attack": {
@@ -1742,7 +1987,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1761,7 +2005,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Tracer": {
     "Attack": {
@@ -1791,7 +2043,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1810,7 +2061,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Venture": {
     "Attack": {
@@ -1840,7 +2099,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -1859,7 +2117,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Widowmaker": {
     "Attack": {
@@ -1889,7 +2155,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1908,7 +2173,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Winston": {
     "Attack": {
@@ -1938,7 +2211,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -1957,7 +2229,15 @@
         "E": 10
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Wrecking Ball": {
     "Attack": {
@@ -1987,7 +2267,6 @@
       "Mid": 10,
       "Enemy": 10
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -2006,7 +2285,15 @@
         "E": 0
       }
     },
-    "Control": 10
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
   },
   "Wuyang": {
     "Attack": {
@@ -2036,7 +2323,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 10,
     "A-Team": {
       "Clash": {
         "A": 0,
@@ -2055,7 +2341,15 @@
         "E": 0
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Zarya": {
     "Attack": {
@@ -2085,7 +2379,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -2104,7 +2397,15 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   },
   "Zenyatta": {
     "Attack": {
@@ -2134,7 +2435,6 @@
       "Mid": 0,
       "Enemy": 0
     },
-    "Flashpoint": 0,
     "A-Team": {
       "Clash": {
         "A": 10,
@@ -2153,6 +2453,14 @@
         "E": 10
       }
     },
-    "Control": 0
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
   }
 }
