@@ -225,7 +225,7 @@
     "Widowmaker": 20,
     "Winston": 20,
     "Wrecking Ball": 20,
-    "Wuyang": 0,
+    "Wuyang": -10,
     "Zarya": 20,
     "Zenyatta": 20
   },
@@ -777,7 +777,7 @@
     "Widowmaker": 0,
     "Winston": 10,
     "Wrecking Ball": 10,
-    "Wuyang": 20,
+    "Wuyang": 0,
     "Zarya": 30,
     "Zenyatta": 20
   },
@@ -1099,7 +1099,7 @@
     "Widowmaker": 0,
     "Winston": 20,
     "Wrecking Ball": 20,
-    "Wuyang": 20,
+    "Wuyang": -10,
     "Zarya": 10,
     "Zenyatta": 10
   },
@@ -1890,7 +1890,7 @@
     "Ashe": 10,
     "Baptiste": 10,
     "Bastion": 0,
-    "Brigitte": 0,
+    "Brigitte": -10,
     "Cassidy": 10,
     "D.Va": 10,
     "Doomfist": 20,
@@ -1902,14 +1902,14 @@
     "Illari": 0,
     "Junker Queen": 10,
     "Junkrat": 0,
-    "Juno": 20,
+    "Juno": 0,
     "Kiriko": 20,
     "Lifeweaver": 10,
     "Lucio": 0,
     "Mauga": 10,
     "Mei": 10,
     "Mercy": 10,
-    "Moira": 20,
+    "Moira": -10,
     "Orisa": 0,
     "Pharah": 30,
     "Ramattra": 0,
@@ -1929,7 +1929,7 @@
     "Wrecking Ball": 20,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 20
+    "Zenyatta": -20
   },
   "Zarya": {
     "Ana": 10,
@@ -2019,7 +2019,7 @@
     "Widowmaker": 0,
     "Winston": 20,
     "Wrecking Ball": 20,
-    "Wuyang": 10,
+    "Wuyang": -20,
     "Zarya": 10,
     "Zenyatta": 0
   }
