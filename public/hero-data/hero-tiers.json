@@ -466,13 +466,13 @@
       "Mauga": 15,
       "Mei": 25,
       "Mercy": 15,
-      "Moira": 25,
+      "Moira": 15,
       "Orisa": 25,
       "Pharah": 15,
       "Ramattra": 5,
       "Reaper": 25,
       "Reinhardt": 15,
-      "Roadhog": 5,
+      "Roadhog": 15,
       "Sigma": 25,
       "Sojourn": 35,
       "Soldier: 76": 25,
@@ -486,7 +486,7 @@
       "Wrecking Ball": 45,
       "Wuyang": 45,
       "Zarya": 25,
-      "Zenyatta": 15
+      "Zenyatta": 25
     }
   }
 ]
