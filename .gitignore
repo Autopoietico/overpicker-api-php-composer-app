@@ -2,3 +2,5 @@
 vendor/
 #Is important to rewrite all the composer dependecies to avoid errors
 composer.lock
+process-hero-maps.js
+cosas.txt
