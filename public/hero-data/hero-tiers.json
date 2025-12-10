@@ -55,11 +55,7 @@
       "Ana": 25,
       "Ashe": 35,
       "Baptiste": 45,
-<<<<<<< HEAD
       "Bastion": 35,
-=======
-      "Bastion": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 25,
       "Cassidy": 25,
       "D.Va": 35,
@@ -68,68 +64,11 @@
       "Freja": 25,
       "Genji": 15,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 35,
       "Illari": 35,
       "Junker Queen": 15,
       "Junkrat": 45,
       "Juno": 35,
-=======
-      "Hazard": 25,
-      "Illari": 25,
-      "Junker Queen": 25,
-      "Junkrat": 35,
-      "Juno": 25,
-      "Kiriko": 45,
-      "Lifeweaver": 5,
-      "Lucio": 35,
-      "Mauga": 25,
-      "Mei": 15,
-      "Mercy": 15,
-      "Moira": 5,
-      "Orisa": 25,
-      "Pharah": 25,
-      "Ramattra": 25,
-      "Reaper": 15,
-      "Reinhardt": 5,
-      "Roadhog": 25,
-      "Sigma": 25,
-      "Sojourn": 35,
-      "Soldier: 76": 15,
-      "Sombra": 25,
-      "Symmetra": 35,
-      "Torbjörn": 15,
-      "Tracer": 45,
-      "Venture": 25,
-      "Widowmaker": 25,
-      "Winston": 45,
-      "Wrecking Ball": 25,
-      "Wuyang": 35,
-      "Zarya": 45,
-      "Zenyatta": 15
-    }
-  },
-  {
-    "name": "Master",
-    "hero-tiers": {
-      "Ana": 25,
-      "Ashe": 35,
-      "Baptiste": 35,
-      "Bastion": 15,
-      "Brigitte": 25,
-      "Cassidy": 25,
-      "D.Va": 35,
-      "Doomfist": 25,
-      "Echo": 35,
-      "Freja": 25,
-      "Genji": 25,
-      "Hanzo": 15,
-      "Hazard": 25,
-      "Illari": 35,
-      "Junker Queen": 25,
-      "Junkrat": 35,
-      "Juno": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Kiriko": 35,
       "Lifeweaver": 5,
       "Lucio": 35,
@@ -137,7 +76,6 @@
       "Mei": 15,
       "Mercy": 15,
       "Moira": 5,
-<<<<<<< HEAD
       "Orisa": 25,
       "Pharah": 25,
       "Ramattra": 25,
@@ -149,19 +87,6 @@
       "Soldier: 76": 15,
       "Sombra": 25,
       "Symmetra": 35,
-=======
-      "Orisa": 15,
-      "Pharah": 35,
-      "Ramattra": 15,
-      "Reaper": 15,
-      "Reinhardt": 5,
-      "Roadhog": 25,
-      "Sigma": 25,
-      "Sojourn": 35,
-      "Soldier: 76": 15,
-      "Sombra": 25,
-      "Symmetra": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Torbjörn": 15,
       "Tracer": 45,
       "Vendetta": 25,
@@ -169,7 +94,6 @@
       "Widowmaker": 25,
       "Winston": 45,
       "Wrecking Ball": 25,
-<<<<<<< HEAD
       "Wuyang": 25,
       "Zarya": 45,
       "Zenyatta": 15
@@ -221,9 +145,6 @@
       "Winston": 45,
       "Wrecking Ball": 25,
       "Wuyang": 35,
-=======
-      "Wuyang": 45,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Zarya": 45,
       "Zenyatta": 15
     }
@@ -233,13 +154,8 @@
     "hero-tiers": {
       "Ana": 45,
       "Ashe": 25,
-<<<<<<< HEAD
       "Baptiste": 35,
       "Bastion": 25,
-=======
-      "Baptiste": 25,
-      "Bastion": 15,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 15,
       "Cassidy": 25,
       "D.Va": 45,
@@ -248,21 +164,12 @@
       "Freja": 25,
       "Genji": 35,
       "Hanzo": 15,
-<<<<<<< HEAD
       "Hazard": 35,
       "Illari": 35,
       "Junker Queen": 15,
       "Junkrat": 45,
       "Juno": 35,
       "Kiriko": 15,
-=======
-      "Hazard": 25,
-      "Illari": 25,
-      "Junker Queen": 25,
-      "Junkrat": 45,
-      "Juno": 25,
-      "Kiriko": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 15,
       "Lucio": 35,
       "Mauga": 35,
@@ -272,37 +179,22 @@
       "Orisa": 5,
       "Pharah": 25,
       "Ramattra": 15,
-<<<<<<< HEAD
       "Reaper": 5,
       "Reinhardt": 5,
       "Roadhog": 25,
       "Sigma": 35,
-=======
-      "Reaper": 15,
-      "Reinhardt": 15,
-      "Roadhog": 25,
-      "Sigma": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 35,
       "Soldier: 76": 15,
       "Sombra": 25,
       "Symmetra": 25,
       "Torbjörn": 15,
       "Tracer": 35,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
       "Widowmaker": 25,
       "Winston": 45,
       "Wrecking Ball": 25,
       "Wuyang": 35,
-=======
-      "Venture": 25,
-      "Widowmaker": 25,
-      "Winston": 45,
-      "Wrecking Ball": 25,
-      "Wuyang": 45,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Zarya": 35,
       "Zenyatta": 15
     }
@@ -312,13 +204,8 @@
     "hero-tiers": {
       "Ana": 45,
       "Ashe": 35,
-<<<<<<< HEAD
       "Baptiste": 35,
       "Bastion": 15,
-=======
-      "Baptiste": 25,
-      "Bastion": 5,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 15,
       "Cassidy": 25,
       "D.Va": 25,
@@ -327,21 +214,12 @@
       "Freja": 25,
       "Genji": 45,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 45,
       "Illari": 35,
       "Junker Queen": 35,
       "Junkrat": 45,
       "Juno": 35,
       "Kiriko": 5,
-=======
-      "Hazard": 35,
-      "Illari": 25,
-      "Junker Queen": 45,
-      "Junkrat": 45,
-      "Juno": 25,
-      "Kiriko": 15,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 25,
       "Lucio": 25,
       "Mauga": 25,
@@ -351,13 +229,8 @@
       "Orisa": 5,
       "Pharah": 25,
       "Ramattra": 5,
-<<<<<<< HEAD
       "Reaper": 5,
       "Reinhardt": 25,
-=======
-      "Reaper": 15,
-      "Reinhardt": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Roadhog": 25,
       "Sigma": 35,
       "Sojourn": 15,
@@ -366,20 +239,12 @@
       "Symmetra": 25,
       "Torbjörn": 15,
       "Tracer": 15,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
       "Widowmaker": 35,
       "Winston": 25,
       "Wrecking Ball": 25,
       "Wuyang": 25,
-=======
-      "Venture": 25,
-      "Widowmaker": 35,
-      "Winston": 25,
-      "Wrecking Ball": 25,
-      "Wuyang": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Zarya": 15,
       "Zenyatta": 25
     }
@@ -389,13 +254,8 @@
     "hero-tiers": {
       "Ana": 5,
       "Ashe": 25,
-<<<<<<< HEAD
       "Baptiste": 35,
       "Bastion": 35,
-=======
-      "Baptiste": 25,
-      "Bastion": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 35,
       "Cassidy": 25,
       "D.Va": 15,
@@ -404,21 +264,12 @@
       "Freja": 15,
       "Genji": 15,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 35,
       "Illari": 25,
       "Junker Queen": 15,
       "Junkrat": 45,
       "Juno": 35,
       "Kiriko": 15,
-=======
-      "Hazard": 25,
-      "Illari": 15,
-      "Junker Queen": 25,
-      "Junkrat": 45,
-      "Juno": 25,
-      "Kiriko": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 45,
       "Lucio": 15,
       "Mauga": 25,
@@ -428,29 +279,18 @@
       "Orisa": 35,
       "Pharah": 25,
       "Ramattra": 35,
-<<<<<<< HEAD
       "Reaper": 15,
       "Reinhardt": 35,
       "Roadhog": 25,
       "Sigma": 35,
-=======
-      "Reaper": 25,
-      "Reinhardt": 45,
-      "Roadhog": 25,
-      "Sigma": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 15,
       "Soldier: 76": 25,
       "Sombra": 35,
       "Symmetra": 25,
       "Torbjörn": 35,
       "Tracer": 5,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
-=======
-      "Venture": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Widowmaker": 35,
       "Winston": 5,
       "Wrecking Ball": 25,
@@ -464,13 +304,8 @@
     "hero-tiers": {
       "Ana": 5,
       "Ashe": 15,
-<<<<<<< HEAD
       "Baptiste": 35,
       "Bastion": 45,
-=======
-      "Baptiste": 25,
-      "Bastion": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 45,
       "Cassidy": 15,
       "D.Va": 15,
@@ -479,21 +314,12 @@
       "Freja": 25,
       "Genji": 15,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 25,
       "Illari": 35,
       "Junker Queen": 15,
       "Junkrat": 45,
       "Juno": 35,
       "Kiriko": 25,
-=======
-      "Hazard": 15,
-      "Illari": 25,
-      "Junker Queen": 25,
-      "Junkrat": 45,
-      "Juno": 25,
-      "Kiriko": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 35,
       "Lucio": 15,
       "Mauga": 25,
@@ -503,29 +329,18 @@
       "Orisa": 45,
       "Pharah": 25,
       "Ramattra": 45,
-<<<<<<< HEAD
       "Reaper": 25,
       "Reinhardt": 25,
       "Roadhog": 25,
       "Sigma": 35,
-=======
-      "Reaper": 35,
-      "Reinhardt": 35,
-      "Roadhog": 25,
-      "Sigma": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 15,
       "Soldier: 76": 35,
       "Sombra": 35,
       "Symmetra": 25,
       "Torbjörn": 35,
       "Tracer": 15,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
-=======
-      "Venture": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Widowmaker": 25,
       "Winston": 5,
       "Wrecking Ball": 25,
@@ -549,21 +364,12 @@
       "Freja": 35,
       "Genji": 15,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 35,
       "Illari": 35,
       "Junker Queen": 5,
       "Junkrat": 45,
       "Juno": 45,
       "Kiriko": 25,
-=======
-      "Hazard": 25,
-      "Illari": 25,
-      "Junker Queen": 15,
-      "Junkrat": 45,
-      "Juno": 35,
-      "Kiriko": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 35,
       "Lucio": 15,
       "Mauga": 25,
@@ -573,29 +379,18 @@
       "Orisa": 35,
       "Pharah": 15,
       "Ramattra": 45,
-<<<<<<< HEAD
       "Reaper": 15,
       "Reinhardt": 15,
       "Roadhog": 25,
       "Sigma": 35,
-=======
-      "Reaper": 25,
-      "Reinhardt": 25,
-      "Roadhog": 25,
-      "Sigma": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 25,
       "Soldier: 76": 25,
       "Sombra": 25,
       "Symmetra": 25,
       "Torbjörn": 25,
       "Tracer": 25,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
-=======
-      "Venture": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Widowmaker": 15,
       "Winston": 5,
       "Wrecking Ball": 25,
@@ -609,13 +404,8 @@
     "hero-tiers": {
       "Ana": 45,
       "Ashe": 45,
-<<<<<<< HEAD
       "Baptiste": 25,
       "Bastion": 25,
-=======
-      "Baptiste": 15,
-      "Bastion": 15,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Brigitte": 15,
       "Cassidy": 25,
       "D.Va": 35,
@@ -624,21 +414,12 @@
       "Freja": 15,
       "Genji": 45,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 25,
       "Illari": 35,
       "Junker Queen": 25,
       "Junkrat": 15,
       "Juno": 35,
       "Kiriko": 25,
-=======
-      "Hazard": 15,
-      "Illari": 25,
-      "Junker Queen": 35,
-      "Junkrat": 5,
-      "Juno": 25,
-      "Kiriko": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 5,
       "Lucio": 25,
       "Mauga": 5,
@@ -651,23 +432,15 @@
       "Reaper": 35,
       "Reinhardt": 35,
       "Roadhog": 15,
-<<<<<<< HEAD
       "Sigma": 45,
-=======
-      "Sigma": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 25,
       "Soldier: 76": 35,
       "Sombra": 15,
       "Symmetra": 25,
       "Torbjörn": 25,
       "Tracer": 25,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 25,
-=======
-      "Venture": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Widowmaker": 15,
       "Winston": 25,
       "Wrecking Ball": 15,
@@ -691,21 +464,12 @@
       "Freja": 35,
       "Genji": 35,
       "Hanzo": 25,
-<<<<<<< HEAD
       "Hazard": 35,
       "Illari": 35,
       "Junker Queen": 15,
       "Junkrat": 35,
       "Juno": 25,
       "Kiriko": 35,
-=======
-      "Hazard": 25,
-      "Illari": 25,
-      "Junker Queen": 25,
-      "Junkrat": 15,
-      "Juno": 15,
-      "Kiriko": 45,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Lifeweaver": 15,
       "Lucio": 35,
       "Mauga": 5,
@@ -715,37 +479,22 @@
       "Orisa": 25,
       "Pharah": 25,
       "Ramattra": 25,
-<<<<<<< HEAD
       "Reaper": 5,
       "Reinhardt": 5,
       "Roadhog": 25,
       "Sigma": 35,
-=======
-      "Reaper": 25,
-      "Reinhardt": 15,
-      "Roadhog": 25,
-      "Sigma": 25,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Sojourn": 45,
       "Soldier: 76": 25,
       "Sombra": 15,
       "Symmetra": 35,
       "Torbjörn": 5,
       "Tracer": 45,
-<<<<<<< HEAD
       "Vendetta": 25,
       "Venture": 15,
       "Widowmaker": 15,
       "Winston": 35,
       "Wrecking Ball": 25,
       "Wuyang": 25,
-=======
-      "Venture": 25,
-      "Widowmaker": 15,
-      "Winston": 35,
-      "Wrecking Ball": 25,
-      "Wuyang": 35,
->>>>>>> 25a76cdb9aa0d2347587734f86fc06483eae85da
       "Zarya": 45,
       "Zenyatta": 15
     }
