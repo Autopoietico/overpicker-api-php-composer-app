@@ -288,7 +288,7 @@
     "shields": 0,
     "health": 200,
     "armor": 0,
-    "on_rotation": false,
+    "on_rotation": true,
     "nicks": ["Moira", "Otaku", "Mora"]
   },
   {
@@ -299,7 +299,7 @@
     "shields": 0,
     "health": 275,
     "armor": 275,
-    "on_rotation": false,
+    "on_rotation": true,
     "nicks": ["Orisa", "Horse", "Efi"]
   },
   {
@@ -431,8 +431,28 @@
     "shields": 0,
     "health": 150,
     "armor": 0,
-    "on_rotation": false,
+    "on_rotation": true,
     "nicks": ["Tracer", "Pilot", "Lena", "Light", "Time", "Recall"]
+  },
+  {
+    "name": "Vendetta",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "FlankDamage",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": [
+      "Vendetta",
+      "Vengeance",
+      "Gladiator",
+      "Italy",
+      "Roman",
+      "Italian",
+      "Colosseum",
+      "Big Sword"
+    ]
   },
   {
     "name": "Venture",

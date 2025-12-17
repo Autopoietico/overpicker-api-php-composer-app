@@ -407,6 +407,17 @@
     "side-echo-img": "images/heroes/damage/tracer-side-echo.webp"
   },
   {
+    "name": "Vendetta",
+    "white-img": "images/heroes/damage/vendetta-white.webp",
+    "white-echo-img": "images/heroes/damage/vendetta-echo.webp",
+    "profile-img": "images/heroes/damage/vendetta-profile.webp",
+    "profile-echo-img": "images/heroes/damage/vendetta-profile-echo.webp",
+    "art-img": "images/heroes/damage/vendetta-art.webp",
+    "art-echo-img": "images/heroes/damage/vendetta-art-echo.webp",
+    "side-img": "images/heroes/damage/vendetta-side.webp",
+    "side-echo-img": "images/heroes/damage/vendetta-side-echo.webp"
+  },
+  {
     "name": "Venture",
     "white-img": "images/heroes/damage/venture-white.webp",
     "white-echo-img": "images/heroes/damage/venture-echo.webp",
