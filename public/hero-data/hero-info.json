@@ -11,6 +11,17 @@
     "nicks": ["Ana", "Amari", "Sniper", "Granny", "Grandma", "Grandmother"]
   },
   {
+    "name": "Anran",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "Flanker",
+    "shields": 0,
+    "health": 250,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Anran", "Fire", "Flame", "Older Sister", "Sister"]
+  },
+  {
     "name": "Ashe",
     "description": "Hitscan DPS with good terrain control, her dynamite is effective against compositions that tend to group together, her ultimate BOB is very good for contesting points and checking angles.",
     "general_rol": "Damage",

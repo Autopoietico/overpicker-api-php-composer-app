@@ -3,6 +3,7 @@
     "name": "GrandMaster",
     "hero-tiers": {
       "Ana": 25,
+      "Anran": 25,
       "Ashe": 25,
       "Baptiste": 45,
       "Bastion": 15,
@@ -53,6 +54,7 @@
     "name": "Master",
     "hero-tiers": {
       "Ana": 25,
+      "Anran": 25,
       "Ashe": 25,
       "Baptiste": 45,
       "Bastion": 15,
@@ -103,6 +105,7 @@
     "name": "Diamond",
     "hero-tiers": {
       "Ana": 45,
+      "Anran": 25,
       "Ashe": 25,
       "Baptiste": 45,
       "Bastion": 15,
@@ -153,6 +156,7 @@
     "name": "Platinum",
     "hero-tiers": {
       "Ana": 45,
+      "Anran": 25,
       "Ashe": 45,
       "Baptiste": 35,
       "Bastion": 5,
@@ -203,6 +207,7 @@
     "name": "Gold",
     "hero-tiers": {
       "Ana": 15,
+      "Anran": 25,
       "Ashe": 25,
       "Baptiste": 25,
       "Bastion": 25,
@@ -253,6 +258,7 @@
     "name": "Silver",
     "hero-tiers": {
       "Ana": 5,
+      "Anran": 25,
       "Ashe": 15,
       "Baptiste": 35,
       "Bastion": 45,
@@ -303,6 +309,7 @@
     "name": "Bronze",
     "hero-tiers": {
       "Ana": 5,
+      "Anran": 25,
       "Ashe": 5,
       "Baptiste": 35,
       "Bastion": 45,
@@ -353,6 +360,7 @@
     "name": "All Ranks",
     "hero-tiers": {
       "Ana": 35,
+      "Anran": 25,
       "Ashe": 25,
       "Baptiste": 25,
       "Bastion": 35,
@@ -403,6 +411,7 @@
     "name": "Community Ranking",
     "hero-tiers": {
       "Ana": 35,
+      "Anran": 25,
       "Ashe": 15,
       "Baptiste": 25,
       "Bastion": 25,

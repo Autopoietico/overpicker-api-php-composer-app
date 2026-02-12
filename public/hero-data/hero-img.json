@@ -11,6 +11,17 @@
     "side-echo-img": "images/heroes/support/ana-side-echo.webp"
   },
   {
+    "name": "Anran",
+    "white-img": "images/heroes/damage/anran-white.webp",
+    "white-echo-img": "images/heroes/damage/anran-echo.webp",
+    "profile-img": "images/heroes/damage/anran-profile.webp",
+    "profile-echo-img": "images/heroes/damage/anran-profile-echo.webp",
+    "art-img": "images/heroes/damage/anran-art.webp",
+    "art-echo-img": "images/heroes/damage/anran-art-echo.webp",
+    "side-img": "images/heroes/damage/anran-side.webp",
+    "side-echo-img": "images/heroes/damage/anran-side-echo.webp"
+  },
+  {
     "name": "Ashe",
     "white-img": "images/heroes/damage/ashe-white.webp",
     "white-echo-img": "images/heroes/damage/ashe-echo.webp",
