@@ -3,366 +3,216 @@
     "name": "Aatlis",
     "type": "Flashpoint",
     "onPool": true,
-    "points": [
-      "Station",
-      "Bazaar",
-      "Resort",
-      "Town Center",
-      "Garden"
-    ]
+    "points": ["Station", "Bazaar", "Resort", "Town Center", "Garden"]
   },
   {
     "name": "Antarctic Peninsula",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Labs",
-      "Icebreaker",
-      "Sublevel"
-    ]
+    "points": ["Labs", "Icebreaker", "Sublevel"]
   },
   {
     "name": "Blizzard World",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Busan",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Downtown",
-      "Sanctuary",
-      "MEKA Base"
-    ]
+    "points": ["Downtown", "Sanctuary", "MEKA Base"]
   },
   {
     "name": "Circuit Royal",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Colosseo",
     "type": "Push",
     "onPool": true,
-    "points": [
-      "Ally",
-      "Mid",
-      "Enemy"
-    ]
+    "points": ["Ally", "Mid", "Enemy"]
   },
   {
     "name": "Dorado",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Eichenwalde",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Esperança",
     "type": "Push",
     "onPool": true,
-    "points": [
-      "Ally",
-      "Mid",
-      "Enemy"
-    ]
+    "points": ["Ally", "Mid", "Enemy"]
   },
   {
     "name": "Hanamura",
     "type": "Assault",
     "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
+    "points": ["A", "B"]
   },
   {
     "name": "Hanaoka",
     "type": "Clash",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
-    ]
+    "onPool": false,
+    "points": ["A", "B", "C", "D", "E"]
   },
   {
     "name": "Havana",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Hollywood",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Horizon Lunar Colony",
     "type": "Assault",
     "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
+    "points": ["A", "B"]
   },
   {
     "name": "Ilios",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Lighthouse",
-      "Well",
-      "Ruins"
-    ]
+    "points": ["Lighthouse", "Well", "Ruins"]
   },
   {
     "name": "Junkertown",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "King's Row",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Lijiang Tower",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Night Market",
-      "Garden",
-      "Control Center"
-    ]
+    "points": ["Night Market", "Garden", "Control Center"]
   },
   {
     "name": "Midtown",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Nepal",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Village",
-      "Sanctum",
-      "Shrine"
-    ]
+    "points": ["Village", "Sanctum", "Shrine"]
   },
   {
     "name": "New Junk City",
     "type": "Flashpoint",
     "onPool": true,
-    "points": [
-      "Arena",
-      "Ducts",
-      "Refinery",
-      "Junkyard",
-      "Bomb Flats"
-    ]
+    "points": ["Arena", "Ducts", "Refinery", "Junkyard", "Bomb Flats"]
   },
   {
     "name": "New Queen Street",
     "type": "Push",
     "onPool": true,
-    "points": [
-      "Ally",
-      "Mid",
-      "Enemy"
-    ]
+    "points": ["Ally", "Mid", "Enemy"]
   },
   {
     "name": "Numbani",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Oasis",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "City Center",
-      "Gardens",
-      "University"
-    ]
+    "points": ["City Center", "Gardens", "University"]
   },
   {
     "name": "Paris",
     "type": "Assault",
     "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
+    "points": ["A", "B"]
   },
   {
     "name": "Paraíso",
     "type": "Hybrid",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Rialto",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Route 66",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Runasapi",
     "type": "Push",
     "onPool": true,
-    "points": [
-      "Ally",
-      "Mid",
-      "Enemy"
-    ]
+    "points": ["Ally", "Mid", "Enemy"]
   },
   {
     "name": "Samoa",
     "type": "Control",
     "onPool": true,
-    "points": [
-      "Beach",
-      "Downtown",
-      "Volcano"
-      
-    ]
+    "points": ["Beach", "Downtown", "Volcano"]
   },
   {
     "name": "Shambali Monastery",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   },
   {
     "name": "Suravasa",
     "type": "Flashpoint",
     "onPool": true,
-    "points": [
-      "Market",
-      "Gardens",
-      "Palace",
-      "Temple",
-      "Ruins"
-    ]
+    "points": ["Market", "Gardens", "Palace", "Temple", "Ruins"]
   },
   {
     "name": "Temple of Anubis",
     "type": "Assault",
     "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
+    "points": ["A", "B"]
   },
   {
     "name": "Throne of Anubis",
     "type": "Clash",
-    "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
-    ]
+    "onPool": false,
+    "points": ["A", "B", "C", "D", "E"]
   },
   {
     "name": "Volskaya Industries",
     "type": "Assault",
     "onPool": false,
-    "points": [
-      "A",
-      "B"
-    ]
+    "points": ["A", "B"]
   },
   {
     "name": "Watchpoint: Gibraltar",
     "type": "Escort",
     "onPool": true,
-    "points": [
-      "A",
-      "B",
-      "C"
-    ]
+    "points": ["A", "B", "C"]
   }
 ]
