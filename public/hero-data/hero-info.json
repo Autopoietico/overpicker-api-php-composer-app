@@ -88,6 +88,17 @@
     "nicks": ["D.Va", "DVa", "Mecha", "Tokki", "Hana"]
   },
   {
+    "name": "Domina",
+    "description": "",
+    "general_rol": "Tank",
+    "secondary_rol": "Stalwart",
+    "shields": 400,
+    "health": 250,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Domina", "Vishkar", "Vaira", "Shingania"]
+  },
+  {
     "name": "Doomfist",
     "description": "A tank with great flight control helps him appear from any rooftop to torment the enemy lines. His fist is especially useful on maps with holes to fall into, and his ultimate is practically an extra cooldown when fighting.",
     "general_rol": "Tank",

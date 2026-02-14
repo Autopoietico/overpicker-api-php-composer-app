@@ -88,6 +88,17 @@
     "side-echo-img": "images/heroes/tank/dva-side-echo.webp"
   },
   {
+    "name": "Domina",
+    "white-img": "images/heroes/tank/domina-white.webp",
+    "white-echo-img": "images/heroes/tank/domina-echo.webp",
+    "profile-img": "images/heroes/tank/domina-profile.webp",
+    "profile-echo-img": "images/heroes/tank/domina-profile-echo.webp",
+    "art-img": "images/heroes/tank/domina-art.webp",
+    "art-echo-img": "images/heroes/tank/domina-art-echo.webp",
+    "side-img": "images/heroes/tank/domina-side.webp",
+    "side-echo-img": "images/heroes/tank/domina-side-echo.webp"
+  },
+  {
     "name": "Doomfist",
     "white-img": "images/heroes/tank/doomfist-white.webp",
     "white-echo-img": "images/heroes/tank/doomfist-echo.webp",
