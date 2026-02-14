@@ -207,11 +207,11 @@
   },
   {
     "name": "Juno",
-    "description": "A Martian.",
+    "description": "A highly mobile support from Mars who blends mobility and utility to keep her team alive in fast-paced fights. Juno excels at repositioning allies and controlling space with her Hyper Ring, allowing her to disengage from danger or enable aggressive plays. Her kit rewards smart timing and awareness, while her ultimate Orbital Ray provides a powerful team-wide boost that can turn the tide of battle when used during coordinated engagements.",
     "general_rol": "Support",
     "secondary_rol": "Survivor",
-    "shields": 0,
-    "health": 200,
+    "shields": 75,
+    "health": 150,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Juno", "Astronaut", "Space", "Martian", "Mars"]
