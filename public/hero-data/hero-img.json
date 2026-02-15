@@ -121,6 +121,17 @@
     "side-echo-img": "images/heroes/damage/echo-side.webp"
   },
   {
+    "name": "Emre",
+    "white-img": "images/heroes/damage/emre-white.webp",
+    "white-echo-img": "images/heroes/damage/emre-echo.webp",
+    "profile-img": "images/heroes/damage/emre-profile.webp",
+    "profile-echo-img": "images/heroes/damage/emre-profile-echo.webp",
+    "art-img": "images/heroes/damage/emre-art.webp",
+    "art-echo-img": "images/heroes/damage/emre-art-echo.webp",
+    "side-img": "images/heroes/damage/emre-side.webp",
+    "side-echo-img": "images/heroes/damage/emre-side-echo.webp"
+  },
+  {
     "name": "Freja",
     "white-img": "images/heroes/damage/freja-white.webp",
     "white-echo-img": "images/heroes/damage/freja-echo.webp",

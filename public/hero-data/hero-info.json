@@ -118,7 +118,18 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Echo", "Moth", "Copy"]
+    "nicks": ["Echo", "Moth", "Copy", "Fly"]
+  },
+  {
+    "name": "Emre",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "Specialist",
+    "shields": 0,
+    "health": 250,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": ["Emre", "Turkish", "Conspiracy", "Sarioglu", "Program"]
   },
   {
     "name": "Freja",

@@ -615,6 +615,62 @@
       "Control": 0
     }
   },
+  "Emre": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 10,
+        "B": 10,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 10
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
   "Freja": {
     "Attack": {
       "Assault": {
