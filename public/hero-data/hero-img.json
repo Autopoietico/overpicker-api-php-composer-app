@@ -297,6 +297,17 @@
     "side-echo-img": "images/heroes/support/mercy-side-echo.webp"
   },
   {
+    "name": "Mizuki",
+    "white-img": "images/heroes/support/mizuki-white.webp",
+    "white-echo-img": "images/heroes/support/mizuki-echo.webp",
+    "profile-img": "images/heroes/support/mizuki-profile.webp",
+    "profile-echo-img": "images/heroes/support/mizuki-profile-echo.webp",
+    "art-img": "images/heroes/support/mizuki-art.webp",
+    "art-echo-img": "images/heroes/support/mizuki-art-echo.webp",
+    "side-img": "images/heroes/support/mizuki-side.webp",
+    "side-echo-img": "images/heroes/support/mizuki-side-echo.webp"
+  },
+  {
     "name": "Moira",
     "white-img": "images/heroes/support/moira-white.webp",
     "white-echo-img": "images/heroes/support/moira-echo.webp",

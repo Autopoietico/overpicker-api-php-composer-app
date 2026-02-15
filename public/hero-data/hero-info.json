@@ -325,6 +325,25 @@
     "nicks": ["Mercy", "Medic", "Angela", "Valkyrie", "Witch", "Fly"]
   },
   {
+    "name": "Mizuki",
+    "description": "A flying support who enables her teammates, especially damage heroes, with her healing and damage boost. As a moth, her mobility makes her difficult to kill, making her effective in contesting points and wasting the enemy's time.",
+    "general_rol": "Support",
+    "secondary_rol": "Survivor",
+    "shields": 0,
+    "health": 250,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": [
+      "Mizuki",
+      "Kawano",
+      "Green",
+      "Root",
+      "Kanezaka",
+      "Hashimoto",
+      "Yokai"
+    ]
+  },
+  {
     "name": "Moira",
     "description": "Moira has a great amount of healing combined with the ability to easily avoid death using her Fade ability. Her ability to reach the enemy backline easily can make her a very dangerous support.",
     "general_rol": "Support",
