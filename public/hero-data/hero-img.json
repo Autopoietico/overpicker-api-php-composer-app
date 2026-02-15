@@ -187,6 +187,17 @@
     "side-echo-img": "images/heroes/support/illari-side-echo.webp"
   },
   {
+    "name": "Jetpack Cat",
+    "white-img": "images/heroes/support/jetpack-cat-white.webp",
+    "white-echo-img": "images/heroes/support/jetpack-cat-echo.webp",
+    "profile-img": "images/heroes/support/jetpack-cat-profile.webp",
+    "profile-echo-img": "images/heroes/support/jetpack-cat-profile-echo.webp",
+    "art-img": "images/heroes/support/jetpack-cat-art.webp",
+    "art-echo-img": "images/heroes/support/jetpack-cat-art-echo.webp",
+    "side-img": "images/heroes/support/jetpack-cat-side.webp",
+    "side-echo-img": "images/heroes/support/jetpack-cat-side-echo.webp"
+  },
+  {
     "name": "Junker Queen",
     "white-img": "images/heroes/tank/junker-queen-white.webp",
     "white-echo-img": "images/heroes/tank/junker-queen-echo.webp",

@@ -951,6 +951,62 @@
       "Control": 0
     }
   },
+  "Jetpack Cat": {
+    "Attack": {
+      "Assault": {
+        "A": 10,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 10
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 10
+      }
+    },
+    "Push": {
+      "Ally": 10,
+      "Mid": 10,
+      "Enemy": 10
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 10,
+        "B": 0,
+        "C": 10,
+        "D": 10,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 10,
+        "C": 10,
+        "D": 0,
+        "E": 10
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 10,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 10
+    }
+  },
   "Junker Queen": {
     "Attack": {
       "Assault": {
