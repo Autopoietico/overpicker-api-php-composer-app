@@ -7,14 +7,14 @@
     "Bastion": 10,
     "Brigitte": 10,
     "Cassidy": 10,
-    "D.Va": -10,
-    "Domina": -10,
-    "Doomfist": 10,
+    "D.Va": 0,
+    "Domina": 0,
+    "Doomfist": -20,
     "Echo": 10,
     "Emre": 10,
     "Freja": 0,
     "Genji": -10,
-    "Hazard": 10,
+    "Hazard": 0,
     "Hanzo": -10,
     "Illari": -10,
     "Jetpack Cat": 10,
@@ -24,16 +24,16 @@
     "Kiriko": -10,
     "Lifeweaver": 0,
     "Lucio": 0,
-    "Mauga": 10,
+    "Mauga": 0,
     "Mei": -10,
     "Mercy": 10,
     "Mizuki": 10,
     "Moira": 10,
-    "Orisa": -10,
+    "Orisa": 20,
     "Pharah": 10,
-    "Ramattra": 10,
+    "Ramattra": -20,
     "Reaper": 0,
-    "Reinhardt": -10,
+    "Reinhardt": 10,
     "Roadhog": 20,
     "Sigma": -10,
     "Soldier: 76": 10,
@@ -48,7 +48,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 0
   },
   "Anran": {
@@ -364,7 +364,7 @@
     "Zenyatta": 0
   },
   "D.Va": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 0,
@@ -416,7 +416,7 @@
     "Zenyatta": 10
   },
   "Domina": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": -10,
@@ -468,7 +468,7 @@
     "Zenyatta": 0
   },
   "Doomfist": {
-    "Ana": 0,
+    "Ana": 20,
     "Anran": 10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -936,7 +936,7 @@
     "Zenyatta": 10
   },
   "Junker Queen": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
@@ -1248,7 +1248,7 @@
     "Zenyatta": 10
   },
   "Mauga": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1508,7 +1508,7 @@
     "Zenyatta": 0
   },
   "Orisa": {
-    "Ana": 20,
+    "Ana": -20,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1612,7 +1612,7 @@
     "Zenyatta": 0
   },
   "Ramattra": {
-    "Ana": 0,
+    "Ana": 20,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1716,7 +1716,7 @@
     "Zenyatta": 10
   },
   "Reinhardt": {
-    "Ana": 10,
+    "Ana": -10,
     "Anran": 20,
     "Ashe": -10,
     "Baptiste": 0,
@@ -1768,7 +1768,7 @@
     "Zenyatta": 0
   },
   "Roadhog": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -2340,7 +2340,7 @@
     "Zenyatta": 0
   },
   "Winston": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -2392,7 +2392,7 @@
     "Zenyatta": 10
   },
   "Wrecking Ball": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 10,
