@@ -2,20 +2,20 @@
   "Ana": {
     "Ana": -10,
     "Anran": 0,
-    "Ashe": -10,
+    "Ashe": 10,
     "Baptiste": 10,
-    "Bastion": 10,
+    "Bastion": 0,
     "Brigitte": 10,
-    "Cassidy": -10,
+    "Cassidy": 0,
     "D.Va": 10,
     "Domina": 0,
     "Doomfist": 10,
-    "Echo": 10,
-    "Emre": 10,
-    "Freja": -10,
+    "Echo": 0,
+    "Emre": -10,
+    "Freja": 0,
     "Genji": 20,
     "Hazard": 10,
-    "Hanzo": -10,
+    "Hanzo": 0,
     "Illari": 10,
     "Jetpack Cat": 0,
     "Junker Queen": 0,
@@ -25,26 +25,26 @@
     "Lifeweaver": 10,
     "Lucio": 0,
     "Mauga": 10,
-    "Mei": 0,
+    "Mei": -10,
     "Mercy": 10,
     "Mizuki": 10,
     "Moira": -10,
     "Orisa": 10,
-    "Pharah": 10,
+    "Pharah": 0,
     "Ramattra": 10,
-    "Reaper": 10,
+    "Reaper": -10,
     "Reinhardt": 10,
     "Roadhog": 0,
     "Sigma": 0,
-    "Soldier: 76": 10,
-    "Sojourn": -10,
+    "Soldier: 76": 0,
+    "Sojourn": 10,
     "Sombra": 0,
-    "Symmetra": 0,
-    "Torbjörn": -10,
+    "Symmetra": 20,
+    "Torbjörn": 0,
     "Tracer": 0,
-    "Vendetta": 10,
-    "Venture": -10,
-    "Widowmaker": -10,
+    "Vendetta": -10,
+    "Venture": 0,
+    "Widowmaker": 0,
     "Winston": 10,
     "Wrecking Ball": 0,
     "Wuyang": 10,
@@ -208,7 +208,7 @@
     "Zenyatta": 10
   },
   "Bastion": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -312,7 +312,7 @@
     "Zenyatta": 10
   },
   "Cassidy": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -624,7 +624,7 @@
     "Zenyatta": -10
   },
   "Freja": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -676,7 +676,7 @@
     "Zenyatta": 10
   },
   "Genji": {
-    "Ana": 10,
+    "Ana": -20,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -988,7 +988,7 @@
     "Zenyatta": -10
   },
   "Junkrat": {
-    "Ana": -10,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -1300,7 +1300,7 @@
     "Zenyatta": 0
   },
   "Mei": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -1560,7 +1560,7 @@
     "Zenyatta": 0
   },
   "Pharah": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1924,7 +1924,7 @@
     "Zenyatta": 10
   },
   "Soldier: 76": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": 0,
@@ -2028,7 +2028,7 @@
     "Zenyatta": 10
   },
   "Symmetra": {
-    "Ana": 10,
+    "Ana": -20,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -2080,7 +2080,7 @@
     "Zenyatta": 0
   },
   "Torbjörn": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -2236,7 +2236,7 @@
     "Zenyatta": 10
   },
   "Venture": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -2288,7 +2288,7 @@
     "Zenyatta": 10
   },
   "Widowmaker": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 0,
