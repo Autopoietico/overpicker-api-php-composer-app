@@ -7,9 +7,9 @@
     "Bastion": 0,
     "Brigitte": 10,
     "Cassidy": -10,
-    "D.Va": 0,
+    "D.Va": -10,
     "Domina": 0,
-    "Doomfist": 10,
+    "Doomfist": 20,
     "Echo": 0,
     "Emre": -20,
     "Freja": -10,
@@ -29,11 +29,11 @@
     "Mercy": 10,
     "Mizuki": 10,
     "Moira": -10,
-    "Orisa": -10,
+    "Orisa": 0,
     "Pharah": 10,
     "Ramattra": 10,
     "Reaper": -10,
-    "Reinhardt": 20,
+    "Reinhardt": 10,
     "Roadhog": -10,
     "Sigma": -20,
     "Soldier: 76": 10,
@@ -364,7 +364,7 @@
     "Zenyatta": 0
   },
   "D.Va": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": 0,
@@ -468,7 +468,7 @@
     "Zenyatta": 10
   },
   "Doomfist": {
-    "Ana": 10,
+    "Ana": 20,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1508,7 +1508,7 @@
     "Zenyatta": 0
   },
   "Orisa": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 10,
@@ -1716,7 +1716,7 @@
     "Zenyatta": 10
   },
   "Reinhardt": {
-    "Ana": 20,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
