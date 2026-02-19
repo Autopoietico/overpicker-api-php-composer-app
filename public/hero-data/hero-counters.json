@@ -7,7 +7,7 @@
     "Bastion": 10,
     "Brigitte": 10,
     "Cassidy": 10,
-    "D.Va": 0,
+    "D.Va": 10,
     "Domina": 0,
     "Doomfist": -20,
     "Echo": 10,
@@ -18,7 +18,7 @@
     "Hanzo": -10,
     "Illari": -10,
     "Jetpack Cat": 10,
-    "Junker Queen": 10,
+    "Junker Queen": 20,
     "Junkrat": 0,
     "Juno": 10,
     "Kiriko": -10,
@@ -29,11 +29,11 @@
     "Mercy": 10,
     "Mizuki": 10,
     "Moira": 10,
-    "Orisa": 20,
+    "Orisa": 0,
     "Pharah": 10,
     "Ramattra": -20,
     "Reaper": 0,
-    "Reinhardt": 10,
+    "Reinhardt": 0,
     "Roadhog": 20,
     "Sigma": -10,
     "Soldier: 76": 10,
@@ -46,7 +46,7 @@
     "Venture": -10,
     "Widowmaker": 0,
     "Winston": 0,
-    "Wrecking Ball": 0,
+    "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": -10,
     "Zenyatta": 0
@@ -364,7 +364,7 @@
     "Zenyatta": 0
   },
   "D.Va": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 0,
@@ -936,7 +936,7 @@
     "Zenyatta": 10
   },
   "Junker Queen": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
@@ -1508,7 +1508,7 @@
     "Zenyatta": 0
   },
   "Orisa": {
-    "Ana": -20,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1716,7 +1716,7 @@
     "Zenyatta": 10
   },
   "Reinhardt": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 20,
     "Ashe": -10,
     "Baptiste": 0,
@@ -2392,7 +2392,7 @@
     "Zenyatta": 10
   },
   "Wrecking Ball": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 10,
