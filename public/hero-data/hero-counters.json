@@ -880,7 +880,7 @@
     "Winston": -10,
     "Wrecking Ball": -10,
     "Wuyang": -20,
-    "Zarya": 10,
+    "Zarya": 20,
     "Zenyatta": 20
   },
   "Jetpack Cat": {
@@ -1244,7 +1244,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": -10,
-    "Zarya": -20,
+    "Zarya": -10,
     "Zenyatta": 0
   },
   "Mauga": {
@@ -1400,7 +1400,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": -20,
-    "Zarya": -10,
+    "Zarya": -20,
     "Zenyatta": 0
   },
   "Mizuki": {
@@ -2512,17 +2512,17 @@
     "Genji": 10,
     "Hazard": -20,
     "Hanzo": 0,
-    "Illari": -10,
+    "Illari": -20,
     "Jetpack Cat": -10,
     "Junker Queen": 10,
     "Junkrat": 20,
     "Juno": -20,
     "Kiriko": 0,
     "Lifeweaver": 10,
-    "Lucio": 20,
+    "Lucio": 10,
     "Mauga": 10,
     "Mei": 10,
-    "Mercy": 10,
+    "Mercy": 20,
     "Mizuki": 0,
     "Moira": 20,
     "Orisa": 20,
@@ -2545,7 +2545,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": -20
+    "Zenyatta": -10
   },
   "Zenyatta": {
     "Ana": 0,
@@ -2596,7 +2596,7 @@
     "Winston": -10,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": 20,
+    "Zarya": 10,
     "Zenyatta": 0
   }
 }
