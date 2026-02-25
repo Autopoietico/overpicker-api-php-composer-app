@@ -1,11 +1,11 @@
 {
   "Ana": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 20,
     "Bastion": 0,
-    "Brigitte": 0,
+    "Brigitte": -10,
     "Cassidy": 10,
     "D.Va": 10,
     "Domina": 0,
@@ -17,7 +17,7 @@
     "Hazard": -10,
     "Hanzo": -10,
     "Illari": -10,
-    "Jetpack Cat": -10,
+    "Jetpack Cat": 0,
     "Junker Queen": 20,
     "Junkrat": 0,
     "Juno": 0,
@@ -47,7 +47,7 @@
     "Widowmaker": 0,
     "Winston": 0,
     "Wrecking Ball": 20,
-    "Wuyang": 10,
+    "Wuyang": 0,
     "Zarya": -20,
     "Zenyatta": 0
   },
