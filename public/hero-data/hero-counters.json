@@ -208,7 +208,7 @@
     "Zenyatta": 0
   },
   "Bastion": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
@@ -229,13 +229,13 @@
     "Junker Queen": 0,
     "Junkrat": 0,
     "Juno": 20,
-    "Kiriko": -20,
-    "Lifeweaver": -10,
-    "Lucio": -20,
+    "Kiriko": 0,
+    "Lifeweaver": -20,
+    "Lucio": 0,
     "Mauga": 10,
     "Mei": 0,
-    "Mercy": 10,
-    "Mizuki": 0,
+    "Mercy": -10,
+    "Mizuki": -10,
     "Moira": 0,
     "Orisa": -10,
     "Pharah": 0,
@@ -255,9 +255,9 @@
     "Widowmaker": 0,
     "Winston": 0,
     "Wrecking Ball": 20,
-    "Wuyang": 0,
+    "Wuyang": 10,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Brigitte": {
     "Ana": 0,
