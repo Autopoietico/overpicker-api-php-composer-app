@@ -443,12 +443,12 @@
     "name": "Community Ranking",
     "hero-tiers": {
       "Ana": 25,
-      "Anran": 45,
+      "Anran": 35,
       "Ashe": 35,
       "Baptiste": 25,
       "Bastion": 25,
       "Brigitte": 25,
-      "Cassidy": 25,
+      "Cassidy": 35,
       "D.Va": 35,
       "Domina": 35,
       "Doomfist": 25,
@@ -460,14 +460,14 @@
       "Hazard": 25,
       "Illari": 35,
       "Jetpack Cat": 15,
-      "Junker Queen": 25,
+      "Junker Queen": 15,
       "Junkrat": 15,
       "Juno": 25,
       "Kiriko": 45,
       "Lifeweaver": 5,
       "Lucio": 35,
       "Mauga": 15,
-      "Mei": 15,
+      "Mei": 25,
       "Mercy": 5,
       "Mizuki": 35,
       "Moira": 15,
@@ -489,9 +489,9 @@
       "Widowmaker": 15,
       "Winston": 25,
       "Wrecking Ball": 25,
-      "Wuyang": 35,
+      "Wuyang": 25,
       "Zarya": 35,
-      "Zenyatta": 25
+      "Zenyatta": 15
     }
   }
 ]
