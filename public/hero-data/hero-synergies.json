@@ -48,7 +48,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": 20,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "Anran": {
@@ -204,7 +204,7 @@
     "Winston": 10,
     "Wrecking Ball": -10,
     "Wuyang": 10,
-    "Zarya": 20,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Bastion": {
@@ -308,7 +308,7 @@
     "Winston": 10,
     "Wrecking Ball": 10,
     "Wuyang": -10,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Cassidy": {
@@ -932,7 +932,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 20,
+    "Zarya": 10,
     "Zenyatta": 10
   },
   "Junker Queen": {
@@ -1088,7 +1088,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 20,
+    "Zarya": 10,
     "Zenyatta": 10
   },
   "Kiriko": {
@@ -1140,7 +1140,7 @@
     "Winston": -10,
     "Wrecking Ball": -10,
     "Wuyang": 20,
-    "Zarya": 20,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Lifeweaver": {
@@ -1192,7 +1192,7 @@
     "Winston": -10,
     "Wrecking Ball": -10,
     "Wuyang": 10,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 0
   },
   "Lucio": {
@@ -1400,7 +1400,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": 10,
+    "Zarya": -10,
     "Zenyatta": -10
   },
   "Mizuki": {
@@ -1452,7 +1452,7 @@
     "Winston": 10,
     "Wrecking Ball": 10,
     "Wuyang": -10,
-    "Zarya": 10,
+    "Zarya": -10,
     "Zenyatta": 10
   },
   "Moira": {
@@ -1504,7 +1504,7 @@
     "Winston": 0,
     "Wrecking Ball": -20,
     "Wuyang": -10,
-    "Zarya": 20,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "Orisa": {
@@ -2492,7 +2492,7 @@
     "Winston": 20,
     "Wrecking Ball": 20,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": -20
   },
   "Zarya": {
@@ -2596,7 +2596,7 @@
     "Winston": 10,
     "Wrecking Ball": 10,
     "Wuyang": -20,
-    "Zarya": 0,
+    "Zarya": 10,
     "Zenyatta": -10
   }
 }
