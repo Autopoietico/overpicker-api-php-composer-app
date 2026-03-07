@@ -465,7 +465,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": 10,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Doomfist": {
     "Ana": 10,
@@ -517,7 +517,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 20,
     "Zarya": 10,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Echo": {
     "Ana": 0,
@@ -829,7 +829,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 20,
     "Zarya": 10,
-    "Zenyatta": -10
+    "Zenyatta": 0
   },
   "Illari": {
     "Ana": 10,
@@ -1557,7 +1557,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Pharah": {
     "Ana": -10,
