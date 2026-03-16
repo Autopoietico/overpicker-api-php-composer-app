@@ -365,7 +365,7 @@
   },
   "D.Va": {
     "Ana": -10,
-    "Anran": 10,
+    "Anran": -10,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 10,
@@ -469,7 +469,7 @@
   },
   "Doomfist": {
     "Ana": 10,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": 20,
     "Baptiste": 10,
     "Bastion": 0,
@@ -781,7 +781,7 @@
   },
   "Hazard": {
     "Ana": -10,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
     "Bastion": 0,
@@ -937,7 +937,7 @@
   },
   "Junker Queen": {
     "Ana": -10,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": -10,
     "Baptiste": -20,
     "Bastion": -10,
@@ -1249,7 +1249,7 @@
   },
   "Mauga": {
     "Ana": -20,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
     "Bastion": 10,
@@ -1509,7 +1509,7 @@
   },
   "Orisa": {
     "Ana": -10,
-    "Anran": 0,
+    "Anran": 20,
     "Ashe": 10,
     "Baptiste": -10,
     "Bastion": 0,
@@ -1769,7 +1769,7 @@
   },
   "Roadhog": {
     "Ana": -10,
-    "Anran": 10,
+    "Anran": -10,
     "Ashe": 10,
     "Baptiste": 0,
     "Bastion": 0,
@@ -1821,7 +1821,7 @@
   },
   "Sigma": {
     "Ana": -10,
-    "Anran": -10,
+    "Anran": 0,
     "Ashe": 10,
     "Baptiste": 20,
     "Bastion": 20,
@@ -2393,7 +2393,7 @@
   },
   "Wrecking Ball": {
     "Ana": 10,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 0,
@@ -2497,7 +2497,7 @@
   },
   "Zarya": {
     "Ana": 20,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": 10,
     "Baptiste": 20,
     "Bastion": 0,
