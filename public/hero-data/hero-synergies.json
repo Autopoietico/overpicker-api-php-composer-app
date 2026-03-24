@@ -884,7 +884,7 @@
     "Zenyatta": 10
   },
   "Jetpack Cat": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 0,
@@ -1040,7 +1040,7 @@
     "Zenyatta": 0
   },
   "Juno": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1092,7 +1092,7 @@
     "Zenyatta": 10
   },
   "Kiriko": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -1144,7 +1144,7 @@
     "Zenyatta": 10
   },
   "Lifeweaver": {
-    "Ana": -20,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -2444,7 +2444,7 @@
     "Zenyatta": 0
   },
   "Wuyang": {
-    "Ana": -20,
+    "Ana": -10,
     "Anran": -20,
     "Ashe": 0,
     "Baptiste": 0,
