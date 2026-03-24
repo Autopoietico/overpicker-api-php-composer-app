@@ -781,7 +781,7 @@
   },
   "Hazard": {
     "Ana": -10,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": -10,
     "Baptiste": 20,
     "Bastion": 0,
@@ -1249,7 +1249,7 @@
   },
   "Mauga": {
     "Ana": -20,
-    "Anran": 0,
+    "Anran": -10,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 10,
@@ -1509,7 +1509,7 @@
   },
   "Orisa": {
     "Ana": -10,
-    "Anran": 20,
+    "Anran": 10,
     "Ashe": 10,
     "Baptiste": -10,
     "Bastion": 0,
@@ -1613,7 +1613,7 @@
   },
   "Ramattra": {
     "Ana": -20,
-    "Anran": 0,
+    "Anran": -10,
     "Ashe": -10,
     "Baptiste": 10,
     "Bastion": -20,
@@ -2393,7 +2393,7 @@
   },
   "Wrecking Ball": {
     "Ana": 10,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 0,
