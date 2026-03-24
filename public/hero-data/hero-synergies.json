@@ -157,7 +157,7 @@
   },
   "Baptiste": {
     "Ana": 0,
-    "Anran": -10,
+    "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 0,
@@ -885,7 +885,7 @@
   },
   "Jetpack Cat": {
     "Ana": 10,
-    "Anran": -20,
+    "Anran": -10,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 0,
@@ -1041,7 +1041,7 @@
   },
   "Juno": {
     "Ana": 0,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": -10,
@@ -1093,7 +1093,7 @@
   },
   "Kiriko": {
     "Ana": 0,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": 10,
     "Baptiste": 10,
     "Bastion": 0,
@@ -1457,7 +1457,7 @@
   },
   "Moira": {
     "Ana": -10,
-    "Anran": 0,
+    "Anran": -10,
     "Ashe": -20,
     "Baptiste": -10,
     "Bastion": -20,
@@ -2549,7 +2549,7 @@
   },
   "Zenyatta": {
     "Ana": 10,
-    "Anran": 20,
+    "Anran": 10,
     "Ashe": 20,
     "Baptiste": 10,
     "Bastion": 10,
