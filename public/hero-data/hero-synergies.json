@@ -104,7 +104,7 @@
     "Zenyatta": 10
   },
   "Ashe": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": -10,
     "Baptiste": 10,
@@ -208,7 +208,7 @@
     "Zenyatta": 10
   },
   "Bastion": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -312,7 +312,7 @@
     "Zenyatta": 10
   },
   "Cassidy": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -520,7 +520,7 @@
     "Zenyatta": 10
   },
   "Echo": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1560,7 +1560,7 @@
     "Zenyatta": 10
   },
   "Pharah": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": 20,
@@ -1924,7 +1924,7 @@
     "Zenyatta": 10
   },
   "Soldier: 76": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": -10,
@@ -2028,7 +2028,7 @@
     "Zenyatta": 10
   },
   "Symmetra": {
-    "Ana": 20,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 20,
@@ -2132,7 +2132,7 @@
     "Zenyatta": 0
   },
   "Tracer": {
-    "Ana": -10,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": -10,
     "Baptiste": 0,
@@ -2236,7 +2236,7 @@
     "Zenyatta": 10
   },
   "Venture": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": 0,
