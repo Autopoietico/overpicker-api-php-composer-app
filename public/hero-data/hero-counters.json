@@ -1248,12 +1248,12 @@
     "Zenyatta": -10
   },
   "Mauga": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": -10,
-    "Brigitte": -10,
+    "Brigitte": 0,
     "Cassidy": 0,
     "D.Va": 0,
     "Domina": 0,
@@ -1264,13 +1264,13 @@
     "Genji": -10,
     "Hazard": -10,
     "Hanzo": -10,
-    "Illari": 0,
+    "Illari": -10,
     "Jetpack Cat": 0,
     "Junker Queen": 10,
     "Junkrat": 10,
     "Juno": 0,
     "Kiriko": 0,
-    "Lifeweaver": 0,
+    "Lifeweaver": 10,
     "Lucio": 0,
     "Mauga": 0,
     "Mei": 0,
@@ -1295,9 +1295,9 @@
     "Widowmaker": -10,
     "Winston": 0,
     "Wrecking Ball": -10,
-    "Wuyang": -20,
+    "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Mei": {
     "Ana": 0,
