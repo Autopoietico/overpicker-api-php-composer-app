@@ -1664,12 +1664,12 @@
     "Zenyatta": -10
   },
   "Reaper": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": 0,
     "Ashe": -10,
-    "Baptiste": 0,
+    "Baptiste": -10,
     "Bastion": -10,
-    "Brigitte": 0,
+    "Brigitte": -10,
     "Cassidy": -10,
     "D.Va": 10,
     "Domina": 0,
@@ -1680,8 +1680,8 @@
     "Genji": 10,
     "Hazard": -10,
     "Hanzo": -20,
-    "Illari": 0,
-    "Jetpack Cat": 10,
+    "Illari": 10,
+    "Jetpack Cat": 20,
     "Junker Queen": 0,
     "Junkrat": 10,
     "Juno": -10,
@@ -1711,9 +1711,9 @@
     "Widowmaker": 10,
     "Winston": 10,
     "Wrecking Ball": -10,
-    "Wuyang": 0,
+    "Wuyang": 10,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Reinhardt": {
     "Ana": 10,
