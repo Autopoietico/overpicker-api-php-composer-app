@@ -54,7 +54,7 @@
   "Anran": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": -10,
+    "Ashe": 10,
     "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": 0,
@@ -106,7 +106,7 @@
   "Ashe": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 10,
     "Bastion": 10,
     "Brigitte": 0,
@@ -210,7 +210,7 @@
   "Bastion": {
     "Ana": -10,
     "Anran": -10,
-    "Ashe": 0,
+    "Ashe": 10,
     "Baptiste": 10,
     "Bastion": 0,
     "Brigitte": 10,
@@ -522,7 +522,7 @@
   "Echo": {
     "Ana": 10,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": -10,
     "Bastion": -10,
     "Brigitte": 0,
@@ -626,7 +626,7 @@
   "Freja": {
     "Ana": -20,
     "Anran": 0,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 10,
@@ -678,7 +678,7 @@
   "Genji": {
     "Ana": 20,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 10,
     "Baptiste": 10,
     "Bastion": 0,
     "Brigitte": 10,
@@ -1562,7 +1562,7 @@
   "Pharah": {
     "Ana": -20,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 20,
     "Bastion": -10,
     "Brigitte": 0,
@@ -1666,7 +1666,7 @@
   "Reaper": {
     "Ana": -10,
     "Anran": 0,
-    "Ashe": 0,
+    "Ashe": 10,
     "Baptiste": -10,
     "Bastion": -20,
     "Brigitte": 0,
@@ -1926,7 +1926,7 @@
   "Soldier: 76": {
     "Ana": 10,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 20,
     "Brigitte": 0,
@@ -1978,7 +1978,7 @@
   "Sombra": {
     "Ana": 0,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 0,
@@ -2082,7 +2082,7 @@
   "Torbjörn": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": 10,
+    "Ashe": 0,
     "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": 0,
@@ -2134,7 +2134,7 @@
   "Tracer": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": -10,
+    "Ashe": 10,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 0,
@@ -2186,7 +2186,7 @@
   "Vendetta": {
     "Ana": -20,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 10,
@@ -2238,7 +2238,7 @@
   "Venture": {
     "Ana": 0,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 0,
     "Bastion": -10,
     "Brigitte": 0,
