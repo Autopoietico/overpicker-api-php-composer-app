@@ -1042,7 +1042,7 @@
   "Juno": {
     "Ana": 10,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -20,
     "Baptiste": 0,
     "Bastion": 10,
     "Brigitte": 10,
@@ -1354,7 +1354,7 @@
   "Mercy": {
     "Ana": 10,
     "Anran": 0,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 10,
     "Bastion": 0,
     "Brigitte": -10,
@@ -1458,7 +1458,7 @@
   "Moira": {
     "Ana": -10,
     "Anran": -10,
-    "Ashe": 0,
+    "Ashe": -20,
     "Baptiste": -10,
     "Bastion": -20,
     "Brigitte": -10,
