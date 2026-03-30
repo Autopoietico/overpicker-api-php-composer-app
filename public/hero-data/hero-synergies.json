@@ -156,7 +156,7 @@
     "Zenyatta": 20
   },
   "Baptiste": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1092,7 +1092,7 @@
     "Zenyatta": 10
   },
   "Kiriko": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -1144,7 +1144,7 @@
     "Zenyatta": 10
   },
   "Lifeweaver": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 0,
@@ -1352,7 +1352,7 @@
     "Zenyatta": 0
   },
   "Mercy": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 0,
     "Baptiste": 10,
