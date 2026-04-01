@@ -433,7 +433,7 @@
     "Hazard": 0,
     "Hanzo": 10,
     "Illari": -10,
-    "Jetpack Cat": 0,
+    "Jetpack Cat": 10,
     "Junker Queen": 0,
     "Junkrat": 10,
     "Juno": 0,
@@ -443,7 +443,7 @@
     "Mauga": 10,
     "Mei": 0,
     "Mercy": 10,
-    "Mizuki": -10,
+    "Mizuki": -20,
     "Moira": 0,
     "Orisa": 10,
     "Pharah": 10,
@@ -463,9 +463,9 @@
     "Widowmaker": 10,
     "Winston": -10,
     "Wrecking Ball": 10,
-    "Wuyang": 0,
+    "Wuyang": 10,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Doomfist": {
     "Ana": 10,
