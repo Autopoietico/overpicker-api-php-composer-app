@@ -676,10 +676,10 @@
     "Zenyatta": -10
   },
   "Genji": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": -20,
-    "Baptiste": -10,
+    "Baptiste": 0,
     "Bastion": 20,
     "Brigitte": 0,
     "Cassidy": 0,
@@ -698,7 +698,7 @@
     "Junkrat": -10,
     "Juno": -10,
     "Kiriko": 10,
-    "Lifeweaver": 10,
+    "Lifeweaver": 0,
     "Lucio": 10,
     "Mauga": 10,
     "Mei": 0,
@@ -723,7 +723,7 @@
     "Widowmaker": 0,
     "Winston": 0,
     "Wrecking Ball": -10,
-    "Wuyang": 10,
+    "Wuyang": 20,
     "Zarya": -10,
     "Zenyatta": -20
   },
