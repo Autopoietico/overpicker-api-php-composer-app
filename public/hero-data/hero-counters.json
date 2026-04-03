@@ -1043,7 +1043,7 @@
     "Ana": 10,
     "Anran": 0,
     "Ashe": 0,
-    "Baptiste": -10,
+    "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 20,
     "Cassidy": 0,
@@ -1057,7 +1057,7 @@
     "Hazard": -20,
     "Hanzo": 0,
     "Illari": 0,
-    "Jetpack Cat": -10,
+    "Jetpack Cat": -20,
     "Junker Queen": 0,
     "Junkrat": 0,
     "Juno": 0,
@@ -1068,7 +1068,7 @@
     "Mei": 0,
     "Mercy": 0,
     "Mizuki": -10,
-    "Moira": 0,
+    "Moira": 10,
     "Orisa": 0,
     "Pharah": 0,
     "Ramattra": 20,
@@ -1089,7 +1089,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 20
+    "Zenyatta": 0
   },
   "Kiriko": {
     "Ana": 0,
