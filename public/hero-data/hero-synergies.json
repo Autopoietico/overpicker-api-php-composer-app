@@ -464,7 +464,7 @@
     "Winston": 0,
     "Wrecking Ball": 10,
     "Wuyang": 10,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "Doomfist": {
@@ -516,7 +516,7 @@
     "Winston": 10,
     "Wrecking Ball": 10,
     "Wuyang": 20,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Echo": {
@@ -984,7 +984,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": 10,
+    "Zarya": -10,
     "Zenyatta": 10
   },
   "Junkrat": {
@@ -1556,7 +1556,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": -10,
     "Zenyatta": -10
   },
   "Pharah": {
@@ -1660,7 +1660,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": -10
   },
   "Reaper": {
@@ -1764,7 +1764,7 @@
     "Winston": -10,
     "Wrecking Ball": -10,
     "Wuyang": 10,
-    "Zarya": 20,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Roadhog": {
@@ -1816,7 +1816,7 @@
     "Winston": -10,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": -20
   },
   "Sigma": {
@@ -2388,7 +2388,7 @@
     "Winston": -10,
     "Wrecking Ball": 10,
     "Wuyang": 20,
-    "Zarya": 20,
+    "Zarya": 10,
     "Zenyatta": -10
   },
   "Wrecking Ball": {
@@ -2440,7 +2440,7 @@
     "Winston": 10,
     "Wrecking Ball": -10,
     "Wuyang": 20,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Wuyang": {
@@ -2544,7 +2544,7 @@
     "Winston": 20,
     "Wrecking Ball": 10,
     "Wuyang": 10,
-    "Zarya": -10,
+    "Zarya": 0,
     "Zenyatta": 20
   },
   "Zenyatta": {
