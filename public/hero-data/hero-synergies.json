@@ -932,7 +932,7 @@
     "Winston": -10,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "Junker Queen": {
@@ -1088,7 +1088,7 @@
     "Winston": 10,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Kiriko": {
@@ -1400,7 +1400,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": 10,
-    "Zarya": -10,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "Mizuki": {
@@ -1504,7 +1504,7 @@
     "Winston": 10,
     "Wrecking Ball": -20,
     "Wuyang": -10,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": -10
   },
   "Orisa": {
@@ -2492,7 +2492,7 @@
     "Winston": -10,
     "Wrecking Ball": 20,
     "Wuyang": 0,
-    "Zarya": 0,
+    "Zarya": 10,
     "Zenyatta": 0
   },
   "Zarya": {
