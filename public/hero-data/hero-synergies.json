@@ -366,7 +366,7 @@
   "D.Va": {
     "Ana": -20,
     "Anran": -10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": 10,
     "Bastion": 10,
     "Brigitte": -10,
@@ -418,7 +418,7 @@
   "Domina": {
     "Ana": 20,
     "Anran": -10,
-    "Ashe": 10,
+    "Ashe": -20,
     "Baptiste": 0,
     "Bastion": -10,
     "Brigitte": 0,
@@ -470,7 +470,7 @@
   "Doomfist": {
     "Ana": -10,
     "Anran": 0,
-    "Ashe": 20,
+    "Ashe": 10,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 10,
@@ -782,7 +782,7 @@
   "Hazard": {
     "Ana": 10,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 20,
     "Bastion": 0,
     "Brigitte": 10,
@@ -1510,7 +1510,7 @@
   "Orisa": {
     "Ana": -10,
     "Anran": 10,
-    "Ashe": 10,
+    "Ashe": 0,
     "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": 10,
@@ -1614,7 +1614,7 @@
   "Ramattra": {
     "Ana": -10,
     "Anran": -10,
-    "Ashe": -10,
+    "Ashe": 10,
     "Baptiste": 10,
     "Bastion": -20,
     "Brigitte": 0,
@@ -1718,7 +1718,7 @@
   "Reinhardt": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": 10,
+    "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 10,
     "Brigitte": -10,
@@ -1822,7 +1822,7 @@
   "Sigma": {
     "Ana": -10,
     "Anran": 0,
-    "Ashe": 10,
+    "Ashe": 20,
     "Baptiste": 10,
     "Bastion": 20,
     "Brigitte": 0,
@@ -2342,7 +2342,7 @@
   "Winston": {
     "Ana": -10,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": 10,
     "Bastion": -10,
     "Brigitte": -10,
@@ -2394,7 +2394,7 @@
   "Wrecking Ball": {
     "Ana": 0,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": 10,
