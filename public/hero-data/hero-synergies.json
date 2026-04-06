@@ -208,7 +208,7 @@
     "Zenyatta": 10
   },
   "Bastion": {
-    "Ana": -10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -520,7 +520,7 @@
     "Zenyatta": 10
   },
   "Echo": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": -10,
@@ -572,7 +572,7 @@
     "Zenyatta": -10
   },
   "Emre": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 0,
     "Baptiste": 10,
@@ -676,7 +676,7 @@
     "Zenyatta": 10
   },
   "Genji": {
-    "Ana": 20,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -728,7 +728,7 @@
     "Zenyatta": -20
   },
   "Hanzo": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 0,
@@ -988,7 +988,7 @@
     "Zenyatta": 10
   },
   "Junkrat": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": -10,
@@ -1664,7 +1664,7 @@
     "Zenyatta": -10
   },
   "Reaper": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": -10,
@@ -2132,7 +2132,7 @@
     "Zenyatta": 0
   },
   "Tracer": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 0,
