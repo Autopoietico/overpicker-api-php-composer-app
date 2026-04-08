@@ -437,7 +437,7 @@
     "Junker Queen": -10,
     "Junkrat": 10,
     "Juno": 0,
-    "Kiriko": -10,
+    "Kiriko": 0,
     "Lifeweaver": 0,
     "Lucio": -10,
     "Mauga": 20,
@@ -463,9 +463,9 @@
     "Widowmaker": 10,
     "Winston": -10,
     "Wrecking Ball": 10,
-    "Wuyang": 10,
+    "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": -10
+    "Zenyatta": -20
   },
   "Doomfist": {
     "Ana": 10,
