@@ -676,7 +676,7 @@
     "Zenyatta": 10
   },
   "Genji": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": -20,
     "Baptiste": 0,
@@ -704,7 +704,7 @@
     "Mei": 0,
     "Mercy": -10,
     "Mizuki": -10,
-    "Moira": -10,
+    "Moira": 0,
     "Orisa": 0,
     "Pharah": 0,
     "Ramattra": 0,
