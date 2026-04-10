@@ -1199,7 +1199,7 @@
     "Ana": 0,
     "Anran": 10,
     "Ashe": -20,
-    "Baptiste": 0,
+    "Baptiste": 10,
     "Bastion": -10,
     "Brigitte": 10,
     "Cassidy": 0,
@@ -1216,13 +1216,13 @@
     "Jetpack Cat": 10,
     "Junker Queen": 0,
     "Junkrat": -10,
-    "Juno": -10,
+    "Juno": 0,
     "Kiriko": 0,
     "Lifeweaver": -20,
     "Lucio": -10,
     "Mauga": 10,
     "Mei": -10,
-    "Mercy": 10,
+    "Mercy": 0,
     "Mizuki": 0,
     "Moira": 10,
     "Orisa": 10,
@@ -1245,7 +1245,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 10,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Mauga": {
     "Ana": 10,
