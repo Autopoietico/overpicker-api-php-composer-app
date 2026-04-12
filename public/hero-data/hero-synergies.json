@@ -157,7 +157,7 @@
   },
   "Baptiste": {
     "Ana": 10,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 10,
@@ -261,7 +261,7 @@
   },
   "Brigitte": {
     "Ana": -20,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": 10,
     "Bastion": 10,
@@ -833,7 +833,7 @@
   },
   "Illari": {
     "Ana": 20,
-    "Anran": -10,
+    "Anran": 0,
     "Ashe": -20,
     "Baptiste": 10,
     "Bastion": -10,
@@ -885,7 +885,7 @@
   },
   "Jetpack Cat": {
     "Ana": 0,
-    "Anran": -10,
+    "Anran": -20,
     "Ashe": 20,
     "Baptiste": -10,
     "Bastion": -10,
@@ -1041,7 +1041,7 @@
   },
   "Juno": {
     "Ana": 10,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 0,
@@ -1093,7 +1093,7 @@
   },
   "Kiriko": {
     "Ana": 0,
-    "Anran": 10,
+    "Anran": 0,
     "Ashe": 10,
     "Baptiste": -10,
     "Bastion": -10,
@@ -1197,7 +1197,7 @@
   },
   "Lucio": {
     "Ana": -10,
-    "Anran": 0,
+    "Anran": 10,
     "Ashe": 10,
     "Baptiste": 0,
     "Bastion": 10,
@@ -1353,7 +1353,7 @@
   },
   "Mercy": {
     "Ana": 0,
-    "Anran": 0,
+    "Anran": -10,
     "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 0,
@@ -1405,7 +1405,7 @@
   },
   "Mizuki": {
     "Ana": 20,
-    "Anran": 20,
+    "Anran": 10,
     "Ashe": 0,
     "Baptiste": -10,
     "Bastion": 20,
@@ -1457,7 +1457,7 @@
   },
   "Moira": {
     "Ana": -10,
-    "Anran": -10,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": -20,
@@ -2445,7 +2445,7 @@
   },
   "Wuyang": {
     "Ana": -10,
-    "Anran": -20,
+    "Anran": 0,
     "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 0,
