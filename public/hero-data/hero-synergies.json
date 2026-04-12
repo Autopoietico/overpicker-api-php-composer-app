@@ -256,7 +256,7 @@
     "Winston": 0,
     "Wrecking Ball": 0,
     "Wuyang": -20,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 0
   },
   "Brigitte": {
@@ -360,7 +360,7 @@
     "Winston": -10,
     "Wrecking Ball": 10,
     "Wuyang": 10,
-    "Zarya": -10,
+    "Zarya": 0,
     "Zenyatta": 0
   },
   "D.Va": {
@@ -620,7 +620,7 @@
     "Winston": 10,
     "Wrecking Ball": "v",
     "Wuyang": -20,
-    "Zarya": -10,
+    "Zarya": -20,
     "Zenyatta": -10
   },
   "Freja": {
@@ -672,7 +672,7 @@
     "Winston": 10,
     "Wrecking Ball": 0,
     "Wuyang": 20,
-    "Zarya": -10,
+    "Zarya": 0,
     "Zenyatta": 10
   },
   "Genji": {
@@ -724,7 +724,7 @@
     "Winston": 20,
     "Wrecking Ball": 10,
     "Wuyang": 20,
-    "Zarya": 10,
+    "Zarya": 0,
     "Zenyatta": -20
   },
   "Hanzo": {
@@ -776,7 +776,7 @@
     "Winston": 0,
     "Wrecking Ball": 10,
     "Wuyang": 10,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 10
   },
   "Hazard": {
@@ -1036,7 +1036,7 @@
     "Winston": -10,
     "Wrecking Ball": 10,
     "Wuyang": 0,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 10
   },
   "Juno": {
@@ -1712,7 +1712,7 @@
     "Winston": 0,
     "Wrecking Ball": 10,
     "Wuyang": 0,
-    "Zarya": -10,
+    "Zarya": -20,
     "Zenyatta": 0
   },
   "Reinhardt": {
@@ -2076,7 +2076,7 @@
     "Winston": 20,
     "Wrecking Ball": 0,
     "Wuyang": 0,
-    "Zarya": -10,
+    "Zarya": 0,
     "Zenyatta": -20
   },
   "Torbjörn": {
@@ -2180,7 +2180,7 @@
     "Winston": 10,
     "Wrecking Ball": 10,
     "Wuyang": 10,
-    "Zarya": 0,
+    "Zarya": -10,
     "Zenyatta": 10
   },
   "Vendetta": {
