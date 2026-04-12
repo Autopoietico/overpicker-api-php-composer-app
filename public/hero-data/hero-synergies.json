@@ -366,7 +366,7 @@
   "D.Va": {
     "Ana": -20,
     "Anran": -10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": -10,
@@ -418,7 +418,7 @@
   "Domina": {
     "Ana": 20,
     "Anran": -10,
-    "Ashe": -20,
+    "Ashe": -10,
     "Baptiste": -10,
     "Bastion": -10,
     "Brigitte": 0,
@@ -782,7 +782,7 @@
   "Hazard": {
     "Ana": 10,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": 10,
     "Bastion": 10,
     "Brigitte": 10,
@@ -938,7 +938,7 @@
   "Junker Queen": {
     "Ana": -10,
     "Anran": 10,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": -20,
     "Bastion": -20,
     "Brigitte": 0,
@@ -1510,7 +1510,7 @@
   "Orisa": {
     "Ana": -10,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": -10,
     "Bastion": -10,
     "Brigitte": 10,
@@ -1718,7 +1718,7 @@
   "Reinhardt": {
     "Ana": 10,
     "Anran": -10,
-    "Ashe": 0,
+    "Ashe": -10,
     "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": -10,
@@ -1770,7 +1770,7 @@
   "Roadhog": {
     "Ana": 20,
     "Anran": -10,
-    "Ashe": 10,
+    "Ashe": 20,
     "Baptiste": 10,
     "Bastion": 0,
     "Brigitte": 0,
