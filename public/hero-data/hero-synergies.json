@@ -98,7 +98,7 @@
     "Venture": 10,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": 0,
     "Wuyang": 20,
     "Zarya": 10,
     "Zenyatta": 0
@@ -150,7 +150,7 @@
     "Venture": -10,
     "Widowmaker": 10,
     "Winston": 0,
-    "Wrecking Ball": -20,
+    "Wrecking Ball": 0,
     "Wuyang": -10,
     "Zarya": 10,
     "Zenyatta": 20
@@ -254,7 +254,7 @@
     "Venture": -10,
     "Widowmaker": 0,
     "Winston": 0,
-    "Wrecking Ball": -20,
+    "Wrecking Ball": 0,
     "Wuyang": -20,
     "Zarya": 0,
     "Zenyatta": 0
@@ -358,7 +358,7 @@
     "Venture": -10,
     "Widowmaker": 10,
     "Winston": -10,
-    "Wrecking Ball": -10,
+    "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": -10,
     "Zenyatta": 0
@@ -566,7 +566,7 @@
     "Venture": 10,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": -10,
     "Wuyang": 20,
     "Zarya": 10,
     "Zenyatta": -10
@@ -618,7 +618,7 @@
     "Venture": -10,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": -10,
+    "Wrecking Ball": "v",
     "Wuyang": -20,
     "Zarya": -10,
     "Zenyatta": -10
@@ -670,7 +670,7 @@
     "Venture": 0,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": 0,
     "Wuyang": 20,
     "Zarya": -10,
     "Zenyatta": 10
@@ -774,7 +774,7 @@
     "Venture": 0,
     "Widowmaker": 10,
     "Winston": 0,
-    "Wrecking Ball": 0,
+    "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": 0,
     "Zenyatta": 10
@@ -1034,7 +1034,7 @@
     "Venture": -10,
     "Widowmaker": 10,
     "Winston": -10,
-    "Wrecking Ball": -10,
+    "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": 0,
     "Zenyatta": 10
@@ -1346,7 +1346,7 @@
     "Venture": -10,
     "Widowmaker": -10,
     "Winston": -20,
-    "Wrecking Ball": -10,
+    "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": 10,
     "Zenyatta": -20
@@ -1606,7 +1606,7 @@
     "Venture": 10,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": -20,
+    "Wrecking Ball": -10,
     "Wuyang": 20,
     "Zarya": 0,
     "Zenyatta": 10
@@ -1710,7 +1710,7 @@
     "Venture": 10,
     "Widowmaker": 0,
     "Winston": 0,
-    "Wrecking Ball": 0,
+    "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": -10,
     "Zenyatta": 0
@@ -1918,7 +1918,7 @@
     "Venture": 10,
     "Widowmaker": -10,
     "Winston": -10,
-    "Wrecking Ball": 20,
+    "Wrecking Ball": 0,
     "Wuyang": 10,
     "Zarya": 10,
     "Zenyatta": 0
@@ -1970,7 +1970,7 @@
     "Venture": 0,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": -10,
     "Wuyang": 10,
     "Zarya": -10,
     "Zenyatta": -10
@@ -2022,7 +2022,7 @@
     "Venture": 10,
     "Widowmaker": 10,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": 0,
     "Wuyang": 20,
     "Zarya": 10,
     "Zenyatta": 10
@@ -2230,7 +2230,7 @@
     "Venture": 10,
     "Widowmaker": 0,
     "Winston": 10,
-    "Wrecking Ball": 10,
+    "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 0,
     "Zenyatta": 10
