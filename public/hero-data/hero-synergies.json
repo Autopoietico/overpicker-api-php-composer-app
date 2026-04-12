@@ -262,7 +262,7 @@
   "Brigitte": {
     "Ana": -20,
     "Anran": 0,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": 10,
     "Bastion": 10,
     "Brigitte": 0,
@@ -834,7 +834,7 @@
   "Illari": {
     "Ana": 20,
     "Anran": 0,
-    "Ashe": -20,
+    "Ashe": -10,
     "Baptiste": 10,
     "Bastion": -10,
     "Brigitte": 0,
@@ -886,7 +886,7 @@
   "Jetpack Cat": {
     "Ana": 0,
     "Anran": -20,
-    "Ashe": 20,
+    "Ashe": 10,
     "Baptiste": -10,
     "Bastion": -10,
     "Brigitte": 0,
@@ -1146,7 +1146,7 @@
   "Lifeweaver": {
     "Ana": 0,
     "Anran": 0,
-    "Ashe": 0,
+    "Ashe": -20,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 0,
@@ -1354,7 +1354,7 @@
   "Mercy": {
     "Ana": 0,
     "Anran": -10,
-    "Ashe": 0,
+    "Ashe": 10,
     "Baptiste": 0,
     "Bastion": 0,
     "Brigitte": 0,
@@ -1406,7 +1406,7 @@
   "Mizuki": {
     "Ana": 20,
     "Anran": 10,
-    "Ashe": 0,
+    "Ashe": 10,
     "Baptiste": -10,
     "Bastion": 20,
     "Brigitte": 0,
@@ -1458,7 +1458,7 @@
   "Moira": {
     "Ana": -10,
     "Anran": 0,
-    "Ashe": -10,
+    "Ashe": 0,
     "Baptiste": -10,
     "Bastion": -20,
     "Brigitte": 0,
