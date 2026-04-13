@@ -468,7 +468,7 @@
     "Zenyatta": -10
   },
   "Doomfist": {
-    "Ana": -10,
+    "Ana": 10,
     "Anran": 0,
     "Ashe": 10,
     "Baptiste": 10,
@@ -1248,7 +1248,7 @@
     "Zenyatta": 0
   },
   "Mauga": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": -10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1508,7 +1508,7 @@
     "Zenyatta": -10
   },
   "Orisa": {
-    "Ana": -10,
+    "Ana": -20,
     "Anran": 10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1612,7 +1612,7 @@
     "Zenyatta": 10
   },
   "Ramattra": {
-    "Ana": -10,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": 10,
     "Baptiste": 10,
@@ -1716,7 +1716,7 @@
     "Zenyatta": 0
   },
   "Reinhardt": {
-    "Ana": 10,
+    "Ana": -10,
     "Anran": -10,
     "Ashe": -10,
     "Baptiste": -10,
@@ -1820,7 +1820,7 @@
     "Zenyatta": -10
   },
   "Sigma": {
-    "Ana": 0,
+    "Ana": -10,
     "Anran": 0,
     "Ashe": 20,
     "Baptiste": 20,
@@ -2392,7 +2392,7 @@
     "Zenyatta": -10
   },
   "Wrecking Ball": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": 10,
     "Ashe": 0,
     "Baptiste": -10,
