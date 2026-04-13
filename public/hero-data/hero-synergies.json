@@ -101,7 +101,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 20,
     "Zarya": 10,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Ashe": {
     "Ana": 10,
@@ -257,7 +257,7 @@
     "Wrecking Ball": 0,
     "Wuyang": -20,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Brigitte": {
     "Ana": -20,
@@ -569,7 +569,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 20,
     "Zarya": 10,
-    "Zenyatta": -10
+    "Zenyatta": -20
   },
   "Emre": {
     "Ana": 0,
@@ -621,7 +621,7 @@
     "Wrecking Ball": "v",
     "Wuyang": -20,
     "Zarya": -20,
-    "Zenyatta": -10
+    "Zenyatta": 0
   },
   "Freja": {
     "Ana": 10,
@@ -673,7 +673,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 20,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": -10
   },
   "Genji": {
     "Ana": 10,
@@ -725,7 +725,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 20,
     "Zarya": 0,
-    "Zenyatta": -20
+    "Zenyatta": 0
   },
   "Hanzo": {
     "Ana": -10,
@@ -777,7 +777,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": -10,
-    "Zenyatta": 10
+    "Zenyatta": -20
   },
   "Hazard": {
     "Ana": 10,
@@ -1609,7 +1609,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 20,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": 20
   },
   "Ramattra": {
     "Ana": 10,
@@ -1713,7 +1713,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": -20,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Reinhardt": {
     "Ana": -10,
@@ -1921,7 +1921,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 10,
     "Zarya": 10,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Soldier: 76": {
     "Ana": 10,
@@ -2129,7 +2129,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 0,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": -20
   },
   "Tracer": {
     "Ana": 0,
@@ -2181,7 +2181,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": -10,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Vendetta": {
     "Ana": -20,
@@ -2285,7 +2285,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 20,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Widowmaker": {
     "Ana": 10,
@@ -2337,7 +2337,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 10,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Winston": {
     "Ana": -10,
