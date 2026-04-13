@@ -1089,7 +1089,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Kiriko": {
     "Ana": 0,
@@ -1245,7 +1245,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Mauga": {
     "Ana": -20,
@@ -1453,7 +1453,7 @@
     "Wrecking Ball": 10,
     "Wuyang": -10,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Moira": {
     "Ana": -20,
@@ -1505,7 +1505,7 @@
     "Wrecking Ball": -20,
     "Wuyang": -10,
     "Zarya": -10,
-    "Zenyatta": -10
+    "Zenyatta": 0
   },
   "Orisa": {
     "Ana": -20,
