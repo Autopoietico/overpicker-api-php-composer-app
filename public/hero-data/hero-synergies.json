@@ -413,7 +413,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": 0,
-    "Zenyatta": -20
+    "Zenyatta": -10
   },
   "Domina": {
     "Ana": 20,
@@ -517,7 +517,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": 10
+    "Zenyatta": -10
   },
   "Echo": {
     "Ana": 0,
@@ -829,7 +829,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 10
+    "Zenyatta": 20
   },
   "Illari": {
     "Ana": 10,
@@ -1297,7 +1297,7 @@
     "Wrecking Ball": 10,
     "Wuyang": 10,
     "Zarya": 10,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Mei": {
     "Ana": 20,
@@ -1557,7 +1557,7 @@
     "Wrecking Ball": 0,
     "Wuyang": -20,
     "Zarya": -10,
-    "Zenyatta": -10
+    "Zenyatta": -20
   },
   "Pharah": {
     "Ana": -20,
@@ -1661,7 +1661,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": -10
+    "Zenyatta": 0
   },
   "Reaper": {
     "Ana": 0,
@@ -1765,7 +1765,7 @@
     "Wrecking Ball": -10,
     "Wuyang": -10,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Roadhog": {
     "Ana": 20,
@@ -2389,7 +2389,7 @@
     "Wrecking Ball": 10,
     "Wuyang": -10,
     "Zarya": 10,
-    "Zenyatta": -10
+    "Zenyatta": 0
   },
   "Wrecking Ball": {
     "Ana": 10,
@@ -2441,7 +2441,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Wuyang": {
     "Ana": -10,
