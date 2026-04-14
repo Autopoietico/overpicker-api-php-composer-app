@@ -421,6 +421,26 @@
     "nicks": ["Roadhog", "Road", "Hog", "Pig", "Hook"]
   },
   {
+    "name": "Sierra",
+    "description": "",
+    "general_rol": "Damage",
+    "secondary_rol": "Recon",
+    "shields": 0,
+    "health": 200,
+    "armor": 0,
+    "on_rotation": true,
+    "nicks": [
+      "Sierra",
+      "Helix",
+      "Bot",
+      "Drone",
+      "Dorothy",
+      "Roth",
+      "Turner",
+      "Woods"
+    ]
+  },
+  {
     "name": "Sigma",
     "description": "Bunker tank with a large amount of damage. Its shield can protect heroes who prefer to hold a static position. Its Accretion is a useful stun that can disrupt enemy abilities, and its ultimate not only deals significant damage but can also be used to reposition in the battlefield.",
     "general_rol": "Tank",

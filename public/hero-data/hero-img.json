@@ -385,6 +385,17 @@
     "side-echo-img": "images/heroes/tank/roadhog-side-echo.webp"
   },
   {
+    "name": "Sierra",
+    "white-img": "images/heroes/damage/sierra-white.webp",
+    "white-echo-img": "images/heroes/damage/sierra-echo.webp",
+    "profile-img": "images/heroes/damage/sierra-profile.webp",
+    "profile-echo-img": "images/heroes/damage/sierra-profile-echo.webp",
+    "art-img": "images/heroes/damage/sierra-art.webp",
+    "art-echo-img": "images/heroes/damage/sierra-art-echo.webp",
+    "side-img": "images/heroes/damage/sierra-side.webp",
+    "side-echo-img": "images/heroes/damage/sierra-side-echo.webp"
+  },
+  {
     "name": "Sigma",
     "white-img": "images/heroes/tank/sigma-white.webp",
     "white-echo-img": "images/heroes/tank/sigma-echo.webp",
