@@ -477,7 +477,7 @@
     "Zenyatta": -10
   },
   "Doomfist": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": -10,
     "Baptiste": 0,
@@ -494,17 +494,17 @@
     "Hazard": 0,
     "Hanzo": 10,
     "Illari": 10,
-    "Jetpack Cat": -10,
+    "Jetpack Cat": -20,
     "Junker Queen": -10,
     "Junkrat": 0,
-    "Juno": 0,
+    "Juno": 10,
     "Kiriko": 0,
     "Lifeweaver": -10,
     "Lucio": 10,
     "Mauga": -10,
     "Mei": 0,
     "Mercy": 0,
-    "Mizuki": 10,
+    "Mizuki": 0,
     "Moira": 0,
     "Orisa": 10,
     "Pharah": -10,
@@ -527,7 +527,7 @@
     "Wrecking Ball": 0,
     "Wuyang": 0,
     "Zarya": 0,
-    "Zenyatta": 0
+    "Zenyatta": -10
   },
   "Echo": {
     "Ana": 0,
