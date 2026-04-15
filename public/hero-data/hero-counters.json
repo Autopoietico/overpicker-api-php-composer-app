@@ -2613,7 +2613,7 @@
     "Genji": 10,
     "Hazard": 0,
     "Hanzo": 10,
-    "Illari": 0,
+    "Illari": -10,
     "Jetpack Cat": -20,
     "Junker Queen": 20,
     "Junkrat": 10,
@@ -2645,7 +2645,7 @@
     "Widowmaker": -10,
     "Winston": 10,
     "Wrecking Ball": -20,
-    "Wuyang": 0,
+    "Wuyang": -10,
     "Zarya": 0,
     "Zenyatta": -10
   },
