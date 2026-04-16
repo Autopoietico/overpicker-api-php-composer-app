@@ -641,7 +641,7 @@
     "Ashe": 0,
     "Baptiste": -10,
     "Bastion": 0,
-    "Brigitte": 10,
+    "Brigitte": 0,
     "Cassidy": 0,
     "D.Va": -10,
     "Domina": -10,
@@ -657,12 +657,12 @@
     "Junker Queen": 10,
     "Junkrat": 10,
     "Juno": 10,
-    "Kiriko": 0,
+    "Kiriko": 10,
     "Lifeweaver": 10,
-    "Lucio": 0,
+    "Lucio": -10,
     "Mauga": -10,
     "Mei": 0,
-    "Mercy": 0,
+    "Mercy": -10,
     "Mizuki": -10,
     "Moira": 0,
     "Orisa": 0,
@@ -686,7 +686,7 @@
     "Wrecking Ball": -10,
     "Wuyang": 0,
     "Zarya": 10,
-    "Zenyatta": 10
+    "Zenyatta": 0
   },
   "Genji": {
     "Ana": 10,
