@@ -742,7 +742,7 @@
     "Zenyatta": -20
   },
   "Hanzo": {
-    "Ana": 0,
+    "Ana": 10,
     "Anran": -10,
     "Ashe": -10,
     "Baptiste": 0,
@@ -764,13 +764,13 @@
     "Junkrat": 10,
     "Juno": 10,
     "Kiriko": 0,
-    "Lifeweaver": 10,
+    "Lifeweaver": -10,
     "Lucio": -10,
     "Mauga": 0,
     "Mei": 10,
     "Mercy": 0,
-    "Mizuki": -10,
-    "Moira": -10,
+    "Mizuki": 0,
+    "Moira": 0,
     "Orisa": 20,
     "Pharah": 10,
     "Ramattra": 0,
@@ -790,9 +790,9 @@
     "Widowmaker": -10,
     "Winston": 10,
     "Wrecking Ball": -10,
-    "Wuyang": -20,
+    "Wuyang": -10,
     "Zarya": -10,
-    "Zenyatta": 0
+    "Zenyatta": 10
   },
   "Hazard": {
     "Ana": 0,
