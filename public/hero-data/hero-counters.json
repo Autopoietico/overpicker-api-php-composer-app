@@ -212,10 +212,10 @@
     "Zenyatta": 0
   },
   "Bastion": {
-    "Ana": 10,
+    "Ana": 0,
     "Anran": 0,
     "Ashe": 0,
-    "Baptiste": 0,
+    "Baptiste": -10,
     "Bastion": 0,
     "Brigitte": -10,
     "Cassidy": 0,
@@ -233,8 +233,8 @@
     "Junker Queen": -10,
     "Junkrat": 20,
     "Juno": 10,
-    "Kiriko": 10,
-    "Lifeweaver": 0,
+    "Kiriko": 0,
+    "Lifeweaver": 10,
     "Lucio": 0,
     "Mauga": -10,
     "Mei": 0,
