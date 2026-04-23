@@ -211,9 +211,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 0
+        "Ally": 0,
+        "Mid": -20,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -225,11 +225,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -10,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": 0,
@@ -337,7 +337,9 @@
       "New Queen Street": -20,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": -20
     }
   },
   "Anran": {
@@ -553,7 +555,7 @@
       },
       "Runasapi": {
         "Ally": 0,
-        "Mid": 10,
+        "Mid": 0,
         "Enemy": 10
       }
     },
@@ -678,7 +680,9 @@
       "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 20
     }
   },
   "Ashe": {
@@ -893,9 +897,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": 0,
+        "Mid": -20,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -907,11 +911,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": 0,
@@ -1019,7 +1023,9 @@
       "New Queen Street": -10,
       "Suravasa": -10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -20
     }
   },
   "Baptiste": {
@@ -1234,9 +1240,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": 0,
+        "Mid": -10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -1248,11 +1254,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": 0,
@@ -1360,7 +1366,9 @@
       "New Queen Street": 0,
       "Suravasa": -10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   },
   "Bastion": {
@@ -1575,9 +1583,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": -10,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -1589,11 +1597,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -20,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -1701,7 +1709,9 @@
       "New Queen Street": -10,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -20
     }
   },
   "Brigitte": {
@@ -2042,7 +2052,9 @@
       "New Queen Street": 0,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 20
     }
   },
   "Cassidy": {
@@ -2259,7 +2271,7 @@
       "Runasapi": {
         "Ally": 10,
         "Mid": 20,
-        "Enemy": 10
+        "Enemy": 20
       }
     },
     "Flashpoint": {
@@ -2383,7 +2395,9 @@
       "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 20
     }
   },
   "D.Va": {
@@ -2598,9 +2612,9 @@
         "Enemy": 20
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -2612,11 +2626,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 10,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 0,
@@ -2724,7 +2738,9 @@
       "New Queen Street": 10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Domina": {
@@ -2939,9 +2955,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": 10,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -2953,11 +2969,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 10
+        "Station": -10,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -20,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 0,
@@ -3065,7 +3081,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": -10
     }
   },
   "Doomfist": {
@@ -3280,9 +3298,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -3294,11 +3312,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 10,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": -10,
@@ -3406,7 +3424,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Echo": {
@@ -3621,9 +3641,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 20
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 10
       }
     },
     "Flashpoint": {
@@ -3635,11 +3655,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 0,
-        "Resort": 10,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": -10,
+        "Bazaar": -20,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -3747,7 +3767,9 @@
       "New Queen Street": -10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Emre": {
@@ -3962,7 +3984,7 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 10,
+        "Ally": 0,
         "Mid": 20,
         "Enemy": 20
       }
@@ -3976,11 +3998,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": 0,
+        "Bazaar": 10,
+        "Resort": 10,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 10,
@@ -4088,7 +4110,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 0
     }
   },
   "Freja": {
@@ -4303,9 +4327,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -4317,11 +4341,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 0,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 20,
@@ -4429,7 +4453,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   },
   "Genji": {
@@ -4644,9 +4670,9 @@
         "Enemy": 20
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -4659,8 +4685,8 @@
       },
       "Aatlis": {
         "Station": 20,
-        "Bazaar": 0,
-        "Resort": 0,
+        "Bazaar": -10,
+        "Resort": -10,
         "Town Center": 0,
         "Garden": 0
       },
@@ -4770,7 +4796,9 @@
       "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 10
     }
   },
   "Hanzo": {
@@ -4985,9 +5013,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 0
+        "Ally": 0,
+        "Mid": -10,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -4999,11 +5027,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -10,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": -10,
@@ -5111,7 +5139,9 @@
       "New Queen Street": -10,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   },
   "Hazard": {
@@ -5326,9 +5356,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -5452,7 +5482,9 @@
       "New Queen Street": 0,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 10
     }
   },
   "Illari": {
@@ -5667,9 +5699,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": 10,
+        "Mid": -10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -5681,11 +5713,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": 10,
@@ -5793,7 +5825,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": -10
     }
   },
   "Jetpack Cat": {
@@ -6008,9 +6042,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": -20,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -6022,11 +6056,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -20,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -6134,7 +6168,9 @@
       "New Queen Street": -20,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   },
   "Junker Queen": {
@@ -6349,9 +6385,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 10,
+        "Ally": 20,
         "Mid": 20,
-        "Enemy": 10
+        "Enemy": 20
       }
     },
     "Flashpoint": {
@@ -6364,8 +6400,8 @@
       },
       "Aatlis": {
         "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
+        "Bazaar": 20,
+        "Resort": 20,
         "Town Center": 20,
         "Garden": 20
       },
@@ -6475,7 +6511,9 @@
       "New Queen Street": 20,
       "Suravasa": 20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 20
     }
   },
   "Junkrat": {
@@ -6690,9 +6728,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": 0,
+        "Mid": -20,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -6704,11 +6742,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -6816,7 +6854,9 @@
       "New Queen Street": -20,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": 0
     }
   },
   "Juno": {
@@ -7031,7 +7071,7 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 10,
+        "Ally": 20,
         "Mid": 10,
         "Enemy": 0
       }
@@ -7045,11 +7085,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": -10,
@@ -7157,7 +7197,9 @@
       "New Queen Street": 20,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 0
     }
   },
   "Kiriko": {
@@ -7372,7 +7414,7 @@
         "Enemy": 20
       },
       "Runasapi": {
-        "Ally": 10,
+        "Ally": 20,
         "Mid": 0,
         "Enemy": 10
       }
@@ -7498,7 +7540,9 @@
       "New Queen Street": 20,
       "Suravasa": 20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 20
     }
   },
   "Lifeweaver": {
@@ -7713,9 +7757,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -7727,11 +7771,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 10,
@@ -7839,7 +7883,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Lucio": {
@@ -8180,7 +8226,9 @@
       "New Queen Street": 0,
       "Suravasa": 20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 20
     }
   },
   "Mauga": {
@@ -8409,11 +8457,11 @@
         "Bomb Flats": 20
       },
       "Aatlis": {
-        "Station": 10,
+        "Station": 20,
         "Bazaar": 20,
         "Resort": 20,
-        "Town Center": 10,
-        "Garden": 10
+        "Town Center": 20,
+        "Garden": 20
       },
       "Suravasa": {
         "Market": 10,
@@ -8521,7 +8569,9 @@
       "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 20
     }
   },
   "Mei": {
@@ -8736,9 +8786,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 10
+        "Ally": 10,
+        "Mid": 10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -8750,11 +8800,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": 0,
+        "Bazaar": 10,
+        "Resort": 10,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 10,
@@ -8862,7 +8912,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Mercy": {
@@ -9077,9 +9129,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -9091,11 +9143,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 0,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -10,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": -20,
@@ -9203,7 +9255,9 @@
       "New Queen Street": 0,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": -20
     }
   },
   "Mizuki": {
@@ -9418,9 +9472,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -9433,8 +9487,8 @@
       },
       "Aatlis": {
         "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
+        "Bazaar": 0,
+        "Resort": 0,
         "Town Center": 0,
         "Garden": 0
       },
@@ -9544,7 +9598,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 10
     }
   },
   "Moira": {
@@ -9759,9 +9815,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": -10,
+        "Mid": 10,
+        "Enemy": 10
       }
     },
     "Flashpoint": {
@@ -9774,8 +9830,8 @@
       },
       "Aatlis": {
         "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
+        "Bazaar": 0,
+        "Resort": 0,
         "Town Center": 20,
         "Garden": 20
       },
@@ -9885,7 +9941,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 10
     }
   },
   "Orisa": {
@@ -10100,9 +10158,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -10114,11 +10172,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -10226,7 +10284,9 @@
       "New Queen Street": 0,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   },
   "Pharah": {
@@ -10441,9 +10501,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 20
+        "Ally": -20,
+        "Mid": -20,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -10455,11 +10515,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 0,
-        "Resort": 10,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": -20,
+        "Bazaar": -20,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": -10,
@@ -10567,7 +10627,9 @@
       "New Queen Street": -20,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": -10
     }
   },
   "Ramattra": {
@@ -10782,9 +10844,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": 10,
+        "Mid": 10,
+        "Enemy": 10
       }
     },
     "Flashpoint": {
@@ -10796,11 +10858,11 @@
         "Bomb Flats": 10
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": 0,
+        "Bazaar": 10,
+        "Resort": 10,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 0,
@@ -10908,7 +10970,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Reaper": {
@@ -11123,9 +11187,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 0,
-        "Mid": 20,
-        "Enemy": 0
+        "Ally": -10,
+        "Mid": 10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -11249,7 +11313,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 20
     }
   },
   "Reinhardt": {
@@ -11464,9 +11530,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": 10,
+        "Mid": 10,
+        "Enemy": 10
       }
     },
     "Flashpoint": {
@@ -11478,11 +11544,11 @@
         "Bomb Flats": 10
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -20,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -11590,7 +11656,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": -10
     }
   },
   "Roadhog": {
@@ -11805,9 +11873,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -11819,11 +11887,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": 0,
@@ -11931,7 +11999,9 @@
       "New Queen Street": 0,
       "Suravasa": -10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Sierra": {
@@ -12146,9 +12216,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 0
+        "Ally": 10,
+        "Mid": 0,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -12160,11 +12230,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -20,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": 0,
@@ -12272,7 +12342,9 @@
       "New Queen Street": 0,
       "Suravasa": -10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": -20
     }
   },
   "Sigma": {
@@ -12487,9 +12559,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -20,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -12501,11 +12573,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 10
+        "Station": -20,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": -10,
@@ -12613,7 +12685,9 @@
       "New Queen Street": -20,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": -20
     }
   },
   "Soldier: 76": {
@@ -12842,11 +12916,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 10,
@@ -12954,7 +13028,9 @@
       "New Queen Street": 20,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 0
     }
   },
   "Sombra": {
@@ -13170,7 +13246,7 @@
       },
       "Runasapi": {
         "Ally": 0,
-        "Mid": 10,
+        "Mid": 0,
         "Enemy": 10
       }
     },
@@ -13183,11 +13259,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 10,
+        "Bazaar": 10,
+        "Resort": 10,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -13295,7 +13371,9 @@
       "New Queen Street": 10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 0
     }
   },
   "Sojourn": {
@@ -13510,9 +13588,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 10,
-        "Enemy": 0
+        "Ally": 10,
+        "Mid": 0,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -13524,11 +13602,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 10,
@@ -13636,7 +13714,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Symmetra": {
@@ -13851,9 +13931,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -13865,9 +13945,9 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 10,
-        "Resort": 10,
+        "Station": 0,
+        "Bazaar": 0,
+        "Resort": 0,
         "Town Center": 20,
         "Garden": 20
       },
@@ -13977,7 +14057,9 @@
       "New Queen Street": -10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": 10
     }
   },
   "Torbjörn": {
@@ -14192,9 +14274,9 @@
         "Enemy": 10
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": 0,
+        "Mid": -10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -14318,7 +14400,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 10
     }
   },
   "Tracer": {
@@ -14535,7 +14619,7 @@
       "Runasapi": {
         "Ally": 0,
         "Mid": 10,
-        "Enemy": 10
+        "Enemy": 20
       }
     },
     "Flashpoint": {
@@ -14659,7 +14743,9 @@
       "New Queen Street": 20,
       "Suravasa": 20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 20
     }
   },
   "Vendetta": {
@@ -14874,9 +14960,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 20,
-        "Mid": 20,
-        "Enemy": 20
+        "Ally": 10,
+        "Mid": 10,
+        "Enemy": 10
       }
     },
     "Flashpoint": {
@@ -14888,11 +14974,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": -10,
@@ -15000,7 +15086,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Venture": {
@@ -15215,9 +15303,9 @@
         "Enemy": -10
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 20,
-        "Enemy": 10
+        "Ally": 0,
+        "Mid": 10,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -15229,11 +15317,11 @@
         "Bomb Flats": 20
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 20,
-        "Resort": 20,
-        "Town Center": 10,
-        "Garden": 10
+        "Station": 0,
+        "Bazaar": 10,
+        "Resort": 10,
+        "Town Center": 0,
+        "Garden": 0
       },
       "Suravasa": {
         "Market": -10,
@@ -15341,7 +15429,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 0,
+      "Aatlis": 0
     }
   },
   "Widowmaker": {
@@ -15556,9 +15646,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 0,
-        "Enemy": 0
+        "Ally": -20,
+        "Mid": -20,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -15570,11 +15660,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -20,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": -10,
@@ -15682,7 +15772,9 @@
       "New Queen Street": -20,
       "Suravasa": -20,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -20,
+      "Aatlis": -20
     }
   },
   "Winston": {
@@ -15911,11 +16003,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 10,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": -10,
@@ -16023,7 +16115,9 @@
       "New Queen Street": 10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 10,
+      "Aatlis": 0
     }
   },
   "Wrecking Ball": {
@@ -16239,7 +16333,7 @@
       },
       "Runasapi": {
         "Ally": 0,
-        "Mid": 10,
+        "Mid": 20,
         "Enemy": 0
       }
     },
@@ -16252,11 +16346,11 @@
         "Bomb Flats": -10
       },
       "Aatlis": {
-        "Station": 10,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": 0,
+        "Bazaar": -10,
+        "Resort": -10,
+        "Town Center": -10,
+        "Garden": -10
       },
       "Suravasa": {
         "Market": 0,
@@ -16364,7 +16458,9 @@
       "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 0
     }
   },
   "Wuyang": {
@@ -16593,11 +16689,11 @@
         "Bomb Flats": 0
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": -10,
@@ -16705,7 +16801,9 @@
       "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": 20,
+      "Aatlis": 0
     }
   },
   "Zarya": {
@@ -16920,9 +17018,9 @@
         "Enemy": -20
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 10,
-        "Enemy": 10
+        "Ally": -10,
+        "Mid": -10,
+        "Enemy": -10
       }
     },
     "Flashpoint": {
@@ -16934,11 +17032,11 @@
         "Bomb Flats": 10
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 10,
-        "Resort": 10,
-        "Town Center": 20,
-        "Garden": 20
+        "Station": -10,
+        "Bazaar": 0,
+        "Resort": 0,
+        "Town Center": 10,
+        "Garden": 10
       },
       "Suravasa": {
         "Market": -10,
@@ -17046,7 +17144,9 @@
       "New Queen Street": -10,
       "Suravasa": 0,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": 0
     }
   },
   "Zenyatta": {
@@ -17261,9 +17361,9 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": 10,
-        "Mid": 0,
-        "Enemy": 20
+        "Ally": 0,
+        "Mid": -20,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
@@ -17275,11 +17375,11 @@
         "Bomb Flats": -20
       },
       "Aatlis": {
-        "Station": 0,
-        "Bazaar": 0,
-        "Resort": 0,
-        "Town Center": 0,
-        "Garden": 0
+        "Station": -20,
+        "Bazaar": -20,
+        "Resort": -20,
+        "Town Center": -20,
+        "Garden": -20
       },
       "Suravasa": {
         "Market": 0,
@@ -17387,7 +17487,9 @@
       "New Queen Street": 0,
       "Suravasa": -10,
       "Hanaoka": 0,
-      "Throne of Anubis": 0
+      "Throne of Anubis": 0,
+      "Runasapi": -10,
+      "Aatlis": -10
     }
   }
 }
