@@ -4,3 +4,4 @@ vendor/
 composer.lock
 process-hero-maps.js
 cosas.txt
+/map-data
