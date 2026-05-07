@@ -3,12 +3,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -17,13 +17,13 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
@@ -33,12 +33,12 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -59,12 +59,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -73,8 +73,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -89,12 +89,12 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -105,7 +105,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -115,12 +115,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -129,8 +129,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -145,12 +145,12 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -174,20 +174,20 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -197,8 +197,8 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -209,8 +209,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -230,8 +230,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -243,7 +243,7 @@
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -293,13 +293,13 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -309,8 +309,8 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -321,8 +321,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -349,24 +349,24 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -377,8 +377,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -405,69 +405,13 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 0,
-        "E": 0
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 0,
-        "B": 0,
-        "C": 10,
-        "D": 10,
-        "E": 10
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Domina": {
-    "Attack": {
-      "Assault": {
-        "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -477,20 +421,76 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Domina": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -518,22 +518,22 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
       "Ally": 0,
       "Mid": 0,
-      "Enemy": 10
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -546,14 +546,14 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -563,23 +563,23 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -589,27 +589,27 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -622,8 +622,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -635,7 +635,7 @@
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -674,12 +674,12 @@
   "Freja": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -704,14 +704,14 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -721,7 +721,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -730,7 +730,7 @@
   "Genji": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -760,14 +760,14 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -777,7 +777,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -787,12 +787,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -801,8 +801,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -817,12 +817,12 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -842,74 +842,18 @@
   "Hazard": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
-      },
-      "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 0
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 0
-      }
-    },
-    "E-Team": {
-      "Clash": {
         "A": 0,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 10
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Illari": {
-    "Attack": {
-      "Assault": {
-        "A": 0,
-        "B": 0
-      },
-      "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 10,
         "B": 0
       },
       "Escort": {
@@ -926,7 +870,7 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -937,7 +881,63 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Illari": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
         "E": 0
       }
     },
@@ -954,7 +954,7 @@
   "Jetpack Cat": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -966,68 +966,12 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 0,
-        "C": 10,
-        "D": 10,
-        "E": 0
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 0,
-        "B": 10,
-        "C": 10,
-        "D": 0,
-        "E": 10
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Junker Queen": {
-    "Attack": {
-      "Assault": {
-        "A": 10,
         "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
         "C": 0
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
       }
     },
     "Push": {
@@ -1037,20 +981,76 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Junker Queen": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -1077,8 +1077,8 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
@@ -1093,8 +1093,8 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1105,8 +1105,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -1122,8 +1122,8 @@
   "Juno": {
     "Attack": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
@@ -1144,23 +1144,23 @@
     },
     "Push": {
       "Ally": 0,
-      "Mid": 10,
+      "Mid": 0,
       "Enemy": 0
     },
     "A-Team": {
       "Clash": {
         "A": 0,
         "B": 0,
-        "C": 10,
-        "D": 10,
-        "E": 10
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
+        "A": 0,
+        "B": 0,
+        "C": 0,
         "D": 0,
         "E": 0
       }
@@ -1169,10 +1169,10 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Kiriko": {
@@ -1190,22 +1190,22 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -1218,14 +1218,14 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -1245,7 +1245,7 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -1262,8 +1262,8 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
-        "C": 10,
+        "B": 0,
+        "C": 0,
         "D": 0,
         "E": 0
       }
@@ -1272,8 +1272,8 @@
       "Clash": {
         "A": 0,
         "B": 0,
-        "C": 10,
-        "D": 10,
+        "C": 0,
+        "D": 0,
         "E": 0
       }
     },
@@ -1284,13 +1284,13 @@
       "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Lucio": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -1302,68 +1302,12 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 0,
-        "C": 10,
-        "D": 10,
-        "E": 0
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 0,
-        "B": 10,
-        "C": 10,
-        "D": 0,
-        "E": 10
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Mauga": {
-    "Attack": {
-      "Assault": {
-        "A": 10,
         "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
         "C": 0
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
       }
     },
     "Push": {
@@ -1373,20 +1317,76 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Mauga": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -1413,24 +1413,24 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1441,8 +1441,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -1459,23 +1459,23 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -1485,27 +1485,27 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -1525,13 +1525,13 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -1541,8 +1541,8 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1553,8 +1553,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -1617,7 +1617,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -1626,13 +1626,13 @@
   "Orisa": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -1643,11 +1643,11 @@
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
@@ -1656,14 +1656,14 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1739,56 +1739,56 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
       "Ally": 0,
-      "Mid": 10,
-      "Enemy": 10
+      "Mid": 0,
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
-        "C": 10,
+        "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
-        "C": 10,
+        "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Reaper": {
@@ -1805,7 +1805,7 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -1822,7 +1822,7 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1833,7 +1833,7 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
@@ -1841,7 +1841,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -1851,12 +1851,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -1871,24 +1871,24 @@
       }
     },
     "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
         "A": 0,
         "B": 0,
-        "C": 10,
+        "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
-        "C": 10,
+        "C": 0,
         "D": 0,
         "E": 0
       }
@@ -1897,10 +1897,10 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Roadhog": {
@@ -1917,7 +1917,7 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -1934,7 +1934,7 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -1945,7 +1945,7 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
@@ -1962,8 +1962,8 @@
   "Sierra": {
     "Attack": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
         "A": 0,
@@ -1973,7 +1973,7 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -1983,25 +1983,25 @@
       }
     },
     "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 10
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 10,
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
         "E": 0
       }
     },
@@ -2009,33 +2009,33 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Sigma": {
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
@@ -2045,20 +2045,20 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
@@ -2074,18 +2074,7 @@
   "Sojourn": {
     "Attack": {
       "Assault": {
-        "A": 10,
-        "B": 10
-      },
-      "Escort": {
         "A": 0,
-        "B": 0,
-        "C": 0
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 10,
         "B": 0
       },
       "Escort": {
@@ -2094,54 +2083,9 @@
         "C": 0
       }
     },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 0,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 10
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 0
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Soldier: 76": {
-    "Attack": {
-      "Assault": {
-        "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 0
-      }
-    },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -2158,18 +2102,18 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
@@ -2177,7 +2121,63 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Soldier: 76": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -2186,64 +2186,8 @@
   "Sombra": {
     "Attack": {
       "Assault": {
-        "A": 10,
-        "B": 10
-      },
-      "Escort": {
         "A": 0,
-        "B": 0,
-        "C": 10
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 10,
-        "B": 10
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 10
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 10
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
-        "D": 10,
-        "E": 10
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Symmetra": {
-    "Attack": {
-      "Assault": {
-        "A": 10,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
@@ -2272,14 +2216,14 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -2289,7 +2233,63 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Symmetra": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -2309,7 +2309,7 @@
     },
     "Defense": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -2326,7 +2326,7 @@
     "A-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -2337,7 +2337,7 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
@@ -2355,12 +2355,12 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -2369,8 +2369,8 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
@@ -2385,12 +2385,12 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -2401,7 +2401,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -2411,62 +2411,6 @@
     "Attack": {
       "Assault": {
         "A": 0,
-        "B": 10
-      },
-      "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
-      }
-    },
-    "Defense": {
-      "Assault": {
-        "A": 0,
-        "B": 0
-      },
-      "Escort": {
-        "A": 0,
-        "B": 0,
-        "C": 0
-      }
-    },
-    "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
-    },
-    "A-Team": {
-      "Clash": {
-        "A": 0,
-        "B": 0,
-        "C": 10,
-        "D": 0,
-        "E": 10
-      }
-    },
-    "E-Team": {
-      "Clash": {
-        "A": 10,
-        "B": 0,
-        "C": 10,
-        "D": 0,
-        "E": 0
-      }
-    },
-    "General": {
-      "Assault": 0,
-      "Hybrid": 0,
-      "Escort": 0,
-      "Flashpoint": 10,
-      "Push": 0,
-      "Clash": 0,
-      "Control": 10
-    }
-  },
-  "Venture": {
-    "Attack": {
-      "Assault": {
-        "A": 10,
         "B": 0
       },
       "Escort": {
@@ -2496,14 +2440,70 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "General": {
+      "Assault": 0,
+      "Hybrid": 0,
+      "Escort": 0,
+      "Flashpoint": 0,
+      "Push": 0,
+      "Clash": 0,
+      "Control": 0
+    }
+  },
+  "Venture": {
+    "Attack": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Defense": {
+      "Assault": {
+        "A": 0,
+        "B": 0
+      },
+      "Escort": {
+        "A": 0,
+        "B": 0,
+        "C": 0
+      }
+    },
+    "Push": {
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
+    },
+    "A-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0,
+        "E": 0
+      }
+    },
+    "E-Team": {
+      "Clash": {
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -2526,15 +2526,15 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
@@ -2549,7 +2549,7 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -2562,7 +2562,7 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
@@ -2578,7 +2578,7 @@
   "Winston": {
     "Attack": {
       "Assault": {
-        "A": 10,
+        "A": 0,
         "B": 0
       },
       "Escort": {
@@ -2590,57 +2590,57 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
-        "C": 10,
-        "D": 10,
+        "C": 0,
+        "D": 0,
         "E": 0
       }
     },
     "E-Team": {
       "Clash": {
         "A": 0,
-        "B": 10,
-        "C": 10,
+        "B": 0,
+        "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Wrecking Ball": {
     "Attack": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -2655,24 +2655,24 @@
       }
     },
     "Push": {
-      "Ally": 10,
-      "Mid": 10,
-      "Enemy": 10
+      "Ally": 0,
+      "Mid": 0,
+      "Enemy": 0
     },
     "A-Team": {
       "Clash": {
         "A": 0,
         "B": 0,
-        "C": 10,
-        "D": 10,
-        "E": 10
+        "C": 0,
+        "D": 0,
+        "E": 0
       }
     },
     "E-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
-        "C": 10,
+        "A": 0,
+        "B": 0,
+        "C": 0,
         "D": 0,
         "E": 0
       }
@@ -2681,10 +2681,10 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
-      "Control": 10
+      "Control": 0
     }
   },
   "Wuyang": {
@@ -2737,7 +2737,7 @@
       "Assault": 0,
       "Hybrid": 0,
       "Escort": 0,
-      "Flashpoint": 10,
+      "Flashpoint": 0,
       "Push": 0,
       "Clash": 0,
       "Control": 0
@@ -2750,20 +2750,20 @@
         "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0
       }
     },
     "Defense": {
       "Assault": {
-        "A": 10,
-        "B": 10
+        "A": 0,
+        "B": 0
       },
       "Escort": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       }
     },
     "Push": {
@@ -2773,8 +2773,8 @@
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 0,
         "D": 0,
         "E": 0
@@ -2785,8 +2785,8 @@
         "A": 0,
         "B": 0,
         "C": 0,
-        "D": 10,
-        "E": 10
+        "D": 0,
+        "E": 0
       }
     },
     "General": {
@@ -2814,22 +2814,22 @@
     "Defense": {
       "Assault": {
         "A": 0,
-        "B": 10
+        "B": 0
       },
       "Escort": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       }
     },
     "Push": {
-      "Ally": 10,
+      "Ally": 0,
       "Mid": 0,
       "Enemy": 0
     },
     "A-Team": {
       "Clash": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 0,
         "D": 0,
@@ -2842,7 +2842,7 @@
         "B": 0,
         "C": 0,
         "D": 0,
-        "E": 10
+        "E": 0
       }
     },
     "General": {
