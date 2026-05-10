@@ -272,7 +272,7 @@
     "nicks": ["lifeweaver", "life", "weaver", "tree", "flower"]
   },
   {
-    "name": "Lucio",
+    "name": "Lúcio",
     "description": "Dynamic main support whose movement speed aura enables fast-paced compositions like Dive and Rush. His Soundwave is invaluable on maps with environmental hazards, and his Healing Song can sustain multiple heroes simultaneously while he actively contributes damage. His Sound Barrier ultimate can absorb otherwise fight-ending burst damage.",
     "general_rol": "Support",
     "secondary_rol": "Tactician",
@@ -280,7 +280,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Lucio", "Frog", "Frogger", "DJ", "Brasil", "Mafia"]
+    "nicks": ["Lúcio", "Frog", "Frogger", "DJ", "Brasil", "Mafia"]
   },
   {
     "name": "Mauga",
