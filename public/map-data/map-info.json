@@ -9,7 +9,7 @@
     "name": "Antarctic Peninsula",
     "type": "Control",
     "onPool": true,
-    "points": ["Labs", "Icebreaker", "Sublevel"]
+    "points": ["Drilling Rig", "Icebreaker", "Anomaly"]
   },
   {
     "name": "Blizzard World",
