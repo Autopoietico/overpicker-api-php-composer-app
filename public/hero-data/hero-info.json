@@ -5,7 +5,7 @@
     "general_rol": "Support",
     "secondary_rol": "Tactician",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Ana", "Amari", "Sniper", "Granny", "Grandma", "Grandmother"]
@@ -27,7 +27,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Sharpshooter",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Ashe", "Ash", "Sniper", "BOB", "B.O.B.", "Dynamite"]
@@ -38,7 +38,7 @@
     "general_rol": "Support",
     "secondary_rol": "Tactician",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco", "Mauga"]
@@ -49,7 +49,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 100,
     "on_rotation": true,
     "nicks": ["Bastion", "Robot", "Bot"]
@@ -59,7 +59,7 @@
     "description": "Although her kit suggests Brigitte should be played on the front lines, she performs best from a defensive, advantageous position. Her range healing, shield, and bash make the enemy backline extremely difficult to kill. Her Rally ultimate rewards patient players who wait for the right moment to commit to the fight.",
     "general_rol": "Support",
     "secondary_rol": "Survivor",
-    "shields": 250,
+    "shields": 0,
     "health": 200,
     "armor": 50,
     "on_rotation": true,
@@ -71,7 +71,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Sharpshooter",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Cassidy", "Mcree", "Mccre", "Cowboy", "Jesse"]
@@ -82,8 +82,8 @@
     "general_rol": "Tank",
     "secondary_rol": "Initiator",
     "shields": 0,
-    "health": 350,
-    "armor": 350,
+    "health": 325,
+    "armor": 325,
     "on_rotation": true,
     "nicks": ["D.Va", "DVa", "Mecha", "Tokki", "Hana"]
   },
@@ -104,7 +104,7 @@
     "general_rol": "Tank",
     "secondary_rol": "Initiator",
     "shields": 0,
-    "health": 450,
+    "health": 525,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Doomfist", "Doom", "Fist", "They Say", "dey say", "deysey"]
@@ -114,8 +114,8 @@
     "description": "Airborne DPS hero with high damage potential. Her Sticky Bombs are effective against heroes who hold static positions, and her Focusing Beam efficiently finishes low-health targets. Her Duplicate ultimate requires extensive knowledge of the entire Overwatch roster to be used to its full potential.",
     "general_rol": "Damage",
     "secondary_rol": "Recon",
-    "shields": 0,
-    "health": 200,
+    "shields": 75,
+    "health": 150,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Echo", "Moth", "Copy", "Fly"]
@@ -137,7 +137,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Recon",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Freja", "Hunter", "Redhead"]
@@ -148,7 +148,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Flanker",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Genji", "Ninja", "Naruto", "Hokage"]
@@ -159,7 +159,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Sharpshooter",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Hanzo", "Archer", "Sasuke"]
@@ -171,7 +171,7 @@
     "secondary_rol": "Stalwart",
     "shields": 0,
     "health": 425,
-    "armor": 0,
+    "armor": 225,
     "on_rotation": true,
     "nicks": [
       "Hazard",
@@ -192,7 +192,7 @@
     "general_rol": "Support",
     "secondary_rol": "Survivor",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["illari", "sun", "sunlight", "peru", "inti"]
@@ -203,7 +203,7 @@
     "general_rol": "Support",
     "secondary_rol": "Tactician",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Jetpack Cat", "Cat", "Flying Cat", "Fika", "Jetpack", "Fee-ka"]
@@ -214,7 +214,7 @@
     "general_rol": "Tank",
     "secondary_rol": "Stalwart",
     "shields": 0,
-    "health": 425,
+    "health": 525,
     "armor": 0,
     "on_rotation": true,
     "nicks": [
@@ -233,7 +233,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Junkrat", "Junk", "Rat"]
@@ -243,8 +243,8 @@
     "description": "A highly mobile support from Mars who blends utility and speed to keep her team alive in fast-paced fights. Her Hyper Ring lets allies disengage from danger or push aggressively, rewarding smart timing and positional awareness. Her Orbital Ray ultimate provides a powerful team-wide speed and healing boost that can swing a coordinated engagement decidedly in her team's favor.",
     "general_rol": "Support",
     "secondary_rol": "Survivor",
-    "shields": 75,
-    "health": 150,
+    "shields": 150,
+    "health": 75,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Juno", "Astronaut", "Space", "Martian", "Mars"]
@@ -255,7 +255,7 @@
     "general_rol": "Support",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Kiriko", "Kamori", "Protector", "Kunoichi", "Fox", "Kitsune"]
@@ -265,7 +265,7 @@
     "description": "Lifeweaver uses hard light to replicate the power of nature and provide a comprehensive healing kit for the team. His utility protects allies from death traps, secures kills, and even mitigates his own positioning mistakes. His Petal Platform and dash make it difficult for enemies to dive him, and his Tree of Life ultimate can serve as a team-saving tool or an obstacle to frustrate the enemy's advance.",
     "general_rol": "Support",
     "secondary_rol": "Specialist",
-    "shields": 0,
+    "shields": 50,
     "health": 200,
     "armor": 0,
     "on_rotation": true,
@@ -277,7 +277,7 @@
     "general_rol": "Support",
     "secondary_rol": "Tactician",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Lúcio", "Frog", "Frogger", "DJ", "Brasil", "Mafia"]
@@ -288,7 +288,7 @@
     "general_rol": "Tank",
     "secondary_rol": "Bruiser",
     "shields": 0,
-    "health": 500,
+    "health": 575,
     "armor": 150,
     "on_rotation": true,
     "nicks": [
@@ -308,7 +308,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 250,
+    "health": 300,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Mei", "Ice", "Demon", "Scientist", "Cold", "Snow", "Snowball"]
@@ -319,7 +319,7 @@
     "general_rol": "Support",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Mercy", "Medic", "Angela", "Valkyrie", "Witch", "Fly"]
@@ -349,7 +349,7 @@
     "general_rol": "Support",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Moira", "Otaku", "Mora"]
@@ -360,8 +360,8 @@
     "general_rol": "Tank",
     "secondary_rol": "Bruiser",
     "shields": 0,
-    "health": 275,
-    "armor": 275,
+    "health": 300,
+    "armor": 300,
     "on_rotation": true,
     "nicks": ["Orisa", "Horse", "Efi"]
   },
@@ -371,7 +371,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Recon",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Pharah", "Amari", "Fly"]
@@ -381,9 +381,9 @@
     "description": "The 'Tempo' tank: Ramattra can shapeshift between a ranged Omnic form and a brutal close-range Nemesis form. His Ravenous Vortex slows and pulls enemies to the ground, providing strong zone control. His Annihilation ultimate is practically an extra cooldown in overtime, persisting as long as he continues to damage enemies who cannot afford to leave the objective.",
     "general_rol": "Tank",
     "secondary_rol": "Stalwart",
-    "shields": 1000,
-    "health": 450,
-    "armor": 150,
+    "shields": 0,
+    "health": 425,
+    "armor": 100,
     "on_rotation": true,
     "nicks": ["Ramattra", "Ramatra", "Rammatra", "Rammattra"]
   },
@@ -393,7 +393,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Flanker",
     "shields": 0,
-    "health": 250,
+    "health": 300,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Reaper", "Gabriel", "Reyes", "Death"]
@@ -403,8 +403,8 @@
     "description": "The archetype of a tank in Overwatch. Reinhardt is dominant at close range and protects his team with his barrier shield while closing distances, interrupting cooldowns with Firestrike, and buying time for his allies. His Earthshatter ultimate is vulnerable to enemy shields, but used smartly through a flank or after baiting the opposition it can completely alter the outcome of a fight.",
     "general_rol": "Tank",
     "secondary_rol": "Stalwart",
-    "shields": 1200,
-    "health": 325,
+    "shields": 0,
+    "health": 400,
     "armor": 300,
     "on_rotation": true,
     "nicks": ["Reinhardt", "Rein", "Shield", "Crusader", "Garen", "German"]
@@ -415,7 +415,7 @@
     "general_rol": "Tank",
     "secondary_rol": "Bruiser",
     "shields": 0,
-    "health": 700,
+    "health": 750,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Roadhog", "Road", "Hog", "Pig", "Hook"]
@@ -426,7 +426,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Recon",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": [
@@ -445,7 +445,7 @@
     "description": "Bunker tank with significant damage output. His deployable shield protects heroes who prefer to hold static positions. Accretion is a useful stun that can interrupt key enemy abilities, and his Gravitic Flux ultimate not only deals significant damage but can also reposition enemies on the battlefield.",
     "general_rol": "Tank",
     "secondary_rol": "Stalwart",
-    "shields": 900,
+    "shields": 275,
     "health": 350,
     "armor": 0,
     "on_rotation": true,
@@ -457,7 +457,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Sharpshooter",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Sojourn", "Sojorn", "Legs", "Tights", "Vivian", "Chase"]
@@ -468,7 +468,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Soldier: 76", "Soldier", "76", "Jack", "Morrison", "Legs"]
@@ -479,7 +479,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Recon",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Sombra", "Hacker", "Mexican", "Mexico", "Los Muertos"]
@@ -489,8 +489,8 @@
     "description": "Lethal at close range, Symmetra deals increasing damage the longer her beam stays on target. Her turrets are excellent for area control and detecting flankers, and her Teleporter allows her team to bypass choke points and access flanking positions that can catch the enemy completely off guard.",
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
-    "shields": 125,
-    "health": 100,
+    "shields": 150,
+    "health": 125,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Symmetra", "Sym", "Summoner", "Teleporter", "TP", "Microwave"]
@@ -501,8 +501,8 @@
     "general_rol": "Damage",
     "secondary_rol": "Specialist",
     "shields": 0,
-    "health": 200,
-    "armor": 50,
+    "health": 225,
+    "armor": 75,
     "on_rotation": true,
     "nicks": ["Torbjörn", "Torbjorn", "Torb", "Dwarf", "Enginner", "Lindholm"]
   },
@@ -512,7 +512,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Flanker",
     "shields": 0,
-    "health": 150,
+    "health": 175,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Tracer", "Pilot", "Lena", "Light", "Time", "Recall"]
@@ -524,7 +524,7 @@
     "secondary_rol": "Flanker",
     "shields": 0,
     "health": 200,
-    "armor": 0,
+    "armor": 75,
     "on_rotation": true,
     "nicks": [
       "Vendetta",
@@ -543,7 +543,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Flanker",
     "shields": 0,
-    "health": 200,
+    "health": 250,
     "armor": 0,
     "on_rotation": true,
     "nicks": [
@@ -564,7 +564,7 @@
     "general_rol": "Damage",
     "secondary_rol": "Sharpshooter",
     "shields": 0,
-    "health": 200,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Widowmaker", "Widow", "Spider", "Sniper", "Venom"]
@@ -574,8 +574,8 @@
     "description": "This gorilla excels on maps with multiple heights. His Tesla Cannon deals consistent damage to several targets at once, and combining his Jump Pack with a burst shot can efficiently eliminate squishy heroes. His Primal Rage ultimate provides a massive health boost and strong knockback, functioning as a second life when Winston is deep in the enemy backline.",
     "general_rol": "Tank",
     "secondary_rol": "Initiator",
-    "shields": 700,
-    "health": 350,
+    "shields": 0,
+    "health": 425,
     "armor": 200,
     "on_rotation": true,
     "nicks": [
@@ -593,9 +593,9 @@
     "description": "The most mobile hero in the game, Wrecking Ball is a sniper's nightmare, in ball form he has no critical hit point to target. His Piledriver and Grappling Claw put enemies in vulnerable positions his team can exploit. His Minefield ultimate denies a large area of the map, though it can be countered by various enemy abilities.",
     "general_rol": "Tank",
     "secondary_rol": "Initiator",
-    "shields": 0,
-    "health": 550,
-    "armor": 150,
+    "shields": 150,
+    "health": 450,
+    "armor": 125,
     "on_rotation": true,
     "nicks": [
       "Wrecking Ball",
@@ -612,8 +612,8 @@
     "description": "Rhythm-based support from Wuxing University's Water College who blends healing, knockback, and mobility. His steerable water orb can be held to empower its explosion, and Guardian Wave pushes enemies back while amplifying ally healing received. Rushing Torrent gives him a burst of speed and jump height. His Tidal Blast ultimate wraps a target in water that detonates after a short delay, massively healing the host and knocking down nearby enemies.",
     "general_rol": "Support",
     "secondary_rol": "Survivor",
-    "shields": 150,
-    "health": 50,
+    "shields": 0,
+    "health": 225,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Wuyang", "Water", "skater", "stick", "wave"]
@@ -623,8 +623,8 @@
     "description": "Zarya wields a powerful weapon that grows stronger as she absorbs damage with her personal and projected barriers, the more energy she accumulates, the more devastating her output. Her Graviton Surge ultimate gathers enemies into a tight cluster where they are completely vulnerable to her high-energy beam and any follow-up from her team.",
     "general_rol": "Tank",
     "secondary_rol": "Bruiser",
-    "shields": 625,
-    "health": 250,
+    "shields": 225,
+    "health": 325,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Zarya", "Russian", "Rusia", "Strong", "Gravity"]
@@ -634,8 +634,8 @@
     "description": "A glass cannon support in every sense. His damage output often outweighs his healing, especially the sustained threat of his Discord Orb which amplifies all incoming damage to a marked target. His only real defensive tool is a surprisingly powerful kick that punishes close-range attackers. His Transcendence ultimate is one of the most powerful counters to burst damage in the game.",
     "general_rol": "Support",
     "secondary_rol": "Tactician",
-    "shields": 150,
-    "health": 50,
+    "shields": 175,
+    "health": 75,
     "armor": 0,
     "on_rotation": true,
     "nicks": ["Zenyatta", "Zen", "Monk", "Omnic", "Budist"]
