@@ -6,4 +6,5 @@ process-hero-maps.js
 cosas.txt
 /map-data
 overwatch_hero_stats.md
-hero-info-data/hero-relationships.json
+hero-info-data/
+merge-hero-info.js

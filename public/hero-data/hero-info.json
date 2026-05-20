@@ -8,7 +8,44 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Ana", "Amari", "Sniper", "Granny", "Grandma", "Grandmother"]
+    "nicks": [
+      "Ana",
+      "Amari",
+      "Sniper",
+      "Granny",
+      "Grandma",
+      "Grandmother"
+    ],
+    "counters": [
+      "Orisa",
+      "Baptiste",
+      "Tracer"
+    ],
+    "countered_by": [
+      "Lifeweaver",
+      "Venture",
+      "Anran"
+    ],
+    "best_synergies": [
+      "Zarya",
+      "Venture",
+      "Mei"
+    ],
+    "worst_synergies": [
+      "Vendetta",
+      "Brigitte",
+      "Moira"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Rialto",
+      "Havana"
+    ],
+    "worst_maps": [
+      "Suravasa",
+      "Oasis",
+      "Antarctic Peninsula"
+    ]
   },
   {
     "name": "Anran",
@@ -19,7 +56,43 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Anran", "Fire", "Flame", "Older Sister", "Sister"]
+    "nicks": [
+      "Anran",
+      "Fire",
+      "Flame",
+      "Older Sister",
+      "Sister"
+    ],
+    "counters": [
+      "Mizuki",
+      "Cassidy",
+      "Ana"
+    ],
+    "countered_by": [
+      "Symmetra",
+      "Hazard",
+      "Jetpack Cat"
+    ],
+    "best_synergies": [
+      "Zenyatta",
+      "Zarya",
+      "Winston"
+    ],
+    "worst_synergies": [
+      "Jetpack Cat",
+      "Domina",
+      "Mercy"
+    ],
+    "best_maps": [
+      "Colosseo",
+      "Runasapi",
+      "Aatlis"
+    ],
+    "worst_maps": [
+      "Numbani",
+      "King's Row",
+      "Circuit Royal"
+    ]
   },
   {
     "name": "Ashe",
@@ -30,7 +103,44 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Ashe", "Ash", "Sniper", "BOB", "B.O.B.", "Dynamite"]
+    "nicks": [
+      "Ashe",
+      "Ash",
+      "Sniper",
+      "BOB",
+      "B.O.B.",
+      "Dynamite"
+    ],
+    "counters": [
+      "Junkrat",
+      "Brigitte",
+      "Baptiste"
+    ],
+    "countered_by": [
+      "Venture",
+      "Mercy",
+      "Hazard"
+    ],
+    "best_synergies": [
+      "Zenyatta",
+      "Doomfist",
+      "Lúcio"
+    ],
+    "worst_synergies": [
+      "Domina",
+      "Ana",
+      "Mauga"
+    ],
+    "best_maps": [
+      "Circuit Royal",
+      "Junkertown",
+      "Watchpoint: Gibraltar"
+    ],
+    "worst_maps": [
+      "Oasis",
+      "Ilios",
+      "Lijiang Tower"
+    ]
   },
   {
     "name": "Baptiste",
@@ -41,7 +151,44 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Baptiste", "Bap", "Immortality", "Larry", "Disco", "Mauga"]
+    "nicks": [
+      "Baptiste",
+      "Bap",
+      "Immortality",
+      "Larry",
+      "Disco",
+      "Mauga"
+    ],
+    "counters": [
+      "Junker Queen",
+      "Vendetta",
+      "Lifeweaver"
+    ],
+    "countered_by": [
+      "Ashe",
+      "Mizuki",
+      "Illari"
+    ],
+    "best_synergies": [
+      "Sombra",
+      "Brigitte",
+      "Sigma"
+    ],
+    "worst_synergies": [
+      "Junkrat",
+      "Moira",
+      "Orisa"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Numbani",
+      "Watchpoint: Gibraltar"
+    ],
+    "worst_maps": [
+      "Aatlis",
+      "Runasapi",
+      "Colosseo"
+    ]
   },
   {
     "name": "Bastion",
@@ -52,7 +199,41 @@
     "health": 250,
     "armor": 100,
     "on_rotation": true,
-    "nicks": ["Bastion", "Robot", "Bot"]
+    "nicks": [
+      "Bastion",
+      "Robot",
+      "Bot"
+    ],
+    "counters": [
+      "Junkrat",
+      "Roadhog",
+      "Hanzo"
+    ],
+    "countered_by": [
+      "Venture",
+      "Wuyang",
+      "Domina"
+    ],
+    "best_synergies": [
+      "Mizuki",
+      "Sigma",
+      "Wrecking Ball"
+    ],
+    "worst_synergies": [
+      "Winston",
+      "Tracer",
+      "Jetpack Cat"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Circuit Royal",
+      "Shambali Monastery"
+    ],
+    "worst_maps": [
+      "New Junk City",
+      "Ilios",
+      "Colosseo"
+    ]
   },
   {
     "name": "Brigitte",
@@ -63,7 +244,42 @@
     "health": 200,
     "armor": 50,
     "on_rotation": true,
-    "nicks": ["Brigitte", "Brig", "4Gitte", "Lindholm"]
+    "nicks": [
+      "Brigitte",
+      "Brig",
+      "4Gitte",
+      "Lindholm"
+    ],
+    "counters": [
+      "Lifeweaver",
+      "Roadhog",
+      "Echo"
+    ],
+    "countered_by": [
+      "Hazard",
+      "Ashe",
+      "Vendetta"
+    ],
+    "best_synergies": [
+      "Wrecking Ball",
+      "Ashe",
+      "D.Va"
+    ],
+    "worst_synergies": [
+      "Mei",
+      "Reinhardt",
+      "Zenyatta"
+    ],
+    "best_maps": [
+      "New Junk City",
+      "Aatlis",
+      "Nepal"
+    ],
+    "worst_maps": [
+      "Circuit Royal",
+      "Hollywood",
+      "Blizzard World"
+    ]
   },
   {
     "name": "Cassidy",
@@ -74,7 +290,43 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Cassidy", "Mcree", "Mccre", "Cowboy", "Jesse"]
+    "nicks": [
+      "Cassidy",
+      "Mcree",
+      "Mccre",
+      "Cowboy",
+      "Jesse"
+    ],
+    "counters": [
+      "Mei",
+      "Echo",
+      "Mauga"
+    ],
+    "countered_by": [
+      "Sombra",
+      "Anran",
+      "Zarya"
+    ],
+    "best_synergies": [
+      "Mercy",
+      "Zenyatta",
+      "Doomfist"
+    ],
+    "worst_synergies": [
+      "Roadhog",
+      "Illari",
+      "Echo"
+    ],
+    "best_maps": [
+      "Antarctic Peninsula",
+      "Oasis",
+      "Samoa"
+    ],
+    "worst_maps": [
+      "King's Row",
+      "Shambali Monastery",
+      "Blizzard World"
+    ]
   },
   {
     "name": "D.Va",
@@ -85,7 +337,43 @@
     "health": 325,
     "armor": 325,
     "on_rotation": true,
-    "nicks": ["D.Va", "DVa", "Mecha", "Tokki", "Hana"]
+    "nicks": [
+      "D.Va",
+      "DVa",
+      "Mecha",
+      "Tokki",
+      "Hana"
+    ],
+    "counters": [
+      "Junkrat",
+      "Brigitte",
+      "Kiriko"
+    ],
+    "countered_by": [
+      "Sombra",
+      "Zarya",
+      "Illari"
+    ],
+    "best_synergies": [
+      "Mei",
+      "Wuyang",
+      "Roadhog"
+    ],
+    "worst_synergies": [
+      "Lifeweaver",
+      "Sierra",
+      "Ana"
+    ],
+    "best_maps": [
+      "Numbani",
+      "Paraíso",
+      "Dorado"
+    ],
+    "worst_maps": [
+      "Lijiang Tower",
+      "Shambali Monastery",
+      "King's Row"
+    ]
   },
   {
     "name": "Domina",
@@ -96,7 +384,42 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Domina", "Vishkar", "Vaira", "Shingania"]
+    "nicks": [
+      "Domina",
+      "Vishkar",
+      "Vaira",
+      "Shingania"
+    ],
+    "counters": [
+      "Pharah",
+      "Mauga",
+      "Brigitte"
+    ],
+    "countered_by": [
+      "Torbjörn",
+      "Mizuki",
+      "Venture"
+    ],
+    "best_synergies": [
+      "Venture",
+      "Illari",
+      "Kiriko"
+    ],
+    "worst_synergies": [
+      "Echo",
+      "Brigitte",
+      "Anran"
+    ],
+    "best_maps": [
+      "Circuit Royal",
+      "Havana",
+      "Rialto"
+    ],
+    "worst_maps": [
+      "Oasis",
+      "Aatlis",
+      "New Junk City"
+    ]
   },
   {
     "name": "Doomfist",
@@ -107,7 +430,44 @@
     "health": 525,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Doomfist", "Doom", "Fist", "They Say", "dey say", "deysey"]
+    "nicks": [
+      "Doomfist",
+      "Doom",
+      "Fist",
+      "They Say",
+      "dey say",
+      "deysey"
+    ],
+    "counters": [
+      "Echo",
+      "Lúcio",
+      "Mercy"
+    ],
+    "countered_by": [
+      "Junker Queen",
+      "Tracer",
+      "Lifeweaver"
+    ],
+    "best_synergies": [
+      "Ashe",
+      "Hanzo",
+      "Illari"
+    ],
+    "worst_synergies": [
+      "Widowmaker",
+      "Jetpack Cat",
+      "Junkrat"
+    ],
+    "best_maps": [
+      "Colosseo",
+      "Suravasa",
+      "Lijiang Tower"
+    ],
+    "worst_maps": [
+      "Busan",
+      "Antarctic Peninsula",
+      "Junkertown"
+    ]
   },
   {
     "name": "Echo",
@@ -118,7 +478,42 @@
     "health": 150,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Echo", "Moth", "Copy", "Fly"]
+    "nicks": [
+      "Echo",
+      "Moth",
+      "Copy",
+      "Fly"
+    ],
+    "counters": [
+      "Sombra",
+      "Ramattra",
+      "Junker Queen"
+    ],
+    "countered_by": [
+      "Doomfist",
+      "Cassidy",
+      "Tracer"
+    ],
+    "best_synergies": [
+      "Illari",
+      "Zarya",
+      "Mizuki"
+    ],
+    "worst_synergies": [
+      "Juno",
+      "Domina",
+      "Cassidy"
+    ],
+    "best_maps": [
+      "Eichenwalde",
+      "Numbani",
+      "Dorado"
+    ],
+    "worst_maps": [
+      "Havana",
+      "Busan",
+      "Midtown"
+    ]
   },
   {
     "name": "Emre",
@@ -129,7 +524,43 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Emre", "Turkish", "Conspiracy", "Sarioglu", "Program"]
+    "nicks": [
+      "Emre",
+      "Turkish",
+      "Conspiracy",
+      "Sarioglu",
+      "Program"
+    ],
+    "counters": [
+      "Doomfist",
+      "Brigitte",
+      "Lifeweaver"
+    ],
+    "countered_by": [
+      "Pharah",
+      "Zarya",
+      "Ramattra"
+    ],
+    "best_synergies": [
+      "Hazard",
+      "Mercy",
+      "Sombra"
+    ],
+    "worst_synergies": [
+      "Lúcio",
+      "Junker Queen",
+      "Reaper"
+    ],
+    "best_maps": [
+      "Circuit Royal",
+      "Blizzard World",
+      "Havana"
+    ],
+    "worst_maps": [
+      "New Junk City",
+      "Lijiang Tower",
+      "Ilios"
+    ]
   },
   {
     "name": "Freja",
@@ -140,7 +571,41 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Freja", "Hunter", "Redhead"]
+    "nicks": [
+      "Freja",
+      "Hunter",
+      "Redhead"
+    ],
+    "counters": [
+      "Orisa",
+      "Kiriko",
+      "Juno"
+    ],
+    "countered_by": [
+      "Roadhog",
+      "Mizuki",
+      "Baptiste"
+    ],
+    "best_synergies": [
+      "Venture",
+      "Sierra",
+      "Wuyang"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Mercy",
+      "Moira"
+    ],
+    "best_maps": [
+      "Paraíso",
+      "Blizzard World",
+      "Watchpoint: Gibraltar"
+    ],
+    "worst_maps": [
+      "Aatlis",
+      "Antarctic Peninsula",
+      "Suravasa"
+    ]
   },
   {
     "name": "Genji",
@@ -151,7 +616,42 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Genji", "Ninja", "Naruto", "Hokage"]
+    "nicks": [
+      "Genji",
+      "Ninja",
+      "Naruto",
+      "Hokage"
+    ],
+    "counters": [
+      "Torbjörn",
+      "Junker Queen",
+      "Symmetra"
+    ],
+    "countered_by": [
+      "Ashe",
+      "Zarya",
+      "Zenyatta"
+    ],
+    "best_synergies": [
+      "Illari",
+      "Lifeweaver",
+      "Junker Queen"
+    ],
+    "worst_synergies": [
+      "Wuyang",
+      "Winston",
+      "Jetpack Cat"
+    ],
+    "best_maps": [
+      "Watchpoint: Gibraltar",
+      "Dorado",
+      "Colosseo"
+    ],
+    "worst_maps": [
+      "Blizzard World",
+      "Midtown",
+      "Circuit Royal"
+    ]
   },
   {
     "name": "Hanzo",
@@ -162,7 +662,41 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Hanzo", "Archer", "Sasuke"]
+    "nicks": [
+      "Hanzo",
+      "Archer",
+      "Sasuke"
+    ],
+    "counters": [
+      "Roadhog",
+      "Junkrat",
+      "Baptiste"
+    ],
+    "countered_by": [
+      "Hazard",
+      "Lifeweaver",
+      "Venture"
+    ],
+    "best_synergies": [
+      "Doomfist",
+      "Mizuki",
+      "Reaper"
+    ],
+    "worst_synergies": [
+      "Brigitte",
+      "Junker Queen",
+      "Sigma"
+    ],
+    "best_maps": [
+      "Midtown",
+      "King's Row",
+      "Havana"
+    ],
+    "worst_maps": [
+      "Busan",
+      "Antarctic Peninsula",
+      "Ilios"
+    ]
   },
   {
     "name": "Hazard",
@@ -184,6 +718,36 @@
       "Haz",
       "Scottish",
       "Rocker"
+    ],
+    "counters": [
+      "Orisa",
+      "Brigitte",
+      "Moira"
+    ],
+    "countered_by": [
+      "Venture",
+      "D.Va",
+      "Pharah"
+    ],
+    "best_synergies": [
+      "Jetpack Cat",
+      "Lifeweaver",
+      "Zarya"
+    ],
+    "worst_synergies": [
+      "Juno",
+      "Cassidy",
+      "Junkrat"
+    ],
+    "best_maps": [
+      "Aatlis",
+      "Oasis",
+      "Suravasa"
+    ],
+    "worst_maps": [
+      "King's Row",
+      "Havana",
+      "Shambali Monastery"
     ]
   },
   {
@@ -195,7 +759,43 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["illari", "sun", "sunlight", "peru", "inti"]
+    "nicks": [
+      "illari",
+      "sun",
+      "sunlight",
+      "peru",
+      "inti"
+    ],
+    "counters": [
+      "Domina",
+      "Baptiste",
+      "Junkrat"
+    ],
+    "countered_by": [
+      "Jetpack Cat",
+      "Pharah",
+      "Brigitte"
+    ],
+    "best_synergies": [
+      "Torbjörn",
+      "Doomfist",
+      "Jetpack Cat"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Sierra",
+      "Moira"
+    ],
+    "best_maps": [
+      "Blizzard World",
+      "Midtown",
+      "Eichenwalde"
+    ],
+    "worst_maps": [
+      "Nepal",
+      "New Junk City",
+      "Colosseo"
+    ]
   },
   {
     "name": "Jetpack Cat",
@@ -206,7 +806,44 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Jetpack Cat", "Cat", "Flying Cat", "Fika", "Jetpack", "Fee-ka"]
+    "nicks": [
+      "Jetpack Cat",
+      "Cat",
+      "Flying Cat",
+      "Fika",
+      "Jetpack",
+      "Fee-ka"
+    ],
+    "counters": [
+      "Mauga",
+      "Illari",
+      "Sojourn"
+    ],
+    "countered_by": [
+      "Lifeweaver",
+      "Ramattra",
+      "Symmetra"
+    ],
+    "best_synergies": [
+      "Venture",
+      "Illari",
+      "Ramattra"
+    ],
+    "worst_synergies": [
+      "Mizuki",
+      "Soldier: 76",
+      "Juno"
+    ],
+    "best_maps": [
+      "Eichenwalde",
+      "Ilios",
+      "Lijiang Tower"
+    ],
+    "worst_maps": [
+      "Havana",
+      "Junkertown",
+      "Midtown"
+    ]
   },
   {
     "name": "Junker Queen",
@@ -225,6 +862,36 @@
       "Odessa",
       "Dez",
       "Stone"
+    ],
+    "counters": [
+      "Doomfist",
+      "Wuyang",
+      "Pharah"
+    ],
+    "countered_by": [
+      "Ashe",
+      "Mizuki",
+      "Zarya"
+    ],
+    "best_synergies": [
+      "Genji",
+      "Tracer",
+      "Anran"
+    ],
+    "worst_synergies": [
+      "Lúcio",
+      "Reaper",
+      "Juno"
+    ],
+    "best_maps": [
+      "New Junk City",
+      "New Queen Street",
+      "Aatlis"
+    ],
+    "worst_maps": [
+      "Rialto",
+      "Havana",
+      "Dorado"
     ]
   },
   {
@@ -236,7 +903,41 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Junkrat", "Junk", "Rat"]
+    "nicks": [
+      "Junkrat",
+      "Junk",
+      "Rat"
+    ],
+    "counters": [
+      "Brigitte",
+      "Anran",
+      "Echo"
+    ],
+    "countered_by": [
+      "D.Va",
+      "Mercy",
+      "Ashe"
+    ],
+    "best_synergies": [
+      "Illari",
+      "Wrecking Ball",
+      "Sojourn"
+    ],
+    "worst_synergies": [
+      "Baptiste",
+      "Roadhog",
+      "Junker Queen"
+    ],
+    "best_maps": [
+      "Eichenwalde",
+      "King's Row",
+      "Hollywood"
+    ],
+    "worst_maps": [
+      "Havana",
+      "Busan",
+      "New Queen Street"
+    ]
   },
   {
     "name": "Juno",
@@ -247,7 +948,43 @@
     "health": 75,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Juno", "Astronaut", "Space", "Martian", "Mars"]
+    "nicks": [
+      "Juno",
+      "Astronaut",
+      "Space",
+      "Martian",
+      "Mars"
+    ],
+    "counters": [
+      "Widowmaker",
+      "Brigitte",
+      "Sigma"
+    ],
+    "countered_by": [
+      "Venture",
+      "Wrecking Ball",
+      "Doomfist"
+    ],
+    "best_synergies": [
+      "Zarya",
+      "Pharah",
+      "Anran"
+    ],
+    "worst_synergies": [
+      "Vendetta",
+      "Orisa",
+      "Echo"
+    ],
+    "best_maps": [
+      "New Queen Street",
+      "Numbani",
+      "Runasapi"
+    ],
+    "worst_maps": [
+      "Oasis",
+      "Nepal",
+      "Eichenwalde"
+    ]
   },
   {
     "name": "Kiriko",
@@ -258,7 +995,44 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Kiriko", "Kamori", "Protector", "Kunoichi", "Fox", "Kitsune"]
+    "nicks": [
+      "Kiriko",
+      "Kamori",
+      "Protector",
+      "Kunoichi",
+      "Fox",
+      "Kitsune"
+    ],
+    "counters": [
+      "Wrecking Ball",
+      "Soldier: 76",
+      "Lifeweaver"
+    ],
+    "countered_by": [
+      "Sombra",
+      "Lúcio",
+      "D.Va"
+    ],
+    "best_synergies": [
+      "Junker Queen",
+      "Mizuki",
+      "Zenyatta"
+    ],
+    "worst_synergies": [
+      "Lifeweaver",
+      "D.Va",
+      "Widowmaker"
+    ],
+    "best_maps": [
+      "Esperança",
+      "Samoa",
+      "New Queen Street"
+    ],
+    "worst_maps": [
+      "Circuit Royal",
+      "Eichenwalde",
+      "Route 66"
+    ]
   },
   {
     "name": "Lifeweaver",
@@ -269,7 +1043,43 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["lifeweaver", "life", "weaver", "tree", "flower"]
+    "nicks": [
+      "lifeweaver",
+      "life",
+      "weaver",
+      "tree",
+      "flower"
+    ],
+    "counters": [
+      "Hanzo",
+      "Doomfist",
+      "Wuyang"
+    ],
+    "countered_by": [
+      "Torbjörn",
+      "Brigitte",
+      "Tracer"
+    ],
+    "best_synergies": [
+      "Wrecking Ball",
+      "Hazard",
+      "Genji"
+    ],
+    "worst_synergies": [
+      "Kiriko",
+      "Roadhog",
+      "D.Va"
+    ],
+    "best_maps": [
+      "Dorado",
+      "Watchpoint: Gibraltar",
+      "Junkertown"
+    ],
+    "worst_maps": [
+      "Oasis",
+      "Nepal",
+      "Lijiang Tower"
+    ]
   },
   {
     "name": "Lúcio",
@@ -280,7 +1090,44 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Lúcio", "Frog", "Frogger", "DJ", "Brasil", "Mafia"]
+    "nicks": [
+      "Lúcio",
+      "Frog",
+      "Frogger",
+      "DJ",
+      "Brasil",
+      "Mafia"
+    ],
+    "counters": [
+      "Pharah",
+      "Brigitte",
+      "Kiriko"
+    ],
+    "countered_by": [
+      "Lifeweaver",
+      "Genji",
+      "Zarya"
+    ],
+    "best_synergies": [
+      "Venture",
+      "Vendetta",
+      "Ashe"
+    ],
+    "worst_synergies": [
+      "Junker Queen",
+      "Sierra",
+      "Ramattra"
+    ],
+    "best_maps": [
+      "Ilios",
+      "Lijiang Tower",
+      "Nepal"
+    ],
+    "worst_maps": [
+      "Blizzard World",
+      "Junkertown",
+      "Hollywood"
+    ]
   },
   {
     "name": "Mauga",
@@ -300,6 +1147,36 @@
       "Cha-Cha",
       "Gunny",
       "Berseker"
+    ],
+    "counters": [
+      "Doomfist",
+      "Lifeweaver",
+      "Orisa"
+    ],
+    "countered_by": [
+      "Jetpack Cat",
+      "Wrecking Ball",
+      "Domina"
+    ],
+    "best_synergies": [
+      "Zarya",
+      "Sigma",
+      "Juno"
+    ],
+    "worst_synergies": [
+      "Moira",
+      "Cassidy",
+      "Sojourn"
+    ],
+    "best_maps": [
+      "Samoa",
+      "Busan",
+      "Antarctic Peninsula"
+    ],
+    "worst_maps": [
+      "Hollywood",
+      "Blizzard World",
+      "Rialto"
     ]
   },
   {
@@ -311,7 +1188,45 @@
     "health": 300,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Mei", "Ice", "Demon", "Scientist", "Cold", "Snow", "Snowball"]
+    "nicks": [
+      "Mei",
+      "Ice",
+      "Demon",
+      "Scientist",
+      "Cold",
+      "Snow",
+      "Snowball"
+    ],
+    "counters": [
+      "Sierra",
+      "Baptiste",
+      "Ramattra"
+    ],
+    "countered_by": [
+      "Doomfist",
+      "Sigma",
+      "Wuyang"
+    ],
+    "best_synergies": [
+      "D.Va",
+      "Kiriko",
+      "Zarya"
+    ],
+    "worst_synergies": [
+      "Brigitte",
+      "Orisa",
+      "Roadhog"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Shambali Monastery",
+      "Rialto"
+    ],
+    "worst_maps": [
+      "Numbani",
+      "Watchpoint: Gibraltar",
+      "Dorado"
+    ]
   },
   {
     "name": "Mercy",
@@ -322,7 +1237,44 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Mercy", "Medic", "Angela", "Valkyrie", "Witch", "Fly"]
+    "nicks": [
+      "Mercy",
+      "Medic",
+      "Angela",
+      "Valkyrie",
+      "Witch",
+      "Fly"
+    ],
+    "counters": [
+      "Junkrat",
+      "Roadhog",
+      "Jetpack Cat"
+    ],
+    "countered_by": [
+      "Venture",
+      "Wrecking Ball",
+      "Lifeweaver"
+    ],
+    "best_synergies": [
+      "Roadhog",
+      "Lúcio",
+      "Illari"
+    ],
+    "worst_synergies": [
+      "Freja",
+      "Domina",
+      "Reinhardt"
+    ],
+    "best_maps": [
+      "Route 66",
+      "Blizzard World",
+      "Dorado"
+    ],
+    "worst_maps": [
+      "Oasis",
+      "Lijiang Tower",
+      "Nepal"
+    ]
   },
   {
     "name": "Mizuki",
@@ -341,6 +1293,36 @@
       "Kanezaka",
       "Hashimoto",
       "Yokai"
+    ],
+    "counters": [
+      "Baptiste",
+      "Domina",
+      "Wuyang"
+    ],
+    "countered_by": [
+      "Roadhog",
+      "Anran",
+      "Ashe"
+    ],
+    "best_synergies": [
+      "Orisa",
+      "Wrecking Ball",
+      "Lúcio"
+    ],
+    "worst_synergies": [
+      "Zarya",
+      "Jetpack Cat",
+      "Pharah"
+    ],
+    "best_maps": [
+      "Antarctic Peninsula",
+      "Samoa",
+      "Nepal"
+    ],
+    "worst_maps": [
+      "Colosseo",
+      "Blizzard World",
+      "Numbani"
     ]
   },
   {
@@ -352,7 +1334,41 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Moira", "Otaku", "Mora"]
+    "nicks": [
+      "Moira",
+      "Otaku",
+      "Mora"
+    ],
+    "counters": [
+      "Lifeweaver",
+      "Reinhardt",
+      "Sierra"
+    ],
+    "countered_by": [
+      "Vendetta",
+      "Baptiste",
+      "Hazard"
+    ],
+    "best_synergies": [
+      "D.Va",
+      "Vendetta",
+      "Lúcio"
+    ],
+    "worst_synergies": [
+      "Illari",
+      "Mauga",
+      "Ana"
+    ],
+    "best_maps": [
+      "Busan",
+      "Nepal",
+      "Antarctic Peninsula"
+    ],
+    "worst_maps": [
+      "Havana",
+      "Circuit Royal",
+      "Rialto"
+    ]
   },
   {
     "name": "Orisa",
@@ -363,7 +1379,41 @@
     "health": 300,
     "armor": 300,
     "on_rotation": true,
-    "nicks": ["Orisa", "Horse", "Efi"]
+    "nicks": [
+      "Orisa",
+      "Horse",
+      "Efi"
+    ],
+    "counters": [
+      "Reinhardt",
+      "Echo",
+      "Wrecking Ball"
+    ],
+    "countered_by": [
+      "Mizuki",
+      "Freja",
+      "Hazard"
+    ],
+    "best_synergies": [
+      "Mizuki",
+      "Venture",
+      "Domina"
+    ],
+    "worst_synergies": [
+      "Wuyang",
+      "Tracer",
+      "Sojourn"
+    ],
+    "best_maps": [
+      "Rialto",
+      "Lijiang Tower",
+      "Havana"
+    ],
+    "worst_maps": [
+      "Aatlis",
+      "Colosseo",
+      "Esperança"
+    ]
   },
   {
     "name": "Pharah",
@@ -374,7 +1424,41 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Pharah", "Amari", "Fly"]
+    "nicks": [
+      "Pharah",
+      "Amari",
+      "Fly"
+    ],
+    "counters": [
+      "Emre",
+      "Illari",
+      "Roadhog"
+    ],
+    "countered_by": [
+      "Lúcio",
+      "Domina",
+      "Wrecking Ball"
+    ],
+    "best_synergies": [
+      "Jetpack Cat",
+      "Roadhog",
+      "Juno"
+    ],
+    "worst_synergies": [
+      "Wrecking Ball",
+      "Moira",
+      "Mizuki"
+    ],
+    "best_maps": [
+      "Lijiang Tower",
+      "Ilios",
+      "Eichenwalde"
+    ],
+    "worst_maps": [
+      "Midtown",
+      "Junkertown",
+      "Havana"
+    ]
   },
   {
     "name": "Ramattra",
@@ -385,7 +1469,42 @@
     "health": 425,
     "armor": 100,
     "on_rotation": true,
-    "nicks": ["Ramattra", "Ramatra", "Rammatra", "Rammattra"]
+    "nicks": [
+      "Ramattra",
+      "Ramatra",
+      "Rammatra",
+      "Rammattra"
+    ],
+    "counters": [
+      "Orisa",
+      "Soldier: 76",
+      "Sojourn"
+    ],
+    "countered_by": [
+      "Hazard",
+      "Mizuki",
+      "Echo"
+    ],
+    "best_synergies": [
+      "Ashe",
+      "Jetpack Cat",
+      "Tracer"
+    ],
+    "worst_synergies": [
+      "Lúcio",
+      "Bastion",
+      "Anran"
+    ],
+    "best_maps": [
+      "Shambali Monastery",
+      "Havana",
+      "Midtown"
+    ],
+    "worst_maps": [
+      "Suravasa",
+      "Ilios",
+      "Esperança"
+    ]
   },
   {
     "name": "Reaper",
@@ -396,7 +1515,42 @@
     "health": 300,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Reaper", "Gabriel", "Reyes", "Death"]
+    "nicks": [
+      "Reaper",
+      "Gabriel",
+      "Reyes",
+      "Death"
+    ],
+    "counters": [
+      "Freja",
+      "Jetpack Cat",
+      "Roadhog"
+    ],
+    "countered_by": [
+      "Lúcio",
+      "Wrecking Ball",
+      "Sombra"
+    ],
+    "best_synergies": [
+      "Lúcio",
+      "Hanzo",
+      "Wrecking Ball"
+    ],
+    "worst_synergies": [
+      "Moira",
+      "Junker Queen",
+      "Orisa"
+    ],
+    "best_maps": [
+      "Ilios",
+      "Dorado",
+      "Aatlis"
+    ],
+    "worst_maps": [
+      "Blizzard World",
+      "Rialto",
+      "Circuit Royal"
+    ]
   },
   {
     "name": "Reinhardt",
@@ -407,7 +1561,44 @@
     "health": 400,
     "armor": 300,
     "on_rotation": true,
-    "nicks": ["Reinhardt", "Rein", "Shield", "Crusader", "Garen", "German"]
+    "nicks": [
+      "Reinhardt",
+      "Rein",
+      "Shield",
+      "Crusader",
+      "Garen",
+      "German"
+    ],
+    "counters": [
+      "Echo",
+      "Lúcio",
+      "Illari"
+    ],
+    "countered_by": [
+      "Torbjörn",
+      "Wrecking Ball",
+      "Ashe"
+    ],
+    "best_synergies": [
+      "Freja",
+      "Illari",
+      "Zarya"
+    ],
+    "worst_synergies": [
+      "Jetpack Cat",
+      "Brigitte",
+      "Widowmaker"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Eichenwalde",
+      "Lijiang Tower"
+    ],
+    "worst_maps": [
+      "Route 66",
+      "Junkertown",
+      "Watchpoint: Gibraltar"
+    ]
   },
   {
     "name": "Roadhog",
@@ -418,7 +1609,43 @@
     "health": 750,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Roadhog", "Road", "Hog", "Pig", "Hook"]
+    "nicks": [
+      "Roadhog",
+      "Road",
+      "Hog",
+      "Pig",
+      "Hook"
+    ],
+    "counters": [
+      "Mizuki",
+      "Torbjörn",
+      "Winston"
+    ],
+    "countered_by": [
+      "Mercy",
+      "Pharah",
+      "D.Va"
+    ],
+    "best_synergies": [
+      "Mercy",
+      "Venture",
+      "Ashe"
+    ],
+    "worst_synergies": [
+      "Cassidy",
+      "Lifeweaver",
+      "Junkrat"
+    ],
+    "best_maps": [
+      "Ilios",
+      "Oasis",
+      "Nepal"
+    ],
+    "worst_maps": [
+      "Numbani",
+      "Circuit Royal",
+      "Blizzard World"
+    ]
   },
   {
     "name": "Sierra",
@@ -438,6 +1665,36 @@
       "Roth",
       "Turner",
       "Woods"
+    ],
+    "counters": [
+      "Winston",
+      "Zenyatta",
+      "Soldier: 76"
+    ],
+    "countered_by": [
+      "Jetpack Cat",
+      "Mei",
+      "Sigma"
+    ],
+    "best_synergies": [
+      "Hazard",
+      "Junker Queen",
+      "Lifeweaver"
+    ],
+    "worst_synergies": [
+      "Junkrat",
+      "D.Va",
+      "Winston"
+    ],
+    "best_maps": [
+      "Route 66",
+      "Watchpoint: Gibraltar",
+      "Dorado"
+    ],
+    "worst_maps": [
+      "Suravasa",
+      "New Junk City",
+      "Ilios"
     ]
   },
   {
@@ -449,7 +1706,45 @@
     "health": 350,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Sigma", "Foot", "Foots", "Gravity", "Melody", "Fly", "Rock"]
+    "nicks": [
+      "Sigma",
+      "Foot",
+      "Foots",
+      "Gravity",
+      "Melody",
+      "Fly",
+      "Rock"
+    ],
+    "counters": [
+      "Winston",
+      "Moira",
+      "Sierra"
+    ],
+    "countered_by": [
+      "Venture",
+      "Mercy",
+      "D.Va"
+    ],
+    "best_synergies": [
+      "Venture",
+      "Baptiste",
+      "Zenyatta"
+    ],
+    "worst_synergies": [
+      "Sombra",
+      "Brigitte",
+      "Hanzo"
+    ],
+    "best_maps": [
+      "Circuit Royal",
+      "Havana",
+      "Midtown"
+    ],
+    "worst_maps": [
+      "Lijiang Tower",
+      "Busan",
+      "Runasapi"
+    ]
   },
   {
     "name": "Sojourn",
@@ -460,7 +1755,44 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Sojourn", "Sojorn", "Legs", "Tights", "Vivian", "Chase"]
+    "nicks": [
+      "Sojourn",
+      "Sojorn",
+      "Legs",
+      "Tights",
+      "Vivian",
+      "Chase"
+    ],
+    "counters": [
+      "Orisa",
+      "Pharah",
+      "Tracer"
+    ],
+    "countered_by": [
+      "Vendetta",
+      "Jetpack Cat",
+      "Doomfist"
+    ],
+    "best_synergies": [
+      "Wuyang",
+      "Zarya",
+      "Genji"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Kiriko",
+      "Mizuki"
+    ],
+    "best_maps": [
+      "Circuit Royal",
+      "Midtown",
+      "Shambali Monastery"
+    ],
+    "worst_maps": [
+      "Numbani",
+      "Watchpoint: Gibraltar",
+      "Dorado"
+    ]
   },
   {
     "name": "Soldier: 76",
@@ -471,7 +1803,44 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Soldier: 76", "Soldier", "76", "Jack", "Morrison", "Legs"]
+    "nicks": [
+      "Soldier: 76",
+      "Soldier",
+      "76",
+      "Jack",
+      "Morrison",
+      "Legs"
+    ],
+    "counters": [
+      "Sombra",
+      "Lifeweaver",
+      "Bastion"
+    ],
+    "countered_by": [
+      "Ramattra",
+      "Tracer",
+      "Mizuki"
+    ],
+    "best_synergies": [
+      "Hazard",
+      "Venture",
+      "Genji"
+    ],
+    "worst_synergies": [
+      "Brigitte",
+      "Junker Queen",
+      "Jetpack Cat"
+    ],
+    "best_maps": [
+      "New Queen Street",
+      "Runasapi",
+      "Busan"
+    ],
+    "worst_maps": [
+      "Rialto",
+      "Eichenwalde",
+      "King's Row"
+    ]
   },
   {
     "name": "Sombra",
@@ -482,7 +1851,43 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Sombra", "Hacker", "Mexican", "Mexico", "Los Muertos"]
+    "nicks": [
+      "Sombra",
+      "Hacker",
+      "Mexican",
+      "Mexico",
+      "Los Muertos"
+    ],
+    "counters": [
+      "Cassidy",
+      "D.Va",
+      "Torbjörn"
+    ],
+    "countered_by": [
+      "Lúcio",
+      "Doomfist",
+      "Echo"
+    ],
+    "best_synergies": [
+      "Zarya",
+      "Baptiste",
+      "Wuyang"
+    ],
+    "worst_synergies": [
+      "Mei",
+      "Sigma",
+      "Orisa"
+    ],
+    "best_maps": [
+      "Colosseo",
+      "Esperança",
+      "Blizzard World"
+    ],
+    "worst_maps": [
+      "Nepal",
+      "Lijiang Tower",
+      "King's Row"
+    ]
   },
   {
     "name": "Symmetra",
@@ -493,7 +1898,44 @@
     "health": 125,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Symmetra", "Sym", "Summoner", "Teleporter", "TP", "Microwave"]
+    "nicks": [
+      "Symmetra",
+      "Sym",
+      "Summoner",
+      "Teleporter",
+      "TP",
+      "Microwave"
+    ],
+    "counters": [
+      "Jetpack Cat",
+      "Mauga",
+      "Anran"
+    ],
+    "countered_by": [
+      "Venture",
+      "Wrecking Ball",
+      "Genji"
+    ],
+    "best_synergies": [
+      "Lúcio",
+      "Zarya",
+      "Mizuki"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Brigitte",
+      "Reinhardt"
+    ],
+    "best_maps": [
+      "Lijiang Tower",
+      "Nepal",
+      "Antarctic Peninsula"
+    ],
+    "worst_maps": [
+      "Watchpoint: Gibraltar",
+      "Rialto",
+      "Route 66"
+    ]
   },
   {
     "name": "Torbjörn",
@@ -504,7 +1946,44 @@
     "health": 225,
     "armor": 75,
     "on_rotation": true,
-    "nicks": ["Torbjörn", "Torbjorn", "Torb", "Dwarf", "Enginner", "Lindholm"]
+    "nicks": [
+      "Torbjörn",
+      "Torbjorn",
+      "Torb",
+      "Dwarf",
+      "Enginner",
+      "Lindholm"
+    ],
+    "counters": [
+      "Moira",
+      "Domina",
+      "Wrecking Ball"
+    ],
+    "countered_by": [
+      "Roadhog",
+      "Zarya",
+      "Jetpack Cat"
+    ],
+    "best_synergies": [
+      "Illari",
+      "Mei",
+      "Zarya"
+    ],
+    "worst_synergies": [
+      "Winston",
+      "Lifeweaver",
+      "Wuyang"
+    ],
+    "best_maps": [
+      "Eichenwalde",
+      "Busan",
+      "Paraíso"
+    ],
+    "worst_maps": [
+      "Runasapi",
+      "Watchpoint: Gibraltar",
+      "Dorado"
+    ]
   },
   {
     "name": "Tracer",
@@ -515,7 +1994,44 @@
     "health": 175,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Tracer", "Pilot", "Lena", "Light", "Time", "Recall"]
+    "nicks": [
+      "Tracer",
+      "Pilot",
+      "Lena",
+      "Light",
+      "Time",
+      "Recall"
+    ],
+    "counters": [
+      "Doomfist",
+      "Moira",
+      "Brigitte"
+    ],
+    "countered_by": [
+      "Symmetra",
+      "Sojourn",
+      "Wuyang"
+    ],
+    "best_synergies": [
+      "Wuyang",
+      "Wrecking Ball",
+      "Junker Queen"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Kiriko",
+      "Juno"
+    ],
+    "best_maps": [
+      "Runasapi",
+      "Colosseo",
+      "New Queen Street"
+    ],
+    "worst_maps": [
+      "Paraíso",
+      "Circuit Royal",
+      "Dorado"
+    ]
   },
   {
     "name": "Vendetta",
@@ -535,6 +2051,36 @@
       "Italian",
       "Colosseum",
       "Big Sword"
+    ],
+    "counters": [
+      "Sojourn",
+      "Winston",
+      "Orisa"
+    ],
+    "countered_by": [
+      "Baptiste",
+      "Symmetra",
+      "Doomfist"
+    ],
+    "best_synergies": [
+      "Lúcio",
+      "Sierra",
+      "Zenyatta"
+    ],
+    "worst_synergies": [
+      "Juno",
+      "Ana",
+      "Sigma"
+    ],
+    "best_maps": [
+      "Eichenwalde",
+      "Dorado",
+      "Hollywood"
+    ],
+    "worst_maps": [
+      "Junkertown",
+      "Runasapi",
+      "Midtown"
     ]
   },
   {
@@ -556,6 +2102,36 @@
       "Archeologist",
       "Excavator",
       "Miner"
+    ],
+    "counters": [
+      "Juno",
+      "Moira",
+      "Sigma"
+    ],
+    "countered_by": [
+      "Wrecking Ball",
+      "Genji",
+      "Wuyang"
+    ],
+    "best_synergies": [
+      "Jetpack Cat",
+      "Lúcio",
+      "Domina"
+    ],
+    "worst_synergies": [
+      "Juno",
+      "Wrecking Ball",
+      "Wuyang"
+    ],
+    "best_maps": [
+      "Colosseo",
+      "New Junk City",
+      "King's Row"
+    ],
+    "worst_maps": [
+      "New Queen Street",
+      "Paraíso",
+      "Circuit Royal"
     ]
   },
   {
@@ -567,7 +2143,43 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Widowmaker", "Widow", "Spider", "Sniper", "Venom"]
+    "nicks": [
+      "Widowmaker",
+      "Widow",
+      "Spider",
+      "Sniper",
+      "Venom"
+    ],
+    "counters": [
+      "Roadhog",
+      "Junkrat",
+      "Lifeweaver"
+    ],
+    "countered_by": [
+      "Sigma",
+      "Juno",
+      "Ashe"
+    ],
+    "best_synergies": [
+      "Zenyatta",
+      "Sigma",
+      "Wuyang"
+    ],
+    "worst_synergies": [
+      "Reinhardt",
+      "Kiriko",
+      "Orisa"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Havana",
+      "Junkertown"
+    ],
+    "worst_maps": [
+      "New Junk City",
+      "Nepal",
+      "Oasis"
+    ]
   },
   {
     "name": "Winston",
@@ -586,6 +2198,36 @@
       "Monky",
       "Angry",
       "Angy"
+    ],
+    "counters": [
+      "Ramattra",
+      "Torbjörn",
+      "Reaper"
+    ],
+    "countered_by": [
+      "Sigma",
+      "Lúcio",
+      "Sierra"
+    ],
+    "best_synergies": [
+      "Lúcio",
+      "Anran",
+      "Sombra"
+    ],
+    "worst_synergies": [
+      "Genji",
+      "Jetpack Cat",
+      "Bastion"
+    ],
+    "best_maps": [
+      "Watchpoint: Gibraltar",
+      "Dorado",
+      "Numbani"
+    ],
+    "worst_maps": [
+      "King's Row",
+      "Eichenwalde",
+      "Midtown"
     ]
   },
   {
@@ -605,6 +2247,36 @@
       "Hamster",
       "Rat",
       "Moon"
+    ],
+    "counters": [
+      "Reinhardt",
+      "Mauga",
+      "Echo"
+    ],
+    "countered_by": [
+      "Kiriko",
+      "Torbjörn",
+      "Orisa"
+    ],
+    "best_synergies": [
+      "Lifeweaver",
+      "Tracer",
+      "Zenyatta"
+    ],
+    "worst_synergies": [
+      "Baptiste",
+      "Pharah",
+      "Venture"
+    ],
+    "best_maps": [
+      "Colosseo",
+      "Runasapi",
+      "New Queen Street"
+    ],
+    "worst_maps": [
+      "Samoa",
+      "Rialto",
+      "Nepal"
     ]
   },
   {
@@ -616,7 +2288,43 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Wuyang", "Water", "skater", "stick", "wave"]
+    "nicks": [
+      "Wuyang",
+      "Water",
+      "skater",
+      "stick",
+      "wave"
+    ],
+    "counters": [
+      "Bastion",
+      "Brigitte",
+      "Kiriko"
+    ],
+    "countered_by": [
+      "Junker Queen",
+      "Lifeweaver",
+      "Zarya"
+    ],
+    "best_synergies": [
+      "D.Va",
+      "Sojourn",
+      "Lifeweaver"
+    ],
+    "worst_synergies": [
+      "Orisa",
+      "Illari",
+      "Sierra"
+    ],
+    "best_maps": [
+      "New Queen Street",
+      "Runasapi",
+      "Esperança"
+    ],
+    "worst_maps": [
+      "Busan",
+      "Lijiang Tower",
+      "Ilios"
+    ]
   },
   {
     "name": "Zarya",
@@ -627,7 +2335,43 @@
     "health": 325,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Zarya", "Russian", "Rusia", "Strong", "Gravity"]
+    "nicks": [
+      "Zarya",
+      "Russian",
+      "Rusia",
+      "Strong",
+      "Gravity"
+    ],
+    "counters": [
+      "Genji",
+      "Junker Queen",
+      "Lúcio"
+    ],
+    "countered_by": [
+      "Jetpack Cat",
+      "Wrecking Ball",
+      "Bastion"
+    ],
+    "best_synergies": [
+      "Zenyatta",
+      "Sombra",
+      "Hazard"
+    ],
+    "worst_synergies": [
+      "Mizuki",
+      "Brigitte",
+      "Hanzo"
+    ],
+    "best_maps": [
+      "King's Row",
+      "Hollywood",
+      "Midtown"
+    ],
+    "worst_maps": [
+      "Route 66",
+      "Junkertown",
+      "Ilios"
+    ]
   },
   {
     "name": "Zenyatta",
@@ -638,6 +2382,42 @@
     "health": 75,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Zenyatta", "Zen", "Monk", "Omnic", "Budist"]
+    "nicks": [
+      "Zenyatta",
+      "Zen",
+      "Monk",
+      "Omnic",
+      "Budist"
+    ],
+    "counters": [
+      "Genji",
+      "Brigitte",
+      "Domina"
+    ],
+    "countered_by": [
+      "Venture",
+      "Wrecking Ball",
+      "Baptiste"
+    ],
+    "best_synergies": [
+      "Zarya",
+      "Ashe",
+      "Wrecking Ball"
+    ],
+    "worst_synergies": [
+      "Brigitte",
+      "Domina",
+      "Hanzo"
+    ],
+    "best_maps": [
+      "Havana",
+      "King's Row",
+      "Rialto"
+    ],
+    "worst_maps": [
+      "Aatlis",
+      "Runasapi",
+      "Numbani"
+    ]
   }
 ]
