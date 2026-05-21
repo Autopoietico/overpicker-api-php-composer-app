@@ -1192,7 +1192,7 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Jetpack Cat", "Cat", "Flying Cat", "Fika", "Jetpack", "Fee-ka"],
+    "nicks": ["Cat", "Jetpack Cat", "Flying Cat", "Fika", "Jetpack", "Fee-ka"],
     "counters": [
       {
         "name": "Mauga",
