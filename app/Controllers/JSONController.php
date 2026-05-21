@@ -55,4 +55,9 @@ class JSONController{
 
         return '../public/map-data/map-info.json';
     }
+
+    public function advicesAction(){
+
+        return '../public/page-data/advices.json';
+    }
 }

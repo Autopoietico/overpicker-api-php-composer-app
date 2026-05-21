@@ -70,6 +70,11 @@
         'controller' => 'App\Controllers\JSONController',
         'action' => 'mapInfoAction'
     ]);
+    $map->get('advices','/advices',[
+
+        'controller' => 'App\Controllers\JSONController',
+        'action' => 'advicesAction'
+    ]);
 
     $matcher = $routerContainer->getMatcher();
     $route = $matcher->match($request);
