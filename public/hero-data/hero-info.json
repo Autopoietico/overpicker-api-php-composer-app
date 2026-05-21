@@ -1545,7 +1545,7 @@
     "health": 200,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Lifeweaver", "life", "weaver", "tree", "flower"],
+    "nicks": ["Weaver", "Lifeweaver", "life", "weaver", "tree", "flower"],
     "counters": [
       {
         "name": "Hanzo",
