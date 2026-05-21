@@ -560,7 +560,7 @@
     "health": 250,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Domina", "Vishkar", "Vaira", "Shingania"],
+    "nicks": ["Domin", "Domina", "Vishkar", "Vaira", "Shingania"],
     "counters": [
       {
         "name": "Pharah",
@@ -2614,7 +2614,15 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Sojourn", "Sojorn", "Legs", "Tights", "Vivian", "Chase"],
+    "nicks": [
+      "Sojou",
+      "Sojourn",
+      "Sojorn",
+      "Legs",
+      "Tights",
+      "Vivian",
+      "Chase"
+    ],
     "counters": [
       {
         "name": "Orisa",
@@ -2752,7 +2760,7 @@
     "health": 225,
     "armor": 0,
     "on_rotation": true,
-    "nicks": ["Sombra", "Hacker", "Mexican", "Mexico", "Los Muertos"],
+    "nicks": ["Somb", "Sombra", "Hacker", "Mexican", "Mexico", "Los Muertos"],
     "counters": [
       {
         "name": "Cassidy",
@@ -3029,6 +3037,7 @@
     "armor": 75,
     "on_rotation": true,
     "nicks": [
+      "Venda",
       "Vendetta",
       "Vengeance",
       "Gladiator",
@@ -3107,6 +3116,7 @@
     "armor": 0,
     "on_rotation": true,
     "nicks": [
+      "Ventur",
       "Venture",
       "Venchure",
       "Adventure",
@@ -3255,6 +3265,7 @@
     "armor": 200,
     "on_rotation": true,
     "nicks": [
+      "Winton",
       "Winston",
       "Monkey",
       "Scientist",
