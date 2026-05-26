@@ -78,9 +78,9 @@
       "Havana"
     ],
     "worst_maps": [
-      "Suravasa",
-      "Oasis",
-      "Antarctic Peninsula"
+      "Runasapi",
+      "Esperança",
+      "Suravasa"
     ]
   },
   {
@@ -157,12 +157,12 @@
     ],
     "best_maps": [
       "Colosseo",
-      "Runasapi",
-      "Aatlis"
+      "Aatlis",
+      "Runasapi"
     ],
     "worst_maps": [
-      "Numbani",
       "King's Row",
+      "Numbani",
       "Circuit Royal"
     ]
   },
@@ -242,12 +242,12 @@
     "best_maps": [
       "Circuit Royal",
       "Junkertown",
-      "Watchpoint: Gibraltar"
+      "Havana"
     ],
     "worst_maps": [
-      "Oasis",
-      "Ilios",
-      "Lijiang Tower"
+      "Nepal",
+      "Lijiang Tower",
+      "Ilios"
     ]
   },
   {
@@ -324,12 +324,12 @@
       }
     ],
     "best_maps": [
-      "King's Row",
       "Numbani",
-      "Watchpoint: Gibraltar"
+      "King's Row",
+      "Paraíso"
     ],
     "worst_maps": [
-      "Aatlis",
+      "Ilios",
       "Runasapi",
       "Colosseo"
     ]
@@ -410,8 +410,8 @@
       "Shambali Monastery"
     ],
     "worst_maps": [
-      "New Junk City",
       "Ilios",
+      "New Junk City",
       "Colosseo"
     ]
   },
@@ -487,13 +487,13 @@
       }
     ],
     "best_maps": [
-      "New Junk City",
       "Aatlis",
-      "Nepal"
+      "New Junk City",
+      "Samoa"
     ],
     "worst_maps": [
-      "Circuit Royal",
       "Hollywood",
+      "Paraíso",
       "Blizzard World"
     ]
   },
@@ -576,8 +576,8 @@
       "Samoa"
     ],
     "worst_maps": [
-      "King's Row",
       "Shambali Monastery",
+      "Rialto",
       "Blizzard World"
     ]
   },
@@ -655,12 +655,12 @@
     ],
     "best_maps": [
       "Numbani",
-      "Paraíso",
+      "Watchpoint: Gibraltar",
       "Dorado"
     ],
     "worst_maps": [
+      "Circuit Royal",
       "Lijiang Tower",
-      "Shambali Monastery",
       "King's Row"
     ]
   },
@@ -737,14 +737,14 @@
       }
     ],
     "best_maps": [
-      "Circuit Royal",
       "Havana",
+      "Circuit Royal",
       "Rialto"
     ],
     "worst_maps": [
-      "Oasis",
-      "Aatlis",
-      "New Junk City"
+      "Esperança",
+      "New Junk City",
+      "Aatlis"
     ]
   },
   {
@@ -827,7 +827,7 @@
     ],
     "worst_maps": [
       "Busan",
-      "Antarctic Peninsula",
+      "Hollywood",
       "Junkertown"
     ]
   },
@@ -904,12 +904,12 @@
     ],
     "best_maps": [
       "Eichenwalde",
-      "Numbani",
-      "Dorado"
+      "Dorado",
+      "Numbani"
     ],
     "worst_maps": [
-      "Havana",
       "Busan",
+      "Havana",
       "Midtown"
     ]
   },
@@ -987,11 +987,11 @@
     ],
     "best_maps": [
       "Circuit Royal",
-      "Blizzard World",
-      "Havana"
+      "Havana",
+      "Numbani"
     ],
     "worst_maps": [
-      "New Junk City",
+      "Aatlis",
       "Lijiang Tower",
       "Ilios"
     ]
@@ -1068,13 +1068,13 @@
     ],
     "best_maps": [
       "Paraíso",
-      "Blizzard World",
-      "Watchpoint: Gibraltar"
+      "Route 66",
+      "Numbani"
     ],
     "worst_maps": [
+      "Colosseo",
       "Aatlis",
-      "Antarctic Peninsula",
-      "Suravasa"
+      "New Queen Street"
     ]
   },
   {
@@ -1149,14 +1149,14 @@
       }
     ],
     "best_maps": [
-      "Watchpoint: Gibraltar",
+      "Colosseo",
       "Dorado",
-      "Colosseo"
+      "Watchpoint: Gibraltar"
     ],
     "worst_maps": [
-      "Blizzard World",
-      "Midtown",
-      "Circuit Royal"
+      "Junkertown",
+      "Circuit Royal",
+      "Blizzard World"
     ]
   },
   {
@@ -1232,12 +1232,12 @@
     "best_maps": [
       "Midtown",
       "King's Row",
-      "Havana"
+      "Rialto"
     ],
     "worst_maps": [
-      "Busan",
+      "Samoa",
       "Antarctic Peninsula",
-      "Ilios"
+      "Busan"
     ]
   },
   {
@@ -1318,14 +1318,14 @@
       }
     ],
     "best_maps": [
+      "Suravasa",
       "Aatlis",
-      "Oasis",
-      "Suravasa"
+      "Ilios"
     ],
     "worst_maps": [
-      "King's Row",
+      "Rialto",
       "Havana",
-      "Shambali Monastery"
+      "Midtown"
     ]
   },
   {
@@ -1406,9 +1406,9 @@
       "Eichenwalde"
     ],
     "worst_maps": [
-      "Nepal",
-      "New Junk City",
-      "Colosseo"
+      "Aatlis",
+      "Colosseo",
+      "New Junk City"
     ]
   },
   {
@@ -1491,7 +1491,7 @@
     ],
     "worst_maps": [
       "Havana",
-      "Junkertown",
+      "New Queen Street",
       "Midtown"
     ]
   },
@@ -1575,9 +1575,9 @@
       "Aatlis"
     ],
     "worst_maps": [
-      "Rialto",
       "Havana",
-      "Dorado"
+      "Dorado",
+      "Blizzard World"
     ]
   },
   {
@@ -1656,7 +1656,7 @@
       "Hollywood"
     ],
     "worst_maps": [
-      "Havana",
+      "Junkertown",
       "Busan",
       "New Queen Street"
     ]
@@ -1734,12 +1734,12 @@
       }
     ],
     "best_maps": [
-      "New Queen Street",
       "Numbani",
+      "New Queen Street",
       "Runasapi"
     ],
     "worst_maps": [
-      "Oasis",
+      "Rialto",
       "Nepal",
       "Eichenwalde"
     ]
@@ -1820,10 +1820,10 @@
     "best_maps": [
       "Esperança",
       "Samoa",
-      "New Queen Street"
+      "Oasis"
     ],
     "worst_maps": [
-      "Circuit Royal",
+      "Hollywood",
       "Eichenwalde",
       "Route 66"
     ]
@@ -1907,9 +1907,9 @@
       "Junkertown"
     ],
     "worst_maps": [
-      "Oasis",
+      "Lijiang Tower",
       "Nepal",
-      "Lijiang Tower"
+      "Oasis"
     ]
   },
   {
@@ -1991,8 +1991,8 @@
       "Nepal"
     ],
     "worst_maps": [
-      "Blizzard World",
       "Junkertown",
+      "Blizzard World",
       "Hollywood"
     ]
   },
@@ -2077,7 +2077,7 @@
       "Antarctic Peninsula"
     ],
     "worst_maps": [
-      "Hollywood",
+      "King's Row",
       "Blizzard World",
       "Rialto"
     ]
@@ -2162,9 +2162,9 @@
       "Rialto"
     ],
     "worst_maps": [
-      "Numbani",
+      "Colosseo",
       "Watchpoint: Gibraltar",
-      "Dorado"
+      "Numbani"
     ]
   },
   {
@@ -2242,11 +2242,11 @@
     ],
     "best_maps": [
       "Route 66",
-      "Blizzard World",
-      "Dorado"
+      "Dorado",
+      "Blizzard World"
     ],
     "worst_maps": [
-      "Oasis",
+      "Samoa",
       "Lijiang Tower",
       "Nepal"
     ]
@@ -2328,11 +2328,11 @@
     "best_maps": [
       "Antarctic Peninsula",
       "Samoa",
-      "Nepal"
+      "Oasis"
     ],
     "worst_maps": [
       "Colosseo",
-      "Blizzard World",
+      "Junkertown",
       "Numbani"
     ]
   },
@@ -2489,12 +2489,12 @@
     ],
     "best_maps": [
       "Rialto",
-      "Lijiang Tower",
-      "Havana"
+      "Havana",
+      "Lijiang Tower"
     ],
     "worst_maps": [
-      "Aatlis",
       "Colosseo",
+      "Suravasa",
       "Esperança"
     ]
   },
@@ -2574,9 +2574,9 @@
       "Eichenwalde"
     ],
     "worst_maps": [
-      "Midtown",
       "Junkertown",
-      "Havana"
+      "Havana",
+      "Midtown"
     ]
   },
   {
@@ -2657,9 +2657,9 @@
       "Midtown"
     ],
     "worst_maps": [
-      "Suravasa",
       "Ilios",
-      "Esperança"
+      "Esperança",
+      "Runasapi"
     ]
   },
   {
@@ -2734,13 +2734,13 @@
       }
     ],
     "best_maps": [
-      "Ilios",
       "Dorado",
-      "Aatlis"
+      "Ilios",
+      "Nepal"
     ],
     "worst_maps": [
       "Blizzard World",
-      "Rialto",
+      "Shambali Monastery",
       "Circuit Royal"
     ]
   },
@@ -2824,7 +2824,7 @@
       "Lijiang Tower"
     ],
     "worst_maps": [
-      "Route 66",
+      "Numbani",
       "Junkertown",
       "Watchpoint: Gibraltar"
     ]
@@ -2907,7 +2907,7 @@
       "Nepal"
     ],
     "worst_maps": [
-      "Numbani",
+      "King's Row",
       "Circuit Royal",
       "Blizzard World"
     ]
@@ -2988,12 +2988,12 @@
       }
     ],
     "best_maps": [
+      "Paraíso",
       "Route 66",
-      "Watchpoint: Gibraltar",
-      "Dorado"
+      "Watchpoint: Gibraltar"
     ],
     "worst_maps": [
-      "Suravasa",
+      "Aatlis",
       "New Junk City",
       "Ilios"
     ]
@@ -3075,12 +3075,12 @@
     "best_maps": [
       "Circuit Royal",
       "Havana",
-      "Midtown"
+      "Shambali Monastery"
     ],
     "worst_maps": [
+      "Suravasa",
       "Lijiang Tower",
-      "Busan",
-      "Runasapi"
+      "New Queen Street"
     ]
   },
   {
@@ -3247,7 +3247,7 @@
       "Busan"
     ],
     "worst_maps": [
-      "Rialto",
+      "Ilios",
       "Eichenwalde",
       "King's Row"
     ]
@@ -3326,14 +3326,14 @@
       }
     ],
     "best_maps": [
-      "Colosseo",
+      "Blizzard World",
       "Esperança",
-      "Blizzard World"
+      "Colosseo"
     ],
     "worst_maps": [
-      "Nepal",
-      "Lijiang Tower",
-      "King's Row"
+      "Circuit Royal",
+      "King's Row",
+      "Rialto"
     ]
   },
   {
@@ -3412,7 +3412,7 @@
     "best_maps": [
       "Lijiang Tower",
       "Nepal",
-      "Antarctic Peninsula"
+      "Samoa"
     ],
     "worst_maps": [
       "Watchpoint: Gibraltar",
@@ -3496,12 +3496,12 @@
     "best_maps": [
       "Eichenwalde",
       "Busan",
-      "Paraíso"
+      "Samoa"
     ],
     "worst_maps": [
-      "Runasapi",
-      "Watchpoint: Gibraltar",
-      "Dorado"
+      "Hollywood",
+      "Dorado",
+      "Watchpoint: Gibraltar"
     ]
   },
   {
@@ -3578,14 +3578,14 @@
       }
     ],
     "best_maps": [
-      "Runasapi",
       "Colosseo",
-      "New Queen Street"
+      "Runasapi",
+      "Esperança"
     ],
     "worst_maps": [
-      "Paraíso",
+      "Dorado",
       "Circuit Royal",
-      "Dorado"
+      "King's Row"
     ]
   },
   {
@@ -3665,14 +3665,14 @@
       }
     ],
     "best_maps": [
-      "Eichenwalde",
+      "Watchpoint: Gibraltar",
       "Dorado",
-      "Hollywood"
+      "Eichenwalde"
     ],
     "worst_maps": [
-      "Junkertown",
-      "Runasapi",
-      "Midtown"
+      "Busan",
+      "Circuit Royal",
+      "Havana"
     ]
   },
   {
@@ -3755,12 +3755,12 @@
     "best_maps": [
       "Colosseo",
       "New Junk City",
-      "King's Row"
+      "Ilios"
     ],
     "worst_maps": [
-      "New Queen Street",
-      "Paraíso",
-      "Circuit Royal"
+      "Busan",
+      "Circuit Royal",
+      "Paraíso"
     ]
   },
   {
@@ -3927,7 +3927,7 @@
       "Numbani"
     ],
     "worst_maps": [
-      "King's Row",
+      "Shambali Monastery",
       "Eichenwalde",
       "Midtown"
     ]
@@ -4009,11 +4009,11 @@
     "best_maps": [
       "Colosseo",
       "Runasapi",
-      "New Queen Street"
+      "Junkertown"
     ],
     "worst_maps": [
-      "Samoa",
       "Rialto",
+      "Samoa",
       "Nepal"
     ]
   },
@@ -4090,14 +4090,14 @@
       }
     ],
     "best_maps": [
-      "New Queen Street",
-      "Runasapi",
-      "Esperança"
+      "Shambali Monastery",
+      "Esperança",
+      "Runasapi"
     ],
     "worst_maps": [
       "Busan",
-      "Lijiang Tower",
-      "Ilios"
+      "Ilios",
+      "Lijiang Tower"
     ]
   },
   {
@@ -4174,12 +4174,12 @@
     ],
     "best_maps": [
       "King's Row",
-      "Hollywood",
-      "Midtown"
+      "Antarctic Peninsula",
+      "Hollywood"
     ],
     "worst_maps": [
+      "Dorado",
       "Route 66",
-      "Junkertown",
       "Ilios"
     ]
   },
@@ -4257,13 +4257,13 @@
     ],
     "best_maps": [
       "Havana",
-      "King's Row",
-      "Rialto"
+      "Midtown",
+      "King's Row"
     ],
     "worst_maps": [
-      "Aatlis",
-      "Runasapi",
-      "Numbani"
+      "Suravasa",
+      "Numbani",
+      "Aatlis"
     ]
   }
 ]
