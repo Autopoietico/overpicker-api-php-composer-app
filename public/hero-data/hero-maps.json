@@ -22,7 +22,7 @@
         "B": 10
       },
       "Circuit Royal": {
-        "A": 10,
+        "A": 20,
         "B": 20,
         "C": 20
       },
@@ -145,7 +145,7 @@
       },
       "Shambali Monastery": {
         "A": 10,
-        "B": 10,
+        "B": 20,
         "C": 10
       },
       "Watchpoint: Gibraltar": {
@@ -407,13 +407,13 @@
         "C": 0
       },
       "Blizzard World": {
-        "A": -10,
-        "B": -10,
+        "A": 0,
+        "B": 0,
         "C": 0
       },
       "Eichenwalde": {
         "A": 20,
-        "B": 20,
+        "B": 10,
         "C": 0
       },
       "Hollywood": {
@@ -504,8 +504,8 @@
         "C": 0
       },
       "Blizzard World": {
-        "A": -10,
-        "B": -10,
+        "A": 0,
+        "B": 0,
         "C": 0
       },
       "Eichenwalde": {
@@ -574,7 +574,7 @@
         "Bazaar": 0,
         "Resort": 10,
         "Town Center": 10,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
         "Market": -20,
@@ -660,7 +660,7 @@
       "Watchpoint: Gibraltar": 0,
       "Numbani": 0,
       "Hollywood": 0,
-      "Blizzard World": -10,
+      "Blizzard World": 0,
       "Eichenwalde": 0,
       "Midtown": 0,
       "Paraíso": 0,
@@ -743,7 +743,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 20,
-        "B": 20,
+        "B": 10,
         "C": 10
       },
       "Havana": {
@@ -888,7 +888,7 @@
       "Colosseo": {
         "Ally": 0,
         "Mid": -10,
-        "Enemy": -20
+        "Enemy": -10
       },
       "Esperança": {
         "Ally": 0,
@@ -923,7 +923,7 @@
       },
       "Suravasa": {
         "Market": -20,
-        "Gardens": -10,
+        "Gardens": -20,
         "Palace": -10,
         "Temple": -20,
         "Ruins": -20
@@ -1179,7 +1179,7 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": -10,
+        "A": 0,
         "B": 10,
         "C": 0
       },
@@ -1231,9 +1231,9 @@
     },
     "Push": {
       "Colosseo": {
-        "Ally": 0,
-        "Mid": -10,
-        "Enemy": 0
+        "Ally": -10,
+        "Mid": -20,
+        "Enemy": -10
       },
       "Esperança": {
         "Ally": 0,
@@ -1253,9 +1253,9 @@
     },
     "Flashpoint": {
       "New Junk City": {
-        "Arena": -10,
-        "Ducts": 0,
-        "Refinery": 0,
+        "Arena": -20,
+        "Ducts": -10,
+        "Refinery": -10,
         "Junkyard": -10,
         "Bomb Flats": -20
       },
@@ -1268,10 +1268,10 @@
       },
       "Suravasa": {
         "Market": 0,
-        "Gardens": 0,
+        "Gardens": -10,
         "Palace": 0,
-        "Temple": -10,
-        "Ruins": -10
+        "Temple": -20,
+        "Ruins": -20
       }
     },
     "A-Team": {
@@ -1315,7 +1315,7 @@
       "Lijiang Tower": {
         "Night Market": 0,
         "Garden": -10,
-        "Control Center": 0
+        "Control Center": -10
       },
       "Nepal": {
         "Village": 0,
@@ -1335,7 +1335,7 @@
         "Sublevel": 0
       },
       "Samoa": {
-        "Downtown": -10,
+        "Downtown": 0,
         "Volcano": 0,
         "Beach": 0
       },
@@ -1361,7 +1361,7 @@
       "Rialto": 0,
       "Havana": 0,
       "Shambali Monastery": 0,
-      "New Junk City": -10,
+      "New Junk City": -20,
       "Ilios": -10,
       "Nepal": 0,
       "Lijiang Tower": -10,
@@ -1372,7 +1372,7 @@
       "Colosseo": -20,
       "Esperança": -10,
       "New Queen Street": 0,
-      "Suravasa": 0,
+      "Suravasa": -10,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": -10,
@@ -1520,7 +1520,7 @@
       },
       "Route 66": {
         "A": -20,
-        "B": -20,
+        "B": -10,
         "C": 0
       },
       "Shambali Monastery": {
@@ -1559,7 +1559,7 @@
         "C": 20
       },
       "Midtown": {
-        "A": 20,
+        "A": 10,
         "B": 0,
         "C": 10
       },
@@ -1583,7 +1583,7 @@
       "Esperança": {
         "Ally": 0,
         "Mid": 0,
-        "Enemy": 0
+        "Enemy": -20
       },
       "New Queen Street": {
         "Ally": -20,
@@ -1615,7 +1615,7 @@
         "Market": 0,
         "Gardens": 0,
         "Palace": 0,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": 0
       }
     },
@@ -1680,7 +1680,7 @@
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 10
       },
@@ -1715,7 +1715,7 @@
       "Antarctic Peninsula": 0,
       "Samoa": 0,
       "Colosseo": -20,
-      "Esperança": 0,
+      "Esperança": -10,
       "New Queen Street": -10,
       "Suravasa": -10,
       "Hanaoka": 0,
@@ -1792,9 +1792,9 @@
         "C": 0
       },
       "Eichenwalde": {
-        "A": -20,
-        "B": -10,
-        "C": -10
+        "A": -10,
+        "B": 0,
+        "C": 0
       },
       "Hollywood": {
         "A": -20,
@@ -1869,7 +1869,7 @@
         "C": -10
       },
       "Shambali Monastery": {
-        "A": -10,
+        "A": 0,
         "B": 0,
         "C": 0
       },
@@ -1889,8 +1889,8 @@
         "C": -10
       },
       "Eichenwalde": {
-        "A": -20,
-        "B": -20,
+        "A": -10,
+        "B": -10,
         "C": -20
       },
       "Hollywood": {
@@ -2041,7 +2041,7 @@
       "Numbani": -20,
       "Hollywood": -20,
       "Blizzard World": -20,
-      "Eichenwalde": -20,
+      "Eichenwalde": -10,
       "Midtown": -20,
       "Paraíso": -20,
       "Circuit Royal": -20,
@@ -2112,8 +2112,8 @@
         "C": -20
       },
       "Route 66": {
-        "A": 10,
-        "B": 10,
+        "A": 0,
+        "B": 0,
         "C": 20
       },
       "Shambali Monastery": {
@@ -2162,9 +2162,9 @@
         "C": -20
       },
       "Paraíso": {
-        "A": -20,
-        "B": -20,
-        "C": -20
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -2209,8 +2209,8 @@
         "C": -20
       },
       "Route 66": {
-        "A": 10,
-        "B": 0,
+        "A": 0,
+        "B": -10,
         "C": 20
       },
       "Shambali Monastery": {
@@ -2231,7 +2231,7 @@
       "Blizzard World": {
         "A": -20,
         "B": -20,
-        "C": -10
+        "C": -20
       },
       "Eichenwalde": {
         "A": -10,
@@ -2261,14 +2261,14 @@
       "Paraíso": {
         "A": 0,
         "B": 0,
-        "C": -20
+        "C": -10
       }
     },
     "Push": {
       "Colosseo": {
         "Ally": 10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": 20,
@@ -2299,7 +2299,7 @@
         "Bazaar": 20,
         "Resort": 10,
         "Town Center": 20,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 0,
@@ -2350,7 +2350,7 @@
       "Lijiang Tower": {
         "Night Market": 0,
         "Garden": 10,
-        "Control Center": 10
+        "Control Center": 20
       },
       "Nepal": {
         "Village": 20,
@@ -2358,14 +2358,14 @@
         "Shrine": 20
       },
       "Oasis": {
-        "City Center": -20,
+        "City Center": -10,
         "Gardens": 0,
         "University": 0
       },
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 10,
-        "Anomaly": 20,
+        "Anomaly": 10,
         "Labs": 20,
         "Sublevel": 20
       },
@@ -2388,10 +2388,10 @@
       "Blizzard World": -20,
       "Eichenwalde": -20,
       "Midtown": 0,
-      "Paraíso": -20,
+      "Paraíso": -10,
       "Circuit Royal": -20,
       "Dorado": -10,
-      "Route 66": 0,
+      "Route 66": -10,
       "Junkertown": 0,
       "Rialto": -20,
       "Havana": -10,
@@ -2468,7 +2468,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 10,
-        "B": 20,
+        "B": 10,
         "C": 20
       },
       "Havana": {
@@ -2541,7 +2541,7 @@
       "Dorado": {
         "A": 20,
         "B": 20,
-        "C": 10
+        "C": 20
       },
       "Junkertown": {
         "A": 10,
@@ -2694,7 +2694,7 @@
       },
       "Lijiang Tower": {
         "Night Market": -10,
-        "Garden": 10,
+        "Garden": 0,
         "Control Center": 0
       },
       "Nepal": {
@@ -2744,7 +2744,7 @@
       "New Junk City": 0,
       "Ilios": 0,
       "Nepal": -10,
-      "Lijiang Tower": -10,
+      "Lijiang Tower": -20,
       "Oasis": 0,
       "Busan": 10,
       "Antarctic Peninsula": 0,
@@ -2921,7 +2921,7 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": -10
+        "C": -20
       },
       "Eichenwalde": {
         "A": 0,
@@ -2995,7 +2995,7 @@
         "Market": 10,
         "Gardens": 0,
         "Palace": 20,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": -10
       }
     },
@@ -3038,9 +3038,9 @@
         "Well": -20
       },
       "Lijiang Tower": {
-        "Night Market": -10,
-        "Garden": -20,
-        "Control Center": -20
+        "Night Market": 0,
+        "Garden": -10,
+        "Control Center": -10
       },
       "Nepal": {
         "Village": 0,
@@ -3173,7 +3173,7 @@
       },
       "Eichenwalde": {
         "A": 0,
-        "B": -10,
+        "B": 0,
         "C": -10
       },
       "Hollywood": {
@@ -3306,9 +3306,9 @@
         "Enemy": 20
       },
       "Esperança": {
-        "Ally": 10,
+        "Ally": 0,
         "Mid": 0,
-        "Enemy": 0
+        "Enemy": -10
       },
       "New Queen Street": {
         "Ally": 0,
@@ -3339,9 +3339,9 @@
       "Suravasa": {
         "Market": 0,
         "Gardens": -20,
-        "Palace": -20,
+        "Palace": -10,
         "Temple": 0,
-        "Ruins": 0
+        "Ruins": 10
       }
     },
     "A-Team": {
@@ -3384,7 +3384,7 @@
       },
       "Lijiang Tower": {
         "Night Market": 20,
-        "Garden": 0,
+        "Garden": 10,
         "Control Center": 20
       },
       "Nepal": {
@@ -3410,7 +3410,7 @@
         "Beach": 0
       },
       "Busan": {
-        "Sanctuary": -10,
+        "Sanctuary": 0,
         "Downtown": -20,
         "MEKA Base": -20
       }
@@ -3434,15 +3434,15 @@
       "New Junk City": 0,
       "Ilios": 0,
       "Nepal": 0,
-      "Lijiang Tower": 10,
+      "Lijiang Tower": 20,
       "Oasis": 0,
       "Busan": -10,
       "Antarctic Peninsula": 0,
       "Samoa": 0,
       "Colosseo": 20,
-      "Esperança": 10,
+      "Esperança": 0,
       "New Queen Street": 0,
-      "Suravasa": 10,
+      "Suravasa": 20,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": 0,
@@ -3498,8 +3498,8 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": 10,
+        "C": 10
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
@@ -3514,7 +3514,7 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       },
       "Eichenwalde": {
         "A": 20,
@@ -3527,9 +3527,9 @@
         "C": 0
       },
       "King's Row": {
-        "A": -10,
-        "B": -10,
-        "C": -10
+        "A": 0,
+        "B": 0,
+        "C": 0
       },
       "Midtown": {
         "A": -20,
@@ -3595,7 +3595,7 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": 0,
+        "B": 10,
         "C": 0
       },
       "Watchpoint: Gibraltar": {
@@ -3611,7 +3611,7 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": 10
+        "C": 0
       },
       "Eichenwalde": {
         "A": 20,
@@ -3624,9 +3624,9 @@
         "C": 0
       },
       "King's Row": {
-        "A": -10,
-        "B": -10,
-        "C": -10
+        "A": 0,
+        "B": 0,
+        "C": 0
       },
       "Midtown": {
         "A": -20,
@@ -3648,7 +3648,7 @@
       "Colosseo": {
         "Ally": -10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": -10,
@@ -3745,12 +3745,12 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 0,
-        "Anomaly": 20,
+        "Anomaly": 10,
         "Labs": 0,
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -3761,21 +3761,21 @@
       }
     },
     "Maps": {
-      "King's Row": -10,
-      "Watchpoint: Gibraltar": 0,
+      "King's Row": 0,
+      "Watchpoint: Gibraltar": 10,
       "Numbani": 20,
       "Hollywood": 0,
-      "Blizzard World": 10,
+      "Blizzard World": 0,
       "Eichenwalde": 20,
       "Midtown": -20,
       "Paraíso": 0,
       "Circuit Royal": 0,
       "Dorado": 20,
       "Route 66": 0,
-      "Junkertown": 0,
+      "Junkertown": -10,
       "Rialto": 0,
       "Havana": -10,
-      "Shambali Monastery": 0,
+      "Shambali Monastery": 10,
       "New Junk City": 0,
       "Ilios": 10,
       "Nepal": 0,
@@ -3925,7 +3925,7 @@
       },
       "Junkertown": {
         "A": 0,
-        "B": -10,
+        "B": 0,
         "C": 0
       },
       "Rialto": {
@@ -3974,7 +3974,7 @@
         "C": 10
       },
       "Midtown": {
-        "A": 20,
+        "A": 10,
         "B": 0,
         "C": 10
       },
@@ -3993,7 +3993,7 @@
       "Colosseo": {
         "Ally": 10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": 0,
@@ -4030,7 +4030,7 @@
         "Market": -20,
         "Gardens": -20,
         "Palace": -20,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": 0
       }
     },
@@ -4117,8 +4117,8 @@
       "Circuit Royal": 20,
       "Dorado": 0,
       "Route 66": 10,
-      "Junkertown": 10,
-      "Rialto": 10,
+      "Junkertown": 20,
+      "Rialto": 0,
       "Havana": 20,
       "Shambali Monastery": 10,
       "New Junk City": -10,
@@ -4193,7 +4193,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -4290,7 +4290,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -4351,18 +4351,18 @@
         "Enemy": 0
       },
       "Runasapi": {
-        "Ally": -10,
-        "Mid": -10,
-        "Enemy": -10
+        "Ally": 0,
+        "Mid": 0,
+        "Enemy": 0
       }
     },
     "Flashpoint": {
       "New Junk City": {
-        "Arena": 0,
-        "Ducts": 0,
-        "Refinery": 0,
-        "Junkyard": 0,
-        "Bomb Flats": 0
+        "Arena": -10,
+        "Ducts": -10,
+        "Refinery": -10,
+        "Junkyard": -10,
+        "Bomb Flats": -10
       },
       "Aatlis": {
         "Station": -10,
@@ -4433,15 +4433,15 @@
         "University": 0
       },
       "Antarctic Peninsula": {
-        "Drilling Rig": -10,
-        "Icebreaker": -10,
-        "Anomaly": -10,
+        "Drilling Rig": 0,
+        "Icebreaker": 0,
+        "Anomaly": 0,
         "Labs": 0,
-        "Sublevel": 10
+        "Sublevel": 20
       },
       "Samoa": {
         "Downtown": -20,
-        "Volcano": -10,
+        "Volcano": -20,
         "Beach": -10
       },
       "Busan": {
@@ -4466,21 +4466,21 @@
       "Rialto": 0,
       "Havana": 0,
       "Shambali Monastery": 0,
-      "New Junk City": 0,
+      "New Junk City": -10,
       "Ilios": 0,
       "Nepal": -10,
       "Lijiang Tower": 0,
       "Oasis": 0,
       "Busan": 0,
-      "Antarctic Peninsula": -10,
+      "Antarctic Peninsula": 0,
       "Samoa": -10,
       "Colosseo": 0,
       "Esperança": 0,
       "New Queen Street": -10,
-      "Suravasa": -10,
+      "Suravasa": 0,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
-      "Runasapi": -10,
+      "Runasapi": 0,
       "Aatlis": -10
     }
   },
@@ -4512,9 +4512,9 @@
         "C": 0
       },
       "Dorado": {
-        "A": 10,
-        "B": 10,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 10
       },
       "Junkertown": {
         "A": 0,
@@ -4557,9 +4557,9 @@
         "C": 0
       },
       "Hollywood": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       },
       "King's Row": {
         "A": 0,
@@ -4609,9 +4609,9 @@
         "C": 0
       },
       "Dorado": {
-        "A": 10,
-        "B": 10,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 10
       },
       "Junkertown": {
         "A": 0,
@@ -4654,9 +4654,9 @@
         "C": 0
       },
       "Hollywood": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       },
       "King's Row": {
         "A": 20,
@@ -4691,9 +4691,9 @@
         "Enemy": 10
       },
       "New Queen Street": {
-        "Ally": 0,
-        "Mid": 10,
-        "Enemy": 20
+        "Ally": -10,
+        "Mid": 0,
+        "Enemy": 10
       },
       "Runasapi": {
         "Ally": -10,
@@ -4704,14 +4704,14 @@
     "Flashpoint": {
       "New Junk City": {
         "Arena": 0,
-        "Ducts": 10,
-        "Refinery": 10,
-        "Junkyard": 10,
+        "Ducts": 0,
+        "Refinery": 0,
+        "Junkyard": 0,
         "Bomb Flats": 0
       },
       "Aatlis": {
         "Station": 0,
-        "Bazaar": 0,
+        "Bazaar": 10,
         "Resort": 0,
         "Town Center": 0,
         "Garden": 0
@@ -4785,7 +4785,7 @@
         "Sublevel": 0
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -4799,19 +4799,19 @@
       "King's Row": 0,
       "Watchpoint: Gibraltar": 10,
       "Numbani": 0,
-      "Hollywood": 0,
+      "Hollywood": 10,
       "Blizzard World": -10,
       "Eichenwalde": 0,
       "Midtown": 0,
       "Paraíso": 0,
       "Circuit Royal": -10,
-      "Dorado": 10,
+      "Dorado": 20,
       "Route 66": 0,
       "Junkertown": 0,
       "Rialto": 0,
       "Havana": 0,
       "Shambali Monastery": 0,
-      "New Junk City": 10,
+      "New Junk City": 0,
       "Ilios": 0,
       "Nepal": 0,
       "Lijiang Tower": 0,
@@ -4821,12 +4821,12 @@
       "Samoa": 0,
       "Colosseo": 20,
       "Esperança": 0,
-      "New Queen Street": 10,
+      "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": 0,
-      "Aatlis": 0
+      "Aatlis": 10
     }
   },
   "Hanzo": {
@@ -4951,7 +4951,7 @@
       "Circuit Royal": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Dorado": {
         "A": 0,
@@ -4980,7 +4980,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Havana": {
@@ -5065,7 +5065,7 @@
         "Market": 0,
         "Gardens": 0,
         "Palace": 0,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": 0
       }
     },
@@ -5132,7 +5132,7 @@
       "Samoa": {
         "Downtown": -20,
         "Volcano": -20,
-        "Beach": -20
+        "Beach": -10
       },
       "Busan": {
         "Sanctuary": -10,
@@ -5163,7 +5163,7 @@
       "Oasis": -10,
       "Busan": -20,
       "Antarctic Peninsula": -10,
-      "Samoa": -20,
+      "Samoa": -10,
       "Colosseo": 0,
       "Esperança": -10,
       "New Queen Street": -10,
@@ -5257,9 +5257,9 @@
         "C": 0
       },
       "Midtown": {
-        "A": -10,
+        "A": 0,
         "B": -20,
-        "C": -20
+        "C": -10
       },
       "Numbani": {
         "A": 0,
@@ -5301,7 +5301,7 @@
       "Dorado": {
         "A": 0,
         "B": -20,
-        "C": 0
+        "C": 10
       },
       "Junkertown": {
         "A": 0,
@@ -5354,9 +5354,9 @@
         "C": 20
       },
       "Midtown": {
-        "A": -10,
-        "B": -10,
-        "C": -10
+        "A": 0,
+        "B": 0,
+        "C": 0
       },
       "Numbani": {
         "A": 0,
@@ -5401,17 +5401,17 @@
       },
       "Aatlis": {
         "Station": 10,
-        "Bazaar": -20,
-        "Resort": 0,
-        "Town Center": 0,
+        "Bazaar": -10,
+        "Resort": 10,
+        "Town Center": 10,
         "Garden": 10
       },
       "Suravasa": {
         "Market": 0,
         "Gardens": 10,
-        "Palace": 0,
+        "Palace": 10,
         "Temple": 10,
-        "Ruins": 0
+        "Ruins": 10
       }
     },
     "A-Team": {
@@ -5492,7 +5492,7 @@
       "Hollywood": 0,
       "Blizzard World": 0,
       "Eichenwalde": -10,
-      "Midtown": -20,
+      "Midtown": -10,
       "Paraíso": 0,
       "Circuit Royal": -10,
       "Dorado": 10,
@@ -5512,11 +5512,11 @@
       "Colosseo": 0,
       "Esperança": 0,
       "New Queen Street": 0,
-      "Suravasa": 10,
+      "Suravasa": 20,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": 0,
-      "Aatlis": 10
+      "Aatlis": 20
     }
   },
   "Illari": {
@@ -5567,8 +5567,8 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 20,
-        "B": 0,
+        "A": 0,
+        "B": -10,
         "C": 0
       },
       "Watchpoint: Gibraltar": {
@@ -5578,13 +5578,13 @@
       },
       "Havana": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": 10,
+        "C": 10
       },
       "Blizzard World": {
-        "A": 10,
-        "B": 10,
-        "C": 20
+        "A": 0,
+        "B": 0,
+        "C": 10
       },
       "Eichenwalde": {
         "A": 20,
@@ -5597,8 +5597,8 @@
         "C": 10
       },
       "King's Row": {
-        "A": 10,
-        "B": 0,
+        "A": 0,
+        "B": -10,
         "C": -20
       },
       "Midtown": {
@@ -5664,9 +5664,9 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 20,
-        "B": 0,
-        "C": -10
+        "A": 10,
+        "B": -20,
+        "C": -20
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
@@ -5675,13 +5675,13 @@
       },
       "Havana": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": 10,
+        "C": 10
       },
       "Blizzard World": {
-        "A": 10,
-        "B": 10,
-        "C": 20
+        "A": 0,
+        "B": 0,
+        "C": 10
       },
       "Eichenwalde": {
         "A": 20,
@@ -5694,9 +5694,9 @@
         "C": 10
       },
       "King's Row": {
-        "A": 10,
-        "B": 0,
-        "C": -10
+        "A": 0,
+        "B": -10,
+        "C": -20
       },
       "Midtown": {
         "A": 20,
@@ -5741,7 +5741,7 @@
         "Arena": -10,
         "Ducts": 0,
         "Refinery": 0,
-        "Junkyard": -10,
+        "Junkyard": 0,
         "Bomb Flats": -10
       },
       "Aatlis": {
@@ -5820,7 +5820,7 @@
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": -10,
+        "Downtown": 0,
         "Volcano": 0,
         "Beach": -20
       },
@@ -5831,11 +5831,11 @@
       }
     },
     "Maps": {
-      "King's Row": 10,
+      "King's Row": 0,
       "Watchpoint: Gibraltar": 0,
       "Numbani": 0,
       "Hollywood": 10,
-      "Blizzard World": 20,
+      "Blizzard World": 10,
       "Eichenwalde": 10,
       "Midtown": 10,
       "Paraíso": 0,
@@ -5844,8 +5844,8 @@
       "Route 66": 0,
       "Junkertown": 0,
       "Rialto": 0,
-      "Havana": 0,
-      "Shambali Monastery": 10,
+      "Havana": 10,
+      "Shambali Monastery": 0,
       "New Junk City": -10,
       "Ilios": 0,
       "Nepal": 0,
@@ -5889,7 +5889,7 @@
       "Circuit Royal": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Dorado": {
         "A": 0,
@@ -5942,7 +5942,7 @@
         "C": -10
       },
       "King's Row": {
-        "A": 10,
+        "A": 20,
         "B": 20,
         "C": 10
       },
@@ -5986,7 +5986,7 @@
       "Circuit Royal": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Dorado": {
         "A": 0,
@@ -6086,7 +6086,7 @@
         "Arena": -10,
         "Ducts": 0,
         "Refinery": 0,
-        "Junkyard": -10,
+        "Junkyard": 0,
         "Bomb Flats": -10
       },
       "Aatlis": {
@@ -6184,7 +6184,7 @@
       "Eichenwalde": 20,
       "Midtown": -20,
       "Paraíso": 0,
-      "Circuit Royal": 0,
+      "Circuit Royal": -10,
       "Dorado": 0,
       "Route 66": 0,
       "Junkertown": -20,
@@ -6262,9 +6262,9 @@
         "C": 0
       },
       "Watchpoint: Gibraltar": {
-        "A": -10,
-        "B": -10,
-        "C": -10
+        "A": -20,
+        "B": -20,
+        "C": -20
       },
       "Havana": {
         "A": -10,
@@ -6359,9 +6359,9 @@
         "C": 0
       },
       "Watchpoint: Gibraltar": {
-        "A": -10,
-        "B": -10,
-        "C": -10
+        "A": -20,
+        "B": -20,
+        "C": -20
       },
       "Havana": {
         "A": -10,
@@ -6418,7 +6418,7 @@
       "New Queen Street": {
         "Ally": 0,
         "Mid": 10,
-        "Enemy": 0
+        "Enemy": 10
       },
       "Runasapi": {
         "Ally": 20,
@@ -6435,17 +6435,17 @@
         "Bomb Flats": 20
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
+        "Station": 10,
+        "Bazaar": 10,
         "Resort": 10,
         "Town Center": 10,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 0,
-        "Gardens": 20,
+        "Gardens": 10,
         "Palace": 10,
-        "Temple": 20,
+        "Temple": 10,
         "Ruins": 10
       }
     },
@@ -6522,7 +6522,7 @@
     },
     "Maps": {
       "King's Row": -10,
-      "Watchpoint: Gibraltar": -10,
+      "Watchpoint: Gibraltar": -20,
       "Numbani": -20,
       "Hollywood": -10,
       "Blizzard World": -20,
@@ -6705,7 +6705,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Havana": {
@@ -6756,8 +6756,8 @@
         "Enemy": -20
       },
       "Esperança": {
-        "Ally": 0,
-        "Mid": 0,
+        "Ally": -10,
+        "Mid": -10,
         "Enemy": -20
       },
       "New Queen Street": {
@@ -6767,8 +6767,8 @@
       },
       "Runasapi": {
         "Ally": 0,
-        "Mid": -10,
-        "Enemy": -10
+        "Mid": -20,
+        "Enemy": -20
       }
     },
     "Flashpoint": {
@@ -6890,12 +6890,12 @@
       "Antarctic Peninsula": 0,
       "Samoa": 0,
       "Colosseo": -20,
-      "Esperança": -10,
+      "Esperança": -20,
       "New Queen Street": -20,
       "Suravasa": 0,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
-      "Runasapi": -10,
+      "Runasapi": -20,
       "Aatlis": 0
     }
   },
@@ -6958,7 +6958,7 @@
       },
       "Havana": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Blizzard World": {
@@ -6992,9 +6992,9 @@
         "C": 20
       },
       "Paraíso": {
-        "A": -10,
-        "B": 0,
-        "C": -10
+        "A": 0,
+        "B": 10,
+        "C": 0
       }
     },
     "Defense": {
@@ -7044,7 +7044,7 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 0,
+        "A": 10,
         "B": 10,
         "C": 0
       },
@@ -7089,9 +7089,9 @@
         "C": 20
       },
       "Paraíso": {
-        "A": -10,
-        "B": 0,
-        "C": 0
+        "A": 0,
+        "B": 10,
+        "C": 20
       }
     },
     "Push": {
@@ -7218,7 +7218,7 @@
       "Blizzard World": 10,
       "Eichenwalde": -10,
       "Midtown": 0,
-      "Paraíso": 0,
+      "Paraíso": 10,
       "Circuit Royal": 10,
       "Dorado": 0,
       "Route 66": 10,
@@ -7267,9 +7267,9 @@
         "B": 10
       },
       "Circuit Royal": {
-        "A": -10,
+        "A": -20,
         "B": -20,
-        "C": 0
+        "C": -10
       },
       "Dorado": {
         "A": -10,
@@ -7366,7 +7366,7 @@
       "Circuit Royal": {
         "A": -20,
         "B": -20,
-        "C": 0
+        "C": -10
       },
       "Dorado": {
         "A": 0,
@@ -7389,7 +7389,7 @@
         "C": -20
       },
       "Shambali Monastery": {
-        "A": 0,
+        "A": 10,
         "B": 0,
         "C": 0
       },
@@ -7425,7 +7425,7 @@
       },
       "Midtown": {
         "A": 0,
-        "B": -20,
+        "B": -10,
         "C": -10
       },
       "Numbani": {
@@ -7458,7 +7458,7 @@
       "Runasapi": {
         "Ally": 20,
         "Mid": 0,
-        "Enemy": 10
+        "Enemy": 20
       }
     },
     "Flashpoint": {
@@ -7466,7 +7466,7 @@
         "Arena": 20,
         "Ducts": 10,
         "Refinery": 10,
-        "Junkyard": 0,
+        "Junkyard": 10,
         "Bomb Flats": 0
       },
       "Aatlis": {
@@ -7477,11 +7477,11 @@
         "Garden": 20
       },
       "Suravasa": {
-        "Market": 10,
-        "Gardens": 0,
-        "Palace": 10,
-        "Temple": 10,
-        "Ruins": -10
+        "Market": 20,
+        "Gardens": 10,
+        "Palace": 20,
+        "Temple": 20,
+        "Ruins": 0
       }
     },
     "A-Team": {
@@ -7545,9 +7545,9 @@
         "Sublevel": 10
       },
       "Samoa": {
-        "Downtown": 20,
-        "Volcano": 20,
-        "Beach": 10
+        "Downtown": 10,
+        "Volcano": 10,
+        "Beach": 0
       },
       "Busan": {
         "Sanctuary": 0,
@@ -7558,13 +7558,13 @@
     "Maps": {
       "King's Row": 0,
       "Watchpoint: Gibraltar": 10,
-      "Numbani": 10,
+      "Numbani": 20,
       "Hollywood": -10,
       "Blizzard World": 0,
       "Eichenwalde": -10,
       "Midtown": 0,
       "Paraíso": 0,
-      "Circuit Royal": 0,
+      "Circuit Royal": -10,
       "Dorado": 0,
       "Route 66": -20,
       "Junkertown": 0,
@@ -7578,11 +7578,11 @@
       "Oasis": 20,
       "Busan": 20,
       "Antarctic Peninsula": 10,
-      "Samoa": 20,
+      "Samoa": 10,
       "Colosseo": 0,
       "Esperança": 20,
       "New Queen Street": 20,
-      "Suravasa": 10,
+      "Suravasa": 20,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": 20,
@@ -7638,7 +7638,7 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": -20,
+        "B": -10,
         "C": -20
       },
       "Watchpoint: Gibraltar": {
@@ -7673,8 +7673,8 @@
       },
       "Midtown": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       },
       "Numbani": {
         "A": 20,
@@ -7734,7 +7734,7 @@
         "C": 10
       },
       "Shambali Monastery": {
-        "A": 0,
+        "A": 10,
         "B": -20,
         "C": 0
       },
@@ -7769,9 +7769,9 @@
         "C": 0
       },
       "Midtown": {
-        "A": -10,
+        "A": -20,
         "B": 0,
-        "C": 10
+        "C": 0
       },
       "Numbani": {
         "A": 20,
@@ -7808,11 +7808,11 @@
     },
     "Flashpoint": {
       "New Junk City": {
-        "Arena": 0,
+        "Arena": -10,
         "Ducts": 0,
         "Refinery": 0,
         "Junkyard": 0,
-        "Bomb Flats": 0
+        "Bomb Flats": -10
       },
       "Aatlis": {
         "Station": -10,
@@ -7907,7 +7907,7 @@
       "Hollywood": 10,
       "Blizzard World": 10,
       "Eichenwalde": -10,
-      "Midtown": 10,
+      "Midtown": 0,
       "Paraíso": 20,
       "Circuit Royal": 10,
       "Dorado": 20,
@@ -7916,7 +7916,7 @@
       "Rialto": 10,
       "Havana": 10,
       "Shambali Monastery": 0,
-      "New Junk City": 0,
+      "New Junk City": -10,
       "Ilios": 0,
       "Nepal": -20,
       "Lijiang Tower": -10,
@@ -8121,7 +8121,7 @@
       "Numbani": {
         "A": -10,
         "B": -10,
-        "C": -20
+        "C": -10
       },
       "Paraíso": {
         "A": -20,
@@ -8233,7 +8233,7 @@
         "Anomaly": 0
       },
       "Samoa": {
-        "Downtown": -10,
+        "Downtown": 0,
         "Volcano": 0,
         "Beach": 0
       },
@@ -8273,7 +8273,7 @@
       "Suravasa": 20,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
-      "Runasapi": 20,
+      "Runasapi": 10,
       "Aatlis": 20
     }
   },
@@ -8327,7 +8327,7 @@
       "Shambali Monastery": {
         "A": -20,
         "B": 0,
-        "C": -10
+        "C": 0
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
@@ -8479,14 +8479,14 @@
         "Enemy": 0
       },
       "Esperança": {
-        "Ally": 10,
-        "Mid": 0,
+        "Ally": 20,
+        "Mid": 10,
         "Enemy": 0
       },
       "New Queen Street": {
         "Ally": 0,
         "Mid": 10,
-        "Enemy": 0
+        "Enemy": 10
       },
       "Runasapi": {
         "Ally": 20,
@@ -8503,17 +8503,17 @@
         "Bomb Flats": 10
       },
       "Aatlis": {
-        "Station": 20,
-        "Bazaar": 20,
+        "Station": 10,
+        "Bazaar": 10,
         "Resort": 10,
         "Town Center": 10,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
-        "Market": 20,
-        "Gardens": 20,
+        "Market": 10,
+        "Gardens": 10,
         "Palace": 10,
-        "Temple": 20,
+        "Temple": 10,
         "Ruins": 10
       }
     },
@@ -8566,9 +8566,9 @@
         "Shrine": 20
       },
       "Oasis": {
-        "City Center": 10,
-        "Gardens": 10,
-        "University": 10
+        "City Center": 20,
+        "Gardens": 20,
+        "University": 20
       },
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
@@ -8608,12 +8608,12 @@
       "Ilios": 0,
       "Nepal": 20,
       "Lijiang Tower": 10,
-      "Oasis": 10,
+      "Oasis": 20,
       "Busan": 20,
       "Antarctic Peninsula": 20,
       "Samoa": 20,
       "Colosseo": 10,
-      "Esperança": 10,
+      "Esperança": 20,
       "New Queen Street": 20,
       "Suravasa": 20,
       "Hanaoka": 0,
@@ -8670,9 +8670,9 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 10,
-        "B": 20,
-        "C": 20
+        "A": 0,
+        "B": 10,
+        "C": 10
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
@@ -8706,7 +8706,7 @@
       },
       "Midtown": {
         "A": 20,
-        "B": 20,
+        "B": 10,
         "C": 20
       },
       "Numbani": {
@@ -8763,17 +8763,17 @@
       },
       "Route 66": {
         "A": 0,
-        "B": -20,
+        "B": -10,
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 10,
-        "B": 20,
-        "C": 10
+        "A": 0,
+        "B": 10,
+        "C": 0
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Havana": {
@@ -8819,9 +8819,9 @@
     },
     "Push": {
       "Colosseo": {
-        "Ally": 0,
-        "Mid": -10,
-        "Enemy": -20
+        "Ally": 10,
+        "Mid": 0,
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": 0,
@@ -8923,7 +8923,7 @@
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -8948,7 +8948,7 @@
       "Junkertown": 0,
       "Rialto": 10,
       "Havana": 0,
-      "Shambali Monastery": 20,
+      "Shambali Monastery": 10,
       "New Junk City": 0,
       "Ilios": -10,
       "Nepal": 0,
@@ -8957,7 +8957,7 @@
       "Busan": 0,
       "Antarctic Peninsula": 0,
       "Samoa": 0,
-      "Colosseo": -10,
+      "Colosseo": 0,
       "Esperança": 0,
       "New Queen Street": 0,
       "Suravasa": 0,
@@ -9133,7 +9133,7 @@
       },
       "Eichenwalde": {
         "A": -10,
-        "B": -10,
+        "B": -20,
         "C": -20
       },
       "Hollywood": {
@@ -9248,7 +9248,7 @@
       "Lijiang Tower": {
         "Night Market": -20,
         "Garden": -10,
-        "Control Center": 0
+        "Control Center": -10
       },
       "Nepal": {
         "Village": -10,
@@ -9390,7 +9390,7 @@
         "C": 0
       },
       "King's Row": {
-        "A": 10,
+        "A": 20,
         "B": 20,
         "C": 10
       },
@@ -9405,9 +9405,9 @@
         "C": -10
       },
       "Paraíso": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -9457,7 +9457,7 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": -10,
+        "A": 0,
         "B": 0,
         "C": 0
       },
@@ -9478,7 +9478,7 @@
       },
       "Eichenwalde": {
         "A": 0,
-        "B": -10,
+        "B": -20,
         "C": 0
       },
       "Hollywood": {
@@ -9499,10 +9499,10 @@
       "Numbani": {
         "A": -10,
         "B": -10,
-        "C": -20
+        "C": -10
       },
       "Paraíso": {
-        "A": 0,
+        "A": -10,
         "B": 0,
         "C": 0
       }
@@ -9534,7 +9534,7 @@
         "Arena": 20,
         "Ducts": 10,
         "Refinery": 20,
-        "Junkyard": 0,
+        "Junkyard": 10,
         "Bomb Flats": 20
       },
       "Aatlis": {
@@ -9593,7 +9593,7 @@
       "Lijiang Tower": {
         "Night Market": 20,
         "Garden": 0,
-        "Control Center": 0
+        "Control Center": 10
       },
       "Nepal": {
         "Village": 10,
@@ -9631,7 +9631,7 @@
       "Blizzard World": -20,
       "Eichenwalde": 0,
       "Midtown": 0,
-      "Paraíso": 10,
+      "Paraíso": 0,
       "Circuit Royal": 0,
       "Dorado": 0,
       "Route 66": -10,
@@ -9642,12 +9642,12 @@
       "New Junk City": 10,
       "Ilios": 0,
       "Nepal": 10,
-      "Lijiang Tower": 0,
+      "Lijiang Tower": 10,
       "Oasis": 10,
       "Busan": 0,
       "Antarctic Peninsula": 20,
       "Samoa": 20,
-      "Colosseo": -20,
+      "Colosseo": -10,
       "Esperança": 0,
       "New Queen Street": 0,
       "Suravasa": 0,
@@ -9736,7 +9736,7 @@
       },
       "King's Row": {
         "A": 0,
-        "B": -10,
+        "B": 0,
         "C": -10
       },
       "Midtown": {
@@ -9824,7 +9824,7 @@
       "Eichenwalde": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Hollywood": {
         "A": 0,
@@ -10142,9 +10142,9 @@
         "C": 10
       },
       "Route 66": {
-        "A": -10,
-        "B": 0,
-        "C": 10
+        "A": 0,
+        "B": 10,
+        "C": 20
       },
       "Shambali Monastery": {
         "A": -10,
@@ -10168,7 +10168,7 @@
       },
       "Eichenwalde": {
         "A": 0,
-        "B": -10,
+        "B": 0,
         "C": -10
       },
       "Hollywood": {
@@ -10204,7 +10204,7 @@
         "Enemy": -20
       },
       "Esperança": {
-        "Ally": -10,
+        "Ally": 0,
         "Mid": -20,
         "Enemy": 0
       },
@@ -10238,7 +10238,7 @@
         "Market": -10,
         "Gardens": -10,
         "Palace": -20,
-        "Temple": -20,
+        "Temple": -10,
         "Ruins": -20
       }
     },
@@ -10323,8 +10323,8 @@
       "Midtown": 0,
       "Paraíso": 0,
       "Circuit Royal": 0,
-      "Dorado": 0,
-      "Route 66": 0,
+      "Dorado": -10,
+      "Route 66": 10,
       "Junkertown": 0,
       "Rialto": 20,
       "Havana": 10,
@@ -10395,7 +10395,7 @@
         "C": -20
       },
       "Shambali Monastery": {
-        "A": -20,
+        "A": -10,
         "B": -20,
         "C": -20
       },
@@ -10432,7 +10432,7 @@
       "Midtown": {
         "A": -10,
         "B": -10,
-        "C": -10
+        "C": -20
       },
       "Numbani": {
         "A": 0,
@@ -10492,13 +10492,13 @@
         "C": -20
       },
       "Shambali Monastery": {
-        "A": -20,
-        "B": -10,
-        "C": -20
+        "A": -10,
+        "B": 0,
+        "C": -10
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Havana": {
@@ -10509,7 +10509,7 @@
       "Blizzard World": {
         "A": -20,
         "B": -20,
-        "C": -10
+        "C": -20
       },
       "Eichenwalde": {
         "A": 20,
@@ -10545,7 +10545,7 @@
     "Push": {
       "Colosseo": {
         "Ally": -20,
-        "Mid": -10,
+        "Mid": -20,
         "Enemy": -20
       },
       "Esperança": {
@@ -10628,7 +10628,7 @@
       "Lijiang Tower": {
         "Night Market": 20,
         "Garden": 10,
-        "Control Center": 10
+        "Control Center": 20
       },
       "Nepal": {
         "Village": 0,
@@ -10668,12 +10668,12 @@
       "Midtown": -20,
       "Paraíso": -10,
       "Circuit Royal": -10,
-      "Dorado": 0,
+      "Dorado": -10,
       "Route 66": -20,
       "Junkertown": -20,
       "Rialto": 0,
       "Havana": -20,
-      "Shambali Monastery": -20,
+      "Shambali Monastery": -10,
       "New Junk City": -10,
       "Ilios": 20,
       "Nepal": 0,
@@ -10682,7 +10682,7 @@
       "Busan": -20,
       "Antarctic Peninsula": -10,
       "Samoa": -10,
-      "Colosseo": -10,
+      "Colosseo": -20,
       "Esperança": -10,
       "New Queen Street": -20,
       "Suravasa": 0,
@@ -10740,7 +10740,7 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 10,
+        "A": 20,
         "B": 20,
         "C": 20
       },
@@ -10785,7 +10785,7 @@
         "C": 20
       },
       "Paraíso": {
-        "A": 10,
+        "A": 0,
         "B": 0,
         "C": 20
       }
@@ -10854,7 +10854,7 @@
       "Blizzard World": {
         "A": 0,
         "B": 20,
-        "C": -10
+        "C": -20
       },
       "Eichenwalde": {
         "A": 0,
@@ -10928,7 +10928,7 @@
         "Market": 0,
         "Gardens": 0,
         "Palace": -10,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": -10
       }
     },
@@ -10972,7 +10972,7 @@
       },
       "Lijiang Tower": {
         "Night Market": 10,
-        "Garden": -10,
+        "Garden": 0,
         "Control Center": 0
       },
       "Nepal": {
@@ -11011,7 +11011,7 @@
       "Blizzard World": 10,
       "Eichenwalde": 10,
       "Midtown": 10,
-      "Paraíso": 10,
+      "Paraíso": 0,
       "Circuit Royal": 0,
       "Dorado": 0,
       "Route 66": 0,
@@ -11070,7 +11070,7 @@
         "C": 10
       },
       "Junkertown": {
-        "A": -10,
+        "A": 0,
         "B": -20,
         "C": -20
       },
@@ -11122,7 +11122,7 @@
       "Midtown": {
         "A": -10,
         "B": -10,
-        "C": -10
+        "C": -20
       },
       "Numbani": {
         "A": -10,
@@ -11168,8 +11168,8 @@
       },
       "Junkertown": {
         "A": -20,
-        "B": -10,
-        "C": -10
+        "B": 0,
+        "C": 0
       },
       "Rialto": {
         "A": -20,
@@ -11199,7 +11199,7 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": -10
+        "C": -20
       },
       "Eichenwalde": {
         "A": 0,
@@ -11236,7 +11236,7 @@
       "Colosseo": {
         "Ally": -10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": -10,
@@ -11256,7 +11256,7 @@
     },
     "Flashpoint": {
       "New Junk City": {
-        "Arena": 10,
+        "Arena": 20,
         "Ducts": 20,
         "Refinery": 20,
         "Junkyard": 20,
@@ -11267,7 +11267,7 @@
         "Bazaar": 0,
         "Resort": 10,
         "Town Center": 10,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 10,
@@ -11316,8 +11316,8 @@
         "Well": 20
       },
       "Lijiang Tower": {
-        "Night Market": 20,
-        "Garden": 10,
+        "Night Market": 10,
+        "Garden": 0,
         "Control Center": 20
       },
       "Nepal": {
@@ -11333,7 +11333,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 10,
-        "Anomaly": 20,
+        "Anomaly": 10,
         "Labs": 20,
         "Sublevel": 20
       },
@@ -11360,14 +11360,14 @@
       "Circuit Royal": -20,
       "Dorado": 20,
       "Route 66": -10,
-      "Junkertown": -20,
+      "Junkertown": -10,
       "Rialto": -20,
       "Havana": -20,
       "Shambali Monastery": -20,
       "New Junk City": 20,
       "Ilios": 20,
       "Nepal": 20,
-      "Lijiang Tower": 20,
+      "Lijiang Tower": 10,
       "Oasis": 20,
       "Busan": 0,
       "Antarctic Peninsula": 20,
@@ -11431,18 +11431,18 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": 10,
-        "C": 10
+        "B": 0,
+        "C": 0
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 0,
+        "B": 10,
         "C": 0
       },
       "Havana": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       },
       "Blizzard World": {
         "A": -10,
@@ -11452,7 +11452,7 @@
       "Eichenwalde": {
         "A": 0,
         "B": 0,
-        "C": -10
+        "C": 0
       },
       "Hollywood": {
         "A": -10,
@@ -11527,18 +11527,18 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
         "B": 10,
-        "C": 0
+        "C": 10
       },
       "Havana": {
-        "A": 0,
-        "B": 0,
+        "A": -10,
+        "B": -10,
         "C": 0
       },
       "Blizzard World": {
@@ -11549,7 +11549,7 @@
       "Eichenwalde": {
         "A": 0,
         "B": 10,
-        "C": -10
+        "C": 0
       },
       "Hollywood": {
         "A": -10,
@@ -11707,8 +11707,8 @@
       "Route 66": -20,
       "Junkertown": -20,
       "Rialto": 10,
-      "Havana": 0,
-      "Shambali Monastery": 10,
+      "Havana": -10,
+      "Shambali Monastery": 0,
       "New Junk City": -10,
       "Ilios": -10,
       "Nepal": 10,
@@ -11812,7 +11812,7 @@
       "Midtown": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Numbani": {
         "A": -20,
@@ -11960,7 +11960,7 @@
         "Garden": 0
       },
       "Suravasa": {
-        "Market": 20,
+        "Market": 10,
         "Gardens": 0,
         "Palace": 0,
         "Temple": 20,
@@ -12033,9 +12033,9 @@
         "Beach": 20
       },
       "Busan": {
-        "Sanctuary": 0,
-        "Downtown": -10,
-        "MEKA Base": -10
+        "Sanctuary": -10,
+        "Downtown": -20,
+        "MEKA Base": -20
       }
     },
     "Maps": {
@@ -12045,7 +12045,7 @@
       "Hollywood": -20,
       "Blizzard World": -20,
       "Eichenwalde": -10,
-      "Midtown": 0,
+      "Midtown": -10,
       "Paraíso": -20,
       "Circuit Royal": -20,
       "Dorado": -10,
@@ -12059,7 +12059,7 @@
       "Nepal": 20,
       "Lijiang Tower": 10,
       "Oasis": 20,
-      "Busan": 10,
+      "Busan": 0,
       "Antarctic Peninsula": 10,
       "Samoa": 10,
       "Colosseo": 0,
@@ -12126,7 +12126,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -12140,7 +12140,7 @@
         "C": 20
       },
       "Eichenwalde": {
-        "A": -10,
+        "A": 0,
         "B": 0,
         "C": 0
       },
@@ -12223,7 +12223,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -12308,7 +12308,7 @@
         "Market": 0,
         "Gardens": 0,
         "Palace": 0,
-        "Temple": 0,
+        "Temple": -10,
         "Ruins": 0
       }
     },
@@ -12366,9 +12366,9 @@
         "University": 0
       },
       "Antarctic Peninsula": {
-        "Drilling Rig": -10,
-        "Icebreaker": -10,
-        "Anomaly": -10,
+        "Drilling Rig": 0,
+        "Icebreaker": 0,
+        "Anomaly": 0,
         "Labs": 0,
         "Sublevel": 0
       },
@@ -12388,8 +12388,8 @@
       "Watchpoint: Gibraltar": 10,
       "Numbani": 20,
       "Hollywood": 10,
-      "Blizzard World": 20,
-      "Eichenwalde": -10,
+      "Blizzard World": 10,
+      "Eichenwalde": 0,
       "Midtown": 0,
       "Paraíso": 20,
       "Circuit Royal": 10,
@@ -12405,7 +12405,7 @@
       "Lijiang Tower": -10,
       "Oasis": 0,
       "Busan": 0,
-      "Antarctic Peninsula": -10,
+      "Antarctic Peninsula": 0,
       "Samoa": -10,
       "Colosseo": 0,
       "Esperança": 0,
@@ -12465,7 +12465,7 @@
         "C": 20
       },
       "Shambali Monastery": {
-        "A": 10,
+        "A": 20,
         "B": 0,
         "C": 20
       },
@@ -12481,7 +12481,7 @@
       },
       "Blizzard World": {
         "A": 10,
-        "B": 20,
+        "B": 10,
         "C": 20
       },
       "Eichenwalde": {
@@ -12577,8 +12577,8 @@
         "C": 20
       },
       "Blizzard World": {
-        "A": 20,
-        "B": 20,
+        "A": 10,
+        "B": 10,
         "C": 20
       },
       "Eichenwalde": {
@@ -12619,7 +12619,7 @@
         "Enemy": -20
       },
       "Esperança": {
-        "Ally": -10,
+        "Ally": 0,
         "Mid": -10,
         "Enemy": 0
       },
@@ -12653,7 +12653,7 @@
         "Market": -10,
         "Gardens": -10,
         "Palace": -20,
-        "Temple": -20,
+        "Temple": -10,
         "Ruins": -20
       }
     },
@@ -12696,7 +12696,7 @@
         "Well": -20
       },
       "Lijiang Tower": {
-        "Night Market": -20,
+        "Night Market": -10,
         "Garden": -20,
         "Control Center": -20
       },
@@ -12707,7 +12707,7 @@
       },
       "Oasis": {
         "City Center": -10,
-        "Gardens": -20,
+        "Gardens": -10,
         "University": -10
       },
       "Antarctic Peninsula": {
@@ -12800,9 +12800,9 @@
         "C": 20
       },
       "Rialto": {
-        "A": 0,
+        "A": 10,
         "B": 20,
-        "C": 0
+        "C": 10
       },
       "Route 66": {
         "A": 20,
@@ -12810,7 +12810,7 @@
         "C": 0
       },
       "Shambali Monastery": {
-        "A": 0,
+        "A": -10,
         "B": 0,
         "C": 0
       },
@@ -12897,9 +12897,9 @@
         "C": 20
       },
       "Rialto": {
-        "A": 10,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 10,
+        "C": 10
       },
       "Route 66": {
         "A": 20,
@@ -12907,9 +12907,9 @@
         "C": 20
       },
       "Shambali Monastery": {
-        "A": 0,
+        "A": -10,
         "B": 20,
-        "C": 0
+        "C": -10
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
@@ -13051,9 +13051,9 @@
         "Shrine": 0
       },
       "Oasis": {
-        "City Center": 0,
-        "Gardens": -10,
-        "University": -10
+        "City Center": -20,
+        "Gardens": -20,
+        "University": -20
       },
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
@@ -13063,7 +13063,7 @@
         "Sublevel": 10
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -13086,14 +13086,14 @@
       "Dorado": 10,
       "Route 66": 10,
       "Junkertown": 20,
-      "Rialto": -10,
+      "Rialto": 0,
       "Havana": 10,
-      "Shambali Monastery": 0,
+      "Shambali Monastery": -10,
       "New Junk City": 0,
       "Ilios": -10,
       "Nepal": 0,
       "Lijiang Tower": -10,
-      "Oasis": 10,
+      "Oasis": 0,
       "Busan": 20,
       "Antarctic Peninsula": 10,
       "Samoa": 0,
@@ -13180,9 +13180,9 @@
         "C": 0
       },
       "Hollywood": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       },
       "King's Row": {
         "A": -10,
@@ -13190,9 +13190,9 @@
         "C": -10
       },
       "Midtown": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       },
       "Numbani": {
         "A": 0,
@@ -13277,9 +13277,9 @@
         "C": 0
       },
       "Hollywood": {
-        "A": 10,
-        "B": 10,
-        "C": 10
+        "A": 0,
+        "B": 0,
+        "C": 0
       },
       "King's Row": {
         "A": -10,
@@ -13287,9 +13287,9 @@
         "C": -10
       },
       "Midtown": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       },
       "Numbani": {
         "A": 0,
@@ -13408,7 +13408,7 @@
         "Sublevel": 0
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -13422,10 +13422,10 @@
       "King's Row": -10,
       "Watchpoint: Gibraltar": 0,
       "Numbani": 0,
-      "Hollywood": 10,
+      "Hollywood": 0,
       "Blizzard World": 20,
       "Eichenwalde": 0,
-      "Midtown": 0,
+      "Midtown": 10,
       "Paraíso": 10,
       "Circuit Royal": 0,
       "Dorado": 0,
@@ -13659,9 +13659,9 @@
         "Enemy": 0
       },
       "New Queen Street": {
-        "Ally": 0,
-        "Mid": 0,
-        "Enemy": 10
+        "Ally": 20,
+        "Mid": 10,
+        "Enemy": 20
       },
       "Runasapi": {
         "Ally": 10,
@@ -13789,7 +13789,7 @@
       "Samoa": 0,
       "Colosseo": 0,
       "Esperança": 0,
-      "New Queen Street": 0,
+      "New Queen Street": 10,
       "Suravasa": 10,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
@@ -13987,7 +13987,7 @@
         "C": -20
       },
       "Paraíso": {
-        "A": 10,
+        "A": 0,
         "B": 20,
         "C": 10
       }
@@ -14000,7 +14000,7 @@
       },
       "Esperança": {
         "Ally": -20,
-        "Mid": -10,
+        "Mid": 0,
         "Enemy": 0
       },
       "New Queen Street": {
@@ -14030,11 +14030,11 @@
         "Garden": 0
       },
       "Suravasa": {
-        "Market": 20,
-        "Gardens": 20,
-        "Palace": 20,
+        "Market": 10,
+        "Gardens": 10,
+        "Palace": 10,
         "Temple": 20,
-        "Ruins": 20
+        "Ruins": 10
       }
     },
     "A-Team": {
@@ -14078,7 +14078,7 @@
       "Lijiang Tower": {
         "Night Market": 20,
         "Garden": 10,
-        "Control Center": 10
+        "Control Center": 20
       },
       "Nepal": {
         "Village": 20,
@@ -14093,7 +14093,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
+        "Anomaly": 10,
         "Labs": 20,
         "Sublevel": 20
       },
@@ -14103,9 +14103,9 @@
         "Beach": 10
       },
       "Busan": {
-        "Sanctuary": 10,
-        "Downtown": 10,
-        "MEKA Base": 10
+        "Sanctuary": 0,
+        "Downtown": 0,
+        "MEKA Base": 0
       }
     },
     "Maps": {
@@ -14129,13 +14129,13 @@
       "Nepal": 20,
       "Lijiang Tower": 20,
       "Oasis": 10,
-      "Busan": 10,
+      "Busan": 0,
       "Antarctic Peninsula": 20,
       "Samoa": 20,
       "Colosseo": -20,
-      "Esperança": -20,
+      "Esperança": -10,
       "New Queen Street": -10,
-      "Suravasa": 20,
+      "Suravasa": 10,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": -10,
@@ -14195,9 +14195,9 @@
         "C": 0
       },
       "Watchpoint: Gibraltar": {
-        "A": -20,
-        "B": -20,
-        "C": -20
+        "A": -10,
+        "B": -10,
+        "C": -10
       },
       "Havana": {
         "A": 0,
@@ -14292,9 +14292,9 @@
         "C": 0
       },
       "Watchpoint: Gibraltar": {
-        "A": -20,
-        "B": -20,
-        "C": -20
+        "A": -10,
+        "B": -10,
+        "C": -10
       },
       "Havana": {
         "A": 0,
@@ -14303,7 +14303,7 @@
       },
       "Blizzard World": {
         "A": -20,
-        "B": -20,
+        "B": -10,
         "C": -20
       },
       "Eichenwalde": {
@@ -14341,7 +14341,7 @@
       "Colosseo": {
         "Ally": 10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": -10,
@@ -14448,14 +14448,14 @@
         "Beach": 0
       },
       "Busan": {
-        "Sanctuary": -10,
+        "Sanctuary": 0,
         "Downtown": 0,
         "MEKA Base": 0
       }
     },
     "Maps": {
       "King's Row": 0,
-      "Watchpoint: Gibraltar": -20,
+      "Watchpoint: Gibraltar": -10,
       "Numbani": 0,
       "Hollywood": -10,
       "Blizzard World": 0,
@@ -14530,7 +14530,7 @@
         "C": 0
       },
       "Route 66": {
-        "A": -10,
+        "A": 0,
         "B": 0,
         "C": -20
       },
@@ -14550,7 +14550,7 @@
         "C": -10
       },
       "Blizzard World": {
-        "A": 0,
+        "A": 10,
         "B": 10,
         "C": 0
       },
@@ -14627,7 +14627,7 @@
         "C": 0
       },
       "Route 66": {
-        "A": -10,
+        "A": 0,
         "B": -10,
         "C": -20
       },
@@ -14638,7 +14638,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": -10,
-        "B": 0,
+        "B": -10,
         "C": -10
       },
       "Havana": {
@@ -14706,7 +14706,7 @@
     },
     "Flashpoint": {
       "New Junk City": {
-        "Arena": 10,
+        "Arena": 20,
         "Ducts": 20,
         "Refinery": 20,
         "Junkyard": 20,
@@ -14717,7 +14717,7 @@
         "Bazaar": 20,
         "Resort": 10,
         "Town Center": 10,
-        "Garden": 20
+        "Garden": 10
       },
       "Suravasa": {
         "Market": 20,
@@ -14783,7 +14783,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
+        "Anomaly": 10,
         "Labs": 20,
         "Sublevel": 20
       },
@@ -14860,9 +14860,9 @@
         "C": 0
       },
       "Dorado": {
-        "A": 20,
-        "B": 20,
-        "C": 10
+        "A": 10,
+        "B": 10,
+        "C": 0
       },
       "Junkertown": {
         "A": 0,
@@ -14886,7 +14886,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -14895,7 +14895,7 @@
         "C": 0
       },
       "Blizzard World": {
-        "A": 0,
+        "A": 10,
         "B": 10,
         "C": 0
       },
@@ -14957,9 +14957,9 @@
         "C": 0
       },
       "Dorado": {
-        "A": 20,
-        "B": 20,
-        "C": 10
+        "A": 10,
+        "B": 10,
+        "C": 0
       },
       "Junkertown": {
         "A": 0,
@@ -14983,7 +14983,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": 0
       },
       "Havana": {
@@ -15031,7 +15031,7 @@
       "Colosseo": {
         "Ally": 10,
         "Mid": 0,
-        "Enemy": -10
+        "Enemy": 0
       },
       "Esperança": {
         "Ally": 0,
@@ -15133,7 +15133,7 @@
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": 0,
+        "Downtown": -10,
         "Volcano": 0,
         "Beach": 0
       },
@@ -15153,7 +15153,7 @@
       "Midtown": 0,
       "Paraíso": 0,
       "Circuit Royal": 0,
-      "Dorado": 20,
+      "Dorado": 10,
       "Route 66": 0,
       "Junkertown": 0,
       "Rialto": 0,
@@ -15201,7 +15201,7 @@
       },
       "Circuit Royal": {
         "A": 0,
-        "B": -20,
+        "B": -10,
         "C": 0
       },
       "Dorado": {
@@ -15226,8 +15226,8 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": 10,
+        "C": 10
       },
       "Watchpoint: Gibraltar": {
         "A": 0,
@@ -15261,7 +15261,7 @@
       },
       "Midtown": {
         "A": 20,
-        "B": 20,
+        "B": 10,
         "C": 20
       },
       "Numbani": {
@@ -15323,7 +15323,7 @@
       },
       "Shambali Monastery": {
         "A": 0,
-        "B": 0,
+        "B": 10,
         "C": 0
       },
       "Watchpoint: Gibraltar": {
@@ -15497,13 +15497,13 @@
       "Eichenwalde": 0,
       "Midtown": 0,
       "Paraíso": -10,
-      "Circuit Royal": -10,
+      "Circuit Royal": 0,
       "Dorado": 0,
       "Route 66": 0,
       "Junkertown": 0,
       "Rialto": 0,
       "Havana": 0,
-      "Shambali Monastery": 0,
+      "Shambali Monastery": 10,
       "New Junk City": 10,
       "Ilios": 0,
       "Nepal": 0,
@@ -15576,7 +15576,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 10,
-        "B": 20,
+        "B": 10,
         "C": 10
       },
       "Havana": {
@@ -15720,7 +15720,7 @@
     "Push": {
       "Colosseo": {
         "Ally": 0,
-        "Mid": -10,
+        "Mid": -20,
         "Enemy": 0
       },
       "Esperança": {
@@ -15756,7 +15756,7 @@
       },
       "Suravasa": {
         "Market": -10,
-        "Gardens": -10,
+        "Gardens": -20,
         "Palace": -10,
         "Temple": -20,
         "Ruins": -10
@@ -15857,7 +15857,7 @@
       "Busan": 0,
       "Antarctic Peninsula": -20,
       "Samoa": -20,
-      "Colosseo": -10,
+      "Colosseo": -20,
       "Esperança": -20,
       "New Queen Street": -20,
       "Suravasa": -20,
@@ -15921,7 +15921,7 @@
       },
       "Watchpoint: Gibraltar": {
         "A": 10,
-        "B": 20,
+        "B": 10,
         "C": 0
       },
       "Havana": {
@@ -15994,7 +15994,7 @@
       "Dorado": {
         "A": 10,
         "B": 20,
-        "C": 10
+        "C": 20
       },
       "Junkertown": {
         "A": 0,
@@ -16008,7 +16008,7 @@
       },
       "Route 66": {
         "A": 0,
-        "B": 20,
+        "B": 10,
         "C": 0
       },
       "Shambali Monastery": {
@@ -16074,9 +16074,9 @@
         "Enemy": 20
       },
       "New Queen Street": {
-        "Ally": 10,
+        "Ally": 0,
         "Mid": 0,
-        "Enemy": 20
+        "Enemy": 10
       },
       "Runasapi": {
         "Ally": -10,
@@ -16100,10 +16100,10 @@
         "Garden": 0
       },
       "Suravasa": {
-        "Market": -10,
+        "Market": 0,
         "Gardens": 0,
         "Palace": 0,
-        "Temple": -10,
+        "Temple": 0,
         "Ruins": 0
       }
     },
@@ -16148,7 +16148,7 @@
       "Lijiang Tower": {
         "Night Market": 0,
         "Garden": -10,
-        "Control Center": 0
+        "Control Center": -10
       },
       "Nepal": {
         "Village": -20,
@@ -16156,9 +16156,9 @@
         "Shrine": 0
       },
       "Oasis": {
-        "City Center": 10,
-        "Gardens": 10,
-        "University": 10
+        "City Center": 0,
+        "Gardens": 0,
+        "University": 0
       },
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
@@ -16197,15 +16197,15 @@
       "New Junk City": 0,
       "Ilios": 10,
       "Nepal": -10,
-      "Lijiang Tower": 0,
-      "Oasis": 10,
+      "Lijiang Tower": -10,
+      "Oasis": 0,
       "Busan": 10,
       "Antarctic Peninsula": -10,
       "Samoa": -10,
       "Colosseo": 10,
       "Esperança": 20,
-      "New Queen Street": 10,
-      "Suravasa": 0,
+      "New Queen Street": 0,
+      "Suravasa": 10,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
       "Runasapi": 0,
@@ -16277,12 +16277,12 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": 10
       },
       "Eichenwalde": {
-        "A": 0,
-        "B": -10,
-        "C": 10
+        "A": -10,
+        "B": -20,
+        "C": 0
       },
       "Hollywood": {
         "A": -20,
@@ -16339,7 +16339,7 @@
       "Dorado": {
         "A": 20,
         "B": 20,
-        "C": 10
+        "C": 20
       },
       "Junkertown": {
         "A": 20,
@@ -16374,12 +16374,12 @@
       "Blizzard World": {
         "A": 0,
         "B": 0,
-        "C": 0
+        "C": 10
       },
       "Eichenwalde": {
-        "A": 0,
+        "A": -10,
         "B": 0,
-        "C": 0
+        "C": -10
       },
       "Hollywood": {
         "A": 0,
@@ -16446,9 +16446,9 @@
       },
       "Suravasa": {
         "Market": 0,
-        "Gardens": 10,
+        "Gardens": 0,
         "Palace": 0,
-        "Temple": 10,
+        "Temple": 0,
         "Ruins": 0
       }
     },
@@ -16492,7 +16492,7 @@
       },
       "Lijiang Tower": {
         "Night Market": 0,
-        "Garden": -10,
+        "Garden": 0,
         "Control Center": 0
       },
       "Nepal": {
@@ -16519,17 +16519,17 @@
       },
       "Busan": {
         "Sanctuary": 0,
-        "Downtown": 0,
-        "MEKA Base": 0
+        "Downtown": -10,
+        "MEKA Base": -10
       }
     },
     "Maps": {
       "King's Row": 0,
       "Watchpoint: Gibraltar": 10,
-      "Numbani": 10,
+      "Numbani": 0,
       "Hollywood": 0,
-      "Blizzard World": 0,
-      "Eichenwalde": 10,
+      "Blizzard World": 10,
+      "Eichenwalde": 0,
       "Midtown": -10,
       "Paraíso": -20,
       "Circuit Royal": 0,
@@ -16544,7 +16544,7 @@
       "Nepal": -20,
       "Lijiang Tower": 0,
       "Oasis": -10,
-      "Busan": 0,
+      "Busan": -10,
       "Antarctic Peninsula": -10,
       "Samoa": -10,
       "Colosseo": 20,
@@ -16703,7 +16703,7 @@
       },
       "Shambali Monastery": {
         "A": 10,
-        "B": 10,
+        "B": 20,
         "C": 10
       },
       "Watchpoint: Gibraltar": {
@@ -16838,7 +16838,7 @@
       "Lijiang Tower": {
         "Night Market": 0,
         "Garden": -10,
-        "Control Center": 0
+        "Control Center": -10
       },
       "Nepal": {
         "Village": -10,
@@ -16858,7 +16858,7 @@
         "Sublevel": -10
       },
       "Samoa": {
-        "Downtown": -10,
+        "Downtown": 0,
         "Volcano": 0,
         "Beach": 0
       },
@@ -16995,9 +16995,9 @@
         "C": -10
       },
       "Paraíso": {
-        "A": -20,
-        "B": -10,
-        "C": -10
+        "A": -10,
+        "B": 0,
+        "C": 0
       }
     },
     "Defense": {
@@ -17092,9 +17092,9 @@
         "C": -10
       },
       "Paraíso": {
-        "A": -10,
+        "A": 0,
         "B": 0,
-        "C": -10
+        "C": 0
       }
     },
     "Push": {
@@ -17109,9 +17109,9 @@
         "Enemy": -20
       },
       "New Queen Street": {
-        "Ally": -20,
-        "Mid": -10,
-        "Enemy": -20
+        "Ally": -10,
+        "Mid": 0,
+        "Enemy": -10
       },
       "Runasapi": {
         "Ally": 0,
@@ -17182,7 +17182,7 @@
       },
       "Lijiang Tower": {
         "Night Market": -20,
-        "Garden": -10,
+        "Garden": 0,
         "Control Center": 0
       },
       "Nepal": {
@@ -17221,7 +17221,7 @@
       "Blizzard World": 0,
       "Eichenwalde": 0,
       "Midtown": 20,
-      "Paraíso": -10,
+      "Paraíso": 0,
       "Circuit Royal": 0,
       "Dorado": -20,
       "Route 66": -10,
@@ -17239,7 +17239,7 @@
       "Samoa": 10,
       "Colosseo": -10,
       "Esperança": -10,
-      "New Queen Street": -10,
+      "New Queen Street": 0,
       "Suravasa": 0,
       "Hanaoka": 0,
       "Throne of Anubis": 0,
@@ -17270,7 +17270,7 @@
         "B": 10
       },
       "Circuit Royal": {
-        "A": 10,
+        "A": 20,
         "B": 20,
         "C": 10
       },
@@ -17296,7 +17296,7 @@
       },
       "Shambali Monastery": {
         "A": -10,
-        "B": -20,
+        "B": -10,
         "C": -20
       },
       "Watchpoint: Gibraltar": {
@@ -17392,7 +17392,7 @@
         "C": -20
       },
       "Shambali Monastery": {
-        "A": -10,
+        "A": 0,
         "B": 0,
         "C": 20
       },
@@ -17403,7 +17403,7 @@
       },
       "Havana": {
         "A": 0,
-        "B": 10,
+        "B": 0,
         "C": -10
       },
       "Blizzard World": {
@@ -17434,7 +17434,7 @@
       "Numbani": {
         "A": -20,
         "B": -20,
-        "C": -20
+        "C": -10
       },
       "Paraíso": {
         "A": 0,
@@ -17469,7 +17469,7 @@
         "Arena": -10,
         "Ducts": 0,
         "Refinery": 0,
-        "Junkyard": -10,
+        "Junkyard": 0,
         "Bomb Flats": -10
       },
       "Aatlis": {
@@ -17528,7 +17528,7 @@
       "Lijiang Tower": {
         "Night Market": -20,
         "Garden": -10,
-        "Control Center": 0
+        "Control Center": -10
       },
       "Nepal": {
         "Village": 20,
