@@ -114,6 +114,12 @@
     "points": ["A", "B", "C"]
   },
   {
+    "name": "Neon Junction",
+    "type": "Hybrid",
+    "onPool": true,
+    "points": ["A", "B", "C"]
+  },
+  {
     "name": "Nepal",
     "type": "Control",
     "onPool": true,
