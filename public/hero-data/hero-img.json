@@ -407,6 +407,17 @@
     "side-echo-img": "images/heroes/tank/sigma-side-echo.webp"
   },
   {
+    "name": "Shion",
+    "white-img": "images/heroes/damage/shion-white.webp",
+    "white-echo-img": "images/heroes/damage/shion-echo.webp",
+    "profile-img": "images/heroes/damage/shion-profile.webp",
+    "profile-echo-img": "images/heroes/damage/shion-profile-echo.webp",
+    "art-img": "images/heroes/damage/shion-art.webp",
+    "art-echo-img": "images/heroes/damage/shion-art-echo.webp",
+    "side-img": "images/heroes/damage/shion-side.webp",
+    "side-echo-img": "images/heroes/damage/shion-side-echo.webp"
+  },
+  {
     "name": "Sojourn",
     "white-img": "images/heroes/damage/sojourn-white.webp",
     "white-echo-img": "images/heroes/damage/sojourn-echo.webp",
