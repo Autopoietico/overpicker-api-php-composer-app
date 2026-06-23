@@ -18,7 +18,7 @@
     ],
     "counters": [
       {
-        "name": "Shion",
+        "name": "Orisa",
         "score": 10
       },
       {
@@ -26,7 +26,7 @@
         "score": 10
       },
       {
-        "name": "Orisa",
+        "name": "Echo",
         "score": 10
       }
     ],
@@ -36,11 +36,11 @@
         "score": 10
       },
       {
-        "name": "Jetpack Cat",
+        "name": "Zarya",
         "score": 10
       },
       {
-        "name": "Sombra",
+        "name": "Jetpack Cat",
         "score": 10
       }
     ],
@@ -50,11 +50,11 @@
         "score": 20
       },
       {
-        "name": "Echo",
+        "name": "Orisa",
         "score": 20
       },
       {
-        "name": "Junkrat",
+        "name": "Echo",
         "score": 20
       }
     ],
@@ -65,7 +65,7 @@
       },
       {
         "name": "Brigitte",
-        "score": -10
+        "score": -20
       },
       {
         "name": "D.Va",
@@ -115,11 +115,11 @@
     ],
     "countered_by": [
       {
-        "name": "Junkrat",
+        "name": "Venture",
         "score": 20
       },
       {
-        "name": "Venture",
+        "name": "Junkrat",
         "score": 20
       },
       {
@@ -129,29 +129,29 @@
     ],
     "best_synergies": [
       {
-        "name": "Widowmaker",
-        "score": 20
-      },
-      {
         "name": "Winston",
         "score": 20
       },
       {
-        "name": "Junker Queen",
+        "name": "Widowmaker",
+        "score": 20
+      },
+      {
+        "name": "Reaper",
         "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Echo",
-        "score": -20
-      },
-      {
         "name": "Domina",
         "score": -10
       },
       {
-        "name": "Sojourn",
+        "name": "Soldier: 76",
+        "score": -10
+      },
+      {
+        "name": "Sierra",
         "score": -10
       }
     ],
@@ -199,29 +199,29 @@
     ],
     "countered_by": [
       {
+        "name": "Shion",
+        "score": 20
+      },
+      {
         "name": "Echo",
         "score": 10
       },
       {
         "name": "Hazard",
         "score": 10
-      },
-      {
-        "name": "Venture",
-        "score": 10
       }
     ],
     "best_synergies": [
+      {
+        "name": "Orisa",
+        "score": 20
+      },
       {
         "name": "Junkrat",
         "score": 20
       },
       {
         "name": "Roadhog",
-        "score": 20
-      },
-      {
-        "name": "Ramattra",
         "score": 20
       }
     ],
@@ -232,10 +232,10 @@
       },
       {
         "name": "Widowmaker",
-        "score": -20
+        "score": -10
       },
       {
-        "name": "Sojourn",
+        "name": "Sierra",
         "score": -10
       }
     ],
@@ -301,25 +301,25 @@
         "score": 10
       },
       {
-        "name": "Widowmaker",
+        "name": "Hanzo",
         "score": 10
       },
       {
-        "name": "Hanzo",
+        "name": "Widowmaker",
         "score": 10
       }
     ],
     "worst_synergies": [
+      {
+        "name": "Orisa",
+        "score": -20
+      },
       {
         "name": "Wrecking Ball",
         "score": -10
       },
       {
         "name": "Juno",
-        "score": -10
-      },
-      {
-        "name": "Mizuki",
         "score": -10
       }
     ],
@@ -378,29 +378,29 @@
     ],
     "best_synergies": [
       {
-        "name": "Doomfist",
+        "name": "Orisa",
         "score": 20
+      },
+      {
+        "name": "Doomfist",
+        "score": 10
       },
       {
         "name": "Reinhardt",
-        "score": 20
-      },
-      {
-        "name": "Lifeweaver",
         "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Echo",
-        "score": -20
-      },
-      {
         "name": "Tracer",
         "score": -20
       },
       {
-        "name": "Junkrat",
+        "name": "Echo",
+        "score": -20
+      },
+      {
+        "name": "Junker Queen",
         "score": -10
       }
     ],
@@ -436,12 +436,12 @@
         "score": 20
       },
       {
-        "name": "Bastion",
+        "name": "Illari",
         "score": 20
       },
       {
-        "name": "Illari",
-        "score": 10
+        "name": "Bastion",
+        "score": 20
       }
     ],
     "countered_by": [
@@ -454,7 +454,7 @@
         "score": 20
       },
       {
-        "name": "Ashe",
+        "name": "Hanzo",
         "score": 20
       }
     ],
@@ -530,19 +530,23 @@
     ],
     "countered_by": [
       {
-        "name": "Jetpack Cat",
-        "score": 10
-      },
-      {
         "name": "Pharah",
         "score": 10
       },
       {
-        "name": "Sombra",
+        "name": "Jetpack Cat",
+        "score": 10
+      },
+      {
+        "name": "Zarya",
         "score": 10
       }
     ],
     "best_synergies": [
+      {
+        "name": "Orisa",
+        "score": 20
+      },
       {
         "name": "Roadhog",
         "score": 20
@@ -550,23 +554,19 @@
       {
         "name": "Echo",
         "score": 20
-      },
-      {
-        "name": "Reinhardt",
-        "score": 20
       }
     ],
     "worst_synergies": [
+      {
+        "name": "Shion",
+        "score": -20
+      },
       {
         "name": "Mei",
         "score": -10
       },
       {
         "name": "Vendetta",
-        "score": -10
-      },
-      {
-        "name": "Anran",
         "score": -10
       }
     ],
@@ -599,16 +599,16 @@
     ],
     "counters": [
       {
-        "name": "Shion",
-        "score": 20
-      },
-      {
         "name": "Orisa",
         "score": 20
       },
       {
-        "name": "Winston",
-        "score": 10
+        "name": "Shion",
+        "score": 20
+      },
+      {
+        "name": "Pharah",
+        "score": 20
       }
     ],
     "countered_by": [
@@ -631,25 +631,25 @@
         "score": 20
       },
       {
-        "name": "Wuyang",
+        "name": "Mei",
         "score": 20
       },
       {
-        "name": "Mei",
+        "name": "Wuyang",
         "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Widowmaker",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Mauga",
+        "name": "Widowmaker",
         "score": -10
       },
       {
-        "name": "Reinhardt",
+        "name": "Mauga",
         "score": -10
       }
     ],
@@ -705,20 +705,20 @@
       },
       {
         "name": "Illari",
-        "score": 10
+        "score": 20
       }
     ],
     "best_synergies": [
-      {
-        "name": "Orisa",
-        "score": 10
-      },
       {
         "name": "Sigma",
         "score": 10
       },
       {
         "name": "Venture",
+        "score": 10
+      },
+      {
+        "name": "Orisa",
         "score": 10
       }
     ],
@@ -770,11 +770,11 @@
         "score": 20
       },
       {
-        "name": "Brigitte",
+        "name": "Sojourn",
         "score": 20
       },
       {
-        "name": "Sojourn",
+        "name": "Brigitte",
         "score": 20
       }
     ],
@@ -808,15 +808,15 @@
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Junkrat",
         "score": -20
       },
       {
         "name": "Echo",
-        "score": -20
-      },
-      {
-        "name": "Jetpack Cat",
         "score": -10
       }
     ],
@@ -862,11 +862,11 @@
     ],
     "countered_by": [
       {
-        "name": "Doomfist",
+        "name": "Reinhardt",
         "score": 20
       },
       {
-        "name": "Reinhardt",
+        "name": "Doomfist",
         "score": 20
       },
       {
@@ -890,7 +890,7 @@
     ],
     "worst_synergies": [
       {
-        "name": "Widowmaker",
+        "name": "Orisa",
         "score": -20
       },
       {
@@ -898,7 +898,7 @@
         "score": -20
       },
       {
-        "name": "Roadhog",
+        "name": "Widowmaker",
         "score": -20
       }
     ],
@@ -949,21 +949,21 @@
         "score": 20
       },
       {
-        "name": "Sombra",
-        "score": 10
+        "name": "Shion",
+        "score": 20
       },
       {
-        "name": "D.Va",
+        "name": "Sombra",
         "score": 10
       }
     ],
     "best_synergies": [
       {
-        "name": "Mauga",
+        "name": "Orisa",
         "score": 20
       },
       {
-        "name": "Roadhog",
+        "name": "Mauga",
         "score": 20
       },
       {
@@ -977,11 +977,11 @@
         "score": -20
       },
       {
-        "name": "Freja",
+        "name": "Junker Queen",
         "score": -10
       },
       {
-        "name": "Junker Queen",
+        "name": "Freja",
         "score": -10
       }
     ],
@@ -1049,16 +1049,16 @@
       },
       {
         "name": "Wrecking Ball",
-        "score": 10
+        "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Sojourn",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Roadhog",
+        "name": "Sojourn",
         "score": -20
       },
       {
@@ -1094,12 +1094,12 @@
     ],
     "counters": [
       {
-        "name": "Symmetra",
+        "name": "Junker Queen",
         "score": 20
       },
       {
-        "name": "Junker Queen",
-        "score": 10
+        "name": "Symmetra",
+        "score": 20
       },
       {
         "name": "Venture",
@@ -1116,7 +1116,7 @@
         "score": 10
       },
       {
-        "name": "Zarya",
+        "name": "Domina",
         "score": 10
       }
     ],
@@ -1126,11 +1126,11 @@
         "score": 20
       },
       {
-        "name": "Sojourn",
+        "name": "Widowmaker",
         "score": 20
       },
       {
-        "name": "Widowmaker",
+        "name": "Sojourn",
         "score": 20
       }
     ],
@@ -1179,11 +1179,11 @@
         "score": 20
       },
       {
-        "name": "Sombra",
+        "name": "Brigitte",
         "score": 20
       },
       {
-        "name": "Pharah",
+        "name": "Sombra",
         "score": 20
       }
     ],
@@ -1207,7 +1207,7 @@
         "score": 20
       },
       {
-        "name": "Ramattra",
+        "name": "Vendetta",
         "score": 10
       },
       {
@@ -1225,8 +1225,8 @@
         "score": -20
       },
       {
-        "name": "Widowmaker",
-        "score": -20
+        "name": "Freja",
+        "score": -10
       }
     ],
     "best_maps": [
@@ -1263,11 +1263,11 @@
     ],
     "counters": [
       {
-        "name": "Orisa",
+        "name": "Moira",
         "score": 20
       },
       {
-        "name": "Moira",
+        "name": "Orisa",
         "score": 20
       },
       {
@@ -1285,7 +1285,7 @@
         "score": 10
       },
       {
-        "name": "Zarya",
+        "name": "Freja",
         "score": 10
       }
     ],
@@ -1300,17 +1300,17 @@
       },
       {
         "name": "Lifeweaver",
-        "score": 10
+        "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Widowmaker",
+        "name": "Reinhardt",
         "score": -20
       },
       {
-        "name": "Reinhardt",
-        "score": -20
+        "name": "Widowmaker",
+        "score": -10
       },
       {
         "name": "Junkrat",
@@ -1354,11 +1354,15 @@
         "score": 20
       },
       {
-        "name": "Freja",
+        "name": "Domina",
         "score": 20
       }
     ],
     "countered_by": [
+      {
+        "name": "Shion",
+        "score": 20
+      },
       {
         "name": "Vendetta",
         "score": 20
@@ -1366,10 +1370,6 @@
       {
         "name": "Widowmaker",
         "score": 20
-      },
-      {
-        "name": "Brigitte",
-        "score": 10
       }
     ],
     "best_synergies": [
@@ -1382,21 +1382,21 @@
         "score": 20
       },
       {
-        "name": "Roadhog",
+        "name": "Junkrat",
         "score": 20
       }
     ],
     "worst_synergies": [
+      {
+        "name": "Orisa",
+        "score": -20
+      },
       {
         "name": "Moira",
         "score": -20
       },
       {
         "name": "Anran",
-        "score": -10
-      },
-      {
-        "name": "Orisa",
         "score": -10
       }
     ],
@@ -1434,11 +1434,11 @@
         "score": 20
       },
       {
-        "name": "Sierra",
-        "score": 20
+        "name": "Wuyang",
+        "score": 10
       },
       {
-        "name": "Wuyang",
+        "name": "Winston",
         "score": 10
       }
     ],
@@ -1458,16 +1458,16 @@
     ],
     "best_synergies": [
       {
-        "name": "Illari",
-        "score": 10
+        "name": "Ramattra",
+        "score": 20
       },
       {
-        "name": "Ramattra",
-        "score": 10
+        "name": "Illari",
+        "score": 20
       },
       {
         "name": "Freja",
-        "score": 10
+        "score": 20
       }
     ],
     "worst_synergies": [
@@ -1515,15 +1515,15 @@
     ],
     "counters": [
       {
-        "name": "Wuyang",
-        "score": 20
-      },
-      {
         "name": "Pharah",
         "score": 20
       },
       {
-        "name": "Moira",
+        "name": "Wuyang",
+        "score": 20
+      },
+      {
+        "name": "Freja",
         "score": 10
       }
     ],
@@ -1533,11 +1533,11 @@
         "score": 20
       },
       {
-        "name": "Sombra",
+        "name": "Sigma",
         "score": 20
       },
       {
-        "name": "Zarya",
+        "name": "Sombra",
         "score": 20
       }
     ],
@@ -1547,11 +1547,11 @@
         "score": 20
       },
       {
-        "name": "Anran",
+        "name": "Zenyatta",
         "score": 20
       },
       {
-        "name": "Zenyatta",
+        "name": "Anran",
         "score": 20
       }
     ],
@@ -1561,7 +1561,7 @@
         "score": -20
       },
       {
-        "name": "Widowmaker",
+        "name": "Orisa",
         "score": -20
       },
       {
@@ -1610,11 +1610,11 @@
     ],
     "countered_by": [
       {
-        "name": "Bastion",
+        "name": "Widowmaker",
         "score": 20
       },
       {
-        "name": "Widowmaker",
+        "name": "Bastion",
         "score": 20
       },
       {
@@ -1624,21 +1624,21 @@
     ],
     "best_synergies": [
       {
+        "name": "Orisa",
+        "score": 20
+      },
+      {
         "name": "Illari",
         "score": 10
       },
       {
         "name": "Symmetra",
         "score": 10
-      },
-      {
-        "name": "Orisa",
-        "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Widowmaker",
+        "name": "Sierra",
         "score": -20
       },
       {
@@ -1646,7 +1646,7 @@
         "score": -20
       },
       {
-        "name": "Sierra",
+        "name": "Widowmaker",
         "score": -20
       }
     ],
@@ -1697,11 +1697,11 @@
         "score": 20
       },
       {
-        "name": "Freja",
+        "name": "Shion",
         "score": 10
       },
       {
-        "name": "Doomfist",
+        "name": "Freja",
         "score": 10
       }
     ],
@@ -1729,7 +1729,7 @@
         "score": -20
       },
       {
-        "name": "Orisa",
+        "name": "Junker Queen",
         "score": -10
       }
     ],
@@ -1767,11 +1767,11 @@
         "score": 10
       },
       {
-        "name": "Illari",
+        "name": "Orisa",
         "score": 10
       },
       {
-        "name": "Orisa",
+        "name": "Illari",
         "score": 10
       }
     ],
@@ -1791,15 +1791,15 @@
     ],
     "best_synergies": [
       {
+        "name": "Orisa",
+        "score": 20
+      },
+      {
         "name": "Widowmaker",
         "score": 20
       },
       {
         "name": "Roadhog",
-        "score": 20
-      },
-      {
-        "name": "Echo",
         "score": 20
       }
     ],
@@ -1855,7 +1855,7 @@
         "score": 20
       },
       {
-        "name": "Ana",
+        "name": "Hazard",
         "score": 10
       }
     ],
@@ -1875,25 +1875,25 @@
     ],
     "best_synergies": [
       {
-        "name": "Shion",
-        "score": 10
-      },
-      {
         "name": "Brigitte",
         "score": 10
       },
       {
         "name": "Lúcio",
         "score": 10
+      },
+      {
+        "name": "Wuyang",
+        "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Torbjörn",
+        "name": "Kiriko",
         "score": -20
       },
       {
-        "name": "Kiriko",
+        "name": "Torbjörn",
         "score": -20
       },
       {
@@ -1935,11 +1935,11 @@
         "score": 20
       },
       {
-        "name": "Shion",
-        "score": 20
+        "name": "Domina",
+        "score": 10
       },
       {
-        "name": "Domina",
+        "name": "Junkrat",
         "score": 10
       }
     ],
@@ -1959,15 +1959,15 @@
     ],
     "best_synergies": [
       {
-        "name": "Echo",
+        "name": "Lifeweaver",
         "score": 20
       },
       {
-        "name": "Lifeweaver",
+        "name": "Moira",
         "score": 10
       },
       {
-        "name": "Moira",
+        "name": "Reaper",
         "score": 10
       }
     ],
@@ -1978,7 +1978,7 @@
       },
       {
         "name": "Ramattra",
-        "score": -20
+        "score": -10
       },
       {
         "name": "Emre",
@@ -2059,15 +2059,15 @@
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Widowmaker",
         "score": -20
       },
       {
         "name": "Sojourn",
-        "score": -20
-      },
-      {
-        "name": "Echo",
         "score": -20
       }
     ],
@@ -2152,7 +2152,7 @@
         "score": -20
       },
       {
-        "name": "Widowmaker",
+        "name": "Roadhog",
         "score": -20
       }
     ],
@@ -2187,10 +2187,10 @@
     "counters": [
       {
         "name": "Widowmaker",
-        "score": 10
+        "score": 20
       },
       {
-        "name": "Roadhog",
+        "name": "Jetpack Cat",
         "score": 10
       },
       {
@@ -2200,11 +2200,11 @@
     ],
     "countered_by": [
       {
-        "name": "Shion",
-        "score": 20
+        "name": "Doomfist",
+        "score": 10
       },
       {
-        "name": "Doomfist",
+        "name": "Reaper",
         "score": 10
       },
       {
@@ -2214,15 +2214,15 @@
     ],
     "best_synergies": [
       {
+        "name": "Orisa",
+        "score": 20
+      },
+      {
         "name": "Roadhog",
         "score": 20
       },
       {
         "name": "Echo",
-        "score": 20
-      },
-      {
-        "name": "Widowmaker",
         "score": 20
       }
     ],
@@ -2232,11 +2232,11 @@
         "score": -10
       },
       {
-        "name": "Anran",
+        "name": "Domina",
         "score": -10
       },
       {
-        "name": "Domina",
+        "name": "Anran",
         "score": -10
       }
     ],
@@ -2285,29 +2285,29 @@
     ],
     "countered_by": [
       {
+        "name": "Shion",
+        "score": 20
+      },
+      {
         "name": "Venture",
         "score": 20
       },
       {
         "name": "Anran",
         "score": 20
-      },
-      {
-        "name": "Shion",
-        "score": 20
       }
     ],
     "best_synergies": [
+      {
+        "name": "Orisa",
+        "score": 20
+      },
       {
         "name": "Echo",
         "score": 20
       },
       {
         "name": "Junkrat",
-        "score": 10
-      },
-      {
-        "name": "Anran",
         "score": 10
       }
     ],
@@ -2370,26 +2370,26 @@
         "score": 20
       },
       {
-        "name": "Anran",
+        "name": "Torbjörn",
         "score": 10
       },
       {
-        "name": "Torbjörn",
+        "name": "Baptiste",
         "score": 10
       }
     ],
     "best_synergies": [
       {
+        "name": "Orisa",
+        "score": 20
+      },
+      {
         "name": "Widowmaker",
         "score": 20
       },
       {
-        "name": "Roadhog",
-        "score": 20
-      },
-      {
         "name": "Sojourn",
-        "score": 10
+        "score": 20
       }
     ],
     "worst_synergies": [
@@ -2469,7 +2469,7 @@
         "score": 10
       },
       {
-        "name": "Widowmaker",
+        "name": "Domina",
         "score": 10
       }
     ],
@@ -2479,7 +2479,7 @@
         "score": -20
       },
       {
-        "name": "Roadhog",
+        "name": "Wuyang",
         "score": -20
       },
       {
@@ -2518,11 +2518,11 @@
         "score": 20
       },
       {
-        "name": "Mauga",
+        "name": "Hazard",
         "score": 20
       },
       {
-        "name": "Hazard",
+        "name": "Mauga",
         "score": 20
       }
     ],
@@ -2532,7 +2532,7 @@
         "score": 20
       },
       {
-        "name": "Domina",
+        "name": "Mizuki",
         "score": 20
       },
       {
@@ -2560,11 +2560,11 @@
         "score": -20
       },
       {
-        "name": "Sojourn",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Wrecking Ball",
+        "name": "Sojourn",
         "score": -20
       }
     ],
@@ -2597,16 +2597,16 @@
     ],
     "counters": [
       {
-        "name": "Sojourn",
-        "score": 20
-      },
-      {
         "name": "Jetpack Cat",
         "score": 20
       },
       {
-        "name": "Tracer",
+        "name": "Sojourn",
         "score": 20
+      },
+      {
+        "name": "Roadhog",
+        "score": 10
       }
     ],
     "countered_by": [
@@ -2629,26 +2629,26 @@
         "score": 20
       },
       {
-        "name": "Hanzo",
-        "score": 20
+        "name": "Ashe",
+        "score": 10
       },
       {
-        "name": "Freja",
-        "score": 20
+        "name": "Hanzo",
+        "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Echo",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Roadhog",
-        "score": -20
+        "name": "Echo",
+        "score": -10
       },
       {
         "name": "Sojourn",
-        "score": -20
+        "score": -10
       }
     ],
     "best_maps": [
@@ -2707,15 +2707,15 @@
     ],
     "best_synergies": [
       {
-        "name": "Mauga",
-        "score": 20
-      },
-      {
         "name": "Freja",
         "score": 20
       },
       {
-        "name": "Hanzo",
+        "name": "Mauga",
+        "score": 20
+      },
+      {
+        "name": "Orisa",
         "score": 20
       }
     ],
@@ -2764,7 +2764,7 @@
     ],
     "counters": [
       {
-        "name": "Shion",
+        "name": "Winston",
         "score": 20
       },
       {
@@ -2772,7 +2772,7 @@
         "score": 20
       },
       {
-        "name": "Winston",
+        "name": "Echo",
         "score": 20
       }
     ],
@@ -2782,12 +2782,12 @@
         "score": 20
       },
       {
-        "name": "Wuyang",
+        "name": "Orisa",
         "score": 20
       },
       {
-        "name": "Orisa",
-        "score": 20
+        "name": "Sombra",
+        "score": 10
       }
     ],
     "best_synergies": [
@@ -2797,7 +2797,7 @@
       },
       {
         "name": "Junkrat",
-        "score": 20
+        "score": 10
       },
       {
         "name": "Juno",
@@ -2806,16 +2806,16 @@
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Roadhog",
         "score": -20
       },
       {
-        "name": "Ramattra",
-        "score": -20
-      },
-      {
         "name": "Sigma",
-        "score": -10
+        "score": -20
       }
     ],
     "best_maps": [
@@ -2861,11 +2861,11 @@
     ],
     "countered_by": [
       {
-        "name": "Reinhardt",
+        "name": "Widowmaker",
         "score": 20
       },
       {
-        "name": "Widowmaker",
+        "name": "Reinhardt",
         "score": 20
       },
       {
@@ -2883,14 +2883,14 @@
         "score": 20
       },
       {
-        "name": "Genji",
+        "name": "D.Va",
         "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Reinhardt",
-        "score": -10
+        "name": "Orisa",
+        "score": -20
       },
       {
         "name": "Sombra",
@@ -2937,11 +2937,11 @@
         "score": 20
       },
       {
-        "name": "D.Va",
+        "name": "Lúcio",
         "score": 20
       },
       {
-        "name": "Lúcio",
+        "name": "D.Va",
         "score": 20
       }
     ],
@@ -2961,7 +2961,7 @@
     ],
     "best_synergies": [
       {
-        "name": "Roadhog",
+        "name": "Orisa",
         "score": 20
       },
       {
@@ -2970,7 +2970,7 @@
       },
       {
         "name": "Vendetta",
-        "score": 10
+        "score": 20
       }
     ],
     "worst_synergies": [
@@ -2983,7 +2983,7 @@
         "score": -20
       },
       {
-        "name": "Widowmaker",
+        "name": "Jetpack Cat",
         "score": -20
       }
     ],
@@ -3022,35 +3022,35 @@
         "score": 20
       },
       {
-        "name": "Echo",
-        "score": 10
+        "name": "Junker Queen",
+        "score": 20
       },
       {
-        "name": "Wrecking Ball",
+        "name": "Echo",
         "score": 10
       }
     ],
     "countered_by": [
       {
-        "name": "Brigitte",
-        "score": 10
-      },
-      {
-        "name": "Emre",
+        "name": "Shion",
         "score": 10
       },
       {
         "name": "Juno",
         "score": 10
+      },
+      {
+        "name": "Torbjörn",
+        "score": 10
       }
     ],
     "best_synergies": [
       {
-        "name": "Echo",
+        "name": "Widowmaker",
         "score": 20
       },
       {
-        "name": "Widowmaker",
+        "name": "Echo",
         "score": 20
       },
       {
@@ -3060,15 +3060,15 @@
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Reinhardt",
         "score": -20
       },
       {
         "name": "Doomfist",
-        "score": -10
-      },
-      {
-        "name": "Sombra",
         "score": -10
       }
     ],
@@ -3099,58 +3099,58 @@
     ],
     "counters": [
       {
-        "name": "Mercy",
+        "name": "Mizuki",
+        "score": 20
+      },
+      {
+        "name": "Illari",
         "score": 20
       },
       {
         "name": "Symmetra",
         "score": 20
-      },
-      {
-        "name": "Soldier: 76",
-        "score": 20
       }
     ],
     "countered_by": [
-      {
-        "name": "D.Va",
-        "score": 20
-      },
       {
         "name": "Junkrat",
         "score": 20
       },
       {
-        "name": "Reinhardt",
+        "name": "D.Va",
+        "score": 20
+      },
+      {
+        "name": "Sombra",
         "score": 20
       }
     ],
     "best_synergies": [
       {
         "name": "Lifeweaver",
-        "score": 20
+        "score": 10
       },
       {
         "name": "D.Va",
-        "score": 20
+        "score": 10
       },
       {
-        "name": "Tracer",
+        "name": "Hazard",
         "score": 10
       }
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Wrecking Ball",
         "score": -20
       },
       {
-        "name": "Soldier: 76",
+        "name": "Cassidy",
         "score": -20
-      },
-      {
-        "name": "Roadhog",
-        "score": -10
       }
     ],
     "best_maps": [],
@@ -3184,7 +3184,7 @@
         "score": 10
       },
       {
-        "name": "Lúcio",
+        "name": "Mercy",
         "score": 10
       }
     ],
@@ -3194,11 +3194,11 @@
         "score": 20
       },
       {
-        "name": "Doomfist",
+        "name": "Ramattra",
         "score": 20
       },
       {
-        "name": "Ramattra",
+        "name": "Doomfist",
         "score": 20
       }
     ],
@@ -3218,15 +3218,15 @@
     ],
     "worst_synergies": [
       {
-        "name": "Echo",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Orisa",
+        "name": "Echo",
         "score": -10
       },
       {
-        "name": "Mei",
+        "name": "Emre",
         "score": -10
       }
     ],
@@ -3278,25 +3278,25 @@
         "score": 20
       },
       {
-        "name": "Ramattra",
-        "score": 20
+        "name": "Pharah",
+        "score": 10
       },
       {
-        "name": "Pharah",
+        "name": "Ramattra",
         "score": 10
       }
     ],
     "best_synergies": [
+      {
+        "name": "Orisa",
+        "score": 20
+      },
       {
         "name": "Roadhog",
         "score": 20
       },
       {
         "name": "Junkrat",
-        "score": 20
-      },
-      {
-        "name": "Reinhardt",
         "score": 20
       }
     ],
@@ -3372,7 +3372,7 @@
     ],
     "best_synergies": [
       {
-        "name": "Zarya",
+        "name": "Emre",
         "score": 10
       },
       {
@@ -3380,21 +3380,21 @@
         "score": 10
       },
       {
-        "name": "Emre",
+        "name": "Zarya",
         "score": 10
       }
     ],
     "worst_synergies": [
+      {
+        "name": "Orisa",
+        "score": -20
+      },
       {
         "name": "Roadhog",
         "score": -20
       },
       {
         "name": "Sojourn",
-        "score": -20
-      },
-      {
-        "name": "Freja",
         "score": -20
       }
     ],
@@ -3460,25 +3460,25 @@
         "score": 10
       },
       {
-        "name": "Winston",
+        "name": "Lúcio",
         "score": 10
       },
       {
-        "name": "Lúcio",
+        "name": "Mauga",
         "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Echo",
+        "name": "Orisa",
         "score": -20
       },
       {
-        "name": "Widowmaker",
+        "name": "Soldier: 76",
         "score": -10
       },
       {
-        "name": "Soldier: 76",
+        "name": "Echo",
         "score": -10
       }
     ],
@@ -3534,7 +3534,7 @@
         "score": 10
       },
       {
-        "name": "Roadhog",
+        "name": "Vendetta",
         "score": 10
       }
     ],
@@ -3548,7 +3548,7 @@
         "score": 10
       },
       {
-        "name": "Orisa",
+        "name": "Illari",
         "score": 10
       }
     ],
@@ -3558,12 +3558,12 @@
         "score": -20
       },
       {
-        "name": "Junkrat",
+        "name": "Lifeweaver",
         "score": -20
       },
       {
-        "name": "Echo",
-        "score": -20
+        "name": "Junkrat",
+        "score": -10
       }
     ],
     "best_maps": [
@@ -3614,12 +3614,12 @@
         "score": 20
       },
       {
-        "name": "Ramattra",
+        "name": "Roadhog",
         "score": 20
       },
       {
-        "name": "Roadhog",
-        "score": 20
+        "name": "Ramattra",
+        "score": 10
       }
     ],
     "best_synergies": [
@@ -3687,11 +3687,11 @@
         "score": 20
       },
       {
-        "name": "Wuyang",
+        "name": "Orisa",
         "score": 20
       },
       {
-        "name": "Orisa",
+        "name": "Wuyang",
         "score": 20
       }
     ],
@@ -3725,15 +3725,15 @@
     ],
     "worst_synergies": [
       {
+        "name": "Orisa",
+        "score": -20
+      },
+      {
         "name": "Widowmaker",
         "score": -20
       },
       {
         "name": "Juno",
-        "score": -20
-      },
-      {
-        "name": "Junkrat",
         "score": -20
       }
     ],
@@ -3779,7 +3779,7 @@
         "score": 20
       },
       {
-        "name": "Anran",
+        "name": "Mauga",
         "score": 20
       }
     ],
@@ -3807,17 +3807,17 @@
         "score": 20
       },
       {
-        "name": "Orisa",
+        "name": "Freja",
         "score": 20
       }
     ],
     "worst_synergies": [
       {
         "name": "Echo",
-        "score": -20
+        "score": -10
       },
       {
-        "name": "Widowmaker",
+        "name": "Orisa",
         "score": -10
       },
       {
@@ -3854,22 +3854,22 @@
     ],
     "counters": [
       {
-        "name": "Genji",
-        "score": 20
-      },
-      {
         "name": "Illari",
         "score": 20
       },
       {
         "name": "Lifeweaver",
         "score": 20
+      },
+      {
+        "name": "Genji",
+        "score": 20
       }
     ],
     "countered_by": [
       {
         "name": "Mercy",
-        "score": 10
+        "score": 20
       },
       {
         "name": "Brigitte",
@@ -3886,17 +3886,17 @@
         "score": 10
       },
       {
-        "name": "Sigma",
+        "name": "Bastion",
         "score": 10
       },
       {
-        "name": "Bastion",
+        "name": "Sigma",
         "score": 10
       }
     ],
     "worst_synergies": [
       {
-        "name": "Roadhog",
+        "name": "Orisa",
         "score": -20
       },
       {
@@ -3904,8 +3904,8 @@
         "score": -20
       },
       {
-        "name": "Sojourn",
-        "score": -20
+        "name": "Emre",
+        "score": -10
       }
     ],
     "best_maps": [
@@ -3944,11 +3944,11 @@
         "score": 10
       },
       {
-        "name": "Soldier: 76",
+        "name": "Reaper",
         "score": 10
       },
       {
-        "name": "Brigitte",
+        "name": "Soldier: 76",
         "score": 10
       }
     ],
@@ -3976,21 +3976,21 @@
         "score": 20
       },
       {
-        "name": "Emre",
+        "name": "Lúcio",
         "score": 10
       }
     ],
     "worst_synergies": [
+      {
+        "name": "Orisa",
+        "score": -20
+      },
       {
         "name": "Sigma",
         "score": -10
       },
       {
         "name": "Genji",
-        "score": -10
-      },
-      {
-        "name": "Roadhog",
         "score": -10
       }
     ],
@@ -4067,7 +4067,7 @@
     ],
     "worst_synergies": [
       {
-        "name": "Widowmaker",
+        "name": "Orisa",
         "score": -20
       },
       {
@@ -4108,16 +4108,16 @@
     ],
     "counters": [
       {
-        "name": "Reinhardt",
+        "name": "Freja",
         "score": 20
       },
       {
         "name": "Brigitte",
-        "score": 20
+        "score": 10
       },
       {
-        "name": "Freja",
-        "score": 20
+        "name": "Reinhardt",
+        "score": 10
       }
     ],
     "countered_by": [
@@ -4130,14 +4130,14 @@
         "score": 20
       },
       {
-        "name": "Junker Queen",
+        "name": "Junkrat",
         "score": 20
       }
     ],
     "best_synergies": [
       {
         "name": "Widowmaker",
-        "score": 20
+        "score": 10
       },
       {
         "name": "D.Va",
@@ -4159,7 +4159,7 @@
       },
       {
         "name": "Genji",
-        "score": -20
+        "score": -10
       }
     ],
     "best_maps": [
@@ -4223,17 +4223,17 @@
         "score": 20
       },
       {
-        "name": "Junkrat",
+        "name": "Mei",
         "score": 20
       },
       {
-        "name": "Mei",
+        "name": "Sombra",
         "score": 20
       }
     ],
     "worst_synergies": [
       {
-        "name": "Roadhog",
+        "name": "Orisa",
         "score": -20
       },
       {
@@ -4310,8 +4310,8 @@
         "score": 20
       },
       {
-        "name": "Roadhog",
-        "score": 20
+        "name": "Junker Queen",
+        "score": 10
       }
     ],
     "worst_synergies": [
