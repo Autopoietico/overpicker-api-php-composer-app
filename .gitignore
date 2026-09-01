@@ -8,3 +8,5 @@ cosas.txt
 overwatch_hero_stats.md
 hero-info-data/
 merge-hero-info.js
+public/hero-data/csv-exports/
+scripts/json-to-csv.py
