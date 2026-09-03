@@ -666,7 +666,7 @@
   },
   {
     "name": "D.Mon",
-    "description": "",
+    "description": "Stalwart tank who pilots the Beast mech and keeps fighting on foot once it is destroyed. Her Power Barrier holds space while Propulsors and Surging Strike close distance and shove enemies around, and ejecting from a broken mech grants a brief window of invulnerability. Her Limit Break ultimate sweeps the area, giving her heavy overhealth and amplifying the damage nearby enemies take.",
     "general_rol": "Tank",
     "secondary_rol": "Stalwart",
     "shields": 0,
@@ -3170,7 +3170,7 @@
   },
   {
     "name": "Shion",
-    "description": "",
+    "description": "Aggressive flanker who thrives when diving the enemy backline with nothing to lose. Her Kira Pistols reward precise aim, while Execution unloads a wide, X shaped volley up close. Evade grants overhealth and lets her slip through enemies, and Joyride sends a motorcycle crashing into a target for a heavy burst. Her Satsuriku Spree ultimate transforms her for three sweeping rushes that shred anyone caught in range.",
     "general_rol": "Damage",
     "secondary_rol": "Flanker",
     "shields": 0,
