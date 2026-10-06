@@ -99,6 +99,17 @@
     "side-echo-img": "images/heroes/tank/dmon-side-echo.webp"
   },
   {
+    "name": "Doctrine",
+    "white-img": "images/heroes/support/doctrine-white.webp",
+    "white-echo-img": "images/heroes/support/doctrine-echo.webp",
+    "profile-img": "images/heroes/support/doctrine-profile.webp",
+    "profile-echo-img": "images/heroes/support/doctrine-profile-echo.webp",
+    "art-img": "images/heroes/support/doctrine-art.webp",
+    "art-echo-img": "images/heroes/support/doctrine-art-echo.webp",
+    "side-img": "images/heroes/support/doctrine-side.webp",
+    "side-echo-img": "images/heroes/support/doctrine-side-echo.webp"
+  },
+  {
     "name": "Domina",
     "white-img": "images/heroes/tank/domina-white.webp",
     "white-echo-img": "images/heroes/tank/domina-echo.webp",
