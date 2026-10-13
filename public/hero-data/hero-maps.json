@@ -102,9 +102,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Defense": {
@@ -209,9 +209,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -362,7 +362,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -20,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Anran": {
@@ -728,7 +729,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 10,
       "Aatlis": 10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Ashe": {
@@ -1094,7 +1096,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -20,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Baptiste": {
@@ -1460,7 +1463,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Bastion": {
@@ -1566,9 +1570,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 10
       }
     },
     "Defense": {
@@ -1673,9 +1677,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -1826,7 +1830,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -20,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Brigitte": {
@@ -2192,7 +2197,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Cassidy": {
@@ -2558,7 +2564,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 20,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "D.Va": {
@@ -2664,9 +2671,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -20,
+        "B": -20,
+        "C": -20
       }
     },
     "Defense": {
@@ -2771,9 +2778,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -20
       }
     },
     "Push": {
@@ -2924,7 +2931,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "D.Mon": {
@@ -3290,7 +3298,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 20,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Domina": {
@@ -3396,9 +3405,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Defense": {
@@ -3503,9 +3512,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -3656,7 +3665,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -20,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Doomfist": {
@@ -4022,7 +4032,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Echo": {
@@ -4388,7 +4399,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Emre": {
@@ -4494,8 +4506,8 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
+        "A": 10,
+        "B": 10,
         "C": 0
       }
     },
@@ -4601,9 +4613,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -4754,7 +4766,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Freja": {
@@ -5120,7 +5133,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Genji": {
@@ -5227,8 +5241,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -5334,8 +5348,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -5486,7 +5500,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Hanzo": {
@@ -5592,9 +5607,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 10
       }
     },
     "Defense": {
@@ -5699,9 +5714,9 @@
         "C": 10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -5852,7 +5867,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -10,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Hazard": {
@@ -5959,8 +5975,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -6065,9 +6081,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -20,
+        "B": -20,
+        "C": -20
       }
     },
     "Push": {
@@ -6218,7 +6234,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 10,
       "Aatlis": 20,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Illari": {
@@ -6584,7 +6601,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -20,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Jetpack Cat": {
@@ -6690,9 +6708,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -6797,9 +6815,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -6950,7 +6968,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Junker Queen": {
@@ -7316,7 +7335,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 10,
       "Aatlis": 20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Junkrat": {
@@ -7422,8 +7442,8 @@
         "C": -20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
+        "A": 10,
+        "B": 10,
         "C": 0
       }
     },
@@ -7529,9 +7549,9 @@
         "C": -20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -7682,7 +7702,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -20,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Juno": {
@@ -8048,7 +8069,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 10,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Kiriko": {
@@ -8414,7 +8436,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Lifeweaver": {
@@ -8780,7 +8803,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Lúcio": {
@@ -8886,9 +8910,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -8993,9 +9017,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -9144,7 +9168,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 10,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Mauga": {
@@ -9251,8 +9276,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -9510,7 +9535,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 10,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Mei": {
@@ -9616,8 +9642,8 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
+        "A": 10,
+        "B": 10,
         "C": 0
       }
     },
@@ -9723,9 +9749,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -9876,7 +9902,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 0,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Mercy": {
@@ -9982,9 +10009,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -20,
+        "B": -10,
+        "C": -20
       }
     },
     "Defense": {
@@ -10089,7 +10116,7 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
+        "A": -20,
         "B": 0,
         "C": 0
       }
@@ -10242,7 +10269,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Mizuki": {
@@ -10348,9 +10376,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Defense": {
@@ -10455,9 +10483,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -10608,7 +10636,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Moira": {
@@ -10974,7 +11003,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 10,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Orisa": {
@@ -11340,7 +11370,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Pharah": {
@@ -11446,9 +11477,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Defense": {
@@ -11553,9 +11584,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Push": {
@@ -11706,7 +11737,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Ramattra": {
@@ -11812,9 +11844,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Defense": {
@@ -11919,9 +11951,9 @@
         "C": 10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 10,
+        "B": 10,
+        "C": 10
       }
     },
     "Push": {
@@ -12072,7 +12104,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -20,
       "Aatlis": -10,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 10
     }
   },
   "Reaper": {
@@ -12179,8 +12212,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -12286,8 +12319,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -12438,7 +12471,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 10,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Reinhardt": {
@@ -12544,9 +12578,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Defense": {
@@ -12651,9 +12685,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -12804,7 +12838,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -10,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Roadhog": {
@@ -13170,7 +13205,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Sierra": {
@@ -13536,7 +13572,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": -20,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Sigma": {
@@ -13642,9 +13679,9 @@
         "C": 20
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Defense": {
@@ -13749,9 +13786,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -13902,7 +13939,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -20,
       "Aatlis": -20,
-      "Neon Junction": 20
+      "Neon Junction": 20,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Soldier: 76": {
@@ -14268,7 +14306,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 0,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Sombra": {
@@ -14374,9 +14413,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -14481,9 +14520,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -14634,7 +14673,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 20,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Sojourn": {
@@ -14740,9 +14780,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 10
       }
     },
     "Defense": {
@@ -14847,9 +14887,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": 20,
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {
@@ -15000,7 +15040,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 20
     }
   },
   "Symmetra": {
@@ -15106,9 +15147,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Defense": {
@@ -15213,9 +15254,9 @@
         "C": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Push": {
@@ -15366,7 +15407,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Torbjörn": {
@@ -15732,7 +15774,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Tracer": {
@@ -15839,8 +15882,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Defense": {
@@ -15946,8 +15989,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -16098,7 +16141,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 20,
-      "Neon Junction": -10
+      "Neon Junction": -10,
+      "Watchpoint: Grímsvötn": -10
     }
   },
   "Vendetta": {
@@ -16464,7 +16508,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Venture": {
@@ -16830,7 +16875,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Widowmaker": {
@@ -16936,9 +16982,9 @@
         "C": 10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Defense": {
@@ -17043,9 +17089,9 @@
         "C": 10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Push": {
@@ -17196,7 +17242,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -20,
       "Aatlis": -20,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Winston": {
@@ -17302,9 +17349,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -20,
+        "C": -20
       }
     },
     "Defense": {
@@ -17409,9 +17456,9 @@
         "C": -10
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -10,
+        "B": -10,
+        "C": -10
       }
     },
     "Push": {
@@ -17562,7 +17609,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 10,
-      "Neon Junction": -20
+      "Neon Junction": -20,
+      "Watchpoint: Grímsvötn": -20
     }
   },
   "Wrecking Ball": {
@@ -17928,7 +17976,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 20,
       "Aatlis": 10,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Wuyang": {
@@ -18294,7 +18343,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 0
+      "Neon Junction": 0,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Zarya": {
@@ -18660,7 +18710,8 @@
       "Throne of Anubis": 0,
       "Runasapi": 0,
       "Aatlis": 0,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Zenyatta": {
@@ -19026,7 +19077,8 @@
       "Throne of Anubis": 0,
       "Runasapi": -10,
       "Aatlis": -10,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 0
     }
   },
   "Shion": {
@@ -19060,7 +19112,8 @@
       "Suravasa": 10,
       "Aatlis": 20,
       "New Junk City": 20,
-      "Neon Junction": 10
+      "Neon Junction": 10,
+      "Watchpoint: Grímsvötn": 10
     },
     "Attack": {
       "Blizzard World": {
@@ -19164,9 +19217,9 @@
         "B": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -20,
+        "B": 10,
+        "C": 20
       }
     },
     "Defense": {
@@ -19271,9 +19324,9 @@
         "B": 0
       },
       "Watchpoint: Grímsvötn": {
-        "A": 0,
-        "B": 0,
-        "C": 0
+        "A": -20,
+        "B": 10,
+        "C": 10
       }
     },
     "Flashpoint": {
@@ -19424,7 +19477,8 @@
       "Runasapi": 10,
       "Suravasa": 0,
       "Aatlis": 0,
-      "New Junk City": 0
+      "New Junk City": 0,
+      "Watchpoint: Grímsvötn": 20
     },
     "Flashpoint": {
       "Aatlis": {
@@ -19589,8 +19643,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": -10,
+        "C": 20
       }
     },
     "Defense": {
@@ -19696,8 +19750,8 @@
       },
       "Watchpoint: Grímsvötn": {
         "A": 0,
-        "B": 0,
-        "C": 0
+        "B": 20,
+        "C": 20
       }
     },
     "Push": {

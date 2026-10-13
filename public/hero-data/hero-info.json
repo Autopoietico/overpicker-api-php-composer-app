@@ -405,9 +405,9 @@
       }
     ],
     "best_maps": [
+      "Watchpoint: Grímsvötn",
       "Neon Junction",
-      "King's Row",
-      "Circuit Royal"
+      "King's Row"
     ],
     "worst_maps": [
       "Suravasa",
@@ -659,9 +659,9 @@
       "Dorado"
     ],
     "worst_maps": [
-      "Circuit Royal",
       "Lijiang Tower",
-      "Neon Junction"
+      "Neon Junction",
+      "Watchpoint: Grímsvötn"
     ]
   },
   {
@@ -830,9 +830,9 @@
       }
     ],
     "best_maps": [
+      "Watchpoint: Grímsvötn",
       "Neon Junction",
-      "King's Row",
-      "Circuit Royal"
+      "King's Row"
     ],
     "worst_maps": [
       "Lijiang Tower",
@@ -1408,7 +1408,7 @@
     "best_maps": [
       "Rialto",
       "King's Row",
-      "Midtown"
+      "Watchpoint: Grímsvötn"
     ],
     "worst_maps": [
       "Antarctic Peninsula",
@@ -1666,7 +1666,7 @@
       "Lijiang Tower"
     ],
     "worst_maps": [
-      "Havana",
+      "Watchpoint: Grímsvötn",
       "Neon Junction",
       "Midtown"
     ]
@@ -2253,9 +2253,9 @@
       "Antarctic Peninsula"
     ],
     "worst_maps": [
-      "Paraíso",
       "Neon Junction",
-      "Shambali Monastery"
+      "Shambali Monastery",
+      "Watchpoint: Grímsvötn"
     ]
   },
   {
@@ -2503,8 +2503,8 @@
     ],
     "best_maps": [
       "Antarctic Peninsula",
-      "Neon Junction",
-      "Samoa"
+      "Watchpoint: Grímsvötn",
+      "Neon Junction"
     ],
     "worst_maps": [
       "Esperança",
@@ -2997,7 +2997,7 @@
     "best_maps": [
       "King's Row",
       "Eichenwalde",
-      "Neon Junction"
+      "Watchpoint: Grímsvötn"
     ],
     "worst_maps": [
       "Numbani",
@@ -3415,9 +3415,9 @@
       }
     ],
     "best_maps": [
+      "Watchpoint: Grímsvötn",
       "Midtown",
-      "Circuit Royal",
-      "Rialto"
+      "Circuit Royal"
     ],
     "worst_maps": [
       "Ilios",
@@ -3672,9 +3672,9 @@
       "Antarctic Peninsula"
     ],
     "worst_maps": [
-      "Colosseo",
       "Junkertown",
-      "Route 66"
+      "Route 66",
+      "Watchpoint: Grímsvötn"
     ]
   },
   {
@@ -4184,9 +4184,9 @@
       "Dorado"
     ],
     "worst_maps": [
-      "Eichenwalde",
       "Midtown",
-      "Neon Junction"
+      "Neon Junction",
+      "Watchpoint: Grímsvötn"
     ]
   },
   {
