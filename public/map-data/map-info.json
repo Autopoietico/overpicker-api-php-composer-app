@@ -220,5 +220,11 @@
     "type": "Escort",
     "onPool": true,
     "points": ["A", "B", "C"]
+  },
+  {
+    "name": "Watchpoint: Grímsvötn",
+    "type": "Escort",
+    "onPool": true,
+    "points": ["A", "B", "C"]
   }
 ]
