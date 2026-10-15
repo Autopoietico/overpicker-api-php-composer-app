@@ -315,9 +315,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -20,
-        "Anomaly": -20,
-        "Labs": -10,
-        "Sublevel": -10
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": -20,
@@ -682,9 +680,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -1049,9 +1045,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -10,
-        "Anomaly": -10,
-        "Labs": -10,
-        "Sublevel": -10
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": -20,
@@ -1416,9 +1410,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -10,
         "Icebreaker": 0,
-        "Anomaly": 20,
-        "Labs": -20,
-        "Sublevel": 0
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 0,
@@ -1783,9 +1775,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -2150,9 +2140,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 10,
-        "Anomaly": 10,
-        "Labs": 10,
-        "Sublevel": 0
+        "Anomaly": 10
       },
       "Samoa": {
         "Downtown": 10,
@@ -2517,9 +2505,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
-        "Labs": 20,
-        "Sublevel": 20
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 0,
@@ -2884,9 +2870,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": -10,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -3251,9 +3235,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 10,
-        "Anomaly": 0,
-        "Labs": 20,
-        "Sublevel": 10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -3618,9 +3600,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -10,
         "Icebreaker": -10,
-        "Anomaly": -10,
-        "Labs": 0,
-        "Sublevel": -20
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": 0,
@@ -3985,9 +3965,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": -10,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -4352,9 +4330,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -4719,9 +4695,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -5086,9 +5060,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -5453,9 +5425,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": -10,
-        "Labs": -20,
-        "Sublevel": 0
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": -20,
@@ -5820,9 +5790,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": -10,
@@ -6187,9 +6155,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": -10,
-        "Sublevel": 20
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 10,
@@ -6554,9 +6520,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -20
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -6921,9 +6885,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -10,
         "Icebreaker": 0,
-        "Anomaly": -10,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": 0,
@@ -7288,9 +7250,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 0,
-        "Labs": 20,
-        "Sublevel": 10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 10,
@@ -7655,9 +7615,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": -20,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -8022,9 +7980,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -10,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -8389,9 +8345,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -20,
-        "Anomaly": -20,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": 0,
@@ -8756,9 +8710,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": -20,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -9488,9 +9440,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 20,
-        "Anomaly": 20,
-        "Labs": 20,
-        "Sublevel": 10
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 0,
@@ -9855,9 +9805,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": -20,
@@ -10222,9 +10170,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -10,
         "Icebreaker": -20,
-        "Anomaly": -20,
-        "Labs": -10,
-        "Sublevel": -20
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": -20,
@@ -10589,9 +10535,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
-        "Labs": 20,
-        "Sublevel": 0
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 10,
@@ -10956,9 +10900,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 10,
-        "Anomaly": 10,
-        "Labs": 10,
-        "Sublevel": 0
+        "Anomaly": 10
       },
       "Samoa": {
         "Downtown": -20,
@@ -11323,9 +11265,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -11690,9 +11630,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": -20,
-        "Anomaly": -20,
-        "Labs": 0,
-        "Sublevel": -20
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": 10,
@@ -12057,9 +11995,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": -20,
@@ -12424,9 +12360,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 10,
         "Icebreaker": 10,
-        "Anomaly": 10,
-        "Labs": 10,
-        "Sublevel": 10
+        "Anomaly": 10
       },
       "Samoa": {
         "Downtown": 10,
@@ -12791,9 +12725,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -13158,9 +13090,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -13525,9 +13455,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": -20,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": -10,
@@ -13892,9 +13820,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -20,
-        "Anomaly": -20,
-        "Labs": -10,
-        "Sublevel": -20
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": -20,
@@ -14259,9 +14185,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": 10,
-        "Anomaly": -20,
-        "Labs": 10,
-        "Sublevel": 10
+        "Anomaly": -20
       },
       "Samoa": {
         "Downtown": -20,
@@ -14626,9 +14550,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
-        "Labs": 0,
-        "Sublevel": 20
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 10,
@@ -14993,9 +14915,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -15360,9 +15280,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 0,
-        "Labs": 20,
-        "Sublevel": 20
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -15727,9 +15645,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 0,
-        "Anomaly": 20,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 10,
@@ -16094,9 +16010,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 20,
-        "Labs": 20,
-        "Sublevel": 20
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 20,
@@ -16461,9 +16375,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -16828,9 +16740,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -17195,9 +17105,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -20,
         "Icebreaker": -10,
-        "Anomaly": -10,
-        "Labs": -20,
-        "Sublevel": -10
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": -20,
@@ -17562,9 +17470,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 0,
-        "Anomaly": 20,
-        "Labs": -10,
-        "Sublevel": 0
+        "Anomaly": 20
       },
       "Samoa": {
         "Downtown": 0,
@@ -17929,9 +17835,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": -10,
         "Icebreaker": -10,
-        "Anomaly": -10,
-        "Labs": -20,
-        "Sublevel": 0
+        "Anomaly": -10
       },
       "Samoa": {
         "Downtown": 0,
@@ -18296,9 +18200,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 20,
         "Icebreaker": 20,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": -10
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 0,
@@ -18663,9 +18565,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 10,
-        "Anomaly": 0,
-        "Labs": 10,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": 20,
@@ -19030,9 +18930,7 @@
       "Antarctic Peninsula": {
         "Drilling Rig": 0,
         "Icebreaker": 0,
-        "Anomaly": 0,
-        "Labs": 0,
-        "Sublevel": 0
+        "Anomaly": 0
       },
       "Samoa": {
         "Downtown": -10,
@@ -19356,9 +19254,7 @@
       "Antarctic Peninsula": {
         "Anomaly": 20,
         "Drilling Rig": 20,
-        "Icebreaker": 20,
-        "Labs": 20,
-        "Sublevel": 20
+        "Icebreaker": 20
       },
       "Busan": {
         "Downtown": 0,

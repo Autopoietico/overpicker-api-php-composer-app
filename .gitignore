@@ -10,3 +10,4 @@ hero-info-data/
 merge-hero-info.js
 public/hero-data/csv-exports/
 scripts/json-to-csv.py
+scripts/check-data.py
